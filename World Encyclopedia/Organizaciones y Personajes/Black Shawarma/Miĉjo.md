@@ -1,0 +1,1 @@
+Bardo puto, obsesionado con la limpieza y lleno de secretos hasta el culo

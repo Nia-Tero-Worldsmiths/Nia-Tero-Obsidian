@@ -1,0 +1,3 @@
+**Ruled Locations**
+
+- [[Teocracia Magna]]
