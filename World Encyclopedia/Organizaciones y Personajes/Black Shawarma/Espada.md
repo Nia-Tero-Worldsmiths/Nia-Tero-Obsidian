@@ -1,32 +1,28 @@
 ---
-nombre: Clementine
+nombre: Espada
 NoteType: persona
 imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
 tags:
-  - inquisidor
   - WIP
-aliases:
-  - La Caridad
-alineamiento: CE
-especie: Humana
-genero: Mujer
-edad: 32
-lugarNacimiento: "[[Bela Sankta]]"
-creencia: ???
-organizacion: "[[Santa Inquisición de Magna]]"
-cargoOrg:
-  - "Comendadora"
-  - "Senescal (verdugo mayor)"
-titulos:
-  - La Humildad
-clase: Clériga
-subclase: Muerte
-elan: Silentu
+  - PJ
+aliases: 
+alineamiento: TN/CG...
+especie: 
+genero: 
+edad: 
+lugarNacimiento: 
+creencia: 
+organizacion: 
+cargoOrg: 
+titulos: 
+clase: 
+subclase: 
+elan:
 ---
 
 >[!infobox]
 ># **`=this.nombre`**
-> ![[Clementine.jpg]]
+> IMAGEN AQUÍ
 > 
 > | Info. narrativa     ||
 >| -------------- | -------------- |
@@ -37,7 +33,7 @@ elan: Silentu
 >| Lugar de nacimiento | `=this.lugarNacimiento` |
 >| Creencia         | `=this.creencia` |
 >| Organización  | `=this.organizacion` |
->| >Cargos          | `=this.cargoOrg` |
+>| >Cargo            | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
 > |Info. mecánica ||
@@ -45,8 +41,6 @@ elan: Silentu
 > | Clase          | `=this.clase` |
 > |>Subclase   | `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-
-
 
 Texto introductorio
 

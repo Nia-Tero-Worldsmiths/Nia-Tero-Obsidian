@@ -1,1 +1,0 @@
-El idioma más universalmente hablado en Nia Tero es el común. El equivalente real (aunque no tan extendido) sería el esperanto.

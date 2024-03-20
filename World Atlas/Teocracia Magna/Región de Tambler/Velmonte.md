@@ -1,3 +1,13 @@
+---
+nombre: Velmonte
+NoteType: lugar
+tags:
+  - WIP
+aliases:
+  - "Capital de Tambler"
+---
+
+
 Velmonte es la capital de la región de Tambler, y también la ciudad más grande de la misma. Es la única ciudad en toda la Teocracia Magna que dispone de puerto comercial internacional.
 
 ### Demografía

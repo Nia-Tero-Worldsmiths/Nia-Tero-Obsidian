@@ -1,4 +1,14 @@
-La Kvindekaj, o _Los Cincuenta_ es posiblemente el acontecimiento histórico más importante de todo Nia tero. Se trata de un hecho que marcó un antes y un después en el desarrollo de este mundo.
+---
+nombre: "La Kvindekaj"
+NoteTye:
+tags:
+  - WIP
+aliases:
+  - "Los Cincuenta"
+---
+
+
+La Kvindekaj, o *Los Cincuenta* es posiblemente el acontecimiento histórico más importante de todo Nia tero. Se trata de un hecho que marcó un antes y un después en el desarrollo de este mundo.
 
 ### Resumen
 

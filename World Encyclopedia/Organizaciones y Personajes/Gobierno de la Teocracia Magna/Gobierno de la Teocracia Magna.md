@@ -1,3 +1,13 @@
+---
+nombre: "Gobierno de la Teocracia Magna"
+NoteType: organizacion
+tags:
+  - WIP
+aliases:
+  -
+---
+
+
 ### Territorios
 
 La Teocracia Magna es el Estado de mayor expansión territorial del continente de Rodinia, aunque dicha expansión lleva años estancada, gracias a las severas respuestas de sus Estados vecinos.

@@ -1,3 +1,13 @@
+---
+nombre: Escritura Rúnica
+NoteType: tecnologia
+tags:
+  - WIP
+aliases:
+  - 
+---
+
+
 Las runas son un tipo de escritura arcana capaz de canalizar la magia de la misma forma que la hacen los magos, aunque de forma simplificada y repetible. Permiten crear artefactos mágicos complejos que no requieren talento mágico alguno por parte de su usuario.
 
 ### Complejidad

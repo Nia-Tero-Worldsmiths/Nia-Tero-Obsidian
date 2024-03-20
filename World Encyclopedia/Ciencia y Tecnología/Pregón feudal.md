@@ -1,3 +1,13 @@
+---
+nombre: Pregón Feudal
+NoteType: objeto
+tags:
+  - WIP
+aliases:
+  -
+---
+
+
 El pregón feudal es un sistema de difusión de información escrita, de un solo emisor a varios receptores. Cabe destacar que los emisores son atriles en los que se puede posar cualquier libro del que copiar y transmitir su contenido, mientras que los receptores son los tomos que reciben dichos contenidos copiados.
 
 Se trata de uno de los mayores logros de la artesanía rúnica de la Teocracia Magna, la [[Santa Talla]].

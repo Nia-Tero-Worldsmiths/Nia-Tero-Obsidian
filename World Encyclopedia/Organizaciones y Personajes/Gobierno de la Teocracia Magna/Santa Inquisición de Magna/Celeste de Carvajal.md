@@ -1,9 +1,10 @@
 ---
-nombre: Celeste de Carvajal
+nombre: "Celeste de Carvajal"
 NoteType: persona
-imagen: LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO
+imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
 tags:
   - inquisidor
+  - WIP
 aliases: 
 alineamiento: TN
 especie: Cambion

@@ -1,3 +1,12 @@
+---
+nombre: "Faro de la Tormenta"
+NoteType: lugar
+tags:
+  - WIP
+aliases:
+  - 
+---
+
 El Faro de la Tormenta es una pequeña fortaleza ubicada en el Noreste de la región de Tambler, sobre un pequeño peñón cercano a la costa. Recibe su nombre del robusto faro que corona la única torre del edificio.
 
 ### Propósito/función

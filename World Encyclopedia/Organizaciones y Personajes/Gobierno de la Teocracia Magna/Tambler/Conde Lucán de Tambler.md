@@ -1,5 +1,5 @@
 ---
-nombre: Luca Noir Tambler
+nombre: "Luca Noir Tambler"
 NoteType: persona
 imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
 tags:

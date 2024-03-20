@@ -1,3 +1,12 @@
+---
+nombre: "Villa Nicolás"
+NoteType: lugar
+tags:
+  - WIP
+aliases:
+  - "La Villa de los Herejes"
+---
+
 Villa Nicolás es una aldea diminuta, en la cual hasta hace poco residían menos de 100 habitantes, situada en el extremo sureste de la región de Tambler y protegida de la influencia de Rond-Fort por la Arboleda de los Herejes.
 
 Se trata de un emplazamiento de suma importancia para la Teocracia Magna, debido a la conocida historia de Nicolás el Mudo, la cual se considera tabú en todos los territorios de la misma a excepción de esta misma aldea.
