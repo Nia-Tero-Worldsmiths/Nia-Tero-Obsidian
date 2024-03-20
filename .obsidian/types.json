@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "cargoOrg": "multitext",
+    "titulos": "multitext",
+    "organizacion": "multitext",
+    "edad": "number",
+    "previa": "text",
+    "padre": "text"
+  }
+}

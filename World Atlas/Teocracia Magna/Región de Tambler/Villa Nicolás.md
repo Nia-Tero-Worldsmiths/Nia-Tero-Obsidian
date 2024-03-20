@@ -5,7 +5,19 @@ tags:
   - WIP
 aliases:
   - "La Villa de los Herejes"
+ubicacion: "[[Región de Tambler]]"
+gobernador: "[[Santa Inquisición de Magna]]"
+perteneceA: "[[Gobierno de la Teocracia Magna]]"
 ---
+
+>[!infobox]
+># **`=this.nombre`**
+> 
+> | Información    ||
+> | ---------------- | -------------- |
+> | Ubicado en        | `=this.ubicacion` |
+> | Gobernado por  | `=this.gobernador` |
+> | Pertenece a       | `=this.perteneceA` |
 
 Villa Nicolás es una aldea diminuta, en la cual hasta hace poco residían menos de 100 habitantes, situada en el extremo sureste de la región de Tambler y protegida de la influencia de Rond-Fort por la Arboleda de los Herejes.
 
@@ -47,19 +59,16 @@ Fue durante dicho traslado, antes de llegar al puente que cruza el Río Kapela, 
 
 Dicen las malas lenguas que en realidad fueron ejecutados por jurar haber sido derrotados por un Héroe. ¿Será esto cierto? ¿Quizá se trate del espíritu vengativo del viejo Nicolás, o a lo mejor tan solo son los delirios de unos soldados humillados en combate por una estrategia terrorista excepcional? Solo el tiempo lo dirá...
 
-### Puntos de interés
+### Turismo
+
+Dada la delicada situación social de Villa Nicolás en la Teocracia, el número de peregrinos que llegaban a la aldea era virtualmente nulo, aunque los pocos curiosos que se atrevían a visitarla eran recompensados con un cálido recibimiento y la posibilidad de alojarse en la casa del mismísimo Nicolás el Mudo.
+
+#### Puntos de interés
 
 El punto de mayor interés en la aldea es sin lugar a dudas la antigua casa de Nicolás el Mudo, el mismo de la leyenda, la cual estaba remodelada como albergue-museo para los pocos peregrinos que llegaban hasta este lugar tan recóndito de la Teocracia. En los alrededores de la casa, se puede observar en el suelo claramente una circunferencia irregular que la bordea a un par de metros de distancia, cuya forma levantada da a entender que la casa en su totalidad, junto con los cimientos y el terreno de alrededor, fueron levantados de su entorno y posteriormente vueltos a poner en su sitio sin mucho cuidado, reforzando la historia de la leyenda.
 
 Al sur de la aldea se encuentra un antiguo santuario dedicado a Pensante, faceta del conocimiento de la diosa Fortuna. Lamentablemente, el paso de los años y el desuso ha hecho mella en este, y actualmente se halla en ruinas.
 
-### Turismo
-
-Dada la delicada situación social de Villa Nicolás en la Teocracia, el número de peregrinos que llegaban a la aldea era virtualmente nulo, aunque los pocos curiosos que se atrevían a visitarla eran recompensados con un cálido recibimiento y la posibilidad de alojarse en la casa del mismísimo Nicolás el Mudo.
-
-**Tipo**
-
-Village
 
 **Ubicado en**
 

@@ -1,3 +1,11 @@
+---
+NoteType: prosa
+cssclass: prosa
+padre: "[[Libro Harapiento]]"
+anterior: "[[2 - Las Turbulencias del Mundo]]"
+siguiente: "[[4 - Jötunn]]"
+---
+
 Lo que voy a contar ahora es un relato de como aquel que acabé llamando amigo llegó hasta la región donde vivo hoy. El protagonista de esta anécdota responde al nombre de Xendar Boreas.
 
 Boreas es un goliath, un ser descendiente de humanos y gigantes con una altura por encima de lo humanamente posible. No solo esto, sino que es el rey de su propio país, situado en una región al sur especialmente azotada por las ambiciones de la Asamblea, y esto ha obligado a todas las naciones de la zona a buscar formas de adquirir la fuerza necesaria para hacerles frente. Los detalles de cómo cada nación está buscando dicha fuerza escapan a mi conocimiento, así como al de Bóreas. Lo que sí os puedo afirmar es el método elegido por él:
@@ -17,3 +25,7 @@ En medio de este conflicto a punto de estallar estábamos el ejército de Boreas
 La independización del Pantano también había permitido a su nuevo gobierno redefinir el concepto de ciudadanía de una forma mucho más permisiva: "es ciudadano del Gran Pantano todo aquel que se demuestre capaz de ello". De esta forma había nacido el Visado, una especie de prueba para decidir si alguien era digno de ser considerado ciudadano de la región. Dicho examen se realizaba únicamente en las dos grandes ciudades, la Capital y Lodestone, y generalmente consistía en una batalla pública entre el forastero o grupo de forasteros y algún representante de la población. Las batallas no tenían por qué ser físicas, yo mismo conseguí mi visado en un duelo de astucia retando a un examinador de Lodestone a un juego de estrategia. En el caso de Bóreas, sin embargo, era algo más complicado. Para grupos de gran tamaño, principalmente tripulaciones de grandes embarcaciones, solamente se le realizaba el examen a su capitán, dado que era quien debía responder por todos sus subordinados. No solo eso, sino que el examen era únicamente físico, dado que se asumía que un líder debía estar capacitado para reducir a cualquiera de los que representaba si este presentara indicios de rebeldía, tanto ante él como ante las leyes del Pantano.
 
 A pesar de esto, la prueba no supuso mucho problema para nuestro goliath, ese día todo el pueblo de Lodestone pudo presenciar cómo Xendar Boreas derrotaba al representante mayor de la ciudad en una batalla reñida pero justa, y demostraba que sus ideales como líder eran impecables. No hizo falta nada más para que todos en su ejército fueran reconocidos como ciudadanos.
+
+| Capítulo anterior |    Volver     | Siguiente capítulo |
+| ----------------- |:-------------:| ------------------:|
+| `=this.anterior`  | `=this.padre` |  `=this.siguiente` | 

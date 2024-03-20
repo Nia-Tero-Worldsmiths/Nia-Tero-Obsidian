@@ -1,10 +1,10 @@
 ---
-nombre: "La Kvindekaj"
-NoteTye:
+nombre: La Kvindekaj
+NoteType: 
 tags:
   - WIP
 aliases:
-  - "Los Cincuenta"
+  - Los Cincuenta
 ---
 
 

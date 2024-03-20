@@ -4,6 +4,7 @@ NoteType: persona
 imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
 tags:
   - PJ
+  - WIP
 aliases:
   - Bru-nya
   - Hilda
@@ -13,7 +14,7 @@ genero: Mujer
 edad: 18
 lugarNacimiento: Drakovidis Norte
 creencia: ???
-organizacion: "Cuerpo Especial de Noir"
+organizacion: [[Cuerpo Especial de Noir]]"
 cargoOrg:
   - "Co-Dueña del gremio de aventureros de [[Dandelion]]"
 titulos:

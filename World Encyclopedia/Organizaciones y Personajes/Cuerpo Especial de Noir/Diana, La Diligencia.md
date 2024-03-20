@@ -5,6 +5,7 @@ imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
 tags:
   - inquisidor
   - ex-inquisidor
+  - WIP
 aliases:
   - La Troti
   - La Humildad

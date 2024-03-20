@@ -6,8 +6,8 @@ tags:
   - Tambler
 aliases:
   - Conde de Tambler
-  - Conde Tambler
-  - Lucán Tambler
+  - Lucán de Tambler
+  - Luca Noir Tambler
 alineamiento: TN
 especie: Semielfo dhampiro
 genero: Hombre

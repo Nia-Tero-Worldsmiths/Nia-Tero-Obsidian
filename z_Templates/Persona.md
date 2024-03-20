@@ -27,16 +27,16 @@ elan:
 > IMAGEN AQUÍ
 > 
 > | Info. narrativa     ||
->| -------------- | -------------- |
->| Alineamiento  | `=this.alineamiento` |
->| Especie          | `=this.especie` |
->| Género           | `=this.genero` |
->| Edad               | `=this.edad` años |
->| Lugar de nacimiento | `=this.lugarNacimiento` |
->| Creencia         | `=this.creencia` |
->| Organización  | `=this.organizacion` |
->| >Cargo            | `=this.cargoOrg` |
->| Títulos             | `=this.titulos` |
+> | -------------- | -------------- |
+> | Alineamiento  | `=this.alineamiento` |
+> | Especie          | `=this.especie` |
+> | Género           | `=this.genero` |
+> | Edad               | `=this.edad` años |
+> | Lugar de nacimiento | `=this.lugarNacimiento` |
+> | Creencia         | `=this.creencia` |
+> | Organización  | `=this.organizacion` |
+> | >Cargo            | `=this.cargoOrg` |
+> | Títulos             | `=this.titulos` |
 >
 > |Info. mecánica ||
 > | ----------- | ----------- |

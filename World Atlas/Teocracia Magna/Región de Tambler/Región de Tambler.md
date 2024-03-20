@@ -3,7 +3,7 @@ nombre:: "Región de Tambler"
 NoteType: region
 tags:
   - WIP
-alias:
+aliases:
   - Tambler
 ---
 
