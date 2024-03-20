@@ -14,9 +14,11 @@ genero: Mujer
 edad: 19
 lugarNacimiento: Birgitta
 creencia: "[[Las 20 Caras de Fortuna]]"
-organizacion: "[[Santa Inquisición de Magna]]"
+organizacion:
+  - "[[Santa Inquisición de Magna]] (anteriormente)"
+  - "[[Cuerpo Especial de Noir]]"
 cargoOrg:
-  - "Comendadora de [[Región de Tambler|Tambler]]"
+  - "Comendadora de [[Región de Tambler|Tambler]] (anteriormente)"
 titulos:
   - La Diligencia
 clase: Clériga

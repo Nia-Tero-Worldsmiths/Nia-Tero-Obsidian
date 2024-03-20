@@ -1,3 +1,12 @@
+---
+nombre: "Dandelion"
+NoteType: lugar
+tags:
+  - WIP
+aliases:
+  - 
+---
+
 Dandelion es el tercer núcleo urbano de mayor tamaño en Tambler, ubicado al suroeste de la región. Hasta hace menos de un año la diferencia en tamaño con Velmonte y Montelegro era mucho mayor, pero últimamente está ganando mucha población, tanto temporal como permanente, gracias a la reciente instauración del Gremio de Aventureros de Tambler.
 
 ### Demografía

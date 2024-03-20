@@ -1,3 +1,13 @@
+---
+nombre: Santa Talla
+NoteType: tecnologia
+tags:
+  - WIP
+aliases:
+  -
+---
+
+
 La Santa Talla es el sistema de escritura rúnico utilizado en la Teocracia Magna. Es visto como un oficio santo, por lo que los artesanos rúnicos gozan de estatus social en dicho país.
 
 Las runas de este sistema se derivan directamente de la religión de Magna. Son 20 símbolos, cada uno haciendo referencia a un dios distinto del panteón, y por ende a los dominios que le corresponden.

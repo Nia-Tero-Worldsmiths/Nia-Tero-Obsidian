@@ -1,3 +1,13 @@
+---
+nombre: "Confederación de Sidania"
+NoteType: organizacion
+tags:
+  - WIP
+aliases:
+  - 
+---
+
+
 ### Estructura
 
 Sidania se encuentra formada por varios estratos sociales:

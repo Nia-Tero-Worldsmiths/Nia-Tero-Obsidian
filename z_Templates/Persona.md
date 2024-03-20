@@ -1,9 +1,11 @@
 ---
 nombre: 
 NoteType: persona
-imagen: LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO
-tags: 
-aliases: 
+imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+tags:
+  - 
+aliases:
+  -
 alineamiento: TN/CG...
 especie: 
 genero: 
@@ -11,8 +13,10 @@ edad:
 lugarNacimiento: 
 creencia: 
 organizacion: 
-cargoOrg: 
-titulos: 
+cargoOrg:
+  -
+titulos:
+  - 
 clase: 
 subclase: 
 elan:

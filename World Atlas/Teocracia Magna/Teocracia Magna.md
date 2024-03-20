@@ -1,3 +1,13 @@
+---
+nombre: "Teocracia Magna"
+NoteType: region
+tags:
+  - WIP
+aliases:
+  - 
+---
+
+
 **Tipo**
 
 Territory

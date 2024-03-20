@@ -1,3 +1,13 @@
+---
+nombre: "La Cámara de los Seis"
+NoteType:
+tags:
+  - WIP
+aliases:
+  - 
+---
+
+
 La alta cámara es tan antigua como la mismísima Sidania y es el órgano de gobierno principal de la misma. Se trata de un "consejo" donde todas salvo la casa Laqua gozan del mismo poder salvo esta que además asumen el rol de la jefatura del estado desde tiempos inmemoriales. Pocas son las reuniones de esta cámara ya que cada provincia es gobernada por su propia casa y nunca ha tenido que intervenir esta entidad sobre ninguna de ellas.
 
 Sin embargo cuando se reúne la cámara (el 16 de Junio) es considerado un día de fiesta nacional en todo el país, ya que es un símbolo de la unión, la fuerza y la tradición del mismo.
