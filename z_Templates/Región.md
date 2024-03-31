@@ -1,13 +1,13 @@
 ---
-nombre: Región de Tambler
+nombre: 
 NoteType: region
 tags:
   - WIP
 aliases:
-  - Tambler
-ubicacion: "[[Teocracia Magna]]"
-gobernador: "[[Conde Lucán de Tambler]]"
-perteneceA: "[[Gobierno de la Teocracia Magna]]"
+  - 
+ubicacion: "[[]]"
+gobernador: "[[]]"
+perteneceA: "[[]]"
 ---
 
 ## Mapa de la región
@@ -46,6 +46,15 @@ darkMode: false
 
 ---
 
+### Use this to calculate the bounds and then delete
+
+<iframe
+    height = 400
+    width = 100%
+    padding = 0 0
+    margins = 0 0
+    src="https://docs.google.com/spreadsheets/d/1i8GVjEcqn4uZUA5XgPaFlVFbcWwMwAqzY1TeOG2-g9s/edit?usp=sharing"></iframe>
+
 >[!infobox]
 ># **`=this.nombre`**
 > 
@@ -55,21 +64,19 @@ darkMode: false
 > | Gobernado por  | `=this.gobernador` |
 > | Pertenece a       | `=this.perteneceA` |
 
-La región de Tambler es el territorio más externo de la Teocracia Magna, situado en el Noreste de la misma.
+TEXTO INTRODUCTORIO
 
 ### Geografía
 
-Velmonte es una región de terreno heterogéneo donde abundan tanto las planicies y llanuras como las colinas y sierras poco escarpadas. Esto favorece diversos tipos de industria, por lo que en esta región se realiza minería, ganadería, tala de árboles y, en menor medida, agricultura.
 
-Las zonas verdes de la región se localizan enteramente en los dos tercios Oeste de la misma, ya que debido a la influencia de Rond-Fort en el ecosistema a su alrededor, la zona este de la región es un pantanal inhabitable.
 
 ### Historia
 
-La región de Tambler fue la última en ser anexionada al país en sus campañas expansionistas, antes de que estas quedaran estancadas hace siglos. La conquista de este territorio fue posible gracias al Marqués Tambler de la época, quien en agradecimiento recibió el título elevado de Conde y el gobierno de la misma.
+
 
 ### Turismo
 
-Existen dos tipos de turismos fácilmente diferenciables en la región. Primeramente está el turismo interno de peregrinaje que se puede encontrar en Montelegro, ciudad de alta importancia religiosa. Velmonte, la capital, es una de las escasas ciudades de la Teocracia en las que existe turismo internacional, gracias a su famoso puerto comercial.
+
 
 ### Ubicaciones de la región 
 ```dataview

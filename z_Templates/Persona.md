@@ -3,16 +3,16 @@ nombre:
 NoteType: persona
 imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
 tags:
-  - 
+  - WIP
 aliases:
   -
 alineamiento: TN/CG...
 especie: 
 genero: 
 edad: 
-lugarNacimiento: 
+lugarNacimiento: "[[Lugar]]"
 creencia: 
-organizacion: 
+organizacion: "[[]]"
 cargoOrg:
   -
 titulos:

@@ -2,12 +2,12 @@
 nombre: 
 NoteType: lugar
 tags:
-  - 
+  - WIP
 aliases:
   - 
-ubicacion: link a región
-gobernador: 
-perteneceA: link a organización
+ubicacion: "[[Región]]"
+gobernador: "[[Persona]]"
+perteneceA: "[[]]"
 ---
 
 >[!infobox]
@@ -19,7 +19,7 @@ perteneceA: link a organización
 > | Gobernado por  | `=this.gobernador` |
 > | Pertenece a       | `=this.perteneceA` |
 
-Texto introductorio
+TEXTO INTRODUCTORIO
 
 ### Demografía 
 
