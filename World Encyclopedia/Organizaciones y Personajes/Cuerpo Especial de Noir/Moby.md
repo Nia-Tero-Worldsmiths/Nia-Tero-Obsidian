@@ -6,23 +6,24 @@ tags:
   - WIP
   - PJ
 aliases: 
-alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
-lugarNacimiento: 
-creencia: 
-organizacion: 
-cargoOrg: 
+alineamiento: CG
+especie: Aksolotl
+genero: Mujer
+edad: 20
+lugarNacimiento: "[[Capital del Mar]]"
+creencia: "[[Las 20 Caras de Fortuna]]"
+organizacion: "[[Cuerpo Especial de Noir]]"
+cargoOrg:
+  - "Co-Dueña del gremio de aventureros de [[Dandelion]]"
 titulos: 
-clase: 
-subclase: 
+clase: "Rogue / Maga"
+subclase: "Arcane Trickster / Bladesinger"
 elan:
 ---
 
 >[!infobox]
 ># **`=this.nombre`**
-> IMAGEN AQUÍ
+> ![[Moby (Rondfort).jpg]]
 > 
 > | Info. narrativa     ||
 >| -------------- | -------------- |
@@ -47,7 +48,9 @@ Texto introductorio
 ## Descripción física
 
 ### Rasgos distintivos
+Los aksolotl suelen presentar uno o dos colores en la piel, aunque el albinismo de Moby se presenta como un tercer color, y está mal visto en la [[Capital del Mar]], debido a que el visado proporciona capacidades mágicas a las especies marinas que lo llevan, las cuales nacen sin estas.
 
+Los individuos albinos, sin embargo, nacen con un don innato para la magia, y el visado resulta altamente dañino para ellos, dado que aumenta aún más dichas capacidades a niveles peligrosos.
 
 
 ### Habilidades especiales
@@ -70,30 +73,3 @@ Texto introductorio
 
 
 ### Lazos familiares
-
-
-### Moby
-
-**Alineamiento**
-
-Caótica buena
-
-**Edad**
-
-20
-
-**Gender**
-
-Mujer
-
-**Ojos**
-
-Rojizos
-
-**Pelo**
-
-No
-
-**Tono de piel**
-
-Celeste/rosa/blanca

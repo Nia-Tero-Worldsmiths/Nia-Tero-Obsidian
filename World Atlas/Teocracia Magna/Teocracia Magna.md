@@ -4,7 +4,8 @@ NoteType: region
 tags:
   - WIP
 aliases:
-  - 
+  - Teocracia
+  - Magna
 ---
 
 

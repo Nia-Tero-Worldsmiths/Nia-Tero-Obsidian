@@ -1,5 +1,9 @@
 {
   "accentColor": "",
   "cssTheme": "ITS Theme",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "custom"
+  ]
 }

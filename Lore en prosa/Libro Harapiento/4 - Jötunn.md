@@ -1,3 +1,11 @@
+---
+NoteType: prosa
+cssclass: prosa
+padre: "[[Libro Harapiento]]"
+anterior: "[[3 - El periplo de Boreas]]"
+siguiente:
+---
+
 Por desgracia para el pueblo de Lodestone, no todo lo que Boreas trajo consigo fueron buenas noticias. Inevitablemente el rumor de un ejército de gigantes marchando a paso firme hacia el Norte llegó a los oídos de la Magna Asamblea, los cuales decidieron enviar a uno de los suyos a "investigar". Aseguro al lector que se haya topado con este texto, de que hago todo lo posible por dar el beneficio de la duda a todos los héroes que aquí se mencionan, pero la moralidad de la Asamblea me elude por completo. Soy incapaz de darles el beneficio de la duda a ellos, y menos aún después de presenciar lo que presencié el mismo día que este héroe llegó a Lodestone siguiendo los rumores.
 
 Parece ser que subestimaba lo bien organizados que estaban los de la Magna Asamblea, y tampoco había puesto suficiente esfuerzo en indagar las capacidades de sus integrantes. De haberlo hecho, habría puesto pies en polvorosa en cuanto vi a Boreas y sus hombres llegar aquí. El héroe que vino hasta esta ciudad tenía el favor del dios del Conocimiento, y aparentemente era capaz de saber cualquier dato que decidiera preguntarle a este. En el momento en el que puso un pie en la ciudad, alzó la mirada al cielo y preguntó: "¿Quién es el más fuerte de esta población?" y la respuesta que recibió de su dios fue: "Aquel por quien preguntas responde ante el nombre de Norman, y es un héroe, al igual que tú", afirmación que le hizo olvidarse por completo de aquello que venía a hacer. ¡Maldito sea el día que los dichosos dioses de este mundo decidieron arrastrarme en contra de mi voluntad, otorgarme este poder tan situacional, y no contentos con eso, tener la audacia de considerar que aquello era motivo suficiente para verme como alguien poderoso! De nada habían servido mis esfuerzos por no llamar la atención en aquella ciudad si estaba a una sola plegaria de aquel individuo de que me encontraran.
@@ -24,6 +32,8 @@ Sentía que las manos me iban a explotar, nunca antes me habían dolido de esta 
 
 Sin pensar en las consecuencias, intenté algo que no había intentado nunca antes. Posé la palma derecha sobre la espalda todavía impecable de Boreas, y grité "¡Levántate!". Después de esto sentí como si un relámpago me pasara por el brazo, cerré los ojos y empecé a arrastrarme por el suelo de dolor, y finalmente, perdí el conocimiento.
 
+---
+
 Cuando volví en mí, la escena había cambiado por completo, toda la calle estaba envuelta en una fría niebla baja, y del lugar donde antes estaban luchando Boreas y mi perseguidor solo quedaba un terreno hundido. Al intentar levantarme una punzada de dolor me hizo dirigir mi atención a mi brazo derecho para poder confirmar mis sospechas, estaba calcinado hasta el codo. De alguna milagrosa forma lo podía seguir moviendo, pero todo gesto que hiciera con este hacía que se me saltaran las lágrimas. Tras un momento de mentalización, hice acopio de valor y finalmente me puse en pie para observar que aquel hoyo en el suelo tenía forma de pisada, y que los habitantes de Lodestone estaban huyendo precisamente del lugar hacia el que apuntaba esta, del cual provenía una voz monstruosa que gritaba a intervalos. Por primera vez en mi vida, decidí voluntariamente dirigirme hacia el peligro en lugar de huir de él.
 
 Las enormes huellas me llevaron hasta la puerta sur de la ciudad, y una vez estuve lo suficientemente cerca pude apreciar una escena increíble ante mis ojos. El héroe vidente seguía luchando con Boreas, pero esta vez la diferencia de tamaños era mucho más notoria. La altura de Xendar había aumentado hasta ser unas tres veces la de su contrincante, quizá más, y sus pertenencias habían crecido de forma acorde. De su mandíbula colgaba una larga barba blanca como la nieve, sus ojos emitían destellos de color celeste, y de ambas sienes le habían salido cuernos que crecían hacia ambos lados y hacia arriba, similar a aquellos encontrados en los cascos vikingos de mi mundo, aunque dudo que esta comparativa sirva al lector. La imagen que ante mí había era sin duda aquella de un gigante nórdico tal y como se describen en las leyendas de mi mundo.
@@ -41,3 +51,7 @@ La personalidad vanidosa y egocéntrica de aquel individuo iba plasmada en aquel
 "YO NO SOY UN HÉROE".
 
 Agradezco sobremanera que no tuve necesidad de parpadear en aquel momento, porque con tan solo un parpadeo me habría perdido este momento fugaz. Tras tocar el hacha de Boreas el suelo, en el lugar que hacía instantes ocupaba el héroe no quedaba más que una fina niebla roja que se comenzaba a disipar en el ambiente, y todo lo demás del mismo había quedado enterrado bajo el filo de esta.
+
+| Capítulo anterior |    Volver     | Siguiente capítulo |
+| ----------------- |:-------------:| ------------------:|
+| `=this.anterior`  | `=this.padre` |  `=this.siguiente` | 

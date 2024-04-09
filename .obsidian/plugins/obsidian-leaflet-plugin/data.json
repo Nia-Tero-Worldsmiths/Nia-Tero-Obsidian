@@ -1,0 +1,316 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Tambler_Map",
+      "locked": true,
+      "lastAccessed": 1712158642397,
+      "markers": [
+        {
+          "id": "ID_3bba0a191878",
+          "type": "Capital",
+          "loc": [
+            32.94840909696462,
+            45.86779486907035
+          ],
+          "link": "Velmonte",
+          "layer": "%5B%5BTambler.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.25338616242182166,
+            -0.2426879531434605
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eab84bb92be9",
+          "type": "Ciudad/pueblo",
+          "loc": [
+            31.084259238557184,
+            31.00862281272268
+          ],
+          "link": "Montelegro",
+          "layer": "%5B%5BTambler.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.17130005832915687,
+            -0.22895719266400386
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb59db48683a",
+          "type": "Ciudad/pueblo",
+          "loc": [
+            18.200687142054058,
+            29.038023169735425
+          ],
+          "link": "Dandelion",
+          "layer": "%5B%5BTambler.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.16041393043415628,
+            -0.13406072187917945
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_099bc96859a9",
+          "type": "Ciudad/pueblo",
+          "loc": [
+            14.28154893717359,
+            53.55127364090479
+          ],
+          "link": "Villa Nicolás",
+          "layer": "%5B%5BTambler.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2958317869739077,
+            -0.10519354270128099
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8bc9db69889b",
+          "type": "Punto de interés",
+          "loc": [
+            41.29861847731265,
+            5.822080964963299
+          ],
+          "link": "Pabellón de Halcón",
+          "layer": "%5B%5BTambler.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.03216275727298958,
+            -0.3041930539473315
+          ],
+          "description": null,
+          "minZoom": 3.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f96ac9781848",
+          "type": "Punto de interés",
+          "loc": [
+            11.399236020049178,
+            5.696632053481525
+          ],
+          "link": "Peaje Soberano",
+          "layer": "%5B%5BTambler.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 3.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b878f9287aaa",
+          "type": "Punto de interés",
+          "loc": [
+            15.022334107584747,
+            66.42965555027544
+          ],
+          "link": "Hammerhold",
+          "layer": "%5B%5BTambler.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.36697546805848696,
+            -0.11064994079919933
+          ],
+          "description": null,
+          "minZoom": 3.9,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa48a968fb38",
+          "type": "Punto de interés",
+          "loc": [
+            45.535911389653855,
+            62.14535841993217
+          ],
+          "link": "Faro de la Tormenta",
+          "layer": "%5B%5BTambler.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3433078465468949,
+            -0.335403663865979
+          ],
+          "description": null,
+          "minZoom": 3.5,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "z_Templates/Región.md",
+        "World Atlas/Teocracia Magna/Región de Tambler/Región de Tambler.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#000000",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    },
+    "isImage": false
+  },
+  "markerIcons": [
+    {
+      "type": "Capital",
+      "iconName": "hotel",
+      "color": "#ffffff",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "capital"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Ciudad/pueblo",
+      "iconName": "home",
+      "color": "#ffffff",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "ciudad"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Punto de interés",
+      "iconName": "archway",
+      "color": "#ffffff",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": 3.5,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": false,
+  "previousVersion": "6.0.2",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 2
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 3.3,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[Tambler.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Tambler.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 4.5,
+    "minZoom": 3,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.3,
+    "zoomFeatures": false,
+    "id": "Tambler_Map",
+    "lock": true,
+    "recenter": true,
+    "noScrollZoom": false,
+    "bounds": [
+      [
+        0,
+        0
+      ],
+      [
+        51.89,
+        69.19
+      ]
+    ],
+    "width": "95%",
+    "lat": 25.95,
+    "long": 34.59,
+    "unit": "km",
+    "filterTag": []
+  },
+  "enableDraw": false,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

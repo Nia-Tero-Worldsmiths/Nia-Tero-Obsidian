@@ -1,23 +1,26 @@
 ---
-nombre: "Faro de la Tormenta"
+nombre: Faro de la Tormenta
 NoteType: lugar
 tags:
   - WIP
-aliases:
-  - 
+aliases: 
+ubicacion: "[[Región de Tambler]]"
+gobernador: "[[Black Shawarma]]"
+perteneceA: "[[Black Shawarma]]"
 ---
 
-El Faro de la Tormenta es una pequeña fortaleza ubicada en el Noreste de la región de Tambler, sobre un pequeño peñón cercano a la costa. Recibe su nombre del robusto faro que corona la única torre del edificio.
+>[!infobox]
+># **`=this.nombre`**
+> 
+> | Información    ||
+> | ---------------- | -------------- |
+> | Ubicado en        | `=this.ubicacion` |
+> | Gobernado por  | `=this.gobernador` |
+> | Pertenece a       | `=this.perteneceA` |
 
-### Propósito/función
+El Faro de la Tormenta es una pequeña fortaleza ubicada en el Noreste de la región de Tambler, sobre un pequeño peñón cercano a la costa. Recibe su nombre del robusto faro que corona la única torre del edificio, así como del carácter comúnmente embravecido de las aguas de la zona.
 
-A pesar de poseer un faro en lo alto de la torre central, la estructura es utilizada únicamente como fortaleza particular del grupo de aventureros [[Black Shawarma]].
-
-### Defenses
-
-La posición estratégica del lugar es particularmente notable, dado que la totalidad de la fortaleza se encuentra construida sobre un peñón situado a pocos metros de la costa. donde se encuentra el único acceso terrestre al mismo. En el camino que une el peñón con la playa de acceso, se encuentra un segundo peñón de tamaño más reducido, el cual ha sido ahuecado para alojar un pequeño cuartillo para un soldado encargado de gestionar el acceso por tierra a la fortaleza.
-
-En adición a esto, la línea de costa se encuentra bajo un escarpado acantilado el cual solo puede ser bajado siguiendo unas estrechas escaleras de piedras excavadas en el mismo, además de utilizando la recientemente construida grúa.
+A pesar de la presencia del faro, la estructura es utilizada únicamente como fortaleza particular del grupo de aventureros [[Black Shawarma]].
 
 ### Historia
 
@@ -33,22 +36,19 @@ Recientemente fue librado de amenazas y completamente renovado por orden del [[C
 - Se instaló una grúa de madera en la parte superior del acantilado para facilitar el traslado del carro del grupo.
 - Finalmente, se creó una línea de rompeolas para mitigar los efectos de Rond-Fort sobre la integridad del peñón.
 
+### Geografía y economía
+### Defensas
+
+La posición estratégica del lugar es particularmente notable, dado que la totalidad de la fortaleza se encuentra construida sobre un peñón situado a pocos metros de la costa. donde se encuentra el único acceso terrestre al mismo. En el camino que une el peñón con la playa de acceso, se encuentra un segundo peñón de tamaño más reducido, el cual ha sido ahuecado para alojar un pequeño cuartillo para un soldado encargado de gestionar el acceso por tierra a la fortaleza.
+
+En adición a esto, la línea de costa se encuentra bajo un escarpado acantilado el cual solo puede ser bajado siguiendo unas estrechas escaleras de piedras excavadas en el mismo, además de utilizando la recientemente construida grúa.
+
+
+
 ### Turismo
 
 Al ser un emplazamiento privado, no existe ningún tipo de turismo con este sitio por destino.
 
-**Tipo**
-
-Keep
-
-**Se encuentra en**
-
-[[Región de Tambler]]
-
-**Organización propietaria**
-
-[[Black Shawarma]]
-
 ## Mapa del emplazamiento
 
-[![](/uploads/images/8387d755c225248cc49259b41ceacee3.png "Faro de la tormenta.png")](/i/4770733 "Faro de la tormenta.png")
+![[Faro de la tormenta.webp]]

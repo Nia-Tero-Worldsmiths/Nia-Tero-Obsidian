@@ -1,7 +1,7 @@
 ---
 nombre: Trotaconventos
 NoteType: persona
-imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+imagen: LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO
 tags:
   - inquisidor
 aliases:
@@ -13,7 +13,8 @@ genero: Mujer
 edad: 66
 lugarNacimiento: Forgesita
 creencia: N/A
-organizacion: "[[Santa Inquisición de Magna]]"
+organizacion:
+  - "[[Santa Inquisición de Magna]]"
 cargoOrg:
   - Comendadora
   - Asesina

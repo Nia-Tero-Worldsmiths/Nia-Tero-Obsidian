@@ -116,6 +116,7 @@
       "string": ""
     }
   ],
+  "whitelistFolders": [],
   "showDeleteConfirmation": true,
   "underlineFolder": true,
   "stopWhitespaceCollapsing": true,
