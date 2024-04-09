@@ -3,7 +3,7 @@
     {
       "id": "Tambler_Map",
       "locked": true,
-      "lastAccessed": 1711924509583,
+      "lastAccessed": 1712158642397,
       "markers": [
         {
           "id": "ID_3bba0a191878",
@@ -112,7 +112,7 @@
             11.399236020049178,
             5.696632053481525
           ],
-          "link": "Puente Soberano",
+          "link": "Peaje Soberano",
           "layer": "%5B%5BTambler.jpg%5D%5D",
           "mutable": true,
           "command": false,
@@ -166,6 +166,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
+        "z_Templates/Región.md",
         "World Atlas/Teocracia Magna/Región de Tambler/Región de Tambler.md"
       ]
     }

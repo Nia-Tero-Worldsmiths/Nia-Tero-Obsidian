@@ -7,7 +7,7 @@ aliases:
   - 
 ubicacion: "[[Región]]"
 gobernador: "[[Persona]]"
-perteneceA: "[[]]"
+perteneceA: "[[Organización]]"
 ---
 
 >[!infobox]
@@ -21,31 +21,24 @@ perteneceA: "[[]]"
 
 TEXTO INTRODUCTORIO
 
-### Demografía 
-
-
-
-### Gobierno
-
-
-
-### Defensas
-
-
-
-### Industria
-
-
-
 ### Historia
 
 
-
-### Turismo
-
-
-#### Puntos de Interés
+### Sociopolítica
+#### Demografía 
 
 
+#### Gobierno
 
-### Geografía
+
+%%#### Núcleos de poder%%
+
+
+### Geografía y economía
+#### Puntos de interés
+
+
+#### Defensas
+
+
+#### Industria

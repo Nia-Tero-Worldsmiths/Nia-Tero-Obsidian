@@ -5,6 +5,7 @@ tags:
   - WIP
 aliases:
   - "Santa Inquisición"
+  - "Inquisición"
 ---
 
 La Inquisición es el organismo gubernamental más importante de la Teocracia Magna. En ella se engloban todos los altos cargos dedicados a controlar diversos aspectos del país: ejército, poder judicial, defensa de las regiones, etc.

@@ -5,9 +5,9 @@ tags:
   - WIP
 aliases:
   - 
-ubicacion: "[[]]"
-gobernador: "[[]]"
-perteneceA: "[[]]"
+ubicacion: "[[Región]]"
+gobernador: "[[Persona]]"
+perteneceA: "[[Organización]]"
 ---
 
 ## Mapa de la región
@@ -66,16 +66,23 @@ darkMode: false
 
 TEXTO INTRODUCTORIO
 
-### Geografía
-
-
-
 ### Historia
 
 
+### Sociopolítica
+#### Demografía
 
-### Turismo
 
+#### Gobierno
+
+
+#### Núcleos de poder
+
+
+### Geografía
+
+
+### Turismo 
 
 
 ### Ubicaciones de la región 

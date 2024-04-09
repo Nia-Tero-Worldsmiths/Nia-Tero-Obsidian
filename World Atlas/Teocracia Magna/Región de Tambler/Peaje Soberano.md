@@ -1,5 +1,5 @@
 ---
-nombre: "Puente Soberano"
+nombre: "Peaje Soberano"
 NoteType: lugar
 tags:
  - WIP
