@@ -63,5 +63,5 @@ Governmental, Inquisitorial
 
 **Miembros destacados**
 
-- [[Diana, La Diligencia]]
+- [[Diana Birgersdotter]]
 - [[Trotaconventos, La Humildad]]
