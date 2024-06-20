@@ -14,6 +14,8 @@ lugarNacimiento: Forgesita
 creencia: "[[Las 20 Caras de Fortuna]]"
 organizacion: "[[Santa Inquisición de Magna]]"
 cargoOrg: 
+  - Comendadora de [[Región de Forgesita|Forgesita]]
+  - Vicerector de la Gran Academia de las Artes y las Letras de Forgesita 
 titulos:
   - La Castidad
 clase: Clériga
@@ -77,6 +79,6 @@ Lleva el pelo recogido hacia la izquierda con dos palillos sujetandolo, de maner
 ### Lazos familiares
 Nacido de una sucubo de nombre Rennala, Celeste es en realidad un cambión que suplanta la identidad del primogenito de la familia Carvajal, el cual fue criado por su madre biológica como su propio hijo bajo el nombre de Añil. Celeste era plenamente consciente el día que este cambio sucedió.
 
-Años mas tarde, una vez Celeste tuvo cierta edad, encontro a su madre Rennala, y mantuvieron cierto nivel de contacto, dado que por aquel entonces Celeste ya hubo entrado a la Inquisición, y era conocido que Rennala era una mojer de compañía.
+Años mas tarde, una vez Celeste tuvo cierta edad, encontro a su madre Rennala, y mantuvieron cierto nivel de contacto, dado que por aquel entonces Celeste ya hubo entrado a la Inquisición, y era conocido que Rennala era una mujer de compañía.
 
 Tras el inidente que desembocó en la muerte de su madre, Añil, soldado raso de la Inquisición, comenzó a profesar un gran respeto hacia Celeste, y a tratarlo de hermane mayor. Celeste no esta del todo contento con este trato, pero siente aprecio por el hombre que crió su madre.

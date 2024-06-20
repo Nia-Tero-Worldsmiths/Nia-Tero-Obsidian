@@ -7,8 +7,8 @@ tags:
   - ex-inquisidor
   - WIP
 aliases:
-  - La Troti
-  - La Humildad
+  - Dianita
+  - La Diligencia
 alineamiento: LG
 especie: Humana / Dragona (magnesio)
 genero: Mujer
@@ -75,7 +75,7 @@ Tanto la armadura de inquisidora mayor como el espadón que utiliza en el oficio
 
 ### Formación
 
-Habiendo nacido en la belicista región de Milita, Diana ha recibido formación militar de la más alta calidad. Una vez finalizara su instrucción básica, entró al Cuerpo de Jinetes de Guivernos, bajo la tutela de Indara. En poco tiempo se convertiría en la candidata mas apta para liderar a los Jinetes, gracias a su facilidad natural para tratar con los dracónidos, ademas de ser de gran popularidad entre las filas, junto con su compañera Placeholder. No llegó a ocupar este puesto debido a la prejubilación de su tío Iván.
+Habiendo nacido en la belicista región de Milita, Diana ha recibido formación militar de la más alta calidad. Una vez finalizara su instrucción básica, entró al Cuerpo de Jinetes de Guivernos, bajo la tutela de Indara. En poco tiempo se convertiría en la candidata mas apta para liderar a los Jinetes, gracias a su facilidad natural para tratar con los dracónidos, ademas de ser de gran popularidad entre las filas, junto con su compañera Ölbaum Kirsch. No llegó a ocupar este puesto debido a la prejubilación de su tío Iván.
 
 Además de esto, también está versada en diversas materias intelectuales, especialmente religión e historia. Como parte de la familia Birgersdotter, por supuesto ha sido formada en el arte de la forja, la [[Santa Talla]], e incluso las artes culinarias.
 
