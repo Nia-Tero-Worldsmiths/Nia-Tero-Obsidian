@@ -1,7 +1,8 @@
 ---
-nombre: Chanquete
+title: "Chanquete"
 NoteType: persona
 imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+draft: true
 tags:
   - WIP
 aliases: 
@@ -20,7 +21,7 @@ elan:
 ---
 
 >[!infobox]
-># **`=this.nombre`**
+># **`=this.title`**
 > IMAGEN AQUÍ
 > 
 > | Info. narrativa     ||
@@ -43,35 +44,30 @@ elan:
 
 Chanquete es un sapo de mediana edad que trabaja como soldado en la Capital Marina. Es un bebedor empedernido que ha sufrido varios altibajos en la vida y que actualmente se está esforzando en rehabilitarse.
 
-## Descripción física
+### Descripción física
 
-### Rasgos distintivos
-
-
-
-### Habilidades especiales
+#### Rasgos distintivos
 
 
 
-### Vestimenta y accesorios
+#### Habilidades especiales
 
 
 
-%%### Equipamiento especializado%%
-
-## Social
-
-### Formación
+#### Vestimenta y accesorios
 
 
 
-### Ocupación
+%%#### Equipamiento especializado%%
+
+### Social
+
+#### Formación
 
 
-### Lazos familiares
+
+#### Ocupación
 
 
+#### Lazos familiares
 
-**Current Location**
-
-Capital Marina

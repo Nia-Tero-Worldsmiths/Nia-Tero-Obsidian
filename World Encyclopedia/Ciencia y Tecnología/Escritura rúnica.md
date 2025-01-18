@@ -1,6 +1,7 @@
 ---
-nombre: Escritura Rúnica
+title: "Escritura Rúnica"
 NoteType: tecnologia
+draft: false
 tags:
   - WIP
 aliases:

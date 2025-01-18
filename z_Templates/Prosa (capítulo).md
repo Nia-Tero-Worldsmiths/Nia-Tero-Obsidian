@@ -1,9 +1,13 @@
 ---
+title:
 NoteType: prosa
 cssclass: prosa
+draft: true
 padre: 
 anterior: 
 siguiente: 
+tags:
+  - WIP
 ---
 
 

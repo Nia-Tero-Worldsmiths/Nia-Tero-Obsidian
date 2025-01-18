@@ -1,6 +1,7 @@
 ---
-nombre: 
+title: 
 NoteType: lugar
+draft: true
 tags:
   - WIP
 aliases:
@@ -11,7 +12,7 @@ perteneceA: "[[Organización]]"
 ---
 
 >[!infobox]
-># **`=this.nombre`**
+># **`=this.title`**
 > 
 > | Información    ||
 > | ---------------- | -------------- |

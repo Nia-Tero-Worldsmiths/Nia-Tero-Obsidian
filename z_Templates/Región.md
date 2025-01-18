@@ -1,6 +1,7 @@
 ---
-nombre: 
+title: 
 NoteType: region
+draft: true
 tags:
   - WIP
 aliases:
@@ -56,7 +57,7 @@ darkMode: false
     src="https://docs.google.com/spreadsheets/d/1i8GVjEcqn4uZUA5XgPaFlVFbcWwMwAqzY1TeOG2-g9s/edit?usp=sharing"></iframe>
 
 >[!infobox]
-># **`=this.nombre`**
+># **`=this.title`**
 > 
 > | Información    ||
 > | ---------------- | -------------- |

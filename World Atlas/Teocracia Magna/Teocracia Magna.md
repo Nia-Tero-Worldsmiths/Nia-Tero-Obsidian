@@ -1,6 +1,7 @@
 ---
-nombre: "Teocracia Magna"
+title: "Teocracia Magna"
 NoteType: region
+draft: true
 tags:
   - WIP
 aliases:

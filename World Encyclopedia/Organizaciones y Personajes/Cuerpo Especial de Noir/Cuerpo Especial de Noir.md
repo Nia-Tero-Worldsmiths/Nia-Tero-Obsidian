@@ -1,6 +1,7 @@
 ---
-nombre: "Cuerpo Especial de Noir"
+title: "Cuerpo Especial de Noir"
 NoteType: organizacion
+draft: true
 tags:
   - WIP
   - party

@@ -1,6 +1,7 @@
 ---
-nombre: Montelegro
+title: Montelegro
 NoteType: lugar
+draft: false
 tags: [WIP]
 aliases: 
 ubicacion: "[[Región de Tambler]]"
@@ -9,7 +10,7 @@ perteneceA: "[[Gobierno de la Teocracia Magna]]"
 ---
 
 >[!infobox]
-># **`=this.nombre`**
+># **`=this.title`**
 > 
 > | Información    ||
 > | ---------------- | -------------- |

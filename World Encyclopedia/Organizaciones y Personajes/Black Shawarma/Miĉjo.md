@@ -2,6 +2,7 @@
 nombre: "Miĉjo"
 NoteType: persona
 imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+draft: true
 tags:
   - WIP
   - PJ
@@ -21,7 +22,7 @@ elan:
 ---
 
 >[!infobox]
-># **`=this.nombre`**
+># **`=this.title`**
 > IMAGEN AQUÍ
 > 
 > | Info. narrativa     ||
@@ -44,29 +45,29 @@ elan:
 
 Bardo puto, obsesionado con la limpieza y lleno de secretos hasta el culo
 
-## Descripción física
+### Descripción física
 
-### Rasgos distintivos
-
-
-
-### Habilidades especiales
+#### Rasgos distintivos
 
 
 
-### Vestimenta y accesorios
+#### Habilidades especiales
 
 
 
-%%### Equipamiento especializado%%
-
-## Social
-
-### Formación
+#### Vestimenta y accesorios
 
 
 
-### Ocupación
+%%#### Equipamiento especializado%%
+
+### Social
+
+#### Formación
 
 
-### Lazos familiares
+
+#### Ocupación
+
+
+#### Lazos familiares

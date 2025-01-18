@@ -1,6 +1,7 @@
 ---
-nombre: "Fortaleza Stelo Finis"
+title: "Fortaleza Stelo Finis"
 NoteType: lugar
+draft: true
 tags:
   - WIP
 aliases:

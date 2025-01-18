@@ -2,5 +2,6 @@
   "attachmentFolderPath": "z_Assets",
   "propertiesInDocument": "visible",
   "livePreview": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "alwaysUpdateLinks": true
 }

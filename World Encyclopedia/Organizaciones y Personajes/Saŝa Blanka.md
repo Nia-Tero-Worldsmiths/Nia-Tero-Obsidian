@@ -1,7 +1,8 @@
 ---
-nombre: "Saŝa Blanka"
+title: "Saŝa Blanka"
 NoteType: persona
 imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+draft: true
 tags: WIP
 aliases: 
 alineamiento: TN/CG...
@@ -19,7 +20,7 @@ elan:
 ---
 
 >[!infobox]
-># **`=this.nombre`**
+># **`=this.title`**
 > IMAGEN AQUÍ
 > 
 > | Info. narrativa     ||

@@ -1,9 +1,11 @@
 ---
+title: 4 - Jötunn
 NoteType: prosa
 cssclass: prosa
+draft: false
 padre: "[[Libro Harapiento]]"
 anterior: "[[3 - El periplo de Boreas]]"
-siguiente:
+siguiente: 
 ---
 
 Por desgracia para el pueblo de Lodestone, no todo lo que Boreas trajo consigo fueron buenas noticias. Inevitablemente el rumor de un ejército de gigantes marchando a paso firme hacia el Norte llegó a los oídos de la Magna Asamblea, los cuales decidieron enviar a uno de los suyos a "investigar". Aseguro al lector que se haya topado con este texto, de que hago todo lo posible por dar el beneficio de la duda a todos los héroes que aquí se mencionan, pero la moralidad de la Asamblea me elude por completo. Soy incapaz de darles el beneficio de la duda a ellos, y menos aún después de presenciar lo que presencié el mismo día que este héroe llegó a Lodestone siguiendo los rumores.
@@ -51,6 +53,9 @@ La personalidad vanidosa y egocéntrica de aquel individuo iba plasmada en aquel
 "YO NO SOY UN HÉROE".
 
 Agradezco sobremanera que no tuve necesidad de parpadear en aquel momento, porque con tan solo un parpadeo me habría perdido este momento fugaz. Tras tocar el hacha de Boreas el suelo, en el lugar que hacía instantes ocupaba el héroe no quedaba más que una fina niebla roja que se comenzaba a disipar en el ambiente, y todo lo demás del mismo había quedado enterrado bajo el filo de esta.
+
+
+***Al llegar a esta parte del libro te das cuenta de la cantidad de polvo que hay a tus pies. Son páginas que se han ido deshaciendo con el mero hecho de leer el libro. El resto de pasajes más allá de este resultan ilegibles.***
 
 | Capítulo anterior |    Volver     | Siguiente capítulo |
 | ----------------- |:-------------:| ------------------:|

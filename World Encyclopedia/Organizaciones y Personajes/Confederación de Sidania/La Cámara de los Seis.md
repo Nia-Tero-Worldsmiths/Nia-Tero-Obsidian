@@ -1,6 +1,7 @@
 ---
-nombre: "La Cámara de los Seis"
+title: "La Cámara de los Seis"
 NoteType:
+draft: false
 tags:
   - WIP
 aliases:

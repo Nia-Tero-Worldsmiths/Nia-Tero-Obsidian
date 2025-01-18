@@ -1,7 +1,8 @@
 ---
-nombre: 
+title: 
 NoteType: persona
 imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+draft: true
 tags:
   - WIP
 aliases:
@@ -23,7 +24,7 @@ elan:
 ---
 
 >[!infobox]
-># **`=this.nombre`**
+># **`=this.title`**
 > IMAGEN AQUÍ
 > 
 > | Info. narrativa     ||
@@ -46,30 +47,30 @@ elan:
 
 Texto introductorio
 
-## Descripción física
+### Descripción física
 
-### Rasgos distintivos
-
-
-
-### Habilidades especiales
+#### Rasgos distintivos
 
 
 
-### Vestimenta y accesorios
+#### Habilidades especiales
 
 
 
-%%### Equipamiento especializado%%
-
-## Social
-
-### Formación
+#### Vestimenta y accesorios
 
 
 
-### Ocupación
+%%#### Equipamiento especializado%%
+
+### Social
+
+#### Formación
 
 
-### Lazos familiares
+
+#### Ocupación
+
+
+#### Lazos familiares
 

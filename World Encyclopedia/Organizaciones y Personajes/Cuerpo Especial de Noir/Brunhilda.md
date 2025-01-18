@@ -1,7 +1,8 @@
 ---
-nombre: Luca Noir Tambler
+title: "Brunhilda"
 NoteType: persona
 imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+draft: false
 tags:
   - PJ
   - WIP
@@ -25,7 +26,7 @@ elan: Ŝtormo
 ---
 
 >[!infobox]
-># **`=this.nombre`**
+># **`=this.title`**
 > ![[Brunhilda (Rondfort).jpg]]
 > 
 > | Info. narrativa     ||
@@ -48,29 +49,29 @@ elan: Ŝtormo
 
 Texto introductorio
 
-## Descripción física
+### Descripción física
 
-### Rasgos distintivos
-
-
-
-### Habilidades especiales
+#### Rasgos distintivos
 
 
 
-### Vestimenta y accesorios
+#### Habilidades especiales
 
 
 
-%%### Equipamiento especializado%%
-
-## Social
-
-### Formación
+#### Vestimenta y accesorios
 
 
 
-### Ocupación
+%%#### Equipamiento especializado%%
+
+### Social
+
+#### Formación
 
 
-### Lazos familiares
+
+#### Ocupación
+
+
+#### Lazos familiares

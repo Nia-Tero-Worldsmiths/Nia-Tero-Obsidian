@@ -1,6 +1,7 @@
 ---
-nombre: Pregón Feudal
+title: "Pregón Feudal"
 NoteType: objeto
+draft: false
 tags:
   - WIP
 aliases:

@@ -1,6 +1,7 @@
 ---
-nombre: Santa Talla
+title: "Santa Talla"
 NoteType: tecnologia
+draft: false
 tags:
   - WIP
 aliases:

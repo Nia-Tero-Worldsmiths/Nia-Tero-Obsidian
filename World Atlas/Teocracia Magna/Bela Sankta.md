@@ -1,6 +1,7 @@
 ---
-nombre: "Bela Sankta"
+title: "Bela Sankta"
 NoteType: lugar
+draft: true
 tags:
   - WIP
 aliases:

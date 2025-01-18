@@ -1,6 +1,7 @@
 ---
-nombre: "Gobierno de la Teocracia Magna"
+title: "Gobierno de la Teocracia Magna"
 NoteType: organizacion
+draft: false
 tags:
   - WIP
 aliases:

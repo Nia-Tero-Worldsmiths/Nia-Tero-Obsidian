@@ -1,6 +1,7 @@
 ---
-nombre: Dandelion
+title: "Dandelion"
 NoteType: lugar
+draft: false
 tags:
   - WIP
 aliases: 
@@ -10,7 +11,7 @@ perteneceA: "[[Gobierno de la Teocracia Magna]]"
 ---
 
 >[!infobox]
-># **`=this.nombre`**
+># **`=this.title`**
 > 
 > | Información    ||
 > | ---------------- | -------------- |

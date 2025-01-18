@@ -1,6 +1,7 @@
 ---
-nombre: Faro de la Tormenta
+title: "Faro de la Tormenta"
 NoteType: lugar
+draft: false
 tags:
   - WIP
 aliases: 
@@ -10,7 +11,7 @@ perteneceA: "[[Black Shawarma]]"
 ---
 
 >[!infobox]
-># **`=this.nombre`**
+># **`=this.title`**
 > 
 > | Información    ||
 > | ---------------- | -------------- |

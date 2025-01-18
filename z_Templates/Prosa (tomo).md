@@ -1,5 +1,9 @@
 ---
+title:
 NoteType: tomo
+draft: true
+tags:
+	  - WIP
 ---
 
 SINOPSIS

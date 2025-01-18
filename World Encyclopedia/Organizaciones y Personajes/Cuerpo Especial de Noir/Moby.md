@@ -1,7 +1,8 @@
 ---
-nombre: Moby
+title: "Moby"
 NoteType: persona
 imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+draft: false
 tags:
   - WIP
   - PJ
@@ -22,7 +23,7 @@ elan:
 ---
 
 >[!infobox]
-># **`=this.nombre`**
+># **`=this.title`**
 > ![[Moby (Rondfort).jpg]]
 > 
 > | Info. narrativa     ||
@@ -45,31 +46,31 @@ elan:
 
 Texto introductorio
 
-## Descripción física
+### Descripción física
 
-### Rasgos distintivos
+#### Rasgos distintivos
 Los aksolotl suelen presentar uno o dos colores en la piel, aunque el albinismo de Moby se presenta como un tercer color, y está mal visto en la [[Capital del Mar]], debido a que el visado proporciona capacidades mágicas a las especies marinas que lo llevan, las cuales nacen sin estas.
 
 Los individuos albinos, sin embargo, nacen con un don innato para la magia, y el visado resulta altamente dañino para ellos, dado que aumenta aún más dichas capacidades a niveles peligrosos.
 
 
-### Habilidades especiales
+#### Habilidades especiales
 
 
 
-### Vestimenta y accesorios
+#### Vestimenta y accesorios
 
 
 
-%%### Equipamiento especializado%%
+%%#### Equipamiento especializado%%
 
-## Social
+### Social
 
-### Formación
-
-
-
-### Ocupación
+#### Formación
 
 
-### Lazos familiares
+
+#### Ocupación
+
+
+#### Lazos familiares

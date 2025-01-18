@@ -1,6 +1,9 @@
 ---
+title: 1 - Introducción
 NoteType: prosa
-cssclass: prosa
+cssclasses:
+  - prosa
+draft: false
 padre: "[[Libro Harapiento]]"
 anterior: 
 siguiente: "[[2 - Las Turbulencias del Mundo]]"

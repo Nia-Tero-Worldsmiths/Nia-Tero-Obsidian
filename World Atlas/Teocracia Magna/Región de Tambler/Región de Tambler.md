@@ -1,6 +1,7 @@
 ---
-nombre: Región de Tambler
+title: "Región de Tambler"
 NoteType: region
+draft: false
 tags:
   - WIP
 aliases:
@@ -47,7 +48,7 @@ darkMode: false
 ---
 
 >[!infobox]
-># **`=this.nombre`**
+># **`=this.title`**
 > 
 > | Información    ||
 > | ---------------- | -------------- |

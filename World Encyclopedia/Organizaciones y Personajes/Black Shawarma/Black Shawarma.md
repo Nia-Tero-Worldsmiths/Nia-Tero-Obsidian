@@ -1,6 +1,7 @@
 ---
-nombre: "BLack Shawarma"
+title: "BLack Shawarma"
 NoteType: organizacion
+draft: true
 tags:
   - WIP
   - party

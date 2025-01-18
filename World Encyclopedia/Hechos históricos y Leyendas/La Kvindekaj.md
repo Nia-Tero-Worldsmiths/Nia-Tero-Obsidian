@@ -1,6 +1,7 @@
 ---
 nombre: La Kvindekaj
 NoteType: 
+draft: true
 tags:
   - WIP
 aliases:

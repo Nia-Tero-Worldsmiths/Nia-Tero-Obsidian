@@ -1,6 +1,7 @@
 ---
-nombre: "Confederación de Sidania"
+title: "Confederación de Sidania"
 NoteType: organizacion
+draft: false
 tags:
   - WIP
 aliases:

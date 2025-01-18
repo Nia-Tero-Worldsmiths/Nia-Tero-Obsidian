@@ -1,7 +1,8 @@
 ---
-nombre: 
+title: "Sumo Sacerdote de Magna"
 NoteType: persona
 imagen: LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO
+draft: true
 tags: WIP
 aliases: 
 alineamiento: TN/CG...
@@ -19,7 +20,7 @@ elan:
 ---
 
 >[!infobox]
-># **`=this.nombre`**
+># **`=this.title`**
 > IMAGEN AQUÍ
 > 
 > | Info. narrativa     ||
@@ -42,32 +43,32 @@ elan:
 
 Texto introductorio
 
-## Descripción física
+### Descripción física
 
-### Rasgos distintivos
-
-
-
-### Habilidades especiales
+#### Rasgos distintivos
 
 
 
-### Vestimenta y accesorios
+#### Habilidades especiales
+
+
+
+#### Vestimenta y accesorios
 
 
 
 %%### Equipamiento especializado%%
 
-## Social
+### Social
 
-### Formación
-
-
-
-### Ocupación
+#### Formación
 
 
-### Lazos familiares
+
+#### Ocupación
+
+
+#### Lazos familiares
 
 
 
