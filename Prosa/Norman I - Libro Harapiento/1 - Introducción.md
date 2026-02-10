@@ -4,7 +4,7 @@ NoteType: prosa
 cssclasses:
   - prosa
 draft: false
-padre: "[[Libro Harapiento]]"
+padre: "[[Norman I - Libro Harapiento]]"
 anterior: 
 siguiente: "[[2 - Las Turbulencias del Mundo]]"
 ---

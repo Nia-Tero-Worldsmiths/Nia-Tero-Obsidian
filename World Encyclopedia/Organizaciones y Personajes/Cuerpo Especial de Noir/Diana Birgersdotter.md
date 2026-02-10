@@ -1,7 +1,8 @@
 ---
-nombre: Diana Birgersdotter
+title: Diana Birgersdotter
 NoteType: persona
-imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+imagen: Diana (Rondfort).jpg
+draft: false
 tags:
   - inquisidor
   - ex-inquisidor
@@ -19,19 +20,19 @@ organizacion:
   - "[[Santa Inquisición de Magna]] (anteriormente)"
   - "[[Cuerpo Especial de Noir]]"
 cargoOrg:
-  - "Comendadora de [[Región de Tambler|Tambler]] (anteriormente)"
+  - Comendadora de [[Región de Tambler|Tambler]] (anteriormente)
 titulos:
-  - La Diligencia
+  - La Diligencia (anteriormente)
 clase: Clériga
 subclase: Celo
 elan: Fajro
 ---
 
 >[!infobox]
-># **`=this.nombre`**
-> ![[Diana (Rondfort).jpg]]
+># **`=this.title`**
+> `=embed(link(this.imagen))`
 > 
-> | Info. narrativa     ||
+> || Info. narrativa |
 >| -------------- | -------------- |
 >| Alineamiento  | `=this.alineamiento` |
 >| Especie          | `=this.especie` |
@@ -43,7 +44,7 @@ elan: Fajro
 >| >Cargos          | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
-> |Info. mecánica ||
+> || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
 > |>Subclase   | `=this.subclase` |
@@ -71,7 +72,7 @@ Sin embargo, una vez entró a Rondfort sustituyó esta armadura por un traje tá
 
 Tanto la armadura de inquisidora mayor como el espadón que utiliza en el oficio están grabados con un gran número de runas de Santa Talla, tanto útiles como ornamentales.
 
-## Características mentales
+## Social
 
 ### Formación
 
@@ -82,7 +83,3 @@ Además de esto, también está versada en diversas materias intelectuales, espe
 ### Ocupación
 
 Diana pertenece a la Santa Inquisición de Magna. Concretamente dentro de esta, es una inquisidora mayor, la más joven en este cargo. Se encuentra a cargo de la región de Tambler, como Comendadora de la misma.
-
-### Fracasos y humillaciones
-
-Recientemente perdió un combate cara a cara con dos enemigas de Fortuna desconocidas. Este hecho le pesa gravemente en la conciencia.

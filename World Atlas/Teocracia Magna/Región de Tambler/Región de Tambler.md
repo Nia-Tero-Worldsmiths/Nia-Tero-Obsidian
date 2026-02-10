@@ -1,5 +1,5 @@
 ---
-title: "Región de Tambler"
+title: Región de Tambler
 NoteType: region
 draft: false
 tags:

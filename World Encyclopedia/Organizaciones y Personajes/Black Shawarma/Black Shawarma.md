@@ -7,6 +7,7 @@ tags:
   - party
 aliases:
   - "Vendemos kebab a 5 cobres"
+  - "Black Shawarma"
 ---
 
 

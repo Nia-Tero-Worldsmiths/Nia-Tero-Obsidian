@@ -1,7 +1,7 @@
 ---
-title: "Luca Noir Tambler"
+title: Luca Noir Tambler
 NoteType: persona
-imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+imagen: LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO
 draft: false
 tags:
   - Tambler
@@ -17,8 +17,8 @@ lugarNacimiento: ???
 creencia: ???
 organizacion: "[[Gobierno de la Teocracia Magna]]"
 cargoOrg:
-  - "Conde de [[Región de Tambler|Tambler]]"
-  - "Alcalde de [[Velmonte]]"
+  - Conde de [[Región de Tambler|Tambler]]
+  - Alcalde de [[Velmonte]]
 titulos:
   - Conde
 clase: Hechicero

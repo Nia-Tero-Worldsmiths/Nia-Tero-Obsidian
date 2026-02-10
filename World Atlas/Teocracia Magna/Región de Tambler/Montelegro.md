@@ -2,7 +2,8 @@
 title: Montelegro
 NoteType: lugar
 draft: false
-tags: [WIP]
+tags:
+  - WIP
 aliases: 
 ubicacion: "[[Región de Tambler]]"
 gobernador: Abad Mayor Havel

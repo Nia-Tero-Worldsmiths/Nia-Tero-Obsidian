@@ -1,7 +1,7 @@
 ---
-title: "Moby"
+title: Moby
 NoteType: persona
-imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+imagen: Moby (Rondfort).jpg
 draft: false
 tags:
   - WIP
@@ -15,18 +15,18 @@ lugarNacimiento: "[[Capital del Mar]]"
 creencia: "[[Las 20 Caras de Fortuna]]"
 organizacion: "[[Cuerpo Especial de Noir]]"
 cargoOrg:
-  - "Co-Dueña del gremio de aventureros de [[Dandelion]]"
+  - Co-Dueña del gremio de aventureros de [[Dandelion]]
 titulos: 
-clase: "Rogue / Maga"
-subclase: "Arcane Trickster / Bladesinger"
-elan:
+clase: Rogue / Maga
+subclase: Arcane Trickster / Bladesinger
+elan: 
 ---
 
 >[!infobox]
 ># **`=this.title`**
-> ![[Moby (Rondfort).jpg]]
+> `=embed(link(this.imagen))`
 > 
-> | Info. narrativa     ||
+> |      |Info. narrativa|
 >| -------------- | -------------- |
 >| Alineamiento  | `=this.alineamiento` |
 >| Especie          | `=this.especie` |
@@ -38,7 +38,7 @@ elan:
 >| >Cargo            | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
-> |Info. mecánica ||
+> || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
 > |>Subclase   | `=this.subclase` |

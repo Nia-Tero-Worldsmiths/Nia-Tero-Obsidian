@@ -1,5 +1,5 @@
 ---
-title: "Faro de la Tormenta"
+title: Faro de la Tormenta
 NoteType: lugar
 draft: false
 tags:

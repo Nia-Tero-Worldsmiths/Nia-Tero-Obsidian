@@ -1,11 +1,11 @@
 ---
-title: "Villa Nicolás"
+title: Villa Nicolás
 NoteType: lugar
 draft: false
 tags:
   - 
 aliases:
-  - "La Villa de los Herejes"
+  - La Villa de los Herejes
 ubicacion: "[[Región de Tambler]]"
 gobernador: "[[Santa Inquisición de Magna]]"
 perteneceA: "[[Gobierno de la Teocracia Magna]]"

@@ -1,7 +1,7 @@
 ---
 title: 
 NoteType: persona
-imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
 draft: true
 tags:
   - WIP
@@ -25,9 +25,9 @@ elan:
 
 >[!infobox]
 ># **`=this.title`**
-> IMAGEN AQUÍ
+> `=embed(link(this.imagen))`
 > 
-> | Info. narrativa     ||
+> || Info. narrativa |
 > | -------------- | -------------- |
 > | Alineamiento  | `=this.alineamiento` |
 > | Especie          | `=this.especie` |
@@ -39,7 +39,7 @@ elan:
 > | >Cargo            | `=this.cargoOrg` |
 > | Títulos             | `=this.titulos` |
 >
-> |Info. mecánica ||
+> || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
 > |>Subclase   | `=this.subclase` |

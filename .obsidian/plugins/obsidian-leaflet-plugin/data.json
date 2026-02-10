@@ -3,7 +3,7 @@
     {
       "id": "Tambler_Map",
       "locked": true,
-      "lastAccessed": 1712158642397,
+      "lastAccessed": 1738354070766,
       "markers": [
         {
           "id": "ID_3bba0a191878",
@@ -166,7 +166,6 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "z_Templates/Región.md",
         "World Atlas/Teocracia Magna/Región de Tambler/Región de Tambler.md"
       ]
     }

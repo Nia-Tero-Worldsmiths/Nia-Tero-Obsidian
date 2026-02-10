@@ -1,10 +1,12 @@
 ---
-nombre: "Celeste de Carvajal"
+title: Celeste de Carvajal
 NoteType: persona
-imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+imagen: Celeste de Carvajal.jpg
+draft: false
 tags:
   - inquisidor
   - WIP
+  - comendador
 aliases: 
 alineamiento: TN
 especie: Cambion
@@ -12,10 +14,11 @@ genero: No binario
 edad: 34
 lugarNacimiento: Forgesita
 creencia: "[[Las 20 Caras de Fortuna]]"
-organizacion: "[[Santa Inquisición de Magna]]"
-cargoOrg: 
-  - Comendadora de [[Región de Forgesita|Forgesita]]
-  - Vicerector de la Gran Academia de las Artes y las Letras de Forgesita 
+organizacion:
+  - "[[Santa Inquisición de Magna]]"
+cargoOrg:
+  - Comendadore de [[Región de Forgesita|Forgesita]]
+  - Vicerectore de la Gran Academia de las Artes y las Letras de Forgesita
 titulos:
   - La Castidad
 clase: Clériga
@@ -24,10 +27,10 @@ elan: Eŭforia (Lovers)
 ---
 
 >[!infobox]
-># **`=this.nombre`**
-> ![[Celeste de Carvajal.jpg]]
+># **`=this.title`**
+> `=embed(link(this.imagen))`
 > 
-> | Info. narrativa     ||
+> || Info. narrativa |
 >| -------------- | -------------- |
 >| Alineamiento  | `=this.alineamiento` |
 >| Especie          | `=this.especie` |
@@ -39,7 +42,7 @@ elan: Eŭforia (Lovers)
 >| >Cargo            | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
-> |Info. mecánica ||
+> || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
 > |>Subclase   | `=this.subclase` |

@@ -1,5 +1,5 @@
 ---
-title: "Dandelion"
+title: Dandelion
 NoteType: lugar
 draft: false
 tags:

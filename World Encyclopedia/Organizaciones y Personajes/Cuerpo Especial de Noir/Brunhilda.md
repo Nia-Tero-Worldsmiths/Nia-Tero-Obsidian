@@ -1,7 +1,7 @@
 ---
-title: "Brunhilda"
+title: Brunhilda
 NoteType: persona
-imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+imagen: Brunhilda (Rondfort).jpg
 draft: false
 tags:
   - PJ
@@ -17,19 +17,19 @@ lugarNacimiento: Drakovidis Norte
 creencia: ???
 organizacion: "[[Cuerpo Especial de Noir]]"
 cargoOrg:
-  - "Co-Dueña del gremio de aventureros de [[Dandelion]]"
+  - Co-Dueña del gremio de aventureros de [[Dandelion]]
 titulos:
-  - "Adalid de la Tormenta"
-clase: "Bárbara / Guerrera"
-subclase: "Bestia / Caballera rúnica"
+  - Adalid de la Tormenta
+clase: Bárbara / Guerrera
+subclase: Bestia / Caballera rúnica
 elan: Ŝtormo
 ---
 
 >[!infobox]
 ># **`=this.title`**
-> ![[Brunhilda (Rondfort).jpg]]
+> `=embed(link(this.imagen))`
 > 
-> | Info. narrativa     ||
+> || Info. narrativa |
 >| -------------- | -------------- |
 >| Alineamiento  | `=this.alineamiento` |
 >| Especie          | `=this.especie` |
@@ -41,7 +41,7 @@ elan: Ŝtormo
 >| >Cargos          | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
-> |Info. mecánica ||
+> || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
 > |>Subclase   | `=this.subclase` |

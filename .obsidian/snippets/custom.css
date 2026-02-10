@@ -1,12 +1,42 @@
+/* reading mode */
+.markdown-preview-view p { 
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+/* source view and live preview */
+.markdown-source-view.mod-cm6 .cm-line {
+text-align: justify; text-justify: inter-word;
+}
+
+
+/* infobox tables */
 .prosa table {
-  max-width: 100% !important;
-  width: 100% !important;
+	max-width: 100% !important;
+	width: 100% !important;
 }
 
 .prosa table:has(th:first-of-type + th + th:last-of-type) th:nth-of-type(1) {
-  width: 38%;
+	width: 38%;
 }
 
 .prosa table:has(th:first-of-type + th + th:last-of-type) th:nth-of-type(2) {
-  width: 24%;
+	width: 24%;
+}
+
+/* img defaults */
+img{
+	display: block;
+	float: center;
+	margin-top: 0.5em !important;
+	margin-bottom: 0.5em !important;
+	width: 85% !important;
+	clear: right;
+}
+
+.cards img{
+	width: 100% !important;
+	object-fit: cover !important;
+	object-position: 100% 0;
+	margin-bottom: -100% !important;
 }

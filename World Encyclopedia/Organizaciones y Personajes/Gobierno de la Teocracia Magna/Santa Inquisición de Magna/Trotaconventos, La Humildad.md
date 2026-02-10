@@ -1,17 +1,18 @@
 ---
-title: "Trotaconventos"
+title: Trotaconventos
 NoteType: persona
-imagen: LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO
+imagen: Trotaconventos.jpg
 draft: false
 tags:
   - inquisidor
+  - comendador
 aliases:
   - La Troti
   - La Humildad
 alineamiento: CN
 especie: Cambiaformas
 genero: Mujer
-edad: 66
+edad: 87
 lugarNacimiento: Forgesita
 creencia: N/A
 organizacion:
@@ -28,9 +29,9 @@ elan: Neglektemo
 
 >[!infobox]
 ># **`=this.title`**
-> ![[Trotaconventos.jpg]]
+> `=embed(link(this.imagen))`
 > 
-> | Info. narrativa     ||
+> || Info. narrativa |
 >| -------------- | -------------- |
 >| Alineamiento  | `=this.alineamiento` |
 >| Especie          | `=this.especie` |
@@ -42,7 +43,7 @@ elan: Neglektemo
 >| >Cargos          | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
-> |Info. mecánica ||
+> || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
 > |>Subclase   | `=this.subclase` |

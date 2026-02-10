@@ -1,11 +1,11 @@
 ---
-title: "Velmonte"
+title: Velmonte
 NoteType: lugar
 draft: false
 tags:
   - WIP
 aliases:
-  - "Capital de Tambler"
+  - Capital de Tambler
 ubicacion: "[[Región de Tambler]]"
 gobernador: "[[Conde Lucán de Tambler|Lucán de Tambler]]"
 perteneceA: "[[Gobierno de la Teocracia Magna]]"

@@ -1,29 +1,33 @@
 ---
-title: "Sumo Sacerdote de Magna"
+title: Sumo Sacerdote de Magna
 NoteType: persona
-imagen: LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO
+imagen:
+  - []
 draft: true
-tags: WIP
+tags:
+  - WIP
 aliases: 
-alineamiento: TN/CG...
-especie: 
-genero: 
+alineamiento: LE
+especie: Humano
+genero: Hombre
 edad: 
 lugarNacimiento: 
 creencia: 
-organizacion: 
-cargoOrg: 
+organizacion:
+  - "[[Santa Inquisición de Magna]]"
+cargoOrg:
+  - Gran Maestre
 titulos: 
 clase: 
 subclase: 
-elan:
+elan: Tero
 ---
 
 >[!infobox]
 ># **`=this.title`**
-> IMAGEN AQUÍ
+> `=embed(link(this.imagen))`
 > 
-> | Info. narrativa     ||
+> || Info. narrativa |
 >| -------------- | -------------- |
 >| Alineamiento  | `=this.alineamiento` |
 >| Especie          | `=this.especie` |
@@ -35,7 +39,7 @@ elan:
 >| >Cargo            | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
-> |Info. mecánica ||
+> || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
 > |>Subclase   | `=this.subclase` |

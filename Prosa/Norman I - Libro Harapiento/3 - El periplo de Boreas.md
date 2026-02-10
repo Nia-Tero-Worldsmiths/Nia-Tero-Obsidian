@@ -3,7 +3,7 @@ title: 3 - El periplo de Boreas
 NoteType: prosa
 cssclass: prosa
 draft: false
-padre: "[[Libro Harapiento]]"
+padre: "[[Norman I - Libro Harapiento]]"
 anterior: "[[2 - Las Turbulencias del Mundo]]"
 siguiente: "[[4 - Jötunn]]"
 ---
@@ -14,9 +14,9 @@ Boreas es un goliath, un ser descendiente de humanos y gigantes con una altura p
 
 Decidió coger un gran número de hombres de su ejército y prepararlos para una expedición al norte bajo su liderazgo. Para esto, bajo la promesa de ayudar en las futuras campañas de defensa, solicitó la colaboración de los países colindantes para defender el suyo en su ausencia, incluso si para ello tenía que renunciar a la corona. Estaba dispuesto a esto y más si de esa forma existía una mínima posibilidad de encontrar algo o alguien útil en sus viajes a regiones remotas.
 
-Si se me permite dar mi opinión, esto es claramente una solución final desesperada. La razón por la que Boreas estaba dispuesto a dar la corona es sencillamente porque no contaba con que le fuera a ser necesaria una vez muerto. En sus viajes esperaba secretamente con encontrarse con algún héroe que decidiera luchar a su lado. Por supuesto, si ya de por sí podía ser complicado toparse con alguno de nosotros, las probabilidades de que además el héroe que encontraran no decidiera aniquilar a primera vista a un ejército de gigantes armados hasta los dientes era prácticamente nula. Dependían únicamente de la suerte.
+Si se me permite dar mi opinión, esto es claramente una solución final desesperada. La razón por la que Boreas estaba dispuesto a dar la corona es sencillamente porque no contaba con que le fuera a ser necesaria una vez muerto. En sus viajes esperaba secretamente encontrarse con algún héroe que decidiera luchar a su lado. Por supuesto, si ya de por sí podía ser complicado toparse con alguno de nosotros, las probabilidades de que además el héroe que encontraran no decidiera aniquilar a primera vista a un ejército de gigantes armados hasta los dientes era prácticamente nula. Dependían únicamente de la suerte.
 
-Para el gozo de Boreas, sin embargo, cuando un tema trata tan solo de "tener suerte", y de ningún factor más, parece ser que pasa a ser de mi jurisdicción. Tras un arduo camino llegaron a la otra punta del continente, al Gran Pantano habitado por numerosas razas marinas, donde casualmente había decidido esconderme de las turbulencias del mundo. 
+Para el gozo de Boreas, sin embargo, cuando un tema trata tan solo de "tener suerte", y de ningún factor más, parece ser que pasa a ser de mi jurisdicción. Tras una ardua travesía a través de la cordillera central llegaron a la otra punta del continente, al [[Gran Pantano]] habitado por numerosas razas marinas, donde casualmente había decidido esconderme de las turbulencias del mundo. 
 
 Los pueblos del Pantano están en una posición política complicada. Antes de la _noble_ decisión de nuestro Paladín anónimo, pertenecían a las tierras del Imperio del Rey Demonio, lo cual los libraba de visitas indeseadas y les permitía encargarse tranquilamente de sus propios asuntos. Tras la disolución del Imperio del Mal, los habitantes del Pantano tuvieron tiempo suficiente para darse cuenta de que eran más que capaces de autogobernarse, sin depender de nadie, por lo que se independizaron del nuevo gobierno que se estaba formando en la región del Este.
 

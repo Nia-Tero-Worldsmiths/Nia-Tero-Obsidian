@@ -4,6 +4,7 @@
   "theme": "moonstone",
   "enabledCssSnippets": [
     "supercharged-links-gen",
+    "Cards",
     "custom"
   ]
 }

@@ -5,117 +5,11 @@
   "hideFolderNote": true,
   "templatePath": "",
   "autoCreate": false,
+  "autoCreateFocusFiles": true,
+  "autoCreateForAttachmentFolder": false,
+  "autoCreateForFiles": false,
   "enableCollapsing": false,
-  "excludeFolders": [
-    {
-      "type": "folder",
-      "path": "z_Assets",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 0,
-      "excludeFromFolderOverview": false,
-      "string": ""
-    },
-    {
-      "type": "folder",
-      "path": "World Encyclopedia/Organizaciones y Personajes",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 1,
-      "excludeFromFolderOverview": false,
-      "string": ""
-    },
-    {
-      "type": "folder",
-      "path": "World Encyclopedia/Hechos históricos y Leyendas",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 2,
-      "excludeFromFolderOverview": false,
-      "string": ""
-    },
-    {
-      "type": "folder",
-      "path": "World Encyclopedia/Fauna y Flora",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 3,
-      "excludeFromFolderOverview": false,
-      "string": ""
-    },
-    {
-      "type": "folder",
-      "path": "World Encyclopedia/Deidades y Religiones",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 4,
-      "excludeFromFolderOverview": false,
-      "string": ""
-    },
-    {
-      "type": "folder",
-      "path": "World Encyclopedia/Ciencia y Tecnología",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 5,
-      "excludeFromFolderOverview": false,
-      "string": ""
-    },
-    {
-      "type": "folder",
-      "path": "World Atlas",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 7,
-      "excludeFromFolderOverview": false,
-      "string": ""
-    },
-    {
-      "type": "folder",
-      "path": "Lore en prosa",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 8,
-      "excludeFromFolderOverview": false,
-      "string": ""
-    },
-    {
-      "type": "folder",
-      "path": "World Encyclopedia",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 8,
-      "excludeFromFolderOverview": false,
-      "string": ""
-    }
-  ],
+  "excludeFolders": [],
   "whitelistFolders": [],
   "showDeleteConfirmation": true,
   "underlineFolder": true,
@@ -123,6 +17,8 @@
   "underlineFolderInPath": true,
   "openFolderNoteOnClickInPath": true,
   "openInNewTab": false,
+  "focusExistingTab": false,
+  "oldFolderNoteName": "{{folder_name}}",
   "folderNoteName": "{{folder_name}}",
   "folderNoteType": ".md",
   "disableFolderHighlighting": false,
@@ -148,7 +44,14 @@
     "onlyIncludeSubfolders": false,
     "storeFolderCondition": true,
     "showFolderNotes": false,
-    "disableCollapseIcon": true
+    "disableCollapseIcon": true,
+    "alwaysCollapse": false,
+    "autoSync": true,
+    "allowDragAndDrop": true,
+    "hideLinkList": true,
+    "hideFolderOverview": false,
+    "useActualLinks": false,
+    "fmtpIntegration": false
   },
   "useSubmenus": true,
   "syncMove": true,
@@ -195,7 +98,18 @@
     "string": ""
   },
   "hideCollapsingIcon": false,
+  "hideCollapsingIconForEmptyFolders": false,
   "tabManagerEnabled": true,
   "ignoreAttachmentFolder": true,
-  "deleteFilesAction": "trash"
+  "deleteFilesAction": "trash",
+  "openSidebar": {
+    "mobile": false,
+    "desktop": true
+  },
+  "highlightFolder": true,
+  "persistentSettingsTab": {
+    "afterRestart": true,
+    "afterChangingTab": true
+  },
+  "firstTimeInsertOverview": true
 }

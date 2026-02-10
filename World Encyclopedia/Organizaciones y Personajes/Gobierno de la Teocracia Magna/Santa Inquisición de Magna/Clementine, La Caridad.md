@@ -1,10 +1,12 @@
 ---
-nombre: Clementine d'If
+title: Clementine d'If
 NoteType: persona
-imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+imagen: Clementine.jpg
+draft: false
 tags:
   - inquisidor
   - WIP
+  - comendador
 aliases:
   - La Caridad
 alineamiento: CE
@@ -13,10 +15,11 @@ genero: Mujer
 edad: 32
 lugarNacimiento: "[[Bela Sankta]]"
 creencia: ???
-organizacion: "[[Santa Inquisición de Magna]]"
+organizacion:
+  - "[[Santa Inquisición de Magna]]"
 cargoOrg:
-  - "Comendadora"
-  - "Senescal (verdugo mayor)"
+  - Comendadora
+  - Senescal (verdugo mayor)
 titulos:
   - La Humildad
 clase: Clériga
@@ -25,10 +28,10 @@ elan: Silentu
 ---
 
 >[!infobox]
-># **`=this.nombre`**
-> ![[Clementine.jpg]]
+># **`=this.title`**
+> `=embed(link(this.imagen))`
 > 
-> | Info. narrativa     ||
+> || Info. narrativa |
 >| -------------- | -------------- |
 >| Alineamiento  | `=this.alineamiento` |
 >| Especie          | `=this.especie` |
@@ -40,7 +43,7 @@ elan: Silentu
 >| >Cargos          | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
-> |Info. mecánica ||
+> || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
 > |>Subclase   | `=this.subclase` |
@@ -48,7 +51,7 @@ elan: Silentu
 
 
 
-Clementine d'If es una de los siete Comendadores de la [[Teocracia Magna]], al cargo de [[Bela Sankta]], ostentando el titulo de La Caridad. Asimismo, al ser la defensora de la capital, se la considera una Senescal, como defensora del mismisimo [[Sumo Sacerdote de Magna]]. En adición, desempeña el papel de Verdugo Mayor.
+Clementine d'If es una de los siete Comendadores de la [[Teocracia Magna]], al cargo de [[Bela Sankta]], ostentando el titulo de La Caridad. Asimismo, desempeña el papel de Verdugo Mayor, por lo que también se la considera una Senescal.
 
 ## Descripción física
 
