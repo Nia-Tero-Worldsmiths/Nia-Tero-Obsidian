@@ -1,5 +1,5 @@
 ---
-title: Sumo Sacerdote de Magna
+title: Connor O'Sullivan
 NoteType: persona
 imagen:
   - []
@@ -11,7 +11,7 @@ alineamiento: LE
 especie: Humano
 genero: Hombre
 edad: 
-lugarNacimiento: 
+lugarNacimiento: Irlanda
 creencia: 
 organizacion:
   - "[[Santa Inquisición de Magna]]"
