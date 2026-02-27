@@ -1,2 +1,8 @@
+# Workspace
 workspace.json
+
+# Folders y archivos privados
+_*
+
+# Plugins problemáticos
 .obsidian/plugins/various-complements/histories.json
