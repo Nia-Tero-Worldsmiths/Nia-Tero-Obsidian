@@ -7,7 +7,7 @@ tags:
 aliases: 
 ubicacion: "[[Región de Tambler]]"
 gobernador: Abad Mayor Havel
-perteneceA: "[[Gobierno de la Teocracia Magna]]"
+perteneceA: "[[Teocracia Magna]]"
 ---
 
 >[!infobox]

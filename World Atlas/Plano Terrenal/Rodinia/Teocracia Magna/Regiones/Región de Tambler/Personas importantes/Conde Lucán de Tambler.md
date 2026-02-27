@@ -15,7 +15,7 @@ genero: Hombre
 edad: 128
 lugarNacimiento: ???
 creencia: ???
-organizacion: "[[Gobierno de la Teocracia Magna]]"
+organizacion: "[[Teocracia Magna]]"
 cargoOrg:
   - Conde de [[Región de Tambler|Tambler]]
   - Alcalde de [[Velmonte]]

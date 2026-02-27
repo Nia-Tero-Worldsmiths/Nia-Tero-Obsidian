@@ -1,13 +1,13 @@
 ---
-title: "Confederación de Sidania"
-NoteType: organizacion
-draft: false
+title: Sidania
+NoteType: nacion
+draft: true
 tags:
   - WIP
 aliases:
-  - 
+  - "Confederación del Sur"
+  - "Imperio Demoníaco"
 ---
-
 
 ### Estructura
 
@@ -58,25 +58,9 @@ Cada estado rinde culto al demonio que les dió su poder.
 
 [[Fortaleza Stelo Finis]]
 
-**Nombres alternativos**
-
-Confederación del Sur, Imperio Demoníaco
-
 **Gentilicio**
 
 Sidio
-
-**Sistema de Gobierno**
-
-Monarchy, Constitutional
-
-**Estructura de poder**
-
-Confederation
-
-**Sistema económico**
-
-Market economy
 
 **Moneda**
 
@@ -89,7 +73,3 @@ Septim
 **Lenguas oficiales**
 
 - Sidio
-
-**Naciones vecinas**
-
-- [[Gobierno de la Teocracia Magna]]

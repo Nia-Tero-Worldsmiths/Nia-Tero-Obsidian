@@ -1,6 +1,6 @@
 ---
 title: "Gran Pantano"
-NoteType: region
+NoteType: nacion
 draft: true
 tags:
   - WIP

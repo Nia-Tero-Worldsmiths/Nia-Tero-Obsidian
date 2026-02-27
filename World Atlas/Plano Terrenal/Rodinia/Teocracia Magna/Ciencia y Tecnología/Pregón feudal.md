@@ -25,13 +25,6 @@ Emisores y receptores difieren notoriamente en su construcción, pero a pesar de
 
 Los maestros de Talla de cada ciudad deciden qué miembros del gremio tienen permitido aceptar trabajos de fabricación de tomos nuevos. La talla de runas en sí no es excesivamente compleja, aunque no solo tiene valor técnico y religioso, sino también artístico.A la hora de tallar atriles, en cambio, tan solo los maestros de cada ciudad se encargan de ello, dado que son artefactos mucho más importantes y la complejidad de las runas que se deben inscribir en estos es proporcional a ello.
 
-**Tipo de objeto**
-
-Communication
-
-**Creador**
-
-[[Gobierno de la Teocracia Magna]]
 
 **Tecnologías relacionadas**
 

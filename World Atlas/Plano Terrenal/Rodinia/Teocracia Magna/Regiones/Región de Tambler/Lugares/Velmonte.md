@@ -8,7 +8,7 @@ aliases:
   - Capital de Tambler
 ubicacion: "[[Región de Tambler]]"
 gobernador: "[[Conde Lucán de Tambler|Lucán de Tambler]]"
-perteneceA: "[[Gobierno de la Teocracia Magna]]"
+perteneceA: "[[Teocracia Magna]]"
 ---
 
 >[!infobox]

@@ -51,23 +51,8 @@ En esta categoría figuran el resto de miembros de la organización, con rango d
 - **Sargentos:** Soldados rasos del ejército de origen plebeyo, pero con formación militar a la par que la de un caballero. Responden ante un submariscal.
 - **Escuderos:** Plebeyos bajo el mando de un gonfalonero, con la misión de asistir a los caballeros en batalla y de cuidar el equipo y las caballerías de los mismos.
 
-**Tipo**
-
-Governmental, Inquisitorial
 
 **Líder**
 
 [[Sumo Sacerdote de Magna]]
 
-**Founders**
-
-- [[Sumo Sacerdote de Magna]]
-
-**Organización a la que pertenece**
-
-[[Gobierno de la Teocracia Magna]]
-
-**Miembros destacados**
-
-- [[Diana Birgersdotter]]
-- [[Trotaconventos, La Humildad]]

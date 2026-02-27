@@ -7,7 +7,7 @@ tags:
 aliases: 
 ubicacion: "[[Región de Tambler]]"
 gobernador: "[[Conde Lucán de Tambler]]"
-perteneceA: "[[Gobierno de la Teocracia Magna]]"
+perteneceA: "[[Teocracia Magna]]"
 ---
 
 >[!infobox]

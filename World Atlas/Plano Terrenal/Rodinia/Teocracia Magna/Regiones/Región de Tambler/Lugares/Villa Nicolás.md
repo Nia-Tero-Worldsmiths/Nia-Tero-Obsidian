@@ -8,7 +8,7 @@ aliases:
   - La Villa de los Herejes
 ubicacion: "[[Región de Tambler]]"
 gobernador: "[[Santa Inquisición de Magna]]"
-perteneceA: "[[Gobierno de la Teocracia Magna]]"
+perteneceA: "[[Teocracia Magna]]"
 ---
 
 >[!infobox]
