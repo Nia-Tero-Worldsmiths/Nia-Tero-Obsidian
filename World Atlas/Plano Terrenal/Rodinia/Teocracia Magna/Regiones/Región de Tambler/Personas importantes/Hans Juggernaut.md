@@ -32,13 +32,13 @@ elan:
 >| Lugar de nacimiento | `=this.lugarNacimiento` |
 >| Creencia         | `=this.creencia` |
 >| Organización  | `=this.organizacion` |
->| >Cargo            | `=this.cargoOrg` |
+>| └>Cargo         | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
 > |Info. mecánica ||
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
-> |>Subclase   | `=this.subclase` |
+> |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
 Texto introductorio

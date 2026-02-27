@@ -8,6 +8,7 @@ tags:
   - ex-inquisidor
   - WIP
 aliases:
+  - Diana
   - Dianita
   - La Diligencia
 alineamiento: LG
@@ -41,13 +42,13 @@ elan: Fajro
 >| Lugar de nacimiento | `=this.lugarNacimiento` |
 >| Creencia         | `=this.creencia` |
 >| Organización  | `=this.organizacion` |
->| >Cargos          | `=this.cargoOrg` |
+>| └>Cargos       | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
 > || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
-> |>Subclase   | `=this.subclase` |
+> |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
 Diana era la inquisidora mayor más joven, ostentando el título de La Diligencia. Como Comendadora, su labor principal era la de defender y vigilar la región de Tambler. Actualmente recibe asilo político en Rondfort como miembro del [[Cuerpo Especial de Noir]] 

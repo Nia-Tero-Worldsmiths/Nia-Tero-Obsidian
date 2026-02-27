@@ -40,13 +40,13 @@ elan: Neglektemo
 >| Lugar de nacimiento | `=this.lugarNacimiento` |
 >| Creencia         | `=this.creencia` |
 >| Organización  | `=this.organizacion` |
->| >Cargos          | `=this.cargoOrg` |
+>| └>Cargos       | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
 > || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
-> |>Subclase   | `=this.subclase` |
+> |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
 Trotaconventos es una gran excepción dentro de la Inquisición de Magna. Se trata de la única Comendadora que carece de región asignada, dado que es la principal encargada de llevar a cabo ejecuciones desde las sombras. Además de esto, es la única inquisidora mayor que no es humana, sino cambiaformas.

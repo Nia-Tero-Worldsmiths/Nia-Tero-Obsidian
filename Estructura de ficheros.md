@@ -49,7 +49,7 @@ World Encyclopedia (8)
         ├─> Party Y
          ⋮
 
- ─ ├ │ ⋮
+ ─ ├ │ └ ⋮
 
 1. Sin carpeta "Países", porque es lo único que va a ir aquí (a no ser que se te ocurra algo más). Creo que poner personas, lugares, etc. a nivel de continente no tiene mucho sentido. A esa escala mejor poner en World Encyclopedia.
 2. Podríamos usar "Núcleos de poder" para englobar tanto organizaciones como personas importantes. Así simplificamos nomenclatura también.

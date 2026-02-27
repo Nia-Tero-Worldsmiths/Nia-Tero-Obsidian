@@ -40,13 +40,13 @@ elan: Silentu
 >| Lugar de nacimiento | `=this.lugarNacimiento` |
 >| Creencia         | `=this.creencia` |
 >| Organización  | `=this.organizacion` |
->| >Cargos          | `=this.cargoOrg` |
+>| └>Cargos       | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
 > || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
-> |>Subclase   | `=this.subclase` |
+> |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
 

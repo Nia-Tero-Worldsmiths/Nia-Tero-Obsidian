@@ -39,13 +39,13 @@ elan: Noir
 >| Lugar de nacimiento | `=this.lugarNacimiento` |
 >| Creencia         | `=this.creencia` |
 >| Organización  | `=this.organizacion` |
->| >Cargos          | `=this.cargoOrg` |
+>| └>Cargos       | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
 > |Info. mecánica ||
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
-> |>Subclase   | `=this.subclase` |
+> |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
 Lucán de Tambler es el Conde a quien pertenece la región de Tambler de la Teocracia Magna. Es un mestizo de madre elfa y padre vampiro: un semielfo dhampiro, aunque dado el solapamiento de rasgos distintivos entre ambas especies y el número virtualmente inexistente de vampiros en Magna, comúnmente se asume que simplemente es mitad elfo y mitad humano.

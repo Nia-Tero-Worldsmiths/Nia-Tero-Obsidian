@@ -1,5 +1,5 @@
 ---
-title: Brunhilda
+title: Brunhilda Birgersdotter
 NoteType: persona
 imagen: Brunhilda (Rondfort).jpg
 draft: false
@@ -7,6 +7,7 @@ tags:
   - PJ
   - WIP
 aliases:
+  - Brunhilda
   - Bru-nya
   - Hilda
 alineamiento: CN
@@ -38,13 +39,13 @@ elan: Ŝtormo
 >| Lugar de nacimiento | `=this.lugarNacimiento` |
 >| Creencia         | `=this.creencia` |
 >| Organización  | `=this.organizacion` |
->| >Cargos          | `=this.cargoOrg` |
+>| └>Cargos       | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
 > || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
-> |>Subclase   | `=this.subclase` |
+> |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
 Texto introductorio

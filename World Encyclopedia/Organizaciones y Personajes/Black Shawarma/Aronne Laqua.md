@@ -1,7 +1,7 @@
 ---
 title: "Aronne Laqua"
 NoteType: persona
-imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+imagen: Aronne Laqua.jpg
 draft: true
 tags:
   - WIP
@@ -23,7 +23,7 @@ elan:
 
 >[!infobox]
 ># **`=this.title`**
-> IMAGEN AQUÍ
+> `=embed(link(this.imagen))`
 > 
 > | Info. narrativa     ||
 >| -------------- | -------------- |
@@ -34,13 +34,13 @@ elan:
 >| Lugar de nacimiento | `=this.lugarNacimiento` |
 >| Creencia         | `=this.creencia` |
 >| Organización  | `=this.organizacion` |
->| >Cargo            | `=this.cargoOrg` |
+>| └>Cargo         | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
 > |Info. mecánica ||
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
-> |>Subclase   | `=this.subclase` |
+> |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
 Texto introductorio

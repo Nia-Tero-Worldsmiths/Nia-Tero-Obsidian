@@ -39,13 +39,13 @@ elan: Eŭforia (Lovers)
 >| Lugar de nacimiento | `=this.lugarNacimiento` |
 >| Creencia         | `=this.creencia` |
 >| Organización  | `=this.organizacion` |
->| >Cargo            | `=this.cargoOrg` |
+>| └>Cargo         | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
 > || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
-> |>Subclase   | `=this.subclase` |
+> |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
 Celeste de Carvajal es uno de los siete Comendadores de la [[Teocracia Magna]], al cargo de la [[Región de Forgesita]], ostentando el titulo de La Castidad. Bastante popular en su región, ha acumulado poder político sobre la Inquisición, a la cual dirige desde la Gran Academia de las Artes y las Letras de Forgesita 

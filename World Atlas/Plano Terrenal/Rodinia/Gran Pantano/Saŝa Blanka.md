@@ -32,13 +32,13 @@ elan:
 >| Lugar de nacimiento | `=this.lugarNacimiento` |
 >| Creencia         | `=this.creencia` |
 >| Organización  | `=this.organizacion` |
->| >Cargo            | `=this.cargoOrg` |
+>| └>Cargo         | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
 > || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
-> |>Subclase   | `=this.subclase` |
+> |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
 Sasha es la Matriarca del Gran Pantano. Es una marina violenta con anatomía de tiburón blanco. Valora la fuerza personal por encima de todas las cosas, y esto es un ideal que se ve reflejado en el estilo de vida de la Capital Marina.

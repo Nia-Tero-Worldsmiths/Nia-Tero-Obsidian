@@ -33,13 +33,13 @@ elan:
 >| Lugar de nacimiento | `=this.lugarNacimiento` |
 >| Creencia         | `=this.creencia` |
 >| Organización  | `=this.organizacion` |
->| >Cargo            | `=this.cargoOrg` |
+>| └>Cargo         | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
 > |Info. mecánica ||
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
-> |>Subclase   | `=this.subclase` |
+> |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
 Chanquete es un sapo de mediana edad que trabaja como soldado en la Capital Marina. Es un bebedor empedernido que ha sufrido varios altibajos en la vida y que actualmente se está esforzando en rehabilitarse.
