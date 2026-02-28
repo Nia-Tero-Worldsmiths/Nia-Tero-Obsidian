@@ -1,11 +1,9 @@
 ---
-nombre: "Miĉjo"
+title: "Hans Juggernaut"
 NoteType: persona
 imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
 draft: true
-tags:
-  - WIP
-  - PJ
+tags: WIP
 aliases: 
 alineamiento: TN/CG...
 especie: 
@@ -43,7 +41,7 @@ elan:
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
-Bardo puto, obsesionado con la limpieza y lleno de secretos hasta el culo
+Texto introductorio
 
 ### Descripción física
 
@@ -71,3 +69,4 @@ Bardo puto, obsesionado con la limpieza y lleno de secretos hasta el culo
 
 
 #### Lazos familiares
+

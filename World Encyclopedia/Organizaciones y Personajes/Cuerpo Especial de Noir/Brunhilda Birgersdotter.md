@@ -1,31 +1,36 @@
 ---
-nombre: "Miĉjo"
+title: Brunhilda Birgersdotter
 NoteType: persona
-imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
-draft: true
+imagen: Brunhilda (Rondfort).jpg
+draft: false
 tags:
-  - WIP
   - PJ
-aliases: 
-alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
-lugarNacimiento: 
-creencia: 
-organizacion: 
-cargoOrg: 
-titulos: 
-clase: 
-subclase: 
-elan:
+  - WIP
+aliases:
+  - Brunhilda
+  - Bru-nya
+  - Hilda
+alineamiento: CN
+especie: Goblin
+genero: Mujer
+edad: 18
+lugarNacimiento: Drakovidis Norte
+creencia: ???
+organizacion: "[[Cuerpo Especial de Noir]]"
+cargoOrg:
+  - Co-Dueña del gremio de aventureros de [[Dandelion]]
+titulos:
+  - Adalid de la Tormenta
+clase: Bárbara / Guerrera
+subclase: Bestia / Caballera rúnica
+elan: Ŝtormo
 ---
 
 >[!infobox]
 ># **`=this.title`**
-> IMAGEN AQUÍ
+> `=embed(link(this.imagen))`
 > 
-> | Info. narrativa     ||
+> || Info. narrativa |
 >| -------------- | -------------- |
 >| Alineamiento  | `=this.alineamiento` |
 >| Especie          | `=this.especie` |
@@ -34,16 +39,16 @@ elan:
 >| Lugar de nacimiento | `=this.lugarNacimiento` |
 >| Creencia         | `=this.creencia` |
 >| Organización  | `=this.organizacion` |
->| └>Cargo         | `=this.cargoOrg` |
+>| └>Cargos       | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
-> |Info. mecánica ||
+> || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
-Bardo puto, obsesionado con la limpieza y lleno de secretos hasta el culo
+Texto introductorio
 
 ### Descripción física
 

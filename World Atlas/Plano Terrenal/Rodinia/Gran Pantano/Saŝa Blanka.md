@@ -1,17 +1,15 @@
 ---
-nombre: "Miĉjo"
+title: "Saŝa Blanka"
 NoteType: persona
-imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
 draft: true
-tags:
-  - WIP
-  - PJ
+tags: WIP
 aliases: 
 alineamiento: TN/CG...
 especie: 
-genero: 
+genero: Mujer
 edad: 
-lugarNacimiento: 
+lugarNacimiento: "[[Capital del Mar]]"
 creencia: 
 organizacion: 
 cargoOrg: 
@@ -23,9 +21,9 @@ elan:
 
 >[!infobox]
 ># **`=this.title`**
-> IMAGEN AQUÍ
+> `=embed(link(this.imagen))`
 > 
-> | Info. narrativa     ||
+> || Info. narrativa |
 >| -------------- | -------------- |
 >| Alineamiento  | `=this.alineamiento` |
 >| Especie          | `=this.especie` |
@@ -37,37 +35,43 @@ elan:
 >| └>Cargo         | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
-> |Info. mecánica ||
+> || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
-Bardo puto, obsesionado con la limpieza y lleno de secretos hasta el culo
+Sasha es la Matriarca del Gran Pantano. Es una marina violenta con anatomía de tiburón blanco. Valora la fuerza personal por encima de todas las cosas, y esto es un ideal que se ve reflejado en el estilo de vida de la Capital Marina.
 
-### Descripción física
+## Descripción física
 
-#### Rasgos distintivos
-
-
-
-#### Habilidades especiales
+### Rasgos distintivos
 
 
 
-#### Vestimenta y accesorios
+### Habilidades especiales
 
 
 
-%%#### Equipamiento especializado%%
-
-### Social
-
-#### Formación
+### Vestimenta y accesorios
 
 
 
-#### Ocupación
+%%### Equipamiento especializado%%
+
+## Social
+
+### Formación
 
 
-#### Lazos familiares
+
+### Ocupación
+
+
+### Lazos familiares
+
+
+
+**Current Location**
+
+Capital Marina

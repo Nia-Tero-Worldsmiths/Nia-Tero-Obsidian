@@ -1,31 +1,34 @@
 ---
-nombre: "Miĉjo"
+title: Connor O'Sullivan
 NoteType: persona
-imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+imagen:
+  - []
 draft: true
 tags:
   - WIP
-  - PJ
-aliases: 
-alineamiento: TN/CG...
-especie: 
-genero: 
+aliases:
+  - Sumo Sacerdote
+alineamiento: LE
+especie: Humano
+genero: Hombre
 edad: 
-lugarNacimiento: 
+lugarNacimiento: Irlanda
 creencia: 
-organizacion: 
-cargoOrg: 
+organizacion:
+  - "[[Santa Inquisición de Magna]]"
+cargoOrg:
+  - Gran Maestre
 titulos: 
 clase: 
 subclase: 
-elan:
+elan: Tero
 ---
 
 >[!infobox]
 ># **`=this.title`**
-> IMAGEN AQUÍ
+> `=embed(link(this.imagen))`
 > 
-> | Info. narrativa     ||
+> || Info. narrativa |
 >| -------------- | -------------- |
 >| Alineamiento  | `=this.alineamiento` |
 >| Especie          | `=this.especie` |
@@ -37,13 +40,13 @@ elan:
 >| └>Cargo         | `=this.cargoOrg` |
 >| Títulos             | `=this.titulos` |
 >
-> |Info. mecánica ||
+> || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
-Bardo puto, obsesionado con la limpieza y lleno de secretos hasta el culo
+Texto introductorio
 
 ### Descripción física
 
@@ -59,7 +62,7 @@ Bardo puto, obsesionado con la limpieza y lleno de secretos hasta el culo
 
 
 
-%%#### Equipamiento especializado%%
+%%### Equipamiento especializado%%
 
 ### Social
 
@@ -71,3 +74,9 @@ Bardo puto, obsesionado con la limpieza y lleno de secretos hasta el culo
 
 
 #### Lazos familiares
+
+
+
+**Ruled Locations**
+
+- [[Teocracia Magna]]
