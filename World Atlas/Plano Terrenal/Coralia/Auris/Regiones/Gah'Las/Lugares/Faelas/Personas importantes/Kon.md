@@ -1,0 +1,1 @@
+Líder de las [[Espadas libres de Eris]] en la región de [[Faelas general]].

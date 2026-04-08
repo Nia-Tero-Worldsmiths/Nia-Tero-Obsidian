@@ -1,0 +1,1 @@
+Líder de los [[Buscadores perdidos]] en la región de [[Faelas general]].

@@ -1,0 +1,1 @@
+Capitán de la guardia en la fortaleza de cuarzo

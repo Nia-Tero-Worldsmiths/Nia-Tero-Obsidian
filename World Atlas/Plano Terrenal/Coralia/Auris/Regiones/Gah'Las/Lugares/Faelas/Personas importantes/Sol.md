@@ -1,0 +1,1 @@
+Líder de [[Estratica]] en la región de [[Faelas general]].

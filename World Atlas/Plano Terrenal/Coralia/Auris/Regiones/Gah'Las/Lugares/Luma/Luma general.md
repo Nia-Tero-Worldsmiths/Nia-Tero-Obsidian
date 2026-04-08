@@ -1,7 +1,7 @@
 #Territorio
 La ciudad de Luma se encuentra en el corazón de la región de [[Gah'Las]], refugiada en el valle de Nalas, así llamado por el río que nace en las montañas que rodean la ciudad y transcurre por el centro de la misma.
 
-La arquitectura de la ciudad destaca por el amplio uso de los balcones en las casas y el uso de un compuesto similar a la piedra y el hormigón, un compuesto llamado [[Galo]] por el que es conocida la región.
+La arquitectura de la ciudad destaca por el amplio uso de los balcones en las casas y el uso de un compuesto similar a la piedra y el hormigón, un compuesto llamado [[World Encyclopedia/Ciencia y Tecnología/Luma/Galo]] por el que es conocida la región.
 
 Bañada en tonos anaranjados, es una ciudad que destaca por sus altas torres y espirales que parecen querer desafiar en altura a las montañas que la rodean, unidas entre sí mediante numerosas pasarelas de las que cuelgan los estandartes de la ciudad y la región. ![[Pasted image 20260203200443.png]]
 [[alquimia tiera.png]]
@@ -21,7 +21,7 @@ Aún no encontramos industrialización pero si producción en masa de Galo y los
 # Cosas a descubrir de la ciudad
 
 
-Las espirales de la ciudad forman el símbolo de la alquimia entre ellas. Cada una guarda en su interior un [[cristal de transmutación]], que al encontrarse en sintonía permiten potenciar la fuerza de las venas elementales que pasan por la zona, son vitales para lograr el objetivo final de Flammula y para potenciar la síntesis del [[Galo]] que se produce en la ciudad.
+Las espirales de la ciudad forman el símbolo de la alquimia entre ellas. Cada una guarda en su interior un [[World Encyclopedia/Ciencia y Tecnología/Luma/Cristal de transmutación]], que al encontrarse en sintonía permiten potenciar la fuerza de las venas elementales que pasan por la zona, son vitales para lograr el objetivo final de Flammula y para potenciar la síntesis del [[World Encyclopedia/Ciencia y Tecnología/Luma/Galo]] que se produce en la ciudad.
 
 
 PJ del mario es un roca viviente recién nacido de graalem.
