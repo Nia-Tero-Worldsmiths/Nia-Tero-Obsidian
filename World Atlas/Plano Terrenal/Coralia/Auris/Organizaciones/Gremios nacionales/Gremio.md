@@ -18,11 +18,19 @@ La dungeon de exploración se encuentra en [[Graalem]], zona de magia salvaje en
 
 Existe un sistema de rangos dentro de los gremios con exámenes de ascenso. Los exámenes de ascenso consisten en superar una prueba diseñada por un examinador para demostrar que pueden cumplir misiones de mayor rango
 
-Los rangos van del S al E, siendo el rango e el rango al que pertenecen los novatos del gremio.
+Los rangos van del S al D, siendo el rango e el rango al que pertenecen los novatos del gremio.
 
-Existe una sede central para cada uno de los gremios a la que se puede acceder desde las diferentes sedes locales de los gremios o a través de un objeto una vez alcancen el rango necesario para entrar a la sede (C).
+Existe una sede central para cada uno de los gremios a la que se puede acceder desde las diferentes sedes locales de los gremios o a través de un objeto una vez alcancen el rango necesario para entrar a la sede (B).
 
 Todos los gremios tienen como normativa que a los grupos inscritos les acompañe una handler, una persona que realiza las funciones de guía y observadora por parte del gremio.
 
+Los gestores de las sedes de los gremios serán aventureros de al menos rango B.
+
+
+Rango D Aprox nivel hasta 4
+Rango C aprox nivel 7
+Rango B aprox nivel 11
+Rango A aprox nivel hasta 14
+Rango S aprox nivel 14 en adelante
 
 

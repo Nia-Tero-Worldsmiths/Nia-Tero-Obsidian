@@ -14,3 +14,10 @@ Inteligencia, curiosidad y aptitud mágica. Espíritu aventurero.
 
 # Colores
 - Verde y marrón
+
+# Rangos internos
+Antiguo buscador - Rango S
+Sabio - Rango A
+Maestro - Rango B
+Investigador - Rango C
+Explorador - Rango D

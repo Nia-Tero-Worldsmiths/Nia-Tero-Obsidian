@@ -50,3 +50,6 @@ Venta de Oleg: Esperan un destacamento de guardas
 Goblins al este
 
 kestes Garen -> Oficial de Brevoij
+
+
+Knock knock, +1 de influencia- 

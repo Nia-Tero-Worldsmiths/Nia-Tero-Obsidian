@@ -15,3 +15,10 @@ Creatividad, estrategia, amor por la batalla
 
 # Colores
 - Morado y dorado
+
+# Rangos internos
+Gran general - Rango S
+Comandante - Rango A
+Capitán - Rango B
+Teniente - Rango C
+Alférez - Rango D

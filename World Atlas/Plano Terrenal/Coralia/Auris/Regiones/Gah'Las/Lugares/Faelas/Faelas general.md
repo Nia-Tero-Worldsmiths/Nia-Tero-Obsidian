@@ -52,6 +52,7 @@ Además de estos dos factores encontramos todo tipo de negocios básicos como he
 - Sede de [[Estratica]]
 - Ayuntamiento
 - Fortaleza de cuarzo
+- [[Ruinas de Levante]]
 
 #### Defensas
 La ciudad se encuentra rodeada por un muro de Galo de mediana altura que permite controlar el acceso a la ciudad y cuenta a sus afueras con la Fortaleza de cuarzo, donde se encuentra el centro de mando de la región sur.

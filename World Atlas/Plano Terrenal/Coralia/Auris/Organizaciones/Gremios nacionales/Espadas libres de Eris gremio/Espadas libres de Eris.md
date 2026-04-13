@@ -1,3 +1,4 @@
+
 #Organizacion #Gremio
 
 # Origen
@@ -17,4 +18,13 @@ Confianza y lealtad
 
 # Colores
 - Blanco y rojo
+
+# Rangos internos
+
+Hoja alada - Rango s
+Hoja de ruina - Rango A
+Hoja negra - Rango B
+Filo perdido - Rango C
+Espada - Rango D
+
 

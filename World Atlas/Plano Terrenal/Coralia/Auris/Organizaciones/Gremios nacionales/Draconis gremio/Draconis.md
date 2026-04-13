@@ -16,3 +16,10 @@ Valor y fortaleza
 
 # Colores
 - Negro y azul
+  
+# Rangos internos
+Estrella negra - Rango S
+Dragón - Rango A
+Guiverno - Rango B
+Draco - Rango C
+Sierpe - Rango D
