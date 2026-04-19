@@ -1,5 +1,5 @@
 ---
-title: 
+title: Kaila
 NoteType: persona
 imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
 draft: true
@@ -8,9 +8,9 @@ tags:
 aliases:
   -
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
+especie: Fetchling
+genero: Mujer
+edad: 26
 lugarNacimiento: "[[Lugar]]"
 creencia: 
 organizacion: "[[]]"
@@ -18,7 +18,7 @@ cargoOrg:
   -
 titulos:
   - 
-clase: 
+clase: Rogue 
 subclase: 
 elan:
 ---
@@ -45,7 +45,7 @@ elan:
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
-Texto introductorio
+Capitán de los buscadores perdidos, de clase summoner y raza Surki
 
 ### Descripción física
 

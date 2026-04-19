@@ -1,0 +1,5 @@
+[[Luma]] #Historia
+
+El gran desbordamiento marcó el inicio del fin de la población original del valle de Nalas. La historia oficial cuenta que hubo un fuerte movimiento de tierra, achacado a que la población enfadó a los dioses de la montaña, que se siguió de un crecimiento desmesurado del caudal del río que acabó arrasando con todo el pueblo que se encontraba allí.
+
+La realidad sin embargo fue muy diferente. El valle era el objetivo de [[Khan]], el cuál llegó junto a su ejército por voluntad de Flammula. Evaluando la situación de la población local, vió una oportunidad de conquistar la ciudad no mediante la violencia sino mediante la compasión que siempre le había caracterizado. Sin informar a nadie de su ejército, una de las noches que se encontraban acampando cerca decidió acercarse al nacimiento del río, y haciendo uso de sus poderes para moldear la tierra decidió destruir parte del cauce original del nacimiento del río provocando una crecida instántanea del nivel del agua, que pronto acabó con la población local y le dió la oportunidad perfecta para hacerse con el control de la zona sin tener que enfrentarse a nadie.

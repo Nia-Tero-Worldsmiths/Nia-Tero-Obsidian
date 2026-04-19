@@ -1,5 +1,5 @@
 ---
-title: 
+title: Ceres
 NoteType: persona
 imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
 draft: true
@@ -8,9 +8,9 @@ tags:
 aliases:
   -
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
+especie: Catfolk
+genero: Hombre
+edad: 40
 lugarNacimiento: "[[Lugar]]"
 creencia: 
 organizacion: "[[]]"
@@ -18,7 +18,7 @@ cargoOrg:
   -
 titulos:
   - 
-clase: 
+clase: Rogue 
 subclase: 
 elan:
 ---
@@ -45,7 +45,8 @@ elan:
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
-Texto introductorio
+
+Monje catfolk
 
 ### Descripción física
 

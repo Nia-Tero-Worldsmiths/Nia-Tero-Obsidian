@@ -1,24 +1,24 @@
 ---
-title: 
+title: Mara
 NoteType: persona
-imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
+imagen: [[Mara.png]]
 draft: true
 tags:
   - WIP
 aliases:
   -
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
+especie: Nagaji
+genero: Mujer
+edad: 24
 lugarNacimiento: "[[Lugar]]"
 creencia: 
-organizacion: "[[]]"
+organizacion: "[[Seguidores de la Hoja general]]"
 cargoOrg:
-  -
+  - Capitana de los seguidores de la hoja
 titulos:
   - 
-clase: 
+clase: Guardian
 subclase: 
 elan:
 ---
@@ -45,11 +45,13 @@ elan:
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
-Texto introductorio
+434904
 
 ### Descripción física
+Mujer nagaiji joven, con parte inferior del cuerpo de basilisco y parte superior de mujer con escamas que le cubren la piel haciendo de armadura. Las escamas tanto de la parte inferior como de su cuarto son de tonos arcoíris similares a los patrones de serpientes de agua. A nivel de armas lleva una war lance. Su pelo es de color negro y la piel de la cara(donde no tiene escamas) es de un tono amarillento claro, con unos penetrantes ojos verdes. Lleva una war lance.
 
 ### Background
+Viene de una región lejana(agua) al oeste del país, concretamente de la región de Vuwai. Se crió junto a su tribu en el bosque de Manis y decidió irse de viaje para conocer mundo
 
 #### Rasgos distintivos
 

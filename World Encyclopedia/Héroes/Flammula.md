@@ -1,26 +1,28 @@
 ---
-title: 
+title: Flammula
 NoteType: persona
-imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
+imagen: Diana (Rondfort).jpg
 draft: true
 tags:
   - WIP
 aliases:
   -
-alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
-lugarNacimiento: "[[Lugar]]"
-creencia: 
-organizacion: "[[]]"
+alineamiento: TN
+especie: Humano
+genero: Mujer
+edad: 500
+lugarNacimiento: 
+ - - Graalem general
+creencia: Alquimia
+organizacion: 
+ - - Elementalis
 cargoOrg:
-  -
+  - Gran alquimista
 titulos:
-  - 
-clase: 
-subclase: 
-elan:
+  - Gran alquimista
+clase: Desconocida
+subclase: Desconocida
+elan: Desconocida
 ---
 
 >[!infobox]
@@ -50,6 +52,7 @@ Texto introductorio
 ### Descripción física
 
 ### Background
+La gran alquimista, fundadora de [[Auris]]
 
 #### Rasgos distintivos
 
