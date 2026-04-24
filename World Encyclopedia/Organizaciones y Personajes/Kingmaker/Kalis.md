@@ -18,15 +18,16 @@ Tartuchio fauno medio gnomo magia
 Harrim Enano clérigo competente
 Elfa paliducha de en frente yaezal timida mirando para abajo
 
-Valerie -> +5. helpful. Viene de un país cercano.
+Valerie -> +7. helpful. Viene de un país cercano.
 Viene buscando labrarse su propio camino. Practicaba para ser paladina y ahora es guerrera.
 Jaethal -> +8 puntos de influencia. Le baja el dc de diplomacy. helpful
 Viene de los planos superiores. Interesada en la propuesta de la misión.
 Viene de los campos de la pena, donde viven los grim champions -> Los mayores pecadores en vida. Muy influyente pero increíblemente malvada. Castigan a otros pecadores y solo pueden salir de su reino en contadas ocasiones tipo wild hunt. No dejé la ciudad en buenos términos. Lleva un aislamiento autoimpuesto.
 Es una no muerta por naturaleza y quiere volver a ser humana. Tengo su questline. Es clériga
-Linzi -> influencia 2 -> milestone de helpful
+Linzi -> influencia 3 -> milestone de helpful
 Viene del continente al que vamos, junto con Valerie
-Amiri -> +2 influencia -> friendly
+Amiri -> +5 influencia -> helpful
+Knock knock -> 3 influencia
 Viene de un clan de bárbaros, parece que ha escapado de allí y está por una buena pelea, es de la isla a la que vamos
 Harrim -> 
 
@@ -52,4 +53,25 @@ Goblins al este
 kestes Garen -> Oficial de Brevoij
 
 
-Knock knock, +1 de influencia- 
+# Cosas para el kingdom builidng
+
+Gremio de druidas:
+Taberna dentro del gremio. Necesitamos alcohol. Mantienen la infraestructura, apoyan la generación de sustento. En épocas normales simplemente regulaban un poco el consumo en la ciudad.
+
+Gremio de mineros :
+Falta motivación ya que no hay minas. Doblón es el líder.
+
+Gremio de aventureros:
+
+Distrito noble: Muy parecido al resto de la ciudad pero con casas más grandes. Residencia de maegarbarn que ahora es una residencia. Tienen más dinero.
+Están dispuestos a cooperar pero quieren un cierto nivel de vida garantizado.
+Los nobles están dispuestos a invertir
+
+Bajos fondos: Corrupción en alza. Familias de baja burguesía que trabajan con eso.
+
+Comen pescado
+
+Economía basada en cultivos y ganado, aunque es bastante de autoconsumo
+
+Ciudad sobre populada. Población envejecida. Nivel económico medio.
+
