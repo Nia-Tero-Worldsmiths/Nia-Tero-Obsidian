@@ -52,6 +52,14 @@ Texto introductorio
 
 ### Descripción física
 
+#### Rasgos distintivos
+
+#### Habilidades especiales
+
+#### Vestimenta y accesorios
+
+%%#### Equipamiento especializado%%
+
 ### Background
 Conoció a [[Flammula]] en sus primeros meses en el continente, y formaron equipo casi de inmediato. Siempre tuvieron una gran relación desde el principio. Pasaron sus primeros años en el continente explorando sus poderes y tratando de ubicarse en este nuevo mundo. Ambas confiaban completamente en la otra y compartieron objetivos y ambiciones, convirtiéndose en amantes eventualmente. Fue la primera de los héroes en conocer realmente a Flammula y compartir su ambición.  Ayudó a Flammula a buscar y reclutar al resto de héroes y abandonaron juntas el continente.
 
@@ -63,28 +71,12 @@ El nombre que les fue concedido a los 4 ascendidos fue el de [[Elementalis]]
 
 Una vez ascendida, su nueva forma y desmesurado poder le concedieron la admiración y alabanza casi divina de los habitantes de la zona, tanto a ella como a los otros 3 ascendidos, por lo que pudieron liderar y someter a la población local rápidamente a cambio de cederles un residuo de su poder, formando así las 4 alas de Auris, el principal ejército del país.
 
-#### Rasgos distintivos
-
-
-
-#### Habilidades especiales
-
-
-
-#### Vestimenta y accesorios
-
-
-
-%%#### Equipamiento especializado%%
 
 ### Social
 
 #### Formación
 
-
-
 #### Ocupación
-
 
 #### Lazos familiares
 

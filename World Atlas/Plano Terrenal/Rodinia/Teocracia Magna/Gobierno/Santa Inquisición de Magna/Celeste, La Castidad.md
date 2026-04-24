@@ -50,17 +50,17 @@ elan: Eŭforia (Lovers)
 
 Celeste de Carvajal es uno de los siete Comendadores de la [[Teocracia Magna]], al cargo de la [[Región de Forgesita]], ostentando el titulo de La Castidad. Bastante popular en su región, ha acumulado poder político sobre la Inquisición, a la cual dirige desde la Gran Academia de las Artes y las Letras de Forgesita 
 
-## Descripción física
+### Descripción física
 
-### Rasgos distintivos
-
-
-
-### Habilidades especiales
+#### Rasgos distintivos
 
 
 
-### Vestimenta y accesorios
+#### Habilidades especiales
+
+
+
+#### Vestimenta y accesorios
 Suele verse en publico con un kimono sencillo con plumón en el cuello, recogido en hombros y antebrazos, acompañado de una falda larga oscura en cuyo cinturón guarda su arma. Lleva unos cubrebrazos que le tapan hasta las muñecas, ademas de unos adornos metalicos sobre los dedos corazón de cada mano, y unas botas altas negras con tacón.
 
 Su armadura es bastante simple, constando únicamente de una hombrera izquierda con tres pinchos y un brazal con dos, sujeto con dos cintas. La hombrera tiene una cobertura de tela dura que evita que el plumón se atasque entre las juntas.
@@ -70,16 +70,16 @@ Lleva el pelo recogido hacia la izquierda con dos palillos sujetandolo, de maner
 
 %%### Equipamiento especializado%%
 
-## Social
+### Social
 
-### Formación
-
-
-
-### Ocupación
+#### Formación
 
 
-### Lazos familiares
+
+#### Ocupación
+
+
+#### Lazos familiares
 Nacido de una sucubo de nombre Rennala, Celeste es en realidad un cambión que suplanta la identidad del primogenito de la familia Carvajal, el cual fue criado por su madre biológica como su propio hijo bajo el nombre de Añil. Celeste era plenamente consciente el día que este cambio sucedió.
 
 Años mas tarde, una vez Celeste tuvo cierta edad, encontro a su madre Rennala, y mantuvieron cierto nivel de contacto, dado que por aquel entonces Celeste ya hubo entrado a la Inquisición, y era conocido que Rennala era una mujer de compañía.

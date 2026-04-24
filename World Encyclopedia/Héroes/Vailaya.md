@@ -53,6 +53,15 @@ Texto introductorio
 ### Descripción física
 Hombre joven de 24 años, con una altura de metro noventa y piel morena, con marcados rasgos "sudamericanos", con un pelo de un tono castaño oscuro y una voz relativamente grave para su edad. Personalidad calmada y serena.
 
+#### Rasgos distintivos
+
+#### Habilidades especiales
+
+#### Vestimenta y accesorios
+
+%%#### Equipamiento especializado%%
+
+
 ### Background
 Fue la segunda integrante del grupo de [[Flammula]]. Se conocieron gracias a la intervención de [[Kaigal]], quien conoció a Vailaya en uno de sus viajes en búsqueda de héroes. Tuvieron una corta aventura amorosa entre ellas que tras un año terminó por [[Kaigal]]. Pese a sufrir mucho la pérdida, fue incapaz de separarse del grupo de [[Flammula]]. Había algo en ella que la atraía, quizá fuese su ambición o quizá algo más, pero al final del día no sentía ningún tipo de deseo de querer separarse del grupo ni siquiera por la ruptura, llegando incluso a sentir una cierta atracción hacia [[Flammula]]. Completamente convencida de querer ayudar a su compañera a cumplir su objetivo, Vailaya fue un pilar fundamental del grupo y ayudó en gran manera a su huída del continente.
 
@@ -64,28 +73,12 @@ El nombre que les fue concedido a los 4 ascendidos fue el de [[Elementalis]]
 
 Una vez ascendida, su nueva forma y desmesurado poder le concedieron la admiración y alabanza casi divina de los habitantes de la zona, tanto a ella como a los otros 3 ascendidos, por lo que pudieron liderar y someter a la población local rápidamente a cambio de cederles un residuo de su poder, formando así las 4 alas de Auris, el principal ejército del país.
 
-#### Rasgos distintivos
-
-
-
-#### Habilidades especiales
-
-
-
-#### Vestimenta y accesorios
-
-
-
-%%#### Equipamiento especializado%%
 
 ### Social
 
 #### Formación
 
-
-
 #### Ocupación
-
 
 #### Lazos familiares
 

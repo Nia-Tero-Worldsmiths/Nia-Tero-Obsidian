@@ -1,8 +1,7 @@
 ---
 title: Connor O'Sullivan
 NoteType: persona
-imagen:
-  - []
+imagen: Connor O'Sullivan.png
 draft: true
 tags:
   - WIP

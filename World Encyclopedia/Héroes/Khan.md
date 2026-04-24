@@ -53,6 +53,15 @@ Texto introductorio
 ### Descripción física
 Hombre joven de 24 años, con una altura de metro noventa y piel morena, con marcados rasgos "sudamericanos", con un pelo de un tono castaño oscuro y una voz relativamente grave para su edad. Personalidad calmada y serena.
 
+#### Rasgos distintivos
+
+#### Habilidades especiales
+
+#### Vestimenta y accesorios
+
+%%#### Equipamiento especializado%%
+
+
 ### Background
 Gran general, al mando de las fuerzas del ala terrestre del ejército del héroe.
 Originalmente un humano, llegó al mundo junto al resto de héroes.
@@ -70,28 +79,12 @@ Una vez ascendido, su nueva forma y desmesurado poder le concedieron la admiraci
 
 Tras esto fue a la tierra señalada por [[Flammula]], la región de Gah'Las. Aquí conquistó a la población local y erigió su propio palacio, desde el que supervisa la extracción de la materia y la esencia de tierra por orden de [[Flammula]], donde gobierna de manera justa y es venerado casi como un dios por los descendientes de su ejército original desde hace cientos de años.
 
-#### Rasgos distintivos
-
-
-
-#### Habilidades especiales
-
-
-
-#### Vestimenta y accesorios
-
-
-
-%%#### Equipamiento especializado%%
 
 ### Social
 
 #### Formación
 
-
-
 #### Ocupación
-
 
 #### Lazos familiares
 
