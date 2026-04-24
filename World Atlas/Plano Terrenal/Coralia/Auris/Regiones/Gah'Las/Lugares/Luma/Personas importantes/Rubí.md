@@ -50,8 +50,7 @@ pathbuilderId:
 ### Descripción física
 Estéticamente se trata de una elfa con el pelo rojo oscuro casi castaño. Tiene la apariencia de una mujer humana de unos 30 años. Lleva una imponente armadura negra con un estandarte con el símbolo de una mano negra en su espalda. En la mano derecha lleva un talwar y en la izquierda un escudo de acero. Su figura es bella a la vez que imponente.
 
-### Background
- Rubí es una amiga de la infancia de [[Jade]], crecieron juntas en el mismo barrio y pasaron toda su vida así hasta que [[Jade]] abandonó su hogar. Eran prácticamente hermanas, y Rubí a menudo la veía como su hermanita pequeña. Pasaron varios años sin saber de ella hasta que una noche llamó a la puerta de su casa. Nada más abrir la puerta, vió en su mejor amiga una mirada que nunca había visto antes. Tras ponerse al día y enterarse de la creación de la [[Mano negra]] y la nueva posición social de su amiga, decidió ayudarla. Quizá no fuesen los mejores métodos para acabar con el problema de raíz, pero era mejor que nada. Pasó los siguientes años entrenando y formándose como comandante de la [[Mano negra]] pasó a ser una de las figuras importantes de la organización, siendo en secreto la persona de confianza de la líder.
+
 
 #### Rasgos distintivos
 
@@ -66,6 +65,9 @@ Estéticamente se trata de una elfa con el pelo rojo oscuro casi castaño. Tiene
 
 
 %%#### Equipamiento especializado%%
+
+### Background
+ Rubí es una amiga de la infancia de [[Jade]], crecieron juntas en el mismo barrio y pasaron toda su vida así hasta que [[Jade]] abandonó su hogar. Eran prácticamente hermanas, y Rubí a menudo la veía como su hermanita pequeña. Pasaron varios años sin saber de ella hasta que una noche llamó a la puerta de su casa. Nada más abrir la puerta, vió en su mejor amiga una mirada que nunca había visto antes. Tras ponerse al día y enterarse de la creación de la [[Mano negra]] y la nueva posición social de su amiga, decidió ayudarla. Quizá no fuesen los mejores métodos para acabar con el problema de raíz, pero era mejor que nada. Pasó los siguientes años entrenando y formándose como comandante de la [[Mano negra]] pasó a ser una de las figuras importantes de la organización, siendo en secreto la persona de confianza de la líder.
 
 ### Social
 De puertas para afuera presenta una personalidad implacable, no soporta las traiciones o que sus subordinados le fallen y castiga fuertemente estas faltas, llegando incluso a la ejecución. En combate muestra una personalidad fría y calculadora, siempre buscando la forma de ganar a cualquier precio. No tiene el menor atisbo de preocupación por las vidas de sus subordinados. 
