@@ -1,4 +1,4 @@
-Líder de las [[Espadas libres de Eris]] en la región de [[Faelas general]].
+Líder de las [[Espadas libres de Eris]] en la región de [[Faelas]].
 
 Se trata de un orco adulto de unos 40 años, con el pelo blanco y que lleva una armadura casi tribal.
 

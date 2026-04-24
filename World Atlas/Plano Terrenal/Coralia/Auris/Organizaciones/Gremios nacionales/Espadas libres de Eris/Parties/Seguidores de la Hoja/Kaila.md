@@ -1,26 +1,28 @@
 ---
-title: Ronnie
+title: Kaila
 NoteType: persona
-imagen: [[Ronnie.png]]
+imagen:
+  - - Kaila.png
 draft: true
 tags:
   - WIP
 aliases:
-  -
+  - 
 alineamiento: TN/CG...
-especie: Skeleton
-genero: Hombre
-edad: 80
+especie: Fetchling
+genero: Mujer
+edad: 26
 lugarNacimiento: "[[Lugar]]"
-creencia: 
-organizacion: "[[]]"
+creencia:
+organizacion: "[[Seguidores de la Hoja]]"
 cargoOrg:
-  -
+  - Miembro de los seguidores de la hoja
 titulos:
   - 
-clase: Rogue 
-subclase: 
+clase: Rogue
+subclase:
 elan:
+pathbuilderId: 434904
 ---
 
 >[!infobox]
@@ -45,40 +47,29 @@ elan:
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
-425399
-Esqueleto adicto a las apuestas
-Nada más conocerlo perderá 50 de oro al apostar que los nuevos serían un grupo de más de 4 personas. Usa dos wind and flame wheel
+Nativa de la ciudad de [[Luma]]
 
 ### Descripción física
-
-Esqueleto de huesos negros adicto a las apuestas que viste con ropas de cuero similares a un vaquero. Cabe destacar el color verde brillante de sus ojos y el sombrero que lleva encima
-
-### Background
-
-Cobró vida hace unos 80 años gracias a (nigromante que lo revivió). Se convirtió en su maestro y posteriormente su amigo debido a su naturaleza solitaria. El nigromante era adicto al gambling y enseñó a Ronnie todo lo que sabe del tema. Desde que murió su viejo amigo hace unos 10 años se ha convertido en aventurero.
+Se trata de una mujer fetchling de clase rogue. Es una mujer de unos 28 años de tez muy blanca y con un pelo oscuro largo con un degradado azul oscuro por capas. Lleva un eyeliner azul y pintalabios negro. Sus ojos son de un color amarillo y lleva puesta una armadura de cuero negro ligera con una capa de color azul medianoche y un cinturón con varias dagas en su interior.
 
 #### Rasgos distintivos
-
-
+Es muda(lenguaje de signos) y además puede leer los labios
 
 #### Habilidades especiales
 
-
-
 #### Vestimenta y accesorios
 
-
-
 %%#### Equipamiento especializado%%
+
+
+### Background
+
 
 ### Social
 
 #### Formación
 
-
-
 #### Ocupación
-
 
 #### Lazos familiares
 

@@ -1,7 +1,7 @@
 ---
 title: Kaila
 NoteType: persona
-imagen: [[Kaila.png]]
+imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
 draft: true
 tags:
   - WIP
@@ -13,14 +13,15 @@ genero: Mujer
 edad: 26
 lugarNacimiento: "[[Lugar]]"
 creencia: 
-organizacion: "[[Seguidores de la Hoja general]]"
+organizacion: "[[]]"
 cargoOrg:
-- Miembro de los seguidores de la hoja
+  -
 titulos:
   - 
 clase: Rogue 
 subclase: 
 elan:
+pathbuilderId:
 ---
 
 >[!infobox]
@@ -44,35 +45,29 @@ elan:
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
+> |Pathbuilder ID| `=this.pathbuilderId` |
 
-434904
-
-Nativa de la ciudad de [[Luma]]
+Capitán de los buscadores perdidos, de clase summoner y raza Surki
 
 ### Descripción física
-Se trata de una mujer fetchling de clase rogue. Es una mujer de unos 28 años de tez muy blanca y con un pelo oscuro largo con un degradado azul oscuro por capas. Lleva un eyeliner azul y pintalabios negro. Sus ojos son de un color amarillo y lleva puesta una armadura de cuero negro ligera con una capa de color azul medianoche y un cinturón con varias dagas en su interior.
-
-### Background
 
 #### Rasgos distintivos
 
-Es muda(lenguaje de signos) y además puede leer los labios
-
 #### Habilidades especiales
-
 
 #### Vestimenta y accesorios
 
 %%#### Equipamiento especializado%%
 
+
+### Background
+
+
 ### Social
 
 #### Formación
 
-
-
 #### Ocupación
-
 
 #### Lazos familiares
 

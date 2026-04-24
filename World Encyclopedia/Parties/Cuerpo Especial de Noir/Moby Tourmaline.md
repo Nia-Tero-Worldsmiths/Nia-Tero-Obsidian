@@ -54,14 +54,9 @@ Los aksolotl suelen presentar uno o dos colores en la piel, aunque el albinismo 
 
 Los individuos albinos, sin embargo, nacen con un don innato para la magia, y el visado resulta altamente dañino para ellos, dado que aumenta aún más dichas capacidades a niveles peligrosos.
 
-
 #### Habilidades especiales
 
-
-
 #### Vestimenta y accesorios
-
-
 
 %%#### Equipamiento especializado%%
 
@@ -69,9 +64,6 @@ Los individuos albinos, sin embargo, nacen con un don innato para la magia, y el
 
 #### Formación
 
-
-
 #### Ocupación
-
 
 #### Lazos familiares

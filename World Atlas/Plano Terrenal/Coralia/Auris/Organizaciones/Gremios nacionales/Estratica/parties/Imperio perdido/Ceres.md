@@ -1,5 +1,5 @@
 ---
-title: Kaila
+title: Ceres
 NoteType: persona
 imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
 draft: true
@@ -8,9 +8,9 @@ tags:
 aliases:
   -
 alineamiento: TN/CG...
-especie: Fetchling
-genero: Mujer
-edad: 26
+especie: Catfolk
+genero: Hombre
+edad: 40
 lugarNacimiento: "[[Lugar]]"
 creencia: 
 organizacion: "[[]]"
@@ -44,35 +44,29 @@ elan:
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
+> |Pathbuilder ID| `=this.pathbuilderId` |
 
-Capitán de los buscadores perdidos, de clase summoner y raza Surki
+Monje catfolk
 
 ### Descripción física
 
-### Background
-
 #### Rasgos distintivos
-
-
 
 #### Habilidades especiales
 
-
-
 #### Vestimenta y accesorios
 
-
-
 %%#### Equipamiento especializado%%
+
+
+### Background
+
 
 ### Social
 
 #### Formación
 
-
-
 #### Ocupación
-
 
 #### Lazos familiares
 

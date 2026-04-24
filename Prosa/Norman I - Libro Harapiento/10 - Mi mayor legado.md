@@ -3,10 +3,10 @@ title: 10 - Mi mayor legado
 NoteType: prosa
 cssclasses:
   - prosa
-draft: true
+draft: false
 padre: "[[Norman I - Libro Harapiento]]"
 anterior: "[[9 - El legado de Boreas]]"
-siguiente: 
+siguiente:
 ---
 
 Poco queda que contar en esta crónica. Me desperté varios días después, y pude comprobar la sospecha que teníamos sobre la provocación de la Plaza de los Bardos, que ahora marcaba un cinco.

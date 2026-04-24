@@ -1,7 +1,7 @@
 ---
 title: 
 NoteType: persona
-imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
+imagen: [[]] #Borrar paréntesis una vez importada la imagen
 draft: true
 tags:
   - WIP
@@ -21,6 +21,7 @@ titulos:
 clase: 
 subclase: 
 elan:
+pathbuilderId: # Solo relevante para PJs de pathfinder
 ---
 
 >[!infobox]
@@ -44,6 +45,8 @@ elan:
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
+> |Pathbuilder ID| `=this.pathbuilderId` |
+
 
 Texto introductorio
 
@@ -53,26 +56,22 @@ Texto introductorio
 
 #### Rasgos distintivos
 
-
-
 #### Habilidades especiales
 
-
-
-#### Vestimenta y accesorios
-
-
+%%#### Vestimenta y accesorios%%
 
 %%#### Equipamiento especializado%%
+
+
+### Background
+
+
 
 ### Social
 
 #### Formación
 
-
-
 #### Ocupación
-
 
 #### Lazos familiares
 

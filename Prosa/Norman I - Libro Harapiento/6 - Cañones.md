@@ -3,7 +3,7 @@ title: 6 - Cañones
 NoteType: prosa
 cssclasses:
   - prosa
-draft: true
+draft: false
 padre: "[[Norman I - Libro Harapiento]]"
 anterior: "[[5 - Cicatrices y Demonios]]"
 siguiente: "[[7 - Cambio de actitud]]"
