@@ -1,16 +1,16 @@
 ---
-title: 
+title: Ceres
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
 draft: true
 tags:
   - WIP
 aliases:
   -
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
+especie: Catfolk
+genero: Hombre
+edad: 40
 lugarNacimiento: "[[Lugar]]"
 creencia: 
 organizacion: "[[]]"
@@ -18,10 +18,9 @@ cargoOrg:
   -
 titulos:
   - 
-clase: 
+clase: Rogue 
 subclase: 
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
 ---
 
 >[!infobox]
@@ -47,8 +46,7 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-
-Texto introductorio
+Monje catfolk
 
 ### Descripción física
 
@@ -56,13 +54,12 @@ Texto introductorio
 
 #### Habilidades especiales
 
-%%#### Vestimenta y accesorios%%
+#### Vestimenta y accesorios
 
 %%#### Equipamiento especializado%%
 
 
 ### Background
-
 
 
 ### Social

@@ -1,1 +1,1 @@
-"Alcaldesa" de [[Faelas general]]
+"Alcaldesa" de [[Faelas]]

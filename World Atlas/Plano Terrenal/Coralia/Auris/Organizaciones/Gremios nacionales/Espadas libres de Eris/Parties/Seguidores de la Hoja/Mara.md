@@ -1,27 +1,28 @@
 ---
-title: 
+title: Mara
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen:
+  - - Mara.png
 draft: true
 tags:
   - WIP
 aliases:
-  -
+  - 
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
+especie: Nagaji
+genero: Mujer
+edad: 24
 lugarNacimiento: "[[Lugar]]"
-creencia: 
-organizacion: "[[]]"
+creencia:
+organizacion: "[[Seguidores de la Hoja]]"
 cargoOrg:
-  -
+  - Capitana de los seguidores de la hoja
 titulos:
   - 
-clase: 
-subclase: 
+clase: Guardian
+subclase:
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
+pathbuilderId: 434904
 ---
 
 >[!infobox]
@@ -47,22 +48,20 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-
-Texto introductorio
-
 ### Descripción física
+Mujer nagaiji joven, con parte inferior del cuerpo de basilisco y parte superior de mujer con escamas que le cubren la piel haciendo de armadura. Las escamas tanto de la parte inferior como de su cuarto son de tonos arcoíris similares a los patrones de serpientes de agua. A nivel de armas lleva una war lance. Su pelo es de color negro y la piel de la cara(donde no tiene escamas) es de un tono amarillento claro, con unos penetrantes ojos verdes. Lleva una war lance.
 
 #### Rasgos distintivos
 
 #### Habilidades especiales
 
-%%#### Vestimenta y accesorios%%
+#### Vestimenta y accesorios
 
 %%#### Equipamiento especializado%%
 
 
 ### Background
-
+Viene de una región lejana(agua) al oeste del país, concretamente de la región de Vuwai. Se crió junto a su tribu en el bosque de Manis y decidió irse de viaje para conocer mundo
 
 
 ### Social

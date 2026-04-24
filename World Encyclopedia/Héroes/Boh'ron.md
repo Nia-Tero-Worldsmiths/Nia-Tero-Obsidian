@@ -50,6 +50,15 @@ elan: Desconocido
 
 ### Descripción física
 
+#### Rasgos distintivos
+
+#### Habilidades especiales
+
+#### Vestimenta y accesorios
+
+%%#### Equipamiento especializado%%
+
+
 ### Background
 Durante sus primeros años de aventura conoció a [[Flammula]],  contra quien casi pierde la vida en un duelo. [[Flammula]] decidió perdonarle la vida a cambio de su ayuda para huír del continente. Fue el última de los 4 héroes elementales en unirse a esta y con el tiempo la enemistad se fue desvaneciendo y acabaron convirtiéndose en compañeros cercanos tras luchar contra varios héroes en su huída. Se adaptó relativamente bien al grupo y resultó ser un aliado de lo más capaz.
 
@@ -63,14 +72,6 @@ Una vez ascendido, su nueva forma y desmesurado poder le concedieron la admiraci
 
 Tras esto fue enviado por [[Flammula]] al lugar de convergencia de la vena elemental de aire que recorre el continente con el objetivo de poder recolectar los recursos naturales de la zona y asegurar un suministro constante de estos para poder seguir con la investigación.
 
-#### Rasgos distintivos
-
-#### Habilidades especiales
-
-#### Vestimenta y accesorios
-
-
-%%#### Equipamiento especializado%%
 
 ### Social
 

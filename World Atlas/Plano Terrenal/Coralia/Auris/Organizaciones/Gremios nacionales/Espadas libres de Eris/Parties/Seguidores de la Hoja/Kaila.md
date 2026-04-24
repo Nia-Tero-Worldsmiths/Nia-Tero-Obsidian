@@ -1,27 +1,28 @@
 ---
-title: 
+title: Kaila
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen:
+  - - Kaila.png
 draft: true
 tags:
   - WIP
 aliases:
-  -
+  - 
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
+especie: Fetchling
+genero: Mujer
+edad: 26
 lugarNacimiento: "[[Lugar]]"
-creencia: 
-organizacion: "[[]]"
+creencia:
+organizacion: "[[Seguidores de la Hoja]]"
 cargoOrg:
-  -
+  - Miembro de los seguidores de la hoja
 titulos:
   - 
-clase: 
-subclase: 
+clase: Rogue
+subclase:
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
+pathbuilderId: 434904
 ---
 
 >[!infobox]
@@ -45,24 +46,23 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
-
-Texto introductorio
+Nativa de la ciudad de [[Luma]]
 
 ### Descripción física
+Se trata de una mujer fetchling de clase rogue. Es una mujer de unos 28 años de tez muy blanca y con un pelo oscuro largo con un degradado azul oscuro por capas. Lleva un eyeliner azul y pintalabios negro. Sus ojos son de un color amarillo y lleva puesta una armadura de cuero negro ligera con una capa de color azul medianoche y un cinturón con varias dagas en su interior.
 
 #### Rasgos distintivos
+Es muda(lenguaje de signos) y además puede leer los labios
 
 #### Habilidades especiales
 
-%%#### Vestimenta y accesorios%%
+#### Vestimenta y accesorios
 
 %%#### Equipamiento especializado%%
 
 
 ### Background
-
 
 
 ### Social

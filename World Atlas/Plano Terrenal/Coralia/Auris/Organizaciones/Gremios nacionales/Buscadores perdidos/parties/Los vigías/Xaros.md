@@ -1,16 +1,16 @@
 ---
-title: 
+title: Kaila
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
 draft: true
 tags:
   - WIP
 aliases:
   -
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
+especie: Fetchling
+genero: Mujer
+edad: 26
 lugarNacimiento: "[[Lugar]]"
 creencia: 
 organizacion: "[[]]"
@@ -18,10 +18,10 @@ cargoOrg:
   -
 titulos:
   - 
-clase: 
+clase: Rogue 
 subclase: 
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
+pathbuilderId:
 ---
 
 >[!infobox]
@@ -47,8 +47,7 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-
-Texto introductorio
+Capitán de los buscadores perdidos, de clase summoner y raza Surki
 
 ### Descripción física
 
@@ -56,13 +55,12 @@ Texto introductorio
 
 #### Habilidades especiales
 
-%%#### Vestimenta y accesorios%%
+#### Vestimenta y accesorios
 
 %%#### Equipamiento especializado%%
 
 
 ### Background
-
 
 
 ### Social

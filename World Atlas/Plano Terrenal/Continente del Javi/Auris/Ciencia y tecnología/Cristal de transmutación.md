@@ -1,3 +1,0 @@
-#objeto 
-
-Cristal creado por [[Flammula]] para potenciar las venas elementales del continente. Se encuentran en los principales centros de síntesis de materiales y deben quedar dispuestos en forma de los diferentes símbolos alquímicos para surtir efecto.

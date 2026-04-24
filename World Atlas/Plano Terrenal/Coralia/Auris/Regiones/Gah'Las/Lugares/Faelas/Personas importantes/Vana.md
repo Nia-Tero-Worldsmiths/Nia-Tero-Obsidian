@@ -1,4 +1,4 @@
-Líder de los [[Buscadores perdidos]] en la región de [[Faelas general]].
+Líder de los [[Buscadores perdidos]] en la región de [[Faelas]].
 
 Se trata de una mujer humana con la tez blanca, unos ojos de un color verde claro y pelo negro como la noche. Viste unos ropajes ligeros con una pequeña coraza que le protege el torso.
 

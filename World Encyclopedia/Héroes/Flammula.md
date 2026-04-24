@@ -51,31 +51,24 @@ Texto introductorio
 
 ### Descripción física
 
-### Background
-La gran alquimista, fundadora de [[Auris]]
-
 #### Rasgos distintivos
-
-
 
 #### Habilidades especiales
 
-
-
 #### Vestimenta y accesorios
 
-
-
 %%#### Equipamiento especializado%%
+
+
+### Background
+La gran alquimista, fundadora de [[Auris]]
+
 
 ### Social
 
 #### Formación
 
-
-
 #### Ocupación
-
 
 #### Lazos familiares
 
