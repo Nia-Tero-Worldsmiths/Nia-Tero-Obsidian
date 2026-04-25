@@ -50,8 +50,7 @@ Texto introductorio
 ### Descripción física
 Mujer de estatura media con rasgos asiáticos afilados y una piel muy claro. Tiene un pelo blanco ceniza y heterocromía, siendo un ojo de un tono gris claro casi blanquecino y el otro azul claro. 
 
-### Background
-Nativa de la ciudad de Luma, trabajaba en la tienda de sus padres hasta que se casó con [[Volin]] el herrero. Desde entonces empezó a ayudarlo en su tienda y a cuidar de sus hijos hasta que un día se fue de casa y no saben de su ubicación.
+
 
 #### Rasgos distintivos
 Heterocromía, piel clara, casi asiática
@@ -66,7 +65,8 @@ Asumir su forma animal(furra)
 
 
 %%#### Equipamiento especializado%%
-
+### Background
+Nativa de la ciudad de Luma, trabajaba en la tienda de sus padres hasta que se casó con [[Volin]] el herrero. Desde entonces empezó a ayudarlo en su tienda y a cuidar de sus hijos hasta que un día se fue de casa y no saben de su ubicación.
 ### Social
 
 #### Formación

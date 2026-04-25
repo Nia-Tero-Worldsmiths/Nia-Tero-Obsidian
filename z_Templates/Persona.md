@@ -52,6 +52,8 @@ Texto introductorio
 
 ### Descripción física
 
+### Background
+
 #### Rasgos distintivos
 
 #### Habilidades especiales
