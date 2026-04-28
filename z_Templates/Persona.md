@@ -13,7 +13,8 @@ genero:
 edad: 
 lugarNacimiento: "[[Lugar]]"
 creencia: 
-organizacion: "[[]]"
+organizacion:
+  - "[[Organización]]"
 cargoOrg:
   -
 titulos:

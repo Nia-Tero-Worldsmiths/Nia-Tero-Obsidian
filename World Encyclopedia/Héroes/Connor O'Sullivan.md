@@ -7,6 +7,8 @@ tags:
   - WIP
 aliases:
   - Sumo Sacerdote
+  - Sumo Sacerdote de Magna
+  - Gran Maestre
 alineamiento: LE
 especie: Humano
 genero: Hombre
@@ -45,37 +47,25 @@ elan: Tero
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
-Texto introductorio
+Connor O'Sullivan, popularmente conocido como el Sumo Sacerdote, es el dirigente supremo de la [[Teocracia Magna]], así como la máxima autoridad religiosa del país.
 
 ### Descripción física
-
-#### Rasgos distintivos
-
-
+A simple vista puede parecer una persona normal. Nada de su aspecto físico más allá del atuendo es inmediatamente destacable.
 
 #### Habilidades especiales
-
+Dado que es una de las personas de todo el plano terrenal con más elan de Tero, Connor es posiblemente el geomante más poderoso que existe en Nia Tero.
 
 
 #### Vestimenta y accesorios
-
+Cuando se muestra en público, suele vestir atuendos pontificales de elevada pompa.
 
 
 %%### Equipamiento especializado%%
 
 ### Social
 
+
 #### Formación
 
 
-
 #### Ocupación
-
-
-#### Lazos familiares
-
-
-
-**Ruled Locations**
-
-- [[Teocracia Magna]]
