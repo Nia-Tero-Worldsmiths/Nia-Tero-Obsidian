@@ -11,7 +11,3 @@ Actualmente estas ruinas son utilizadas por las sedes de los [[Gremios nacionale
 # Estética
 
 La entrada a estas ruinas se encuentra dentro de un valle rodeado de montañas, en el interior de una cueva. Una vez llegas a la zona de la entrada se pueden reconocer unos bonitos grabados decorativos que recorren las viejas paredes de piedras de las ruinas. En el interior quedan varios túneles sin derrumbar de lo que sería el antiguo pueblo de Levante, en unos viejos salones de piedra decorados con unos grandes candeleros en el techo. Quedan pocos.
-
-
-
-Meshugga broken cog, bleed, future breed machine demiurge
