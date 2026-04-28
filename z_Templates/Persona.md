@@ -13,7 +13,8 @@ genero:
 edad: 
 lugarNacimiento: "[[Lugar]]"
 creencia: 
-organizacion: "[[]]"
+organizacion:
+  - "[[Organización]]"
 cargoOrg:
   -
 titulos:
@@ -51,8 +52,6 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 Texto introductorio
 
 ### Descripción física
-
-### Background
 
 #### Rasgos distintivos
 

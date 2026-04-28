@@ -1,7 +1,9 @@
 ---
 nombre: "Santa Inquisición de Magna"
 NoteType: organizacion
-cssclasses: cards
+cssclasses:
+ - cards
+ - cards-cols-3
 tags:
   - WIP
 aliases:
@@ -54,5 +56,5 @@ En esta categoría figuran el resto de miembros de la organización, con rango d
 
 **Líder**
 
-[[Sumo Sacerdote de Magna]]
+[[Connor O'Sullivan|Sumo Sacerdote]]
 

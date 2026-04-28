@@ -6,7 +6,36 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"World Atlas/Plano Terrenal/Coralia\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5227224
+      }
+    },
+    {
+      "query": "path:\"World Atlas/Plano Terrenal/Rodinia\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14984009
+      }
+    },
+    {
+      "query": "path:\"World Encyclopedia\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12968247
+      }
+    },
+    {
+      "query": "path:Prosa  ",
+      "color": {
+        "a": 1,
+        "rgb": 939489
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4224799222018403,
-  "close": true
+  "scale": 0.21494168183878645,
+  "close": false
 }
