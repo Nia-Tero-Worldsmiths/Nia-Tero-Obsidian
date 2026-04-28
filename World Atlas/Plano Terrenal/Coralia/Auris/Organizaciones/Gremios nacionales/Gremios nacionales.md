@@ -26,7 +26,6 @@ Todos los gremios tienen como normativa que a los grupos inscritos les acompañe
 
 Los gestores de las sedes de los gremios serán aventureros de al menos rango B.
 
-
 Rango D Aprox nivel hasta 4
 Rango C aprox nivel 7
 Rango B aprox nivel 11
@@ -43,3 +42,6 @@ Los grupos de aventureros tendrán un "padrino" que será un aventurero de rango
 - Preparación de misiones
 - Uso de los servicios del gremio
 - Información sobre las competiciones del gremio
+
+# Alquiler de aventureros
+Como nota importante, los grupos pueden "alquilar" los servicios de aventureros sueltos del gremio a cambio de puntos gremiales para que les apoyen en sus misiones. De esta manera, perderán puntos de gremio pero ganarán un integrante temporal que les permitirá tratar con misiones un tanto más complejas. Si avanzan mucho su relación con algunos aventureros podrán pedirles su ayuda de forma gratuita eventualmente. Los jugadores también podrán ser alquilados si así lo desean para ganar más puntos para la [[Tienda gremial]].

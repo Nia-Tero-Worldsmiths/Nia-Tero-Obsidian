@@ -42,7 +42,7 @@ A nivel económico, la ciudad se sustenta principalmente por su actividad minera
 Además de estos dos factores encontramos todo tipo de negocios básicos como herrerías, carpinterías, mercados, posadas y granjas.
 
 #### Puntos de interés
-- Minas 
+- [[Mina de piedra negra]]
 - Posada 
 - Mercado
 - Herrería
