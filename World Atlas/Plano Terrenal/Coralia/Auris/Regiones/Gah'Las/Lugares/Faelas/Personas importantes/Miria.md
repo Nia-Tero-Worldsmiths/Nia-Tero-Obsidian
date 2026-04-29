@@ -6,23 +6,23 @@ draft: true
 tags:
   - WIP
 aliases:
-  -
+  - 
 alineamiento: TN/CG...
 especie: Humana versatile heritage dragonblood
 genero: Mujer
-edad: 38 
+edad: 38
 lugarNacimiento: "[[Confederación de Sidania]]"
-creencia: 
+creencia:
 organizacion:
   - "[[Draconis]]"
 cargoOrg:
   - Jefa de la sede de Faelas
 titulos:
   - La emperatriz
-clase: Summoner
-subclase: 
+clase: Monk - Summoner
+subclase:
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
+pathbuilderId: 434904
 ---
 
 >[!infobox]

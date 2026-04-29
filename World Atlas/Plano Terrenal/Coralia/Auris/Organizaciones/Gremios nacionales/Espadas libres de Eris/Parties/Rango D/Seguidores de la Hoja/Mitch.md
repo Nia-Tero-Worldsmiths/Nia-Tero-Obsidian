@@ -1,25 +1,25 @@
 ---
-title: Mara
+title: Mich
 NoteType: persona
 imagen:
-  - - Mara.png
+  - - Mich.png
 draft: true
 tags:
   - WIP
 aliases:
   - 
 alineamiento: TN/CG...
-especie: Nagaji
-genero: Mujer
-edad: 24
-lugarNacimiento: "[[Lugar]]"
+especie: Humano
+genero: Hombre
+edad: 23
+lugarNacimiento: "[[Faelas]]"
 creencia:
 organizacion: "[[Seguidores de la Hoja]]"
 cargoOrg:
-  - Capitana de los seguidores de la hoja
+  - Miembro de los seguidores de la hoja
 titulos:
   - 
-clase: Guardian
+clase: Animista
 subclase:
 elan:
 pathbuilderId: 434904
@@ -48,8 +48,10 @@ pathbuilderId: 434904
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
+#seguidoresDeLaHoja
+
 ### Descripción física
-Mujer nagaiji joven, con parte inferior del cuerpo de basilisco y parte superior de mujer con escamas que le cubren la piel haciendo de armadura. Las escamas tanto de la parte inferior como de su cuarto son de tonos arcoíris similares a los patrones de serpientes de agua. A nivel de armas lleva una war lance. Su pelo es de color negro y la piel de la cara(donde no tiene escamas) es de un tono amarillento claro, con unos penetrantes ojos verdes. Lleva una war lance.
+Se trata de un humano joven, de unos 23 años. Es un chico rubio, delgado con ojos verdes. Tiene el aspecto de una persona noble. Lleva puesta una especie de túnica de druida de tonos blancos y rojos, con el símbolo de la espada alada del gremio sobre el corazón en el pecho. Tiene unos leves tatuajes mágicos en el cuerpo que no se ven por la armadura pero suben hasta el cuello, donde sí llegan a verse levemente. Tienen motivos similares a almas y fantasmas.
 
 #### Rasgos distintivos
 
@@ -61,7 +63,8 @@ Mujer nagaiji joven, con parte inferior del cuerpo de basilisco y parte superior
 
 
 ### Background
-Viene de una región lejana(agua) al oeste del país, concretamente de la región de Vuwai. Se crió junto a su tribu en el bosque de Manis y decidió irse de viaje para conocer mundo
+
+Trabajaba como medium entre la nobleza de la ciudad. Eventualmente conoció a Mara, la líder del grupo en la taberna y se hicieron amigos, con el tiempo decidieron fundar el grupo de los seguidores de la hoja con el objetivo de vivir aventuras juntos y alejarse de la vida de ciudad.
 
 
 ### Social
