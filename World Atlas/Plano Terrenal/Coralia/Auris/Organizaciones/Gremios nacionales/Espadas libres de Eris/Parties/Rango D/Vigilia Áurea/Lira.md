@@ -1,28 +1,28 @@
 ---
-title: 
+title: Lira
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen:
+  - - Lira.png
 draft: true
 tags:
   - WIP
 aliases:
-  -
+  - 
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
-lugarNacimiento: "[[Lugar]]"
-creencia: 
-organizacion:
-  - "[[Organización]]"
+especie: Lizardfolk
+genero: Mujer
+edad: 19
+lugarNacimiento: "[[Faelas]]"
+creencia:
+organizacion: "[[Vigilia Áurea]]"
 cargoOrg:
-  -
+  - Capitana de Vigilia áurea
 titulos:
   - 
-clase: 
-subclase: 
+clase: Monje
+subclase:
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
+pathbuilderId:
 ---
 
 >[!infobox]
@@ -49,30 +49,15 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
-Texto introductorio
-
 ### Descripción física
-
-### Background
+Físicamente se trata de una mujer lizardfolk muy joven. Tiene el cuerpo cubierto por escamas verdes en su totalidad, con una cresta negra que le recorre la espalda. A nivel de vestimenta lleva unos ropajes tribales con motivos que recuerdan a lagartos.  Corporalmente es bastante delgada al punto de que costaría distinguir su cuerpo de el de un hombre delgado, si no fuese por que tiene el pecho cubierto. Su clase es monje
 
 #### Rasgos distintivos
-
-#### Habilidades especiales
-
-%%#### Vestimenta y accesorios%%
-
-%%#### Equipamiento especializado%%
-
+Como rasgo destacable de su aspecto tiene cicatrices en los brazos no del todo curadas.
 
 ### Background
-
-
 
 ### Social
 
-#### Formación
 
-#### Ocupación
-
-#### Lazos familiares
 

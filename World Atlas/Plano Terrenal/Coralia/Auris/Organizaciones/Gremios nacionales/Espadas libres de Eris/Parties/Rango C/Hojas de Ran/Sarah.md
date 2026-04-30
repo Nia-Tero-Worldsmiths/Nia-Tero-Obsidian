@@ -12,9 +12,9 @@ alineamiento: TN/CG...
 especie: Anadi
 genero: Mujer
 edad: 28
-lugarNacimiento: "[[Lugar]]"
+lugarNacimiento: "[[Sylphoria]]"
 creencia:
-organizacion: "[[Hojas de Ran]]"
+organizacion: "[[World Atlas/Plano Terrenal/Coralia/Auris/Organizaciones/Gremios nacionales/Espadas libres de Eris/Parties/Rango C/Hojas de Ran/Hojas de Ran]]"
 cargoOrg:
   - Capitana
 titulos:
@@ -48,7 +48,7 @@ pathbuilderId: 425399
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-Capitana de las [[Hojas de Ran]].
+Capitana de las [[World Atlas/Plano Terrenal/Coralia/Auris/Organizaciones/Gremios nacionales/Espadas libres de Eris/Parties/Rango C/Hojas de Ran/Hojas de Ran]].
 #hojasDeRan
 
 ### Descripción física

@@ -19,7 +19,7 @@ cargoOrg:
   -
 titulos:
   - 
-clase: 
+clase: Magus
 subclase: 
 elan:
 pathbuilderId: # Solo relevante para PJs de pathfinder
@@ -52,6 +52,7 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 Texto introductorio
 
 ### Descripción física
+
 
 ### Background
 

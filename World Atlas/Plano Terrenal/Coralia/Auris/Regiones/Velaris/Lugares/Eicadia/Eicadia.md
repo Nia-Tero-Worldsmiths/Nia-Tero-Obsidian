@@ -1,0 +1,1 @@
+Capital de la región de [[Velaris]], regentada por [[Boh'ron]].

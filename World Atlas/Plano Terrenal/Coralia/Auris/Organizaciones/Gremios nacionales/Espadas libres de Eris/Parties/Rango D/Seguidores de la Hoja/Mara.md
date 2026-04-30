@@ -2,7 +2,7 @@
 title: Mara
 NoteType: persona
 imagen:
-  - - Mara.png
+  - Mara.png
 draft: true
 tags:
   - WIP
@@ -12,7 +12,7 @@ alineamiento: TN/CG...
 especie: Nagaji
 genero: Mujer
 edad: 24
-lugarNacimiento: "[[Lugar]]"
+lugarNacimiento: "[[Bosque de Manis]]"
 creencia:
 organizacion: "[[Seguidores de la Hoja]]"
 cargoOrg:
@@ -63,7 +63,7 @@ Mujer nagaiji joven, con parte inferior del cuerpo de basilisco y parte superior
 
 
 ### Background
-Viene de una región lejana(agua) al oeste del país, concretamente de la región de Vuwai. Se crió junto a su tribu en el bosque de Manis y decidió irse de viaje para conocer mundo
+Viene de una región lejana(agua) al oeste del país, concretamente de la región de Vuwai. Se crió junto a su tribu en el [[Bosque de Manis]] y decidió irse de viaje para conocer mundo
 
 
 ### Social

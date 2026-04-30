@@ -6,8 +6,8 @@ draft: true
 tags:
   - WIP
 aliases:
-  - 
-alineamiento: TN/CG...
+  - Emperatriz
+alineamiento: CN
 especie: Humana versatile heritage dragonblood
 genero: Mujer
 edad: 38

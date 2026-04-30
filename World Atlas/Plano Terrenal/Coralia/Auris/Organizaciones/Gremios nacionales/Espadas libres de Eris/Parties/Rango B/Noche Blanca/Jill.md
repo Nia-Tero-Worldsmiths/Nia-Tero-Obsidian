@@ -1,5 +1,5 @@
 ---
-title: 
+title: Jill
 NoteType: persona
 imagen: [[]] #Borrar paréntesis una vez importada la imagen
 draft: true
@@ -19,7 +19,7 @@ cargoOrg:
   -
 titulos:
   - 
-clase: 
+clase: Clériga
 subclase: 
 elan:
 pathbuilderId: # Solo relevante para PJs de pathfinder

@@ -12,9 +12,9 @@ alineamiento: TN/CG...
 especie: Anadi
 genero: Mujer
 edad: 32
-lugarNacimiento: "[[]]"
+lugarNacimiento: "[[Sylphoria]]"
 creencia:
-organizacion: "[[Noche Blanca]]"
+organizacion: "[[World Atlas/Plano Terrenal/Coralia/Auris/Organizaciones/Gremios nacionales/Espadas libres de Eris/Parties/Rango B/Noche Blanca/Noche Blanca]]"
 cargoOrg:
   - Vicecapitana
 titulos:

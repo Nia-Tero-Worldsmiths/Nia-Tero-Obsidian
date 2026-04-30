@@ -1,0 +1,1 @@
+Capital de la región de [[Cinderia]], regentada por [[Kaigal]].

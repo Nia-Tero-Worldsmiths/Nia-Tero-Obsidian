@@ -1,25 +1,25 @@
 ---
-title: Ross 
+title: Mimi
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: [[Mimi.jpg]] 
 draft: true
 tags:
   - WIP
 aliases:
   -
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
+especie: Humana
+genero: Mujer
+edad: 32
 lugarNacimiento: "[[Lugar]]"
 creencia: 
 organizacion:
-  - "[[Hojas de Ran]]"
+  - "[[Espadas libres de Eris]]"
 cargoOrg:
   -
 titulos:
   - 
-clase: Commander
+clase: Clériga
 subclase: 
 elan:
 pathbuilderId: # Solo relevante para PJs de pathfinder

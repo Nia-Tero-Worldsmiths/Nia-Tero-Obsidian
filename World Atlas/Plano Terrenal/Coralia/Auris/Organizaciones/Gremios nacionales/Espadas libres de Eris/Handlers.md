@@ -9,9 +9,7 @@ A nivel de personalidad comienza siendo algo insegura y un poco torpe pero poco 
 
 # Saris
 
-Saris es un autómata que trabaja desde hace bastantes años. Fue encontrado roto por las [[Hojas de Ran]] y reparado por [[Dina]]. Este autómata ha perdido parte de sus recuerdos y se publicarán ciertas misiones que permitan recuperar parte del banco de memoria o restablecer sus funciones básicas. A nivel de aspecto se trata de un autómata humanoide, con la piel de un trono cobre/bronce, con una especie de armadura metálica de acero pulido de un tono gris muy oscuro.
 
-A nivel de personalidad es bastante seco y tosco en un primer, con falta de conocimientos básicos en la forma de lidiar con las personas, irá aprendiendo poco a poco conforme a las interacciones que tenga en la campaña.
 
 
 Tendrán personalidad propia y solo actuarán como guía, serán mas bien una representación constante del gremio en sus aventuras y harán a su vez de guías.

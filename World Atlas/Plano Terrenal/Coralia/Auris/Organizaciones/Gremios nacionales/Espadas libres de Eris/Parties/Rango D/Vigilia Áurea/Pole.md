@@ -1,25 +1,25 @@
 ---
-title: 
+title: Pole
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: [[Pole.png]] 
 draft: true
 tags:
   - WIP
 aliases:
   -
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
-lugarNacimiento: "[[Lugar]]"
+especie: Samsaran 
+genero: Hombre
+edad: 50
+lugarNacimiento: "[[Faelas]]"
 creencia: 
 organizacion:
-  - "[[Organización]]"
+  - "[[Vigilia Áurea]]"
 cargoOrg:
   -
 titulos:
   - 
-clase: 
+clase: Sorcerer oscuridad
 subclase: 
 elan:
 pathbuilderId: # Solo relevante para PJs de pathfinder
@@ -49,30 +49,14 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
-Texto introductorio
 
 ### Descripción física
-
-### Background
+Se trata de un hombre Samsaran de piel azul oscura y el pelo blanco característico de su raza, de unos 50 años. Tiene unos ojos marrones y una barba completa con bigote. Tiene un porte elegante, casi de erudito, y viste una túnica de mago de tonos azulados o celeste. Se nota su avanzada edad en su piel y lleva una vara de hechicero de madera oscura retorcida con magia de oscuridad emanando de ella.
 
 #### Rasgos distintivos
 
-#### Habilidades especiales
-
-%%#### Vestimenta y accesorios%%
-
-%%#### Equipamiento especializado%%
-
 
 ### Background
+Está viviendo su primera  vida sin haber participado anteriormente en el ciclo de reencarnación. Es da la misma tribu de [[Elara]] que se asentó en [[Luma]], solo que el decidió probar suerte en el gremio de aventureros.
 
-
-
-### Social
-
-#### Formación
-
-#### Ocupación
-
-#### Lazos familiares
 

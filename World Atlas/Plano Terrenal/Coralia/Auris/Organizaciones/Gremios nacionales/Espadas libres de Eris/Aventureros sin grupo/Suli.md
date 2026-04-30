@@ -1,25 +1,25 @@
 ---
-title: 
+title: Suli
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: [[suli.jpg]]
 draft: true
 tags:
   - WIP
 aliases:
   -
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
+especie: Azarketi
+genero: Hombre
+edad: 30
 lugarNacimiento: "[[Lugar]]"
 creencia: 
 organizacion:
-  - "[[Organización]]"
+  - "[[Espadas libres de Eris]]"
 cargoOrg:
   -
 titulos:
   - 
-clase: 
+clase: Bardo
 subclase: 
 elan:
 pathbuilderId: # Solo relevante para PJs de pathfinder
@@ -49,11 +49,9 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
-Texto introductorio
+
 
 ### Descripción física
-
-### Background
 
 #### Rasgos distintivos
 

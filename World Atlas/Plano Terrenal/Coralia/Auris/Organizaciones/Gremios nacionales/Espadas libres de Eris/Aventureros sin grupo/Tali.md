@@ -1,25 +1,25 @@
 ---
-title: 
+title: Tali
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: [[Tali.jpg]] 
 draft: true
 tags:
   - WIP
 aliases:
   -
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
+especie: Fetchling
+genero: Mujer
+edad: 19
 lugarNacimiento: "[[Lugar]]"
 creencia: 
 organizacion:
-  - "[[Organización]]"
+  - "[[Espadas libres de Eris]]"
 cargoOrg:
   -
 titulos:
   - 
-clase: 
+clase: Oráculo
 subclase: 
 elan:
 pathbuilderId: # Solo relevante para PJs de pathfinder
@@ -52,8 +52,6 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 Texto introductorio
 
 ### Descripción física
-
-### Background
 
 #### Rasgos distintivos
 

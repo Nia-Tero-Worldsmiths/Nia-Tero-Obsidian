@@ -1,5 +1,5 @@
 ---
-title: 
+title: Piers
 NoteType: persona
 imagen: [[]] #Borrar paréntesis una vez importada la imagen
 draft: true
@@ -14,12 +14,12 @@ edad:
 lugarNacimiento: "[[Lugar]]"
 creencia: 
 organizacion:
-  - "[[Organización]]"
+  - "[[Hojas de Ran]]"
 cargoOrg:
   -
 titulos:
   - 
-clase: 
+clase: Thaumaturge
 subclase: 
 elan:
 pathbuilderId: # Solo relevante para PJs de pathfinder

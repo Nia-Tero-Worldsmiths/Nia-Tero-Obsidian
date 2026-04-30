@@ -1,28 +1,28 @@
 ---
-title: 
+title: Gary
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: [[Gary.jpg]]
 draft: true
 tags:
   - WIP
 aliases:
   -
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
-lugarNacimiento: "[[Lugar]]"
+especie: Humana
+genero: Hombre
+edad: 19
+lugarNacimiento: "[[Eicadia]]"
 creencia: 
 organizacion:
-  - "[[Organización]]"
+  - "[[Espadas libres de Eris]]"
 cargoOrg:
   -
 titulos:
   - 
-clase: 
+clase: Alquimista
 subclase: 
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
+pathbuilderId: 425399
 ---
 
 >[!infobox]
@@ -49,19 +49,14 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
-Texto introductorio
+Está a mitad de cambio de género con sus elixires. Crossdresser. Trabajaba como Saloon entertainer en Eicadia, y allí aprendió alquimia. Experta en bebidas alcohólicas
 
 ### Descripción física
 
-### Background
 
 #### Rasgos distintivos
 
 #### Habilidades especiales
-
-%%#### Vestimenta y accesorios%%
-
-%%#### Equipamiento especializado%%
 
 
 ### Background

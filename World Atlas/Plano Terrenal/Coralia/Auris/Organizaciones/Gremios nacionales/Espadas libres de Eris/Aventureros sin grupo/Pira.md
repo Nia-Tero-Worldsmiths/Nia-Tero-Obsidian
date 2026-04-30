@@ -1,28 +1,28 @@
 ---
-title: 
+title: Pira
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: [[Pira.png]]
 draft: true
 tags:
   - WIP
 aliases:
   -
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
+especie: Orca
+genero: Mujer
+edad: 31
 lugarNacimiento: "[[Lugar]]"
 creencia: 
 organizacion:
-  - "[[Organización]]"
+  - "[[Espadas libres de Eris]]"
 cargoOrg:
   -
 titulos:
   - 
-clase: 
+clase: Commander
 subclase: 
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
+pathbuilderId: 434904
 ---
 
 >[!infobox]
@@ -52,27 +52,20 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 Texto introductorio
 
 ### Descripción física
+Pira es una mujer de unos 32 años de raza orca y subraza grave orc. Su clase es commander.
 
-### Background
+A nivel visual es una mujer adulta con el pelo largo semirecogido de color anaranjado cobrizo y ojos grises. Tiene varias cicatrices pequeñas en la cara y maquillaje de ojos al estilo de una pintura de guerra.
+Tiene una apariencia madura y curtida, aunque con un físico atractivo.
+No suele llevar casco y tiene unos pendientes con forma de diente de alguna de las criaturas que mantó durante su entrenamiento.
+A nivel de armadura lleva una armadura pesada de tipo half plate de acero negro con unos guantaletes decorados y un estandarte de guerra en la espalda.
+
+Tiene una expresión determinada y autoritaria.
 
 #### Rasgos distintivos
 
-#### Habilidades especiales
-
-%%#### Vestimenta y accesorios%%
-
-%%#### Equipamiento especializado%%
 
 
 ### Background
 
-
-
 ### Social
-
-#### Formación
-
-#### Ocupación
-
-#### Lazos familiares
 

@@ -12,7 +12,7 @@ alineamiento: TN/CG...
 especie: Fetchling
 genero: Mujer
 edad: 26
-lugarNacimiento: "[[Lugar]]"
+lugarNacimiento: "[[Luma]]"
 creencia:
 organizacion: "[[Seguidores de la Hoja]]"
 cargoOrg:
