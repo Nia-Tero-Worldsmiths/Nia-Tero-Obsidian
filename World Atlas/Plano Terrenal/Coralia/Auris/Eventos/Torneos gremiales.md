@@ -45,9 +45,9 @@ El gremio ganador del torneo será el gremio que gane en más niveles y será co
 # Celebración
 Estos torneos son celebrado por los héroes y gobernantes de las ciudades:
 [[Khan]] en [[Luma]]
-[[Boh'ron]] en Eicadia
-[[Kaigal]] en Calcindor
-[[Vailaya]] en Neridia
+[[Boh'ron]] en [[Eicadia]]
+[[Kaigal]] en [[Calcindor]]
+[[Vailaya]] en [[Neridia]]
 En cada una de las sedes del torneo existe un palco desde el que presiden los juegos tanto el héroe como su corte, y son los encargados del baile de inicio y la ceremonia de apertura y cierre de los juegos.
 
 # Recompensas

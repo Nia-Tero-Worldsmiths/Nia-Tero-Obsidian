@@ -1,28 +1,28 @@
 ---
 title: Jill
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: Jill.jpg
 draft: true
 tags:
   - WIP
 aliases:
-  -
+  - 
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
-lugarNacimiento: "[[Lugar]]"
-creencia: 
+especie: Humana
+genero: Mujer
+edad: 30
+lugarNacimiento: "[[Auris]]"
+creencia:
 organizacion:
-  - "[[Organización]]"
+  - "[[Noche Blanca]]"
 cargoOrg:
-  -
+  - 
 titulos:
   - 
-clase: Clériga
-subclase: 
+clase: Champion
+subclase:
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
+pathbuilderId:
 ---
 
 >[!infobox]
@@ -49,26 +49,22 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
-Texto introductorio
+#nocheBlanca
 
 ### Descripción física
-
-### Background
 
 #### Rasgos distintivos
 
 #### Habilidades especiales
 
-%%#### Vestimenta y accesorios%%
-
-%%#### Equipamiento especializado%%
-
-
 ### Background
+Jill es una noble de 30 años que nació en palacio, en la capital de [[Auris]]. A pronta edad sus padres quisieron imponerle un matrimonio forzado por lo que se vió obligada a escapar de casa a una tempranda edad y ocultarse. Creció en la ciudad de [[Luma]] en los pisos inferiores, donde no le pudiesen encontrar. Allí comenzó a ganarse la vida como espada a sueldo y aprendió el oficio de aventurera. En una de sus misiones conoció a [[Dina]] y [[Colt]], quiénes acababan de ingresar al gremio de aventureros y le invitaron a que se uniese al gremio y su grupo, a lo que sin pensárselo aceptó. 
 
-
+Es la mejor amiga de [[Dina]] y al principio estaba enamorada de [[Colt]], pero con el tiempo lo superó y está en búsqueda de su alma gemela.
 
 ### Social
+
+Es una chica muy alegre y aventurera, aunque hecha en parte de menos su hogar. No es muy abierta a nivel romántico salvo que decida que es la persona adecuada. Chica fuerte y decidida. No le gusta mucho hablar de casarse o de su familia.
 
 #### Formación
 

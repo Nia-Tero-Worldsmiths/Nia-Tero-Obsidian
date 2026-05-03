@@ -1,20 +1,20 @@
 ---
-title: 
+title: Gaultam
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: Gaultam.jpg 
 draft: true
 tags:
   - WIP
 aliases:
   -
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
-lugarNacimiento: "[[Lugar]]"
+especie: Kenku
+genero: Macho
+edad: 32
+lugarNacimiento: "[[Calcindor]]"
 creencia: 
 organizacion:
-  - "[[Organización]]"
+  - "[[Mastines carmesí]]"
 cargoOrg:
   -
 titulos:
@@ -49,12 +49,9 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
-Texto introductorio
+#mastinesCarmesi 
 
 ### Descripción física
-
-
-### Background
 
 #### Rasgos distintivos
 
@@ -77,3 +74,4 @@ Texto introductorio
 
 #### Lazos familiares
 
+Ronnie se ha gastado el dinero del mes.

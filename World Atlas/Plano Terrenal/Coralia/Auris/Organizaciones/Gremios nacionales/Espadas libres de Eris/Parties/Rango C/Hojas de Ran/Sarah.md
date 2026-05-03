@@ -1,8 +1,7 @@
 ---
 title: Sarah
 NoteType: persona
-imagen:
-  - - Sarah.png
+imagen: Sarah.png
 draft: true
 tags:
   - WIP
@@ -48,7 +47,7 @@ pathbuilderId: 425399
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-Capitana de las [[World Atlas/Plano Terrenal/Coralia/Auris/Organizaciones/Gremios nacionales/Espadas libres de Eris/Parties/Rango C/Hojas de Ran/Hojas de Ran]].
+Capitana de las [[Hojas de Ran]]
 #hojasDeRan
 
 ### Descripción física

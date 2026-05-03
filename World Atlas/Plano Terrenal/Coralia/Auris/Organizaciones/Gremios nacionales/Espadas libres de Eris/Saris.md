@@ -1,7 +1,7 @@
 ---
 title: Saris
 NoteType: persona
-imagen: [[saris.jpg]]
+imagen: saris.jpg
 draft: true
 tags:
   - WIP
@@ -26,6 +26,8 @@ cargoOrg:
 > | Edad               | `=this.edad` años |
 > | Organización  | `=this.organizacion` |
 > | └>Cargo         | `=this.cargoOrg` |
+
+#Handlers
 
 Saris es un autómata que trabaja en las [[Espadas libres de Eris]] desde hace bastantes años. Fue encontrado roto por las [[Hojas de Ran]] y reparado por [[Dina]]. Este autómata ha perdido parte de sus recuerdos.
 

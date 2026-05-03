@@ -1,16 +1,16 @@
 ---
 title: Piers
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: Piers.png
 draft: true
 tags:
   - WIP
 aliases:
   -
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
+especie: Vishankya
+genero: Masculino
+edad: 36
 lugarNacimiento: "[[Lugar]]"
 creencia: 
 organizacion:
@@ -49,24 +49,16 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
-Texto introductorio
+#hojasDeRan
 
 ### Descripción física
-
-### Background
 
 #### Rasgos distintivos
 
 #### Habilidades especiales
 
-%%#### Vestimenta y accesorios%%
-
-%%#### Equipamiento especializado%%
-
 
 ### Background
-
-
 
 ### Social
 

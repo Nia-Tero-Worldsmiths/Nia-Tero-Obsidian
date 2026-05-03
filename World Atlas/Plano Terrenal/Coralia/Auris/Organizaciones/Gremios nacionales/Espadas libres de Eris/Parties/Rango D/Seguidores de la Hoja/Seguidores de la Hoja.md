@@ -3,7 +3,7 @@ nombre: Organizacion
 NoteType: organizacion
 cssclasses:
   - cards
-  - cards-cols-3
+  - cards-cols-2
 imagen:
   - []
 tags:

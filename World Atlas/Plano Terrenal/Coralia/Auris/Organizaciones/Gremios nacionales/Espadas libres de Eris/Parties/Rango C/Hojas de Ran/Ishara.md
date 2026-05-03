@@ -1,28 +1,28 @@
 ---
-title: Rosa
+title: Ishara
 NoteType: persona
-imagen: [[Rosa.png]]
+imagen: Ishara.png
 draft: true
 tags:
   - WIP
 aliases:
   -
 alineamiento: TN/CG...
-especie: Ghoran
+especie: Yaksha
 genero: Mujer
-edad: 12
-lugarNacimiento: "[[Sylphoria]]"
+edad: 32
+lugarNacimiento: "[[Templo de Eden]]"
 creencia: 
 organizacion:
-  - "[[Espadas libres de Eris]]"
+  - "[[Hojas de Ran]]"
 cargoOrg:
   -
 titulos:
   - 
-clase: Gunslinguer
+clase: Psychic the unbound step y precise discipline
 subclase: 
 elan:
-pathbuilderId: 425399
+pathbuilderId: # Solo relevante para PJs de pathfinder
 ---
 
 >[!infobox]
@@ -48,24 +48,20 @@ pathbuilderId: 425399
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-
-Texto introductorio
+#hojasDeRan
 
 ### Descripción física
-Se trata de una mujer Ghoran joven crecida a partir de rosas negras con un aspecto humanoide aunque en su piel se pueden encontrar flores, raíces y espinas propias de la rosa. 
-Tiene una piel de tono verde oscuro con rosas rosáceas y negras. y una bella cara con unos penetrantes ojos verdes. El ojo derecho se encuentra rodeado de una serie de espinas que continúan hasta su pelo. 
-Su pelo largo trenzado de color negro está entrelazado con flores, hojas y espinas de rosas rojas y negras.
-Como ropa lleva un atuendo de cuero negro estilo western con un cinturón de munición, dos botas con espuelas y los bajos de la capa de su atuendo recuerdan a las capas de las flores de las rosas.
-Usa dos pistolas de duelo largas, cada una en cada mano.
 
 #### Rasgos distintivos
-Presenta espinas y flores incrustadas en su piel y su pelo.
 
 #### Habilidades especiales
 
 ### Background
+Chica con la que le pusieron los cuernos a [[Kalis]]. Vivía en el [[Templo de Eden]] hasta que tuvo una aventura con la ex de [[Kalis]], sin saber que estaban saliendo. Decidió abandonar el templo por la vergüenza que sintió en el momento y usar sus habilidades como psíquica para hacerse aventurera, acabó en [[Faelas]] al intentar alejarse lo más posible del templo. Está algo interesada en Kalis.
 
 ### Social
+Tiene una personalidad muy extrovertida y le encanta la magia y los estudios, aunque siempre está dispuesta a tener algo de acción. 
+Es una chica a la que le gusta ligar y flirtear pero le gusta dejar a la gente con la miel en los labios.
 
-
+#### Lazos familiares
 

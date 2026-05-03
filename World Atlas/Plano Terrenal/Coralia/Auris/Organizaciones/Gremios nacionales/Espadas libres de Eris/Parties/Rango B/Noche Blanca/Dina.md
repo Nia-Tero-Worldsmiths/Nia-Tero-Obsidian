@@ -1,8 +1,7 @@
 ---
 title: Dina
 NoteType: persona
-imagen:
-  - - Dina.png
+imagen: Dina.png
 draft: true
 tags:
   - WIP
@@ -49,6 +48,8 @@ pathbuilderId: 425399
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
+#nocheBlanca
+
 ### Descripción física
 
 Este personaje de raza un Anadi, es decir una criatura que puede tener una forma humanoide y una forma arácnida. En su forma humana se trata de una mujer de 32 años que tiene una altura por encima de lo normal, teniendo una altura de casi dos metros. Tiene una complexión fuerte y de clase es una inventora. Como arma lleva un espadón de dos manos fabricado por ella misma con unas hojas cortantes incrustadas en la propia hoja del arma y un dispositivo para producir seda desde la guarda, que se conecta con los brazales que lleva.
@@ -64,7 +65,9 @@ Lleva una armadura de placas completa salvo en el casco. Tiene la piel un tanto 
 
 
 ### Background
-Originaria del bosque de Temis. Hermana mayor de [[Sarah]]. Era la herrera del pueblo en el que se criaron y de pequeña su familia adoptó a su hermana. Son de especies de araña diferente. Lleva toda su vida cuidando de su hermana y fue la que le fabricó el arma que ahora mismo porta.
+Originaria de [[Sylphoria]]. Hermana mayor de [[Sarah]]. Era la herrera del pueblo en el que se criaron y de pequeña su familia adoptó a su hermana. Son de especies de araña diferente. Lleva toda su vida cuidando de su hermana y fue la que le fabricó el arma que ahora mismo porta.
+
+Es la novia de [[Colt]].
 
 
 ### Social

@@ -1,28 +1,29 @@
 ---
 title: Tali
 NoteType: persona
-imagen: [[Tali.jpg]] 
+imagen:
+  - - Tali.jpg
 draft: true
 tags:
   - WIP
 aliases:
-  -
+  - 
 alineamiento: TN/CG...
 especie: Fetchling
 genero: Mujer
 edad: 19
 lugarNacimiento: "[[Lugar]]"
-creencia: 
+creencia:
 organizacion:
   - "[[Espadas libres de Eris]]"
 cargoOrg:
-  -
+  - 
 titulos:
   - 
 clase: Oráculo
-subclase: 
+subclase:
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
+pathbuilderId: 425399
 ---
 
 >[!infobox]
@@ -57,14 +58,8 @@ Texto introductorio
 
 #### Habilidades especiales
 
-%%#### Vestimenta y accesorios%%
-
-%%#### Equipamiento especializado%%
-
 
 ### Background
-
-
 
 ### Social
 

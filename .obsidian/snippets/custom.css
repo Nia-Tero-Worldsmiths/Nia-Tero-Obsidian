@@ -40,3 +40,7 @@ img{
 	object-position: 100% 0;
 	margin-bottom: -100% !important;
 }
+
+.cards-cols-2 img{
+	margin-bottom: 0% !important;
+}

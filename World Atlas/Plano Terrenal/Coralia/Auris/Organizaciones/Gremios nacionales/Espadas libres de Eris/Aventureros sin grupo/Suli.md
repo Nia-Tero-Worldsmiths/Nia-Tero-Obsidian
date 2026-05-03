@@ -11,7 +11,7 @@ alineamiento: TN/CG...
 especie: Azarketi
 genero: Hombre
 edad: 30
-lugarNacimiento: "[[Lugar]]"
+lugarNacimiento: "[[Neridia]]"
 creencia: 
 organizacion:
   - "[[Espadas libres de Eris]]"
@@ -57,14 +57,8 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 
 #### Habilidades especiales
 
-%%#### Vestimenta y accesorios%%
-
-%%#### Equipamiento especializado%%
-
 
 ### Background
-
-
 
 ### Social
 

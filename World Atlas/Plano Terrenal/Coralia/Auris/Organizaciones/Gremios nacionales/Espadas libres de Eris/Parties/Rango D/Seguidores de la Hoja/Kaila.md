@@ -1,8 +1,7 @@
 ---
 title: Kaila
 NoteType: persona
-imagen:
-  - - Kaila.png
+imagen: Kaila.png
 draft: true
 tags:
   - WIP
@@ -64,13 +63,11 @@ Es muda(lenguaje de signos) y además puede leer los labios
 
 
 ### Background
-
+De pequeña era abusada por sus padre y en una de sus palizas le dañaron las cuerdas vocales y acabó perdiendo el habla.
 
 ### Social
+Huirá y probablemente llorará si alguien le pregunta por qué es muda o desde cuando. No quiere hablar de su familia ni mucho de su pasado. Suele estar un poco perdida en sus pensamientos, está siempre alerta y trata de no mostrarse mucho como realmente es. Es una chica desconfiada de primeras aunque hace un esfuerzo por llevarse bien con todos.
 
-#### Formación
-
-#### Ocupación
 
 #### Lazos familiares
 

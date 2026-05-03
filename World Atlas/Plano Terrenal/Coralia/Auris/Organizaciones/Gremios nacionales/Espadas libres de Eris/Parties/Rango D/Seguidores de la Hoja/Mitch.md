@@ -1,8 +1,7 @@
 ---
 title: Mich
 NoteType: persona
-imagen:
-  - - Mich.png
+imagen: Mich.png
 draft: true
 tags:
   - WIP

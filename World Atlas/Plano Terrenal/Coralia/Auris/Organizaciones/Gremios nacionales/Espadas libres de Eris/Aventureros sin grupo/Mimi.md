@@ -11,7 +11,7 @@ alineamiento: TN/CG...
 especie: Humana
 genero: Mujer
 edad: 32
-lugarNacimiento: "[[Lugar]]"
+lugarNacimiento: "[[Desierto de Kharos]]"
 creencia: 
 organizacion:
   - "[[Espadas libres de Eris]]"
@@ -22,7 +22,7 @@ titulos:
 clase: Clériga
 subclase: 
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
+pathbuilderId: 425399
 ---
 
 >[!infobox]
@@ -53,15 +53,11 @@ Texto introductorio
 
 ### Descripción física
 
-### Background
+
 
 #### Rasgos distintivos
 
 #### Habilidades especiales
-
-%%#### Vestimenta y accesorios%%
-
-%%#### Equipamiento especializado%%
 
 
 ### Background

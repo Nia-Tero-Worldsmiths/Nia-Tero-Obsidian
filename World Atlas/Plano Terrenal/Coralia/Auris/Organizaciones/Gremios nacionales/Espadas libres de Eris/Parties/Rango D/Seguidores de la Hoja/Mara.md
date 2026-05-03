@@ -1,8 +1,7 @@
 ---
 title: Mara
 NoteType: persona
-imagen:
-  - Mara.png
+imagen: Mara.png
 draft: true
 tags:
   - WIP
@@ -63,14 +62,12 @@ Mujer nagaiji joven, con parte inferior del cuerpo de basilisco y parte superior
 
 
 ### Background
-Viene de una región lejana(agua) al oeste del país, concretamente de la región de Vuwai. Se crió junto a su tribu en el [[Bosque de Manis]] y decidió irse de viaje para conocer mundo
+Viene de una región lejana(agua) al oeste del país. Se crió junto a su tribu en el [[Bosque de Manis]] y decidió irse de viaje para conocer mundo
 
 
 ### Social
 
-#### Formación
-
-#### Ocupación
+Chica muy abierta e ilusionada con todo el nuevo mundo de ser aventurera, brabucona y con ganas de poner a prueba su fuerza siempre que pueda.
 
 #### Lazos familiares
 

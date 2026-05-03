@@ -1,7 +1,7 @@
 ---
 title: Pole
 NoteType: persona
-imagen: [[Pole.png]] 
+imagen: Pole.png 
 draft: true
 tags:
   - WIP
@@ -11,7 +11,7 @@ alineamiento: TN/CG...
 especie: Samsaran 
 genero: Hombre
 edad: 50
-lugarNacimiento: "[[Faelas]]"
+lugarNacimiento: "[[Luma]]"
 creencia: 
 organizacion:
   - "[[Vigilia Áurea]]"
@@ -49,6 +49,7 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
+#vigiliaAurea 
 
 ### Descripción física
 Se trata de un hombre Samsaran de piel azul oscura y el pelo blanco característico de su raza, de unos 50 años. Tiene unos ojos marrones y una barba completa con bigote. Tiene un porte elegante, casi de erudito, y viste una túnica de mago de tonos azulados o celeste. Se nota su avanzada edad en su piel y lleva una vara de hechicero de madera oscura retorcida con magia de oscuridad emanando de ella.
@@ -58,5 +59,8 @@ Se trata de un hombre Samsaran de piel azul oscura y el pelo blanco característ
 
 ### Background
 Está viviendo su primera  vida sin haber participado anteriormente en el ciclo de reencarnación. Es da la misma tribu de [[Elara]] que se asentó en [[Luma]], solo que el decidió probar suerte en el gremio de aventureros.
+
+
+Ha dicho que saludará a Elara de parte de esta gente.
 
 

@@ -1,28 +1,28 @@
 ---
 title: Colt
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: colt.jpg
 draft: true
 tags:
   - WIP
 aliases:
-  -
+  - 
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
-lugarNacimiento: "[[Lugar]]"
-creencia: 
+especie: Jotunn
+genero: Hombre
+edad: 32
+lugarNacimiento: "[[Yrvalass]]"
+creencia:
 organizacion:
   - "[[Noche Blanca]]"
 cargoOrg:
-  -
+  - 
 titulos:
   - 
 clase: Bárbaro
-subclase: 
+subclase:
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
+pathbuilderId:
 ---
 
 >[!infobox]
@@ -49,30 +49,23 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
-Texto introductorio
+#nocheBlanca
 
 ### Descripción física
-
-### Background
+Hombre Jotunn joven de unos 32 años. Viste unos ropajes tradicionales de su tribu, pese a que no los necesita con la temperatura de las zonas inferiores.
 
 #### Rasgos distintivos
 
 #### Habilidades especiales
 
-%%#### Vestimenta y accesorios%%
-
-%%#### Equipamiento especializado%%
 
 
 ### Background
-
+Renegado de la tribu de los ... . Nació como el hijo primogénito del rey de la tribu pero sus fuertes ideales y las ganas de explorar y abandonar la región lo llevaron al exilio de la tribu. Tiene una relación sentimental con [[Dina]], quien fue una de las primeras personas que conoció en sus aventuras. Llevan varios años saliendo.
 
 
 ### Social
-
-#### Formación
-
-#### Ocupación
+A nivel personal se trata de un chico seguro y con fuertes convicciones. Ama la libertad y le encanta la exploración y las aventuras. Daría su vida por [[Dina]] si fuese necesario. No tolera que le falten el respeto ni a él ni a su pareja.
 
 #### Lazos familiares
 

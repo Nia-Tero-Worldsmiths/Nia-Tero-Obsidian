@@ -1,17 +1,17 @@
 ---
 title: Ross 
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: Ross.jpg
 draft: true
 tags:
   - WIP
 aliases:
   -
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
-lugarNacimiento: "[[Lugar]]"
+especie: Humano
+genero: Hombre
+edad: 52
+lugarNacimiento: "[[Neridia]]"
 creencia: 
 organizacion:
   - "[[Hojas de Ran]]"
@@ -48,8 +48,8 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-
-Texto introductorio
+Vicecapitán de las [[Hojas de Ran]].
+#hojasDeRan 
 
 ### Descripción física
 
