@@ -1,5 +1,5 @@
 ---
-title: 
+title: Sonia
 NoteType: persona
 imagen: [[Sonia.png]]
 draft: true
@@ -11,7 +11,7 @@ alineamiento: TN/CG...
 especie: Humano
 genero: Mujer
 edad: 28
-organizacion: "[[Organización]]"
+organizacion: "[[Faelas]]"
 cargoOrg:
 ---
 

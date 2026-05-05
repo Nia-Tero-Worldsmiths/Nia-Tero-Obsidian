@@ -5,6 +5,7 @@ imagen: Mara.png
 draft: true
 tags:
   - WIP
+  - seguidoresDeLaHoja
 aliases:
   - 
 alineamiento: TN/CG...
@@ -47,7 +48,7 @@ pathbuilderId: 434904
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-#seguidoresDeLaHoja
+
 
 ### Descripción física
 Mujer nagaiji joven, con parte inferior del cuerpo de basilisco y parte superior de mujer con escamas que le cubren la piel haciendo de armadura. Las escamas tanto de la parte inferior como de su cuarto son de tonos arcoíris similares a los patrones de serpientes de agua. A nivel de armas lleva una war lance. Su pelo es de color negro y la piel de la cara(donde no tiene escamas) es de un tono amarillento claro, con unos penetrantes ojos verdes. Lleva una war lance.

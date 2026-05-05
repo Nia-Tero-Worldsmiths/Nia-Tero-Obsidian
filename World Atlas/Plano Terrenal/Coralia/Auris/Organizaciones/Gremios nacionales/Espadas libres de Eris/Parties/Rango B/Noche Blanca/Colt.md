@@ -5,6 +5,7 @@ imagen: colt.jpg
 draft: true
 tags:
   - WIP
+  - nocheBlanca
 aliases:
   - 
 alineamiento: TN/CG...
@@ -49,7 +50,7 @@ pathbuilderId:
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
-#nocheBlanca
+
 
 ### Descripción física
 Hombre Jotunn joven de unos 32 años. Viste unos ropajes tradicionales de su tribu, pese a que no los necesita con la temperatura de las zonas inferiores.

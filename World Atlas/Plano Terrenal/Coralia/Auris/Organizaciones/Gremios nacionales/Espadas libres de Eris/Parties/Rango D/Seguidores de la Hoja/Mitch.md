@@ -5,6 +5,7 @@ imagen: Mich.png
 draft: true
 tags:
   - WIP
+  - seguidoresDeLaHoja
 aliases:
   - 
 alineamiento: TN/CG...
@@ -47,7 +48,6 @@ pathbuilderId: 434904
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-#seguidoresDeLaHoja
 
 ### Descripción física
 Se trata de un humano joven, de unos 23 años. Es un chico rubio, delgado con ojos verdes. Tiene el aspecto de una persona noble. Lleva puesta una especie de túnica de druida de tonos blancos y rojos, con el símbolo de la espada alada del gremio sobre el corazón en el pecho. Tiene unos leves tatuajes mágicos en el cuerpo que no se ven por la armadura pero suben hasta el cuello, donde sí llegan a verse levemente. Tienen motivos similares a almas y fantasmas.

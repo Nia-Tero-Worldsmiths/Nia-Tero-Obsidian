@@ -5,6 +5,7 @@ imagen: Pira.png
 draft: true
 tags:
   - WIP
+  - aventurerosSinGrupo
 aliases:
   -
 alineamiento: TN/CG...

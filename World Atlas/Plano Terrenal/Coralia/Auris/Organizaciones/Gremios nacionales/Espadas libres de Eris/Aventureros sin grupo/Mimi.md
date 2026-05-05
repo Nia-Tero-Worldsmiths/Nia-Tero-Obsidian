@@ -1,10 +1,11 @@
 ---
 title: Mimi
 NoteType: persona
-imagen: [[Mimi.jpg]] 
+imagen: Mimi.jpg
 draft: true
 tags:
   - WIP
+  - aventurerosSinGrupo
 aliases:
   -
 alineamiento: TN/CG...

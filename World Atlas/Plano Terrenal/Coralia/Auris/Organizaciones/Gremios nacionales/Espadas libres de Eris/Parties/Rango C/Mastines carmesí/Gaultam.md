@@ -5,6 +5,7 @@ imagen: Gaultam.jpg
 draft: true
 tags:
   - WIP
+  - mastinesCarmesi
 aliases:
   -
 alineamiento: TN/CG...
@@ -49,7 +50,7 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
-#mastinesCarmesi 
+ 
 
 ### Descripción física
 

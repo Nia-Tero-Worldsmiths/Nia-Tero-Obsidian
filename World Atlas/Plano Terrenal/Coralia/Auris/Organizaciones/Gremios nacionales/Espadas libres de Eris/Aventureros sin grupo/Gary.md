@@ -1,10 +1,11 @@
 ---
 title: Gary
 NoteType: persona
-imagen: [[Gary.jpg]]
+imagen: Gary.jpg
 draft: true
 tags:
   - WIP
+  - aventurerosSinGrupo
 aliases:
   -
 alineamiento: TN/CG...

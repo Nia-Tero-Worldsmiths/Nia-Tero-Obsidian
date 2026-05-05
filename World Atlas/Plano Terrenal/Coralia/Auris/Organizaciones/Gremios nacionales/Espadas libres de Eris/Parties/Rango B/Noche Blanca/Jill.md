@@ -5,6 +5,7 @@ imagen: Jill.jpg
 draft: true
 tags:
   - WIP
+  - nocheBlanca
 aliases:
   - 
 alineamiento: TN/CG...
@@ -48,8 +49,6 @@ pathbuilderId:
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-
-#nocheBlanca
 
 ### Descripción física
 

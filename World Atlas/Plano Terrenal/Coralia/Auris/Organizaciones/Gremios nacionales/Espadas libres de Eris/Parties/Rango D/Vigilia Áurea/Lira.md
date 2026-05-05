@@ -5,6 +5,7 @@ imagen: Lira.png
 draft: true
 tags:
   - WIP
+  - vigiliaAurea
 aliases:
   - 
 alineamiento: TN/CG...
@@ -48,7 +49,6 @@ pathbuilderId:
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
-#vigiliaAurea
 
 ### Descripción física
 Físicamente se trata de una mujer lizardfolk muy joven. Tiene el cuerpo cubierto por escamas verdes en su totalidad, con una cresta negra que le recorre la espalda. A nivel de vestimenta lleva unos ropajes tribales con motivos que recuerdan a lagartos.  Corporalmente es bastante delgada al punto de que costaría distinguir su cuerpo de el de un hombre delgado, si no fuese por que tiene el pecho cubierto. Su clase es monje

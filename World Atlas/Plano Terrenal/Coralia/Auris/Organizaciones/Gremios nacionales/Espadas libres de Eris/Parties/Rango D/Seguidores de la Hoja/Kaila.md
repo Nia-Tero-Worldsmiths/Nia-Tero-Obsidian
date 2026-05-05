@@ -5,6 +5,7 @@ imagen: Kaila.png
 draft: true
 tags:
   - WIP
+  - seguidoresDeLaHoja
 aliases:
   - 
 alineamiento: TN/CG...
@@ -47,7 +48,6 @@ pathbuilderId: 434904
 > |Patrón/Elan | `=this.elan` |
 
 Nativa de la ciudad de [[Luma]]
-#seguidoresDeLaHoja
 
 ### Descripción física
 Se trata de una mujer fetchling de clase rogue. Es una mujer de unos 28 años de tez muy blanca y con un pelo oscuro largo con un degradado azul oscuro por capas. Lleva un eyeliner azul y pintalabios negro. Sus ojos son de un color amarillo y lleva puesta una armadura de cuero negro ligera con una capa de color azul medianoche y un cinturón con varias dagas en su interior.

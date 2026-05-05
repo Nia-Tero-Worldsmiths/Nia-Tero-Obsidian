@@ -1,10 +1,11 @@
 ---
 title: Suli
 NoteType: persona
-imagen: [[suli.jpg]]
+imagen: suli.jpg
 draft: true
 tags:
   - WIP
+  - aventurerosSinGrupo
 aliases:
   -
 alineamiento: TN/CG...

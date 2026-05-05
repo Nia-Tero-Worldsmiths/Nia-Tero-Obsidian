@@ -5,6 +5,7 @@ imagen: Ishara.png
 draft: true
 tags:
   - WIP
+  - hojasDeRan
 aliases:
   -
 alineamiento: TN/CG...
@@ -48,7 +49,6 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-#hojasDeRan
 
 ### Descripción física
 

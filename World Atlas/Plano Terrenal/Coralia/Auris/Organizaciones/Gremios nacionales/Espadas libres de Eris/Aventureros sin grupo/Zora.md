@@ -1,10 +1,11 @@
 ---
 title: Rosa
 NoteType: persona
-imagen: [[Rosa.png]]
+imagen: Rosa.png
 draft: true
 tags:
   - WIP
+  - aventurerosSinGrupo
 aliases:
   -
 alineamiento: TN/CG...
@@ -49,7 +50,7 @@ pathbuilderId: 425399
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
-Texto introductorio
+
 
 ### Descripción física
 Se trata de una mujer Ghoran joven crecida a partir de rosas negras con un aspecto humanoide aunque en su piel se pueden encontrar flores, raíces y espinas propias de la rosa. 

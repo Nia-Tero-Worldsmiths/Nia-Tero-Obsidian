@@ -5,6 +5,7 @@ imagen: Ronnie.png
 draft: true
 tags:
   - WIP
+  - mastinesCarmesi
 aliases:
   -
 alineamiento: TN/CG...
@@ -47,7 +48,7 @@ pathbuilderId: 425399
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-#mastinesCarmesi 
+
 Esqueleto adicto a las apuestas
 Nada más conocerlo perderá 50 de oro al apostar que los nuevos serían un grupo de más de 4 personas. Usa dos wind and flame wheel
 

@@ -5,6 +5,7 @@ imagen: Pole.png
 draft: true
 tags:
   - WIP
+  - vigiliaAurea
 aliases:
   -
 alineamiento: TN/CG...

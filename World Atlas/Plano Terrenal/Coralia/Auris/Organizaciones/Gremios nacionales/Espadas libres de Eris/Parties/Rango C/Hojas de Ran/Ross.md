@@ -5,6 +5,7 @@ imagen: Ross.jpg
 draft: true
 tags:
   - WIP
+  - hojasDeRan
 aliases:
   -
 alineamiento: TN/CG...
@@ -48,8 +49,7 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-Vicecapitán de las [[Hojas de Ran]].
-#hojasDeRan 
+Vicecapitana
 
 ### Descripción física
 

@@ -1,3 +1,32 @@
+---
+title: Lars
+NoteType: persona
+draft: true
+tags:
+  - WIP
+aliases:
+  - 
+alineamiento: TN/CG...
+especie:Humano oread
+genero: Masculino
+edad: 45
+organizacion: "[[4 alas de Auris]]"
+cargoOrg: Capitán de la región de Faelas
+---
+
+
+>[!infobox]
+># **`=this.title`**
+> || Información |
+> | -------------- | -------------- |
+> | Alineamiento  | `=this.alineamiento` |
+> | Especie          | `=this.especie` |
+> | Género           | `=this.genero` |
+> | Edad               | `=this.edad` años |
+> | Organización  | `=this.organizacion` |
+> | └>Cargo         | `=this.cargoOrg` |
+
+
 Capitán de la guardia en la fortaleza de cuarzo
 Se trata de un humano mitad oread con control de magia elemental de tierra básico, es un magus como clase.
 

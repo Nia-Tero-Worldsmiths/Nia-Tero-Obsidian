@@ -1,11 +1,11 @@
 ---
 title: Tali
 NoteType: persona
-imagen:
-  - - Tali.jpg
+imagen: Tali.jpg
 draft: true
 tags:
   - WIP
+  - aventurerosSinGrupo
 aliases:
   - 
 alineamiento: TN/CG...

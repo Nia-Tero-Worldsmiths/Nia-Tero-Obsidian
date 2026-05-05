@@ -5,6 +5,7 @@ imagen: Dina.png
 draft: true
 tags:
   - WIP
+  - nocheBlanca
 aliases:
   - 
 alineamiento: TN/CG...
@@ -47,8 +48,6 @@ pathbuilderId: 425399
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-
-#nocheBlanca
 
 ### Descripción física
 
