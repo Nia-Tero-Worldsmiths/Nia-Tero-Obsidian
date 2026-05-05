@@ -2,14 +2,14 @@ Kalis es un yaksha masculino de aspecto joven y relativamente musculado. Tiene u
 En cuanto a su pelo, cuenta con un largo pelo blanco, con una coleta detrás de la cabeza por la que cae una pequeña parte del pelo y un flequillo en la parte delantera. Tiene un punto blanco en el centro de la frente similar al de las tradiciones indias
 
 
-Kalis es nativo del templo Eden, donde se crió junto a su familia. Al alcanzar la mayoría de edad se mudó la ciudad de Eicadia, donde encontró pronto trabajo en la corte de Boh'Ron.
+Kalis es nativo del [[Templo de Eden]], donde se crió junto a su familia. Al alcanzar la mayoría de edad se mudó la ciudad de Eicadia, donde encontró pronto trabajo en la corte de [[Boh'ron]].
 Kalis lleva la mitad de su vida trabajando como emisario de la corte de Boh'Ron. Ha estado realizando principalmente labores diplomáticas y estudiando la situación geopolítica del reino, a la vez que tratando de forjar relaciones diplomáticas con países y asociaciones extranjeras. Tras pasar tanto tiempo trabajando en la corte fue reconocido por el mismo Boh'ron, quien premió su lealtad y le obsequió con su eidolon Selina.
 Selina es un Eidolon elemental de aire que tomó consciencia debido a los poderes de Boh'ron. Nació gracias a la concentración de poder elemental de aire existente bajo Eicadia hace cientos de años, pero tras ser derrotada hace muchos años perdió su capacidad de manifestarse y su consciencia, por lo que ahora que ha "renacido" tiene fuertes lagunas en su memoria.
 
 Debido a los contactos de la bruja, Boh'Ron decidió prestarle su ayuda enviando a Kalis a la misión de investigar la isla, con la esperanza de poder ayudarla y recopilar información de los planes de esta.
 
-
-Tuvo problemas en una antigua relación que le dejó traumado.
+# Background
+Tuvo problemas en una antigua relación que le dejó traumado. Su novia tuvo una aventura con otra mujer y el las pilló en el acto, lo cual le generó un microtrauma. Tras esto, la chica le separó de su grupo de amigos común y esto acabo forzando a Kalis a abandonar el templo para recuperarse.
 
 
 5 caballeros iguales son los iron wraiths, arrogantes pero capaces.

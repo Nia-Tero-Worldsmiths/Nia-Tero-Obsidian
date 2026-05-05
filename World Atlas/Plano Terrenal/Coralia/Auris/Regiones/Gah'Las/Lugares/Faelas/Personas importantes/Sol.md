@@ -1,3 +1,32 @@
+---
+title: Sol
+NoteType: persona
+draft: true
+tags:
+  - WIP
+aliases:
+  -
+alineamiento: TN/CG...
+especie: Humano
+genero: Hombre 
+edad: 30
+organizacion: "[[Estratica]]"
+cargoOrg: Jefe de la sede de Faelas
+---
+
+>[!infobox]
+># **`=this.title`**
+> || Información |
+> | -------------- | -------------- |
+> | Alineamiento  | `=this.alineamiento` |
+> | Especie          | `=this.especie` |
+> | Género           | `=this.genero` |
+> | Edad               | `=this.edad` años |
+> | Organización  | `=this.organizacion` |
+> | └>Cargo         | `=this.cargoOrg` |
+
+
+Descripción
 Líder de [[Estratica]] en la región de [[Faelas]].
 
 Se trata de un humano joven, de unos 30 años, con el pelo negro y la piel bastante blanca. Posee una estatura media y una pose bastante imponente.

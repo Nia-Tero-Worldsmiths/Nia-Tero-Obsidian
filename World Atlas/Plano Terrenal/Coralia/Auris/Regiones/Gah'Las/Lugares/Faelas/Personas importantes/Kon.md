@@ -1,3 +1,31 @@
+---
+title: Kon
+NoteType: persona
+draft: true
+tags:
+  - WIP
+aliases:
+  -
+alineamiento: TN/CG...
+especie: Orco
+genero: Masculino 
+edad: 40
+organizacion: "[[Espadas libres de Eris]]"
+cargoOrg: Jefe de la sede de Faelas
+---
+
+>[!infobox]
+># **`=this.title`**
+> || Información |
+> | -------------- | -------------- |
+> | Alineamiento  | `=this.alineamiento` |
+> | Especie          | `=this.especie` |
+> | Género           | `=this.genero` |
+> | Edad               | `=this.edad` años |
+> | Organización  | `=this.organizacion` |
+> | └>Cargo         | `=this.cargoOrg` |
+
+
 Líder de las [[Espadas libres de Eris]] en la región de [[Faelas]].
 
 Se trata de un orco adulto de unos 40 años, con el pelo blanco y que lleva una armadura casi tribal.

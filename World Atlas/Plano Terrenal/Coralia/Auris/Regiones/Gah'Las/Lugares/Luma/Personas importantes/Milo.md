@@ -1,4 +1,34 @@
-#Personajes [[Personas importantes]]
+---
+title: 
+NoteType: persona
+draft: true
+tags:
+  - WIP
+  - Personajes
+aliases:
+  -
+alineamiento: TN/CG...
+especie: 
+genero: 
+edad: 
+organizacion: "[[Organización]]"
+cargoOrg:
+---
+
+>[!infobox]
+># **`=this.title`**
+> || Información |
+> | -------------- | -------------- |
+> | Alineamiento  | `=this.alineamiento` |
+> | Especie          | `=this.especie` |
+> | Género           | `=this.genero` |
+> | Edad               | `=this.edad` años |
+> | Organización  | `=this.organizacion` |
+> | └>Cargo         | `=this.cargoOrg` |
+
+
+
+ [[Personas importantes]]
 
 Milo es el dueño de la [[Granja de Milo ]]en la que tiene lugar la primera misión de la campaña.
 

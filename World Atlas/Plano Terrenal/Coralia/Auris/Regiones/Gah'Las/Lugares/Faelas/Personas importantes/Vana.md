@@ -1,3 +1,33 @@
+---
+title: Vana
+NoteType: persona
+draft: true
+tags:
+  - WIP
+aliases:
+  -
+alineamiento: TN/CG...
+especie: Humano
+genero: Mujer 
+edad: 27
+organizacion: "[[Buscadores perdidos]]"
+cargoOrg: Jefa de la sede de Faelas
+---
+
+>[!infobox]
+># **`=this.title`**
+> || Información |
+> | -------------- | -------------- |
+> | Alineamiento  | `=this.alineamiento` |
+> | Especie          | `=this.especie` |
+> | Género           | `=this.genero` |
+> | Edad               | `=this.edad` años |
+> | Organización  | `=this.organizacion` |
+> | └>Cargo         | `=this.cargoOrg` |
+
+
+Descripción
+
 Líder de los [[Buscadores perdidos]] en la región de [[Faelas]].
 
 Se trata de una mujer humana con la tez blanca, unos ojos de un color verde claro y pelo negro como la noche. Viste unos ropajes ligeros con una pequeña coraza que le protege el torso. Tiene 27 años 

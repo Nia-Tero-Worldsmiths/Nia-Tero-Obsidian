@@ -1,0 +1,1 @@
+Capital de la región de [[Thalassia]], regentada por [[Vailaya]].
