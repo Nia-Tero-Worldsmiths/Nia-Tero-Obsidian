@@ -1,7 +1,7 @@
 ---
-title: Rosa
+title: Zora
 NoteType: persona
-imagen: Rosa.png
+imagen: Zora.png
 draft: true
 tags:
   - WIP

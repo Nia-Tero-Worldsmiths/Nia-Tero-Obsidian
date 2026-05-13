@@ -1,0 +1,4 @@
+Pueblo de la comarca de [[Lacitus]], en la región de [[Velaris]]. 
+Se trata de un pueblo turístico y bastante conocido de [[Auris]] debido a sus peculiares creencias culturales, basadas en la astrología y los oráculos, siendo este tipo de prácticas muy poco común en la región de [[Auris]].
+
+La principal organización del pueblo se llama los ojos de Nova, y son los que se encargan de la formación de los oráculos y de la gestión y mantenimiento del templo. Son prácticamente los únicos adoradores del dios Nova en toda [[Auris]], y se enorgullecen de llevar la palabra de su dios al pueblo mediante las lecturas de sus famosos oráculos.

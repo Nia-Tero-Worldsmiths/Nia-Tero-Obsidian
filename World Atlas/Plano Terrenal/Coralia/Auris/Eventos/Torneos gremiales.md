@@ -4,8 +4,6 @@ Los torneos tiene lugar en Enero, Abril, Julio, Septiembre y por último en novi
 
 Luma -> 23 Enero
 
-Estamos a día 28 de Febrero
-
 Eicadia -> 30 Marzo
 
 Calcindor -> 4 de Junio

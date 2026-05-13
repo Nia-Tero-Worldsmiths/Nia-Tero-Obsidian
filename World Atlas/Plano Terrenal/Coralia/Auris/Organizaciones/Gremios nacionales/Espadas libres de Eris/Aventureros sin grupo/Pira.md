@@ -1,7 +1,7 @@
 ---
 title: Pira
 NoteType: persona
-imagen: Pira.png
+imagen: Pira.jpg
 draft: true
 tags:
   - WIP
