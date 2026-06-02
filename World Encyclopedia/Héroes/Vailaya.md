@@ -51,7 +51,7 @@ elan: Desconocida
 Texto introductorio
 
 ### Descripción física
-Hombre joven de 24 años, con una altura de metro noventa y piel morena, con marcados rasgos "sudamericanos", con un pelo de un tono castaño oscuro y una voz relativamente grave para su edad. Personalidad calmada y serena.
+
 
 #### Rasgos distintivos
 

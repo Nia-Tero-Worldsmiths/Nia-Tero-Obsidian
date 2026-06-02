@@ -1,0 +1,1 @@
+ Lasin es el nombre que recibe un antiquísimo árbol de cerezo de flores blancas de la ciudad de [[Faelas]], en el centro de la plaza frente al ayuntamiento. Cuenta la leyenda que fue en torno a este árbol donde se firmaron los pactos entre los pueblos de la zona para fundar la ciudad de [[Faelas]].

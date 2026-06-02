@@ -50,8 +50,6 @@ pathbuilderId: 425399
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
-Texto introductorio
-
 ### Descripción física
 
 
@@ -62,8 +60,7 @@ Texto introductorio
 
 
 ### Background
-
-
+Clériga de Fajro
 
 ### Social
 
