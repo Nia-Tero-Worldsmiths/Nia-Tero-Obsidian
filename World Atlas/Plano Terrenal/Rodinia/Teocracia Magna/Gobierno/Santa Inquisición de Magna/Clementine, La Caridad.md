@@ -21,7 +21,7 @@ cargoOrg:
   - Comendadora
   - Senescal (verdugo mayor)
 titulos:
-  - La Humildad
+  - La Caridad
 clase: Clériga
 subclase: Muerte
 elan: Silentu
