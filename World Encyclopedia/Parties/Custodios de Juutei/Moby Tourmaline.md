@@ -13,14 +13,14 @@ especie: Aksolotl
 genero: Mujer
 edad: 20
 lugarNacimiento: "[[Capital del Mar]]"
-creencia: "[[Las 20 Caras de Fortuna]]"
-organizacion: "[[Cuerpo Especial de Noir]]"
+creencia: Egos y Dagon
+organizacion: "[[Custodios de Juutei]]"
 cargoOrg:
   - Co-Dueña del gremio de aventureros de [[Dandelion]]
-titulos: 
+titulos:
 clase: Rogue / Maga
 subclase: Arcane Trickster / Bladesinger
-elan: 
+elan:
 ---
 
 >[!infobox]

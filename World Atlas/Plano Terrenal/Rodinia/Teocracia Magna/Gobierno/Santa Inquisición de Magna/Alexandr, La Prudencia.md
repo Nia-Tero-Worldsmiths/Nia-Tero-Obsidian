@@ -1,13 +1,15 @@
 ---
 title: Alexandr Bentz
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: Alexandr Bentz.jpg
 draft: true
 tags:
   - WIP
+  - inquisidor
+  - mariscal
 aliases:
-  -La Prudencia
-  -Alexandr Bentz
+  - La Prudencia
+  - Alexandr Bentz
 alineamiento: NE
 especie: Humano
 genero: Hombre
@@ -23,7 +25,6 @@ titulos:
 clase: Clérigo
 subclase: Conocimiento
 elan: Boreala
-pathbuilderId: # Solo relevante para PJs de pathfinder
 ---
 
 >[!infobox]
@@ -47,7 +48,6 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 
 Texto introductorio
