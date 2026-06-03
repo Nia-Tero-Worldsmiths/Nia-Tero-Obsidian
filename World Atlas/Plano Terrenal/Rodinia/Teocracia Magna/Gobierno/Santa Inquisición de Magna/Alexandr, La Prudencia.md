@@ -7,6 +7,7 @@ tags:
   - WIP
 aliases:
   -La Prudencia
+  -Alexandr Bentz
 alineamiento: NE
 especie: Humano
 genero: Hombre

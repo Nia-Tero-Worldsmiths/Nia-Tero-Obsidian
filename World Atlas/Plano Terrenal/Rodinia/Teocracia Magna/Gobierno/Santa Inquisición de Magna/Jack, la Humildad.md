@@ -1,7 +1,7 @@
 ---
 title: Jack Aston Bentz
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: Jack.jpg
 draft: true
 tags:
   - WIP
@@ -73,9 +73,9 @@ En el pasado, tuvo una relacion amorosa con una tal Cinera. A pesar de las queja
 ### Social
 
 #### Formación
-Como muchos otros clerigos de la [[Santa Inquisición de Magna]], paso cierto tiempo estudiando en la GAAL bajo la tutela de [[Celeste, La Castidad]], a quien a dia de hoy aun guarda mucho respeto. En su tiempo de entrenamiento militar en Militia tuvo algunos roces con Ölbaum Kirsch y [[Diana Birgersdotter]], a la cual desprecia por no ser humana.
+Como muchos otros clerigos de la [[Santa Inquisición de Magna]], paso cierto tiempo estudiando en la GAAL bajo la tutela de [[Celeste, La Castidad|Celeste de Carvajal]], a quien a dia de hoy aun guarda mucho respeto. En su tiempo de entrenamiento militar en Militia tuvo algunos roces con Ölbaum Kirsch y [[Diana Birgersdotter]], a la cual desprecia por no ser humana.
 
 #### Ocupación
 
 #### Lazos familiares
-Es nieto de Alexander Bentz, la Prudencia. Esto a incitado acusaciones entre varios miembros de la Inquisicion de que no ha obtenido el puesto por habilidad, sino por un evidente caso de nepotismo.
+Es nieto de [[Alexandr, La Prudencia|Alexander Bentz]], la Prudencia. Esto ha incitado acusaciones entre varios miembros de la Inquisicion de que no ha obtenido el puesto por habilidad, sino por un evidente caso de nepotismo.
