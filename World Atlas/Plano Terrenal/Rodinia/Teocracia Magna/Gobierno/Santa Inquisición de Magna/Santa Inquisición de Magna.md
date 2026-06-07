@@ -32,7 +32,7 @@ En esta categoría se incluyen los cargos más altos de todo el país. A pesar d
 **Lista de inquisidores actuales**
 ```dataview
 TABLE without ID embed(link(imagen, "500x500")) as "Portrait", file.link as "Nombre"
-FROM #comendador 
+FROM #inquisidor 
 SORT title ASC
 ```
 

@@ -18,12 +18,12 @@ edad: 19
 lugarNacimiento: Birgitta
 creencia: "[[Las 20 Caras de Fortuna]]"
 organizacion:
-  - "[[Santa Inquisición de Magna]] (anteriormente)"
-  - "[[Cuerpo Especial de Noir]]"
+  - "[[Santa Inquisición de Magna]]"
+  - "[[Custodios de Juutei]]"
 cargoOrg:
-  - Comendadora de [[Región de Tambler|Tambler]] (anteriormente)
+  - Comendadora de La Vigilia
 titulos:
-  - La Diligencia (anteriormente)
+  - La Diligencia
 clase: Clériga
 subclase: Celo
 elan: Fajro
@@ -51,7 +51,7 @@ elan: Fajro
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
-Diana era la inquisidora mayor más joven, ostentando el título de La Diligencia. Como Comendadora, su labor principal era la de defender y vigilar la región de Tambler. Actualmente recibe asilo político en Rondfort como miembro del [[Cuerpo Especial de Noir]] 
+Diana era la inquisidora mayor más joven, ostentando el título de La Diligencia. Como Comendadora, su labor principal era la de defender y vigilar la región de Tambler. Actualmente recibe asilo político en Rondfort como miembro de las [[Custodios de Juutei]].
 
 ### Descripción física
 
