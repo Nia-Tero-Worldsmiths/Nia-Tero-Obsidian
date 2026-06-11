@@ -1,26 +1,26 @@
 ---
-title: Ross 
+title: Isolde Neerdowell
 NoteType: persona
-imagen: Ross.jpg
+imagen: Isolde.jpg
 draft: true
 tags:
   - WIP
-  - hojasDeRan
+  - Kingmaker
 aliases:
   -
 alineamiento: TN/CG...
-especie: Humano
-genero: Hombre
-edad: 52
-lugarNacimiento: "[[Neridia]]"
+especie: 
+genero: 
+edad: 
+lugarNacimiento: "[[Lugar]]"
 creencia: 
 organizacion:
-  - "[[Hojas de Ran]]"
+  - "[[Organización]]"
 cargoOrg:
   -
 titulos:
   - 
-clase: Commander
+clase: 
 subclase: 
 elan:
 pathbuilderId: # Solo relevante para PJs de pathfinder
@@ -49,11 +49,10 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-Vicecapitan
+
+Texto introductorio
 
 ### Descripción física
-
-### Background
 
 #### Rasgos distintivos
 
@@ -62,8 +61,6 @@ Vicecapitan
 %%#### Vestimenta y accesorios%%
 
 %%#### Equipamiento especializado%%
-
-Padrino de [[Pom]]
 
 
 ### Background

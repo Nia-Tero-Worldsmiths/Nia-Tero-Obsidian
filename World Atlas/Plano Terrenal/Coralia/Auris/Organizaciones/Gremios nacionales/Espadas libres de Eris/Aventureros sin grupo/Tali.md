@@ -64,6 +64,8 @@ Tali era la primera en la línea de sucesión de oráculos de su pueblo de [[Est
 Es una persona socialmente torpe a la que no le gusta inicialmente estar rodeada de gente y trata de escabullirse siempre que puede de cualquier tipo de situación o evento social.
 Le gustan la astrología, el misticismo, comer y descubrir cosas nuevas.
 No le gusta lidiar con desconocidos, masas de gente, las mascotas y ser venerada
+Le gusta el vino
+Las estrellas le dijeron que conocería a Pom
 
 
 ### Misión

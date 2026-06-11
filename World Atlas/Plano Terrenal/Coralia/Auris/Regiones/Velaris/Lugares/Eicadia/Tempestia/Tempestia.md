@@ -1,0 +1,1 @@
+Fortaleza flotante situada sobre la capital de [[Velaris]], [[Eicadia]]. Creada y defendida hasta sus últimos momentos por el ejército elemental de la región.

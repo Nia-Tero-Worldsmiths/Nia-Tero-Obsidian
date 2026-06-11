@@ -5,7 +5,7 @@ imagen: Gary.jpg
 draft: true
 tags:
   - WIP
-  - aventurerosSinGrupo
+  - corazasPetreas
 aliases:
   -
 alineamiento: TN/CG...
@@ -72,4 +72,6 @@ Le gusta mucho ir de compras, los bailes y el ambiente de taberna. Gran fan de l
 Le gusta experimentar con pociones nuevas y venenos.
 
 No le gusta pasar mucho tiempo alejada de una ciudad, o que husmeen mucho en su pasado sin confianza.
+
+Su padrino es Piers
 

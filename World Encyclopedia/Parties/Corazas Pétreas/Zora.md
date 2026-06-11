@@ -5,7 +5,7 @@ imagen: Zora.png
 draft: true
 tags:
   - WIP
-  - aventurerosSinGrupo
+  - corazasPetreas
 aliases:
   -
 alineamiento: TN/CG...
@@ -61,6 +61,7 @@ Usa dos pistolas de duelo largas, cada una en cada mano.
 
 #### Rasgos distintivos
 Presenta espinas y flores incrustadas en su piel y su pelo.
+Deben comprarle un arma Dina
 
 #### Habilidades especiales
 
