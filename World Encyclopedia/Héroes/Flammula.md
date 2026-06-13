@@ -10,12 +10,12 @@ aliases:
 alineamiento: TN
 especie: Humano
 genero: Mujer
-edad: 500
+edad: 857
 lugarNacimiento: 
- - - Graalem general
+ - Graalem general
 creencia: Alquimia
 organizacion: 
- - - Elementalis
+ - Elementalis
 cargoOrg:
   - Gran alquimista
 titulos:
@@ -47,7 +47,8 @@ elan: Desconocida
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
-Texto introductorio
+Mujer
+Edad aparente: 55 años
 
 ### Descripción física
 
@@ -61,7 +62,12 @@ Texto introductorio
 
 
 ### Background
-La gran alquimista, fundadora de [[Auris]]
+La gran alquimista, fundadora de [[Auris]].
+Durante el ritual de [[Origo mutatio]] fue castigada por el mundo al recolectar de forma indebida la energía elemental necesaria. 
+Actualmente está volviendo a recopilar energía elemental, esta vez cree que de la forma adecuada, para poder transmutar el quinto elemento, y ascender junto a sus compañeros, creando el sueño de cualquier alquimista, una piedra filosofal.
+Realiza experimentos en la mazmorra e instalaciones de [[Graalem]], junto a su organización [[Mutatio]].
+
+Es la cabeza detrás de [[Elementalis]], y su líder.
 
 
 ### Social

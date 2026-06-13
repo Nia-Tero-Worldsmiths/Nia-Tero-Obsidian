@@ -1,26 +1,29 @@
 ---
-title: Heroína del agua
+title: Vailaya
 NoteType: persona
-imagen: Diana (Rondfort).jpg
+imagen: Vailaya.jpg
 draft: true
 tags:
   - WIP
+  - Elementalis
 aliases:
   -
 alineamiento: TN
 especie: Undina
 genero: Mujer
-edad: 500
+edad: 857
 lugarNacimiento: 
- - - Graalem general
+ - Graalem general
 creencia: Alquimia
 organizacion: 
- - - Elementalis
+ - Elementalis
 cargoOrg:
   - Gran general del ala de agua
+  - Gobernante de Thalassia
 titulos:
   - Gran general
   - Rey
+  - Heroína del agua
 clase: Desconocida
 subclase: Desconocida
 elan: Desconocida
@@ -48,10 +51,10 @@ elan: Desconocida
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
-Texto introductorio
 
 ### Descripción física
-
+Mujer de ascedencia Maüi
+Edad aparente: 40 años
 
 #### Rasgos distintivos
 
@@ -59,26 +62,32 @@ Texto introductorio
 
 #### Vestimenta y accesorios
 
-%%#### Equipamiento especializado%%
 
 
 ### Background
-Fue la segunda integrante del grupo de [[Flammula]]. Se conocieron gracias a la intervención de [[Kaigal]], quien conoció a Vailaya en uno de sus viajes en búsqueda de héroes. Tuvieron una corta aventura amorosa entre ellas que tras un año terminó por [[Kaigal]]. Pese a sufrir mucho la pérdida, fue incapaz de separarse del grupo de [[Flammula]]. Había algo en ella que la atraía, quizá fuese su ambición o quizá algo más, pero al final del día no sentía ningún tipo de deseo de querer separarse del grupo ni siquiera por la ruptura, llegando incluso a sentir una cierta atracción hacia [[Flammula]]. Completamente convencida de querer ayudar a su compañera a cumplir su objetivo, Vailaya fue un pilar fundamental del grupo y ayudó en gran manera a su huída del continente.
+Fue la segunda integrante del grupo de [[Flammula]]. Se conocieron gracias a la intervención de [[Kaigal]], quien conoció a Vailaya en uno de sus viajes en búsqueda de héroes. Al principio estaba un poco recelosa de [[Flammula]], pero tras conocer los objetivos de esta decidió acompañarla en su misión, a fin de cuentas era lo más interesante que había encontrado desde que llegó a este extraño nuevo mundo. Completamente convencida de querer ayudar a sus compañera a cumplir su objetivo, Vailaya fue un pilar fundamental del grupo y ayudó en gran manera a su huida del continente, utilizando sus habilidades de control del agua.
+Cuando [[Boh'ron]] se unió al grupo, sintió una fuerte atracción hacia este, casi de amor a primera vista. Tuvieron sus dificultades pero eventualmente acabaron formando un vínculo personal, al margen de ser compañeros de [[Flammula]].
 
-Tras su llegada al nuevo continente, siguió las indicaciones de [[Flammula]] hasta que encontraron la tierra a la que llamó [[Graalem]], lugar donde realizaron el pacto sagrado con [[Flammula]]. Como resultado del pacto, se produjo la "Gran Ascensión", [[Origo mutatio]], en la que los 4 héroes, a cambio de un voto eterno de lealtad frente a su líder, recibieron el regalo de la transmutación y les convirtió en nuevas criaturas mucho más poderosas de lo que originalmente fueron, esta vez completamente alineadas con los poderes elementales regalados por sus dioses.
+Tras su llegada al nuevo continente, siguió las indicaciones de [[Flammula]] hasta que encontraron la tierra a la que llamó [[Graalem]], lugar donde realizaron el pacto sagrado con [[Flammula]]. Como resultado del pacto, se produjo la "Gran Ascensión", [[Origo mutatio]].
 
 A partir de este momento, Vailaya se hizo uno con su control del agua y se convirtió en un poderoso Genasi de agua, una undina.
 
-El nombre que les fue concedido a los 4 ascendidos fue el de [[Elementalis]] 
+Tras su conversión, fue encargada con la [[Conquista de Thalassia]], por parte de [[Flammula]].
+Fue la primera [[Elementalis]] en terminar su tarea de conquista, y erigió la ciudad de [[Neridia]] en el núcleo elemental de la región, siguiendo las instrucciones de su general. Tras terminar con esta tarea, asistió a su pareja [[Boh'ron]] en la [[Conquista de Velaris]] contra la resistencia de [[Selina]].
 
-Una vez ascendida, su nueva forma y desmesurado poder le concedieron la admiración y alabanza casi divina de los habitantes de la zona, tanto a ella como a los otros 3 ascendidos, por lo que pudieron liderar y someter a la población local rápidamente a cambio de cederles un residuo de su poder, formando así las 4 alas de Auris, el principal ejército del país.
+Tras finalizar esta tarea, se dedicó al gobierno y restauración de la región de [[Thalassia]], a la vez que se encargaba de aumentar la recolección de energía elemental bajo las órdenes de [[Flammula]].
 
+Siempre que dispone de algo de tiempo libre intenta viajar a [[Eicadia]].
 
 ### Social
-
-#### Formación
+Tiene una personalidad muy abierta, siempre buscando cosas nuevas y formas de divertirse.
+Le encanta relajarse, disfrutar del mar y la naturaleza.
+No le gusta complicarse la vida ni los problemas vanales humanos, prefiere evitar dar demasiadas vueltas a nada. 
+Tiende a dejarse llevar y fluír.
 
 #### Ocupación
+Gobernante de [[Thalassia]], general de las [[4 alas de Auris]].
 
 #### Lazos familiares
+Mujer de [[Boh'ron]]
 

@@ -52,6 +52,7 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
+Nombre real: Kaliros Altharis
 ### Descripción física
 Kalis es un yaksha masculino de aspecto joven y relativamente musculado. Tiene una figura fina y ágil, con una altura de 1,80 metros. Tiene una piel un poco morena, y cuenta con varios tatuajes de colores con flores de loto y otros motivos similares en los brazos.
 En cuanto a su pelo, cuenta con un largo pelo blanco, con una coleta detrás de la cabeza por la que cae una pequeña parte del pelo y un flequillo en la parte delantera. Tiene un punto blanco en el centro de la frente similar al de las tradiciones indias
@@ -61,6 +62,7 @@ Tatuajes coloridos de con motivos florales en los brazos
 
 #### Habilidades especiales
 Muy hábil en diplomacia y asuntos de la corte, capaz de lidiar de forma eficaz con todo tipo de situaciones y personas de la realeza.
+
 
 ### Background
 
@@ -80,6 +82,9 @@ Respondiendo a la llamada de socorro de Minerva, [[Boh'Ron]] decidió prestarle 
 
 #### Ocupación
 Trabaja generalmente como consejero y cónsul en la corte de [[Boh'ron]], aunque ha sido enviado en una misión "diplomática" para ayudar a recuperar Muro Dornöj
+
+
+Mentora de Linzi Miranda. ¿Qué escribiría? -> Épica historia romántica.
 
 
 
