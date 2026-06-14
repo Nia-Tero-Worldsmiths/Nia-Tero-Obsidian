@@ -2,3 +2,5 @@ Culto fundado al dios pagano Prax, un falso dios de la naturaleza creado por un 
 
 El culto está utilizando un ritual para recolectar almas, supuestamente con el objetivo de reencarnar a Prax. Sin embargo, el líder de la secta está recolectando las almas para fortalecerse, realizando un pacto con una entidad.
 
+El líder recibe el nombre de Zac Herring, un noble de la región que vive en una hacienda lejos de la ciudad.
+
