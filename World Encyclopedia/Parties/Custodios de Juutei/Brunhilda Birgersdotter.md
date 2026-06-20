@@ -6,19 +6,20 @@ draft: false
 tags:
   - PJ
   - WIP
+  - custodios-de-juutei
 aliases:
   - Brunhilda
   - Bru-nya
   - Hilda
 alineamiento: CN
-especie: Goblin
+especie: Goblin / Daeva
 genero: Mujer
-edad: 18
+edad: 20
 lugarNacimiento: Drakovidis Norte
 creencia: ???
 organizacion: "[[Custodios de Juutei]]"
 cargoOrg:
-  - Co-Dueña del gremio de aventureros de [[Dandelion]]
+  - Miembro
 titulos:
   - Adalid de la Tormenta
 clase: Bárbara / Guerrera
@@ -52,27 +53,26 @@ Texto introductorio
 
 ### Descripción física
 
-#### Rasgos distintivos
-
-
+#### Visado de Boreas
 
 #### Habilidades especiales
 
-
-
-#### Vestimenta y accesorios
-
-
+%%#### Vestimenta y accesorios%%
 
 %%#### Equipamiento especializado%%
 
+
+### Background
+
+
 ### Social
 
-#### Formación
+%%#### Ocupación%%
 
-
-
-#### Ocupación
-
+#### Entorno cercano
 
 #### Lazos familiares
+
+#### Amistades
+
+%%#### Otros%%

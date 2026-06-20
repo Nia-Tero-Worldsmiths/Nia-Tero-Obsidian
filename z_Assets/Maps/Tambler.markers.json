@@ -1,0 +1,171 @@
+{
+  "size": {
+    "w": 2048,
+    "h": 1536
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_uz50be",
+      "x": 0.6609552556818179,
+      "y": 0.3493251047405875,
+      "layer": "default",
+      "link": "Velmonte",
+      "iconKey": "capital",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_s2kg0u",
+      "x": 0.43833274210427614,
+      "y": 0.3871801225309834,
+      "layer": "default",
+      "link": "Montelegro",
+      "iconKey": "ciudad / pueblo",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_xk2hdr",
+      "x": 0.4166666666666667,
+      "y": 0.6305609809027778,
+      "layer": "default",
+      "link": "Dandelion",
+      "iconKey": "ciudad / pueblo",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_igasrb",
+      "x": 0.9423828125000001,
+      "y": 0.6500922309027778,
+      "layer": "default",
+      "link": "Hammerhold",
+      "iconKey": "punto de interés",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_kjd1y3",
+      "x": 0.7763671875,
+      "y": 0.6978352864583334,
+      "layer": "default",
+      "link": "Villa Nicolás",
+      "iconKey": "ciudad / pueblo",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_g7w2ke",
+      "x": 0.078125,
+      "y": 0.7607693142361112,
+      "layer": "default",
+      "link": "Peaje Soberano",
+      "iconKey": "punto de interés",
+      "tooltip": ""
+    },
+    {
+      "type": "pin",
+      "id": "marker_ka585u",
+      "x": 0.07161458333333334,
+      "y": 0.18785264756944445,
+      "layer": "default",
+      "link": "Pabellón de Halcón",
+      "iconKey": "punto de interés",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    {
+      "path": "z_Assets/Maps/Tambler.jpg"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "z_Assets/Maps/Tambler.jpg",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": [],
+  "pinSizeOverrides": {
+    "hotel": 240
+  },
+  "deleted": [
+    {
+      "id": "undo_hxky8u",
+      "label": "Delete pin",
+      "createdAt": "2026-06-07T16:53:22.405Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_p5qysd",
+          "x": 0.3467573221757322,
+          "y": 0.49280857740585776,
+          "layer": "default",
+          "link": "",
+          "iconKey": "pinRed",
+          "tooltip": ""
+        },
+        "index": 0
+      }
+    },
+    {
+      "id": "undo_5cyl6h",
+      "label": "Delete pin",
+      "createdAt": "2026-06-07T16:49:53.774Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_fuxvox",
+          "x": 0.5620998660157652,
+          "y": 0.4830100844547249,
+          "layer": "default",
+          "link": "",
+          "iconKey": "hotel",
+          "tooltip": ""
+        },
+        "index": 1
+      }
+    },
+    {
+      "id": "undo_vwnj2i",
+      "label": "Delete pin",
+      "createdAt": "2026-06-07T16:05:53.990Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_sbuqp7",
+          "x": 0.48902844519511607,
+          "y": 0.5354934924156564,
+          "layer": "default",
+          "link": "",
+          "iconKey": "pinRed",
+          "tooltip": "",
+          "scaleLikeSticker": true
+        },
+        "index": 0
+      }
+    }
+  ]
+}

@@ -6,7 +6,7 @@ draft: true
 tags:
   - WIP
 aliases:
-  -
+  - 
 alineamiento: TN/CG...
 especie: 
 genero: 
@@ -22,7 +22,6 @@ titulos:
 clase: 
 subclase: 
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
 ---
 
 >[!infobox]
@@ -46,14 +45,13 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 
 Texto introductorio
 
 ### Descripción física
 
-#### Rasgos distintivos
+%%#### Visado de Boreas%%
 
 #### Habilidades especiales
 
@@ -65,12 +63,15 @@ Texto introductorio
 ### Background
 
 
-
 ### Social
 
-#### Formación
+%%#### Ocupación%%
 
-#### Ocupación
+#### Entorno cercano
 
 #### Lazos familiares
+
+#### Amistades
+
+%%#### Otros%%
 

@@ -5,8 +5,10 @@ imagen: Diana (Rondfort).jpg
 draft: false
 tags:
   - inquisidor
-  - ex-inquisidor
   - WIP
+  - comendador
+  - custodios-de-juutei
+  - PJ
 aliases:
   - Diana
   - Dianita
@@ -14,7 +16,7 @@ aliases:
 alineamiento: LG
 especie: Humana / Dragona (magnesio)
 genero: Mujer
-edad: 19
+edad: 21
 lugarNacimiento: Birgitta
 creencia: "[[Las 20 Caras de Fortuna]]"
 organizacion:
@@ -22,6 +24,7 @@ organizacion:
   - "[[Custodios de Juutei]]"
 cargoOrg:
   - Comendadora de La Vigilia
+  - Líder
 titulos:
   - La Diligencia
 clase: Clériga

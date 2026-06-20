@@ -22,7 +22,7 @@ perteneceA: "[[Organización]]"
 
 Ciudad capital de la region de Hokkyou
 
-### Historia
+%%### Historia%%
 
 
 ### Sociopolítica
