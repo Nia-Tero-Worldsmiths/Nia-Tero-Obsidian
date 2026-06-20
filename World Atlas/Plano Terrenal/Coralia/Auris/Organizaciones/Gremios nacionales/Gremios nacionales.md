@@ -37,6 +37,9 @@ Rango S aprox nivel 14 en adelante
 Los grupos de aventureros tendrán un "padrino" que será un aventurero de rango superior del mismo gremio. Este padrino les acompañará hasta que alcancen el rango C dentro de dicho gremio. Podrán elegir tener un padrino en general o un padrino para cada uno. Esta será una persona que podrá realizar las siguientes funciones:
 - Seguimiento de las misiones
 - Consejos sobre cómo obtener mayor puntuación/subir de rango
+	- Que no caiga la gente 
+	- No activar trampas innecesarias
+	- Tener un liderazgo un fuerte
 - Ayudar a preparar los exámenes de subida de rango
 - Reuniones periódicas para conocer su proceso dentro del gremio
 - Preparación de misiones

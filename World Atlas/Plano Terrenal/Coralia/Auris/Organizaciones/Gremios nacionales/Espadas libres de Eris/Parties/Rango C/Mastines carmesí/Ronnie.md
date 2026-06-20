@@ -64,6 +64,7 @@ Esqueleto de huesos negros adicto a las apuestas que viste con ropas de cuero si
 
 %%#### Equipamiento especializado%%
 
+Apuesta de que gana el equipo de rei
 
 ### Background
 

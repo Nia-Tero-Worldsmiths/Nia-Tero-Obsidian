@@ -60,7 +60,7 @@ pathbuilderId: 425399
 
 
 ### Background
-Clériga de Fajro
+Clériga de un dios menor de Fajro, la princesa de las arenas, venerada por todo el [[Desierto de Kharos]]. Se crió como una clériga en un templo de su ciudad nativa, Kanth. Era un templo muy tradicionalista que no aprueba la adoración a otros dioses ni la salida del templo en general.
 
 ### Social
 

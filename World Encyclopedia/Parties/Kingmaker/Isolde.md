@@ -1,29 +1,29 @@
 ---
-title: Gary
+title: Isolde Neerdowell
 NoteType: persona
-imagen: Gary.jpg
+imagen: Isolde.jpg
 draft: true
 tags:
   - WIP
-  - aventurerosSinGrupo
+  - Kingmaker
 aliases:
   -
 alineamiento: TN/CG...
-especie: Humana
-genero: Hombre
-edad: 22
-lugarNacimiento: "[[Eicadia]]"
+especie: 
+genero: 
+edad: 
+lugarNacimiento: "[[Lugar]]"
 creencia: 
 organizacion:
-  - "[[Espadas libres de Eris]]"
+  - "[[Organización]]"
 cargoOrg:
   -
 titulos:
   - 
-clase: Alquimista
+clase: 
 subclase: 
 elan:
-pathbuilderId: 425399
+pathbuilderId: # Solo relevante para PJs de pathfinder
 ---
 
 >[!infobox]
@@ -50,14 +50,19 @@ pathbuilderId: 425399
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
+Texto introductorio
+
 ### Descripción física
-Físicamente tiene el aspecto de una chica joven con la piel muy clarita y el pelo verde menta. Suele llevar ropajes de aventurera algo estrafalarios que recuerdan a los ropajes de un alquimista. Lleva una camisa blanca con una chaqueta de cuero de mangas cortas y anchas decorada con varias tiras de cuerdo. En la cintura lleva un cinturón lleno de viales y un pantalón ancho corto del que cuelgan varias bolsas. Como calzado emplean unas botas dobles y unas medias de lana largas sobre la rodilla.
 
 #### Rasgos distintivos
 Lo más destacable de su apariencia son el tono de su pelo y unas características gafas anchas que le facilitan la vista a distancias cortas.
 
 #### Habilidades especiales
-Potis de genderbending
+
+%%#### Vestimenta y accesorios%%
+
+%%#### Equipamiento especializado%%
+
 
 ### Background
 Gary se crió en la ciudad de [[Eicadia]], donde vivió de joven estudiando recetas alquímicas básicas de sus padres. Siempre tuvo una cierta tendencia a querer verse similar a una mujer y durante su adolescencia se tintó el pelo y comenzó a vestir como una mujer, hasta el punto de que prácticamente era indistinguible de una salvo por su voz y características físicas.

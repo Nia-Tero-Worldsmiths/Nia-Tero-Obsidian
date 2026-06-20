@@ -1,27 +1,27 @@
 ---
-title: Ross 
+title: Ebrietas
 NoteType: persona
-imagen: Ross.jpg
+imagen: [[]] #Borrar paréntesis una vez importada la imagen
 draft: true
 tags:
   - WIP
-  - hojasDeRan
+  - corazasPetreas
 aliases:
   -
 alineamiento: TN/CG...
-especie: Humano
-genero: Hombre
-edad: 52
-lugarNacimiento: "[[Neridia]]"
+especie: Surki
+genero: Mujer
+edad: 
+lugarNacimiento: "[[Lugar]]"
 creencia: 
 organizacion:
-  - "[[Hojas de Ran]]"
+  - "[[Corazas Pétreas]]"
 cargoOrg:
   -
 titulos:
-  - 
-clase: Commander
-subclase: 
+  - En el espectro?¿
+clase: Magus
+subclase: Investigator
 elan:
 pathbuilderId: # Solo relevante para PJs de pathfinder
 ---
@@ -49,11 +49,10 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-Vicecapitan
+
+Texto introductorio
 
 ### Descripción física
-
-### Background
 
 #### Rasgos distintivos
 
@@ -62,8 +61,6 @@ Vicecapitan
 %%#### Vestimenta y accesorios%%
 
 %%#### Equipamiento especializado%%
-
-Padrino de [[Pom]]
 
 
 ### Background

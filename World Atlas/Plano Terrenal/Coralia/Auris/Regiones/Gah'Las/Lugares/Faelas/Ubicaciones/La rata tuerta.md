@@ -1,0 +1,2 @@
+Local del barrio bajo regentado por [[Teiga]]. Aquí tienen lugar la mayoría de reuniones con los contactos del submundo en la ciudad, e incluso reuniones entre sindicatos de la misma debido a la neutralidad de la ubicación. Ni siquiera la guardia parece estar interesada en meterse con el lugar. 
+Desde fuera parece una posada de mala muerte que encaja sin problemas con el resto del barrio bajo, aunque por dentro se trata de uno de los locales más lujosos de la ciudad.

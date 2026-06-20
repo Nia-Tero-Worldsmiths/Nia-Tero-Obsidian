@@ -5,6 +5,7 @@ imagen: Pom.jpg
 draft: false
 tags:
   - WIP
+  - corazasPetreas
 aliases:
   - 
 alineamiento: TN
