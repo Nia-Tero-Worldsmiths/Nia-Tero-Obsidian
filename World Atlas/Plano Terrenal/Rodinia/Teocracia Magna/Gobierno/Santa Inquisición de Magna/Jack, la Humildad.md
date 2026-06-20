@@ -8,6 +8,7 @@ tags:
   - inquisidor
   - comendador
 aliases:
+  - Jack Aston Bentz
   - La Humildad
   - Jackass
 alineamiento: LE
@@ -57,27 +58,21 @@ Con una estatura de 172cm y un peso que ronda los 68kg, tiene el aspecto de un h
 
 Suele vestir con camisa y corbata sea la circunstancia que sea.
 
-#### Rasgos distintivos
 Aunque trata de tapársela con el flequillo, tiene una notoria cicatriz bajo el ojo derecho, y otra menos notoria en el lado izquierdo de su labio inferior. 
 
 #### Habilidades especiales
 
-%%#### Vestimenta y accesorios%%
-
-#### Equipamiento especializado
+#### Vestimenta y accesorios
 Lleva una armadura media, tratándose solo de unas grebas y la armadura de su brazo derecho, la cual cuenta con un broquel integrado y una gran hombrera, además de las púas típicas de los inquisidores mayores.
 
 En su brazo izquierdo lleva una capa de duelo, que usa para ocultar los movimientos de su estoque en combate. La capa cuenta con una pequeña hombrera, y se afianza al cuerpo con una correa decorada con el emblema de la familia Bentz.
 
 ### Background
+Como muchos otros clérigos de la [[Santa Inquisición de Magna]], pasó cierto tiempo estudiando en la GAAL bajo la tutela de [[Celeste, La Castidad|Celeste de Carvajal]], a quien a día de hoy aún guarda mucho respeto. En su tiempo de entrenamiento militar en Militia tuvo algunos roces con Ölbaum Kirsch y [[Diana Birgersdotter]], a la cual desprecia por no ser humana "de pura sangre".
+
 En el pasado, tuvo una relación amorosa con una tal Cinera. A pesar de las quejas de su familia por estar saliendo con una persona de una clase social inferior a la suya, él estaba dispuesto a casarse con ella. Sin embargo, un día descubrió que se trataba de una cóncuba, lo cual lo llevó a confrontarla, siendo así como recibió esas cicatrices en la cara. Tras aprisionarla e interrogarla, fue ejecutada en la capital por [[Clementine, La Caridad]].
 
 ### Social
-
-#### Formación
-Como muchos otros clérigos de la [[Santa Inquisición de Magna]], pasó cierto tiempo estudiando en la GAAL bajo la tutela de [[Celeste, La Castidad|Celeste de Carvajal]], a quien a día de hoy aún guarda mucho respeto. En su tiempo de entrenamiento militar en Militia tuvo algunos roces con Ölbaum Kirsch y [[Diana Birgersdotter]], a la cual desprecia por no ser humana "de pura sangre".
-
-#### Ocupación
 
 #### Lazos familiares
 Es nieto de [[Alexandr, La Prudencia|Alexandr Bentz]], la Prudencia. Esto ha incitado acusaciones entre varios miembros de la Inquisición de que no ha obtenido el puesto por habilidad, sino por un evidente caso de nepotismo.

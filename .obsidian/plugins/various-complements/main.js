@@ -834,8 +834,11 @@ var AppHelper = class {
   async loadJson(path2) {
     return JSON.parse(await this.loadFile(path2));
   }
-  async saveJson(path2, data) {
-    await this.unsafeApp.vault.adapter.write(path2, JSON.stringify(data));
+  async saveJson(path2, data, space2) {
+    await this.unsafeApp.vault.adapter.write(
+      path2,
+      JSON.stringify(data, null, space2)
+    );
   }
   equalsAsEditorPosition(one, other) {
     return one.line === other.line && one.ch === other.ch;
@@ -1818,6 +1821,7 @@ var DEFAULT_SETTINGS = {
   intelligentSuggestionPrioritization: {
     enabled: true,
     historyFilePath: "",
+    prettyPrintHistoryFile: false,
     maxDaysToKeepHistory: 30,
     maxNumberOfHistoryToKeep: 0
   },
@@ -2927,6 +2931,20 @@ var VariousComplementsSettingTab = class extends import_obsidian3.PluginSettingT
             }).setValue(
               this.plugin.settings.intelligentSuggestionPrioritization.historyFilePath
             );
+          });
+        }
+      );
+      addFilterableSetting(
+        "Pretty-print history file",
+        "Save the history file with indentation to make Git diffs smaller.",
+        (setting) => {
+          setting.addToggle((tc) => {
+            tc.setValue(
+              this.plugin.settings.intelligentSuggestionPrioritization.prettyPrintHistoryFile
+            ).onChange(async (value) => {
+              this.plugin.settings.intelligentSuggestionPrioritization.prettyPrintHistoryFile = value;
+              await this.plugin.saveSettings();
+            });
           });
         }
       );
@@ -10373,7 +10391,8 @@ var VariousComponents = class extends import_obsidian9.Plugin {
         (0, import_obsidian9.normalizePath)(
           this.settings.intelligentSuggestionPrioritization.historyFilePath || DEFAULT_HISTORIES_PATH
         ),
-        (_b = (_a = this.suggester.selectionHistoryStorage) == null ? void 0 : _a.data) != null ? _b : {}
+        (_b = (_a = this.suggester.selectionHistoryStorage) == null ? void 0 : _a.data) != null ? _b : {},
+        this.settings.intelligentSuggestionPrioritization.prettyPrintHistoryFile ? 2 : void 0
       );
     }, 5e3);
     this.suggester = await AutoCompleteSuggest.new(

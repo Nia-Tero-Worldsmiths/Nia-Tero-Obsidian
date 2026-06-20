@@ -1,0 +1,107 @@
+{
+  "icons": [
+    {
+      "key": "accidente natural",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20version%3D%221.1%22%20id%3D%22Layer_1%22%20x%3D%220px%22%20y%3D%220px%22%20width%3D%22613px%22%20height%3D%22613px%22%20viewBox%3D%22-80%20-80%20773%20773%22%20enable-background%3D%22new%200%200%20613%20613%22%20xml%3Aspace%3D%22preserve%22%20fill%3D%22%23ffffff%22%20data-zm-orig-viewbox%3D%220%200%20613%20613%22%20data-zm-outline-color%3D%22%23000000%22%20data-zm-outline-width%3D%2240%22%20data-zm-outline-opacity%3D%221%22%20data-zm-inner-dx%3D%220%22%20data-zm-inner-dy%3D%220%22%3E%3Cg%20id%3D%22zm-outline%22%20fill%3D%22none%22%20stroke%3D%22%23000000%22%20stroke-width%3D%2240%22%20stroke-opacity%3D%221%22%20vector-effect%3D%22non-scaling-stroke%22%3E%0A%3Cpath%20d%3D%22M537.943%2C182.629c-1.106%2C3.334-2.24%2C6.688-3.375%2C10.061c12.914%2C63.136%2C8.138%2C131.738-24.434%2C206.633%20%20c4.727-48.104%2C3.945-94.115-3.489-138.221c-8.774%2C17.071-19.964%2C33.611-31.412%2C50.262c1.624%2C47.832-7.289%2C98.315-30.716%2C152.182%20%20c3.758-38.258%2C3.07-75.137-0.697-110.997c-15.342%2C17.445-32.467%2C34.212-51.658%2C49.565c-4.544%2C30.334-13.095%2C61.746-27.227%2C94.243%20%20c2.535-25.823%2C2.942-51.332%2C2.093-76.09c-42.542%2C28.933-93.065%2C52.071-154.275%2C64.92c51.544-28.929%2C92.679-58.775%2C126.352-89.355%20%20c-22.151-4.615-44.943-7.649-67.713-9.773c30.104-7.607%2C59.841-10.575%2C88.658-9.773c20.592-21.058%2C37.797-42.238%2C51.658-64.224%20%20c-38.41-6.907-77.284-8.904-116.581-6.281c45.119-21.834%2C90.065-29.46%2C134.729-26.527c11.54-23.755%2C19.428-48.327%2C25.131-73.297%20%20c-33.968-3.21-70.95%2C4.85-113.09%2C15.358c38.05-34.857%2C79.179-49.998%2C120.07-54.451c2.127-17.302%2C3.246-34.637%2C3.448-52.511%20%20C276.773-19.88%2C326.741%2C431.58%2C31.242%2C504.112C274.387%2C654.73%2C745.217%2C436.32%2C537.943%2C182.629z%22%2F%3E%0A%3Cpath%20d%3D%22M494.008%2C35.356c12.027-5.851%2C26.627-6.195%2C37.697%2C4.188c6.318%2C59.448-13.032%2C185.099-89.355%2C272.952%20%20c58.208-106.086%2C62.474-182.905%2C51.658-277.138V35.356z%22%2F%3E%0A%3C%2Fg%3E%3Cg%20id%3D%22zm-inner%22%3E%0A%3Cpath%20d%3D%22M537.943%2C182.629c-1.106%2C3.334-2.24%2C6.688-3.375%2C10.061c12.914%2C63.136%2C8.138%2C131.738-24.434%2C206.633%20%20c4.727-48.104%2C3.945-94.115-3.489-138.221c-8.774%2C17.071-19.964%2C33.611-31.412%2C50.262c1.624%2C47.832-7.289%2C98.315-30.716%2C152.182%20%20c3.758-38.258%2C3.07-75.137-0.697-110.997c-15.342%2C17.445-32.467%2C34.212-51.658%2C49.565c-4.544%2C30.334-13.095%2C61.746-27.227%2C94.243%20%20c2.535-25.823%2C2.942-51.332%2C2.093-76.09c-42.542%2C28.933-93.065%2C52.071-154.275%2C64.92c51.544-28.929%2C92.679-58.775%2C126.352-89.355%20%20c-22.151-4.615-44.943-7.649-67.713-9.773c30.104-7.607%2C59.841-10.575%2C88.658-9.773c20.592-21.058%2C37.797-42.238%2C51.658-64.224%20%20c-38.41-6.907-77.284-8.904-116.581-6.281c45.119-21.834%2C90.065-29.46%2C134.729-26.527c11.54-23.755%2C19.428-48.327%2C25.131-73.297%20%20c-33.968-3.21-70.95%2C4.85-113.09%2C15.358c38.05-34.857%2C79.179-49.998%2C120.07-54.451c2.127-17.302%2C3.246-34.637%2C3.448-52.511%20%20C276.773-19.88%2C326.741%2C431.58%2C31.242%2C504.112C274.387%2C654.73%2C745.217%2C436.32%2C537.943%2C182.629z%22%2F%3E%0A%3Cpath%20d%3D%22M494.008%2C35.356c12.027-5.851%2C26.627-6.195%2C37.697%2C4.188c6.318%2C59.448-13.032%2C185.099-89.355%2C272.952%20%20c58.208-106.086%2C62.474-182.905%2C51.658-277.138V35.356z%22%2F%3E%0A%3C%2Fg%3E%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "defaultLink": "",
+      "inCollections": true
+    },
+    {
+      "key": "capital",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20version%3D%221.1%22%20id%3D%22Layer_1%22%20x%3D%220px%22%20y%3D%220px%22%20width%3D%22613px%22%20height%3D%22613px%22%20viewBox%3D%22-80%20-80%20773%20773%22%20enable-background%3D%22new%200%200%20613%20613%22%20xml%3Aspace%3D%22preserve%22%20fill%3D%22%23ffffff%22%20data-zm-orig-viewbox%3D%220%200%20613%20613%22%20data-zm-outline-color%3D%22%23000000%22%20data-zm-outline-width%3D%2240%22%20data-zm-outline-opacity%3D%221%22%20data-zm-inner-dx%3D%220%22%20data-zm-inner-dy%3D%220%22%3E%3Cg%20id%3D%22zm-outline%22%20fill%3D%22none%22%20stroke%3D%22%23000000%22%20stroke-width%3D%2240%22%20stroke-opacity%3D%221%22%20vector-effect%3D%22non-scaling-stroke%22%3E%0A%3Cpath%20d%3D%22M599.02%2C301.357v-62.413H460.862c-9.664-69.076-64.303-123.726-133.376-133.406l-21.968-82.349l-21.969%2C82.35%20%20c-69.071%2C9.681-123.709%2C64.33-133.373%2C133.405H12.013v62.413h62.294v212.534H12.013v62.413h218.489l-15.339%2C27.482h182.223%20%20l-15.551-27.482H599.02v-62.413h-62.198V301.357H599.02z%20M327.59%2C513.733h-44.049V301.357h44.049V513.733z%20M156.899%2C301.357h44.05%20%20v212.534h-44.05V301.357z%20M454.23%2C513.891h-44.048V301.357h44.048V513.891z%22%2F%3E%0A%3C%2Fg%3E%3Cg%20id%3D%22zm-inner%22%3E%0A%3Cpath%20d%3D%22M599.02%2C301.357v-62.413H460.862c-9.664-69.076-64.303-123.726-133.376-133.406l-21.968-82.349l-21.969%2C82.35%20%20c-69.071%2C9.681-123.709%2C64.33-133.373%2C133.405H12.013v62.413h62.294v212.534H12.013v62.413h218.489l-15.339%2C27.482h182.223%20%20l-15.551-27.482H599.02v-62.413h-62.198V301.357H599.02z%20M327.59%2C513.733h-44.049V301.357h44.049V513.733z%20M156.899%2C301.357h44.05%20%20v212.534h-44.05V301.357z%20M454.23%2C513.891h-44.048V301.357h44.048V513.891z%22%2F%3E%0A%3C%2Fg%3E%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "defaultLink": "",
+      "inCollections": true
+    },
+    {
+      "key": "nacion",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20version%3D%221.1%22%20id%3D%22Layer_1%22%20x%3D%220px%22%20y%3D%220px%22%20width%3D%22613px%22%20height%3D%22613px%22%20viewBox%3D%22-80%20-80%20773%20773%22%20enable-background%3D%22new%200%200%20613%20613%22%20xml%3Aspace%3D%22preserve%22%20fill%3D%22%23ffffff%22%20data-zm-orig-viewbox%3D%220%200%20613%20613%22%20data-zm-outline-color%3D%22%23000000%22%20data-zm-outline-width%3D%2240%22%20data-zm-outline-opacity%3D%221%22%20data-zm-inner-dx%3D%220%22%20data-zm-inner-dy%3D%220%22%3E%3Cg%20id%3D%22zm-outline%22%20fill%3D%22none%22%20stroke%3D%22%23000000%22%20stroke-width%3D%2240%22%20stroke-opacity%3D%221%22%20vector-effect%3D%22non-scaling-stroke%22%3E%0A%3Cpath%20d%3D%22M489.479%2C13.644v80.978h-56.544V13.644h-92.844v80.978h-55.847V13.644H191.4v80.978h-55.847V13.644H42.709l-0.006-0.003%20%20v135.428l79.582%2C75.393v220.595c42.801%2C55.699%2C104.576%2C106.826%2C189.182%2C155.674c86.493-49.938%2C148.648-103.361%2C191.275-159.86%20%20V224.465l79.582-75.393V13.644H489.479z%20M312.86%2C327.482H177.432V197.238l-55.847-52.358H312.86V327.482z%20M447.592%2C417.136%20%20c-29.824%2C39.564-73.923%2C77.347-134.032%2C112.39V328.88h134.032L447.592%2C417.136L447.592%2C417.136z%22%2F%3E%0A%3C%2Fg%3E%3Cg%20id%3D%22zm-inner%22%3E%0A%3Cpath%20d%3D%22M489.479%2C13.644v80.978h-56.544V13.644h-92.844v80.978h-55.847V13.644H191.4v80.978h-55.847V13.644H42.709l-0.006-0.003%20%20v135.428l79.582%2C75.393v220.595c42.801%2C55.699%2C104.576%2C106.826%2C189.182%2C155.674c86.493-49.938%2C148.648-103.361%2C191.275-159.86%20%20V224.465l79.582-75.393V13.644H489.479z%20M312.86%2C327.482H177.432V197.238l-55.847-52.358H312.86V327.482z%20M447.592%2C417.136%20%20c-29.824%2C39.564-73.923%2C77.347-134.032%2C112.39V328.88h134.032L447.592%2C417.136L447.592%2C417.136z%22%2F%3E%0A%3C%2Fg%3E%3C%2Fsvg%3E",
+      "size": 60,
+      "anchorX": 12,
+      "anchorY": 12,
+      "defaultLink": "",
+      "inCollections": true
+    },
+    {
+      "key": "edificacion",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%22-80%20-80%20672%20672%22%20fill%3D%22%23ffffff%22%20data-zm-orig-viewbox%3D%220%200%20512%20512%22%20data-zm-outline-color%3D%22%23000000%22%20data-zm-outline-width%3D%2240%22%20data-zm-outline-opacity%3D%221%22%20data-zm-inner-dx%3D%220%22%20data-zm-inner-dy%3D%220%22%3E%3Cg%20id%3D%22zm-outline%22%20fill%3D%22none%22%20stroke%3D%22%23000000%22%20stroke-width%3D%2240%22%20stroke-opacity%3D%221%22%20vector-effect%3D%22non-scaling-stroke%22%3E%3C!--!%20Font%20Awesome%20Free%206.4.0%20by%20%40fontawesome%20-%20https%3A%2F%2Ffontawesome.com%20License%20-%20https%3A%2F%2Ffontawesome.com%2Flicense%2Ffree%20(Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License)%20Copyright%202023%20Fonticons%2C%20Inc.%20--%3E%3Cpath%20d%3D%22M32%2032C14.3%2032%200%2046.3%200%2064S14.3%2096%2032%2096H480c17.7%200%2032-14.3%2032-32s-14.3-32-32-32H32zm0%20384c-17.7%200-32%2014.3-32%2032s14.3%2032%2032%2032H96h64V352c0-53%2043-96%2096-96s96%2043%2096%2096V480h64%2064c17.7%200%2032-14.3%2032-32s-14.3-32-32-32V128H32V416z%22%2F%3E%3C%2Fg%3E%3Cg%20id%3D%22zm-inner%22%3E%3C!--!%20Font%20Awesome%20Free%206.4.0%20by%20%40fontawesome%20-%20https%3A%2F%2Ffontawesome.com%20License%20-%20https%3A%2F%2Ffontawesome.com%2Flicense%2Ffree%20(Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License)%20Copyright%202023%20Fonticons%2C%20Inc.%20--%3E%3Cpath%20d%3D%22M32%2032C14.3%2032%200%2046.3%200%2064S14.3%2096%2032%2096H480c17.7%200%2032-14.3%2032-32s-14.3-32-32-32H32zm0%20384c-17.7%200-32%2014.3-32%2032s14.3%2032%2032%2032H96h64V352c0-53%2043-96%2096-96s96%2043%2096%2096V480h64%2064c17.7%200%2032-14.3%2032-32s-14.3-32-32-32V128H32V416z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "defaultLink": "",
+      "inCollections": true
+    },
+    {
+      "key": "ciudad / pueblo",
+      "pathOrDataUrl": "data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%22-80%20-80%20736%20672%22%20fill%3D%22%23ffffff%22%20data-zm-orig-viewbox%3D%220%200%20576%20512%22%20data-zm-outline-color%3D%22%23000000%22%20data-zm-outline-width%3D%2240%22%20data-zm-outline-opacity%3D%221%22%20data-zm-inner-dx%3D%220%22%20data-zm-inner-dy%3D%220%22%3E%3Cg%20id%3D%22zm-outline%22%20fill%3D%22none%22%20stroke%3D%22%23000000%22%20stroke-width%3D%2240%22%20stroke-opacity%3D%221%22%20vector-effect%3D%22non-scaling-stroke%22%3E%3C!--!%20Font%20Awesome%20Free%206.4.0%20by%20%40fontawesome%20-%20https%3A%2F%2Ffontawesome.com%20License%20-%20https%3A%2F%2Ffontawesome.com%2Flicense%2Ffree%20(Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License)%20Copyright%202023%20Fonticons%2C%20Inc.%20--%3E%3Cpath%20d%3D%22M543.8%20287.6c17%200%2032-14%2032-32.1c1-9-3-17-11-24L512%20185V64c0-17.7-14.3-32-32-32H448c-17.7%200-32%2014.3-32%2032v36.7L309.5%207c-6-5-14-7-21-7s-15%201-22%208L10%20231.5c-7%207-10%2015-10%2024c0%2018%2014%2032.1%2032%2032.1h32v69.7c-.1%20.9-.1%201.8-.1%202.8V472c0%2022.1%2017.9%2040%2040%2040h16c1.2%200%202.4-.1%203.6-.2c1.5%20.1%203%20.2%204.5%20.2H160h24c22.1%200%2040-17.9%2040-40V448%20384c0-17.7%2014.3-32%2032-32h64c17.7%200%2032%2014.3%2032%2032v64%2024c0%2022.1%2017.9%2040%2040%2040h24%2032.5c1.4%200%202.8%200%204.2-.1c1.1%20.1%202.2%20.1%203.3%20.1h16c22.1%200%2040-17.9%2040-40V455.8c.3-2.6%20.5-5.3%20.5-8.1l-.7-160.2h32z%22%2F%3E%3C%2Fg%3E%3Cg%20id%3D%22zm-inner%22%3E%3C!--!%20Font%20Awesome%20Free%206.4.0%20by%20%40fontawesome%20-%20https%3A%2F%2Ffontawesome.com%20License%20-%20https%3A%2F%2Ffontawesome.com%2Flicense%2Ffree%20(Icons%3A%20CC%20BY%204.0%2C%20Fonts%3A%20SIL%20OFL%201.1%2C%20Code%3A%20MIT%20License)%20Copyright%202023%20Fonticons%2C%20Inc.%20--%3E%3Cpath%20d%3D%22M543.8%20287.6c17%200%2032-14%2032-32.1c1-9-3-17-11-24L512%20185V64c0-17.7-14.3-32-32-32H448c-17.7%200-32%2014.3-32%2032v36.7L309.5%207c-6-5-14-7-21-7s-15%201-22%208L10%20231.5c-7%207-10%2015-10%2024c0%2018%2014%2032.1%2032%2032.1h32v69.7c-.1%20.9-.1%201.8-.1%202.8V472c0%2022.1%2017.9%2040%2040%2040h16c1.2%200%202.4-.1%203.6-.2c1.5%20.1%203%20.2%204.5%20.2H160h24c22.1%200%2040-17.9%2040-40V448%20384c0-17.7%2014.3-32%2032-32h64c17.7%200%2032%2014.3%2032%2032v64%2024c0%2022.1%2017.9%2040%2040%2040h24%2032.5c1.4%200%202.8%200%204.2-.1c1.1%20.1%202.2%20.1%203.3%20.1h16c22.1%200%2040-17.9%2040-40V455.8c.3-2.6%20.5-5.3%20.5-8.1l-.7-160.2h32z%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E",
+      "size": 24,
+      "anchorX": 12,
+      "anchorY": 12,
+      "defaultLink": "",
+      "inCollections": true
+    }
+  ],
+  "defaultIconKey": "pinRed",
+  "wheelZoomFactor": 1.1,
+  "panMouseButton": "left",
+  "hoverMaxWidth": 360,
+  "applyHoverPopoverSizeGlobally": false,
+  "hoverMaxHeight": 260,
+  "showLinkFileNameInTooltip": true,
+  "presets": [],
+  "stickerPresets": [],
+  "defaultWidth": "100%",
+  "defaultHeight": "480px",
+  "defaultResizable": false,
+  "defaultResizeHandle": "right",
+  "forcePopoverWithoutModKey": false,
+  "measureLineColor": "var(--text-accent)",
+  "measureLineWidth": 2,
+  "storageDefault": "json",
+  "defaultWidthWrapped": "50%",
+  "baseCollections": [],
+  "pinPlaceOpensEditor": false,
+  "libraryFilePath": "ZoomMap/library.json",
+  "faFolderPath": "z_Assets/Icons",
+  "customUnits": [],
+  "travelTimePresets": [],
+  "travelPerDay": {
+    "value": 8,
+    "unit": "h"
+  },
+  "travelRulesPacks": [
+    {
+      "id": "trp-pnya9t",
+      "name": "Default travel rules",
+      "enabled": true,
+      "customUnits": [],
+      "travelTimePresets": [],
+      "travelPerDay": {
+        "value": 8,
+        "unit": "h"
+      },
+      "terrains": []
+    }
+  ],
+  "defaultScaleLikeSticker": false,
+  "enableDrawing": true,
+  "preferActiveLayerInEditor": false,
+  "enableTextLayers": false,
+  "enableMeasurePro": false,
+  "enableSessionImageCache": false,
+  "showZoomButtonsHud": true,
+  "sessionImageCacheMb": 512,
+  "keepOverlaysLoaded": false,
+  "preferCanvasImagesWhenCaching": false,
+  "svgRasterMaxScale": 8,
+  "showImageIconPreviewInSettings": false,
+  "enableGrid": false,
+  "middleClickOpensLinkInNewTab": false,
+  "enableSecondScreen": false,
+  "secondScreenFolder": "ZoomMap/SecondScreen"
+}

@@ -22,7 +22,7 @@ perteneceA: "[[Organización]]"
 
 Ciudad capital de la región de Hokusen, sirve de punto de comercio entre las zonas más al norte de la región y el resto de regiones del país. Ciudad muy animada y multicultural, cuenta con una gran universidad de ingeniería.
 
-### Historia
+%%### Historia%%
 
 
 ### Sociopolítica

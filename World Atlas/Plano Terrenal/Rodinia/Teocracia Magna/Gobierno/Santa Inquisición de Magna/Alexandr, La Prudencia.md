@@ -54,7 +54,7 @@ Texto introductorio
 
 ### Descripción física
 
-#### Rasgos distintivos
+%%#### Visado de Boreas%%
 
 #### Habilidades especiales
 
@@ -66,12 +66,13 @@ Texto introductorio
 ### Background
 
 
-
 ### Social
 
-#### Formación
-
-#### Ocupación
+%%#### Ocupación%%
 
 #### Lazos familiares
+
+#### Amistades
+
+%%#### Otros%%
 

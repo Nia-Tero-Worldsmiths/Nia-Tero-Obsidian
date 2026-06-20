@@ -22,7 +22,7 @@ perteneceA: "[[Organización]]"
 
 TEXTO INTRODUCTORIO
 
-### Historia
+%%### Historia%%
 
 
 ### Sociopolítica

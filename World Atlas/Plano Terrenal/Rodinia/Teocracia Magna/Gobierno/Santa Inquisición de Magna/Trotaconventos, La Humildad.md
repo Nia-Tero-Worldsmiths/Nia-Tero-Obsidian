@@ -6,22 +6,23 @@ draft: false
 tags:
   - inquisidor
   - comendador
+  - ex-inquisidor
 aliases:
+  - Trotaconventos
   - La Troti
-  - La Humildad
 alineamiento: CN
-especie: Cambiaformas
+especie: Doppelganger
 genero: Mujer
 edad: 87
 lugarNacimiento: Forgesita
 creencia: N/A
 organizacion:
-  - "[[Santa Inquisición de Magna]]"
+  - "[[Santa Inquisición de Magna]] (anteriormente)"
 cargoOrg:
   - Comendadora
   - Asesina
 titulos:
-  - La Humildad
+  - La Humildad (anteriormente)
 clase: Clériga
 subclase: Engaño
 elan: Neglektemo
@@ -32,16 +33,16 @@ elan: Neglektemo
 > `=embed(link(this.imagen))`
 > 
 > || Info. narrativa |
->| -------------- | -------------- |
->| Alineamiento  | `=this.alineamiento` |
->| Especie          | `=this.especie` |
->| Género           | `=this.genero` |
->| Edad               | `=this.edad` años |
->| Lugar de nacimiento | `=this.lugarNacimiento` |
->| Creencia         | `=this.creencia` |
->| Organización  | `=this.organizacion` |
->| └>Cargos       | `=this.cargoOrg` |
->| Títulos             | `=this.titulos` |
+> | -------------- | -------------- |
+> | Alineamiento  | `=this.alineamiento` |
+> | Especie          | `=this.especie` |
+> | Género           | `=this.genero` |
+> | Edad               | `=this.edad` años |
+> | Lugar de nacimiento | `=this.lugarNacimiento` |
+> | Creencia         | `=this.creencia` |
+> | Organización  | `=this.organizacion` |
+> | └>Cargo         | `=this.cargoOrg` |
+> | Títulos             | `=this.titulos` |
 >
 > || Info. mecánica |
 > | ----------- | ----------- |
@@ -54,10 +55,7 @@ Trotaconventos es una gran excepción dentro de la Inquisición de Magna. Se tra
 Por estas dos razones es ampliamente vista como una paria por sus iguales en el oficio, aunque este sentimiento no se extiende a aquellos por debajo suya, dado que solo los inquisidores mayores y el Sumo Sacerdote conocen esta información.
 
 ### Descripción física
-
-#### Rasgos distintivos
-
-Como cambiaformas que es, Trotaconventos posee una forma verdadera característica de su especie: tez palida prácticamente carente de saturación, marcas de color gris oscuro alrededor de los ojos y pupilas completamente blancas. Además de esto, la mayor esperanza de vida de los cambiaformas frente a los humanos se hace notar en este aspecto, ya que a pesar de tener 66 años aparenta tener casi dos décadas menos.
+Como doppelganger que es, Trotaconventos posee una forma verdadera característica de su especie: tez pálida prácticamente carente de saturación, marcas de color gris oscuro alrededor de los ojos y pupilas completamente blancas. Además de esto, la mayor esperanza de vida de los cambiaformas frente a los humanos se hace notar en este aspecto, ya que a pesar de tener 66 años aparenta tener casi dos décadas menos.
 
 Los cambiaformas de la Teocracia suelen ser reacios a mostrar su forma verdadera, ya que expone el hecho de que no son humanos, si bien este no es el caso con Trotaconventos, dado que no tiene reparos en mostrar con orgullo su verdadero aspecto a aquellos a los que está a punto de matar durante el oficio.
 
@@ -73,11 +71,6 @@ Dado el carácter más encubierto de su labor en la Inquisición, Trotaconventos
 
 ### Social
 
-#### Formación
-
-
-
-#### Ocupación
-
-
 #### Lazos familiares
+
+#### Amistades

@@ -1,72 +1,32 @@
 ---
-title: "Hans Juggernaut"
+title: Hans Juggernaut
 NoteType: persona
-imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+imagen: N/A
 draft: true
-tags: WIP
-aliases: 
-alineamiento: TN/CG...
-especie: 
-genero: 
+tags:
+  - WIP
+aliases:
+  - 
+alineamiento: CE
+especie: Doppelganger
+genero: Hombre
 edad: 
-lugarNacimiento: 
-creencia: 
-organizacion: 
-cargoOrg: 
-titulos: 
-clase: 
-subclase: 
-elan:
+organizacion: Gremio de aventureros de [[Dandelion]]
+cargoOrg: Líder
 ---
 
 >[!infobox]
 ># **`=this.title`**
-> IMAGEN AQUÍ
+%%> `=embed(link(this.imagen))`%%
 > 
-> | Info. narrativa     ||
->| -------------- | -------------- |
->| Alineamiento  | `=this.alineamiento` |
->| Especie          | `=this.especie` |
->| Género           | `=this.genero` |
->| Edad               | `=this.edad` años |
->| Lugar de nacimiento | `=this.lugarNacimiento` |
->| Creencia         | `=this.creencia` |
->| Organización  | `=this.organizacion` |
->| └>Cargo         | `=this.cargoOrg` |
->| Títulos             | `=this.titulos` |
->
-> |Info. mecánica ||
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
-
-Texto introductorio
-
-### Descripción física
-
-#### Rasgos distintivos
+> || Información |
+> | -------------- | -------------- |
+> | Alineamiento  | `=this.alineamiento` |
+> | Especie          | `=this.especie` |
+> | Género           | `=this.genero` |
+> | Edad               | `=this.edad` años |
+> | Organización  | `=this.organizacion` |
+> | └>Cargo         | `=this.cargoOrg` |
 
 
-
-#### Habilidades especiales
-
-
-
-#### Vestimenta y accesorios
-
-
-
-%%#### Equipamiento especializado%%
-
-### Social
-
-#### Formación
-
-
-
-#### Ocupación
-
-
-#### Lazos familiares
-
+Descripción

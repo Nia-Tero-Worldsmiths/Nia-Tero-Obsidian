@@ -49,7 +49,7 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > |Patrón/Elan | `=this.elan` |
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
-Vicecapitana
+Vicecapitan
 
 ### Descripción física
 
@@ -62,6 +62,8 @@ Vicecapitana
 %%#### Vestimenta y accesorios%%
 
 %%#### Equipamiento especializado%%
+
+Padrino de [[Pom]]
 
 
 ### Background

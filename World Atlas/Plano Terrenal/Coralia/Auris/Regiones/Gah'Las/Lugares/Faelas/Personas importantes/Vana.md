@@ -39,4 +39,4 @@ Es una aventurera en activo de rango A, aunque últimamente está más centrada 
 Fue una amante de [[Kon]] en sus días como aventurero pero en la actualidad no está del todo clara su relación. Sigue teniendo sentimientos por él y ocasionalmente tienen encuentros románticos a escondidas, a esperas de eventualmente poder formalizar su relación cuando [[Kon]] se encuentre preparado.
 
 # Efectos de la campaña
-Debido a la conversación con Pom, está explorando la posibilidad de que nazcan criaturas dentro de la mazmorra de [[Graalem]], aunque lleva la investigación muy en secreto.
+Debido a la conversación con [[Pom]], está explorando la posibilidad de que nazcan criaturas dentro de la mazmorra de [[Graalem]], aunque lleva la investigación muy en secreto.
