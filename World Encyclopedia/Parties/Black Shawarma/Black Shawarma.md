@@ -1,13 +1,12 @@
 ---
-title: "BLack Shawarma"
+title: Black Shawarma
 NoteType: organizacion
 draft: true
 tags:
   - WIP
   - party
 aliases:
-  - "Vendemos kebab a 5 cobres"
-  - "Black Shawarma"
+  - Vendemos kebab a 5 cobres
 ---
 
 

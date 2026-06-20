@@ -11,7 +11,7 @@ aliases:
 alineamiento: TN
 especie: Yaoguai elemental
 genero: Piedra Pómez
-edad: <1
+edad: 3
 lugarNacimiento: "[[Graalem]]"
 creencia:
 organizacion: "[[Espadas libres de Eris]]"
@@ -34,7 +34,7 @@ pathbuilderId: 384228
 > | Alineamiento  | `=this.alineamiento` |
 > | Especie          | `=this.especie` |
 > | Género           | `=this.genero` |
-> | Edad               | `=this.edad` año |
+> | Edad               | `=this.edad` años |
 > | Lugar de nacimiento | `=this.lugarNacimiento` |
 > | Creencia         | `=this.creencia` |
 > | Organización  | `=this.organizacion` |
@@ -77,7 +77,7 @@ Después de eso puso rumbo hacia una dirección cardinal al azar y, tras días d
 
 ### Social
 
-#### Ocupación
+#### Entorno cercano
 
 #### Lazos familiares
 

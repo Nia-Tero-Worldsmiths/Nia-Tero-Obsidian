@@ -51,7 +51,7 @@ World Encyclopedia (8)
 
  ─ ├ │ └ ⋮
 
-1. Sin carpeta "Países", porque es lo único que va a ir aquí (a no ser que se te ocurra algo más). Creo que poner personas, lugares, etc. a nivel de continente no tiene mucho sentido. A esa escala mejor poner en World Encyclopedia.
+1. Sin carpeta "Países", porque es lo único que va a ir aquí (a no ser que se nos ocurra algo más). Creo que poner personas, lugares, etc. a nivel de continente no tiene mucho sentido. A esa escala mejor poner en World Encyclopedia.
 2. Podríamos usar "Núcleos de poder" para englobar tanto organizaciones como personas importantes. Así simplificamos nomenclatura también.
 3. "Lugares" en vez de "Ciudades y pueblos" (englobamos aldeas, asentamientos, etc.)
 4. No todos los lugares tienen por qué presentar más profundidad de detalles. A veces todo lo que es necesario saber sobre un asentamiento lo ofrece su propia página, sin necesidad de dedicarle subsecciones. Las subcarpetas de un Lugar se deberán crear bajo demanda, solo cuando se requiera.

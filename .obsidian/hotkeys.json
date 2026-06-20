@@ -6,5 +6,13 @@
       ],
       "key": "T"
     }
+  ],
+  "zoom-map:insert-new-map": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
   ]
 }

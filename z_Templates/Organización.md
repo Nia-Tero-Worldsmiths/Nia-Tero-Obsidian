@@ -1,5 +1,5 @@
 ---
-nombre: "Organizacion"
+title: "Organizacion"
 NoteType: organizacion
 cssclasses:
  - cards

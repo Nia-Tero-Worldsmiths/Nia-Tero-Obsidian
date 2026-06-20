@@ -1,7 +1,7 @@
 ---
 title: Luca Noir Tambler
 NoteType: persona
-imagen: LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO
+imagen: Conde de Tambler.png
 draft: false
 tags:
   - Tambler
@@ -23,26 +23,26 @@ titulos:
   - Conde
 clase: Hechicero
 subclase: Sangre dracónica
-elan: Noir
+elan: 
 ---
 
 >[!infobox]
 ># **`=this.title`**
-> ![[Conde de Tambler.png]]
+> `=embed(link(this.imagen))`
 > 
-> | Info. narrativa     ||
->| -------------- | -------------- |
->| Alineamiento  | `=this.alineamiento` |
->| Especie          | `=this.especie` |
->| Género           | `=this.genero` |
->| Edad               | `=this.edad` años |
->| Lugar de nacimiento | `=this.lugarNacimiento` |
->| Creencia         | `=this.creencia` |
->| Organización  | `=this.organizacion` |
->| └>Cargos       | `=this.cargoOrg` |
->| Títulos             | `=this.titulos` |
+> || Info. narrativa |
+> | -------------- | -------------- |
+> | Alineamiento  | `=this.alineamiento` |
+> | Especie          | `=this.especie` |
+> | Género           | `=this.genero` |
+> | Edad               | `=this.edad` años |
+> | Lugar de nacimiento | `=this.lugarNacimiento` |
+> | Creencia         | `=this.creencia` |
+> | Organización  | `=this.organizacion` |
+> | └>Cargo         | `=this.cargoOrg` |
+> | Títulos             | `=this.titulos` |
 >
-> |Info. mecánica ||
+> || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |

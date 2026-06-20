@@ -6,7 +6,7 @@
 
 /* source view and live preview */
 .markdown-source-view.mod-cm6 .cm-line {
-text-align: justify; text-justify: inter-word;
+	text-align: justify; text-justify: inter-word;
 }
 
 
@@ -24,8 +24,8 @@ text-align: justify; text-justify: inter-word;
 	width: 24%;
 }
 
-/* img defaults */
-img{
+/* img defaults (UPDATED: Restricts 85% width strictly to embedded note markdown text) */
+.callout-content img {
 	display: block;
 	float: center;
 	margin-top: 0.5em !important;

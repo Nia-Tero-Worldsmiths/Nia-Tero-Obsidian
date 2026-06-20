@@ -37,18 +37,11 @@ Recientemente fue librado de amenazas y completamente renovado por orden del [[C
 - Se instaló una grúa de madera en la parte superior del acantilado para facilitar el traslado del carro del grupo.
 - Finalmente, se creó una línea de rompeolas para mitigar los efectos de Rond-Fort sobre la integridad del peñón.
 
-### Geografía y economía
 ### Defensas
 
 La posición estratégica del lugar es particularmente notable, dado que la totalidad de la fortaleza se encuentra construida sobre un peñón situado a pocos metros de la costa. donde se encuentra el único acceso terrestre al mismo. En el camino que une el peñón con la playa de acceso, se encuentra un segundo peñón de tamaño más reducido, el cual ha sido ahuecado para alojar un pequeño cuartillo para un soldado encargado de gestionar el acceso por tierra a la fortaleza.
 
 En adición a esto, la línea de costa se encuentra bajo un escarpado acantilado el cual solo puede ser bajado siguiendo unas estrechas escaleras de piedras excavadas en el mismo, además de utilizando la recientemente construida grúa.
-
-
-
-### Turismo
-
-Al ser un emplazamiento privado, no existe ningún tipo de turismo con este sitio por destino.
 
 ## Mapa del emplazamiento
 

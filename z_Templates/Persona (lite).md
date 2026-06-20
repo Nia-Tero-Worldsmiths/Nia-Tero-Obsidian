@@ -1,11 +1,12 @@
 ---
 title: 
 NoteType: persona
+imagen: [[]] #Borrar paréntesis una vez importada la imagen
 draft: true
 tags:
   - WIP
 aliases:
-  -
+  - 
 alineamiento: TN/CG...
 especie: 
 genero: 
@@ -16,6 +17,8 @@ cargoOrg:
 
 >[!infobox]
 ># **`=this.title`**
+%%> `=embed(link(this.imagen))`%%
+> 
 > || Información |
 > | -------------- | -------------- |
 > | Alineamiento  | `=this.alineamiento` |

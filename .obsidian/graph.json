@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"World Atlas/Plano Terrenal/Coralia\"  ",
@@ -34,18 +34,25 @@
         "a": 1,
         "rgb": 939489
       }
+    },
+    {
+      "query": "path:\"World Atlas/Plano Terrenal/Pandysia\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 13845232
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.541666666666667,
-  "repelStrength": 11.3541666666667,
-  "linkStrength": 0.578125,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 1.01875,
+  "collapse-forces": true,
+  "centerStrength": 0.791666666666667,
+  "repelStrength": 17.7083333333333,
+  "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3773542221545756,
+  "scale": 0.26915750737983407,
   "close": false
 }
