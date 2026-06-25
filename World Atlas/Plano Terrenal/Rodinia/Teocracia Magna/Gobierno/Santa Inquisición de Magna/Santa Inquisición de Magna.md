@@ -1,15 +1,27 @@
 ---
-nombre: "Santa Inquisición de Magna"
+title: Santa Inquisición de Magna
 NoteType: organizacion
 cssclasses:
- - cards
- - cards-cols-3
+  - cards
+  - cards-cols-3
+imagen: [[]] #La imagen y eso
 tags:
   - WIP
 aliases:
-  - "Santa Inquisición"
-  - "Inquisición"
+  - Santa Inquisición
+  - Inquisición
+personaAlCargo: "[[Connor O'Sullivan|Sumo Sacerdote de Magna]]"
+tipoOrg: Organismo totalitario
 ---
+
+>[!infobox]
+># **`=this.title`**
+> `=embed(link(this.imagen))`
+> 
+> || Información |
+> | -------------- | -------------- |
+> | Persona al cargo | `=this.personaAlCargo`  |
+> | Tipo de organización | `=this.tipoOrg` |
 
 La Inquisición es el organismo gubernamental más importante de la Teocracia Magna. En ella se engloban todos los altos cargos dedicados a controlar diversos aspectos del país: ejército, poder judicial, defensa de las regiones, etc.
 
@@ -19,20 +31,20 @@ En Magna, la palabra "inquisidor" es sinónimo de "funcionario de alto rango", p
 
 #### Gran Maestre
 
-En el punto más alto de la Inquisición, ostentando el Título de Gran Maestre se encuentra el Sumo Sacerdote, como único líder supremo de la misma y, por extensión, de la Teocracia al completo.
+En el punto más alto de la Inquisición, ostentando el Título de Gran Maestre se encuentra el [[Connor O'Sullivan|Sumo Sacerdote]], como único líder supremo de la misma y, por extensión, de la Teocracia al completo.
 
 #### Inquisidores mayores
 
 En esta categoría se incluyen los cargos más altos de todo el país. A pesar de que existe cierta jerarquía incluso dentro de este reducido grupo, se suelen incluir bajo el mismo término debido a la diferencia abismal que hay en poder y capacidades con el resto de miembros de la Inquisición, y también al hecho de que todos ellos poseen títulos individuales distintivos basados en virtudes. Existen únicamente 12 inquisidores mayores, y estos a su vez se clasifican en 3 subcategorías:
 
-- **Senescales:** Los Senescales responden directamente ante el Gran Maestre. En este grupo figuran Clementine, cuyo principal deber es proteger [[Bela Sankta]]; y los gemelos Revo y Sunon, guardaespaldas personales del Sumo Sacerdote y máxima autoridad de la Inquisición en su ausencia. Los títulos individuales de este grupo son las Virtudes Teologales: Caridad, Esperanza y Fe, respectivamente.
-- **Mariscales:** En este grupo figuran los inquisidores a cargo de las distintas divisiones del Ejército Magno: Alexandr en infantería, Indara en jinetes de guivernos y Marte en interior. Adicionalmente, también se incluye en esta categoría a Acacia, encargada del cuerpo administrativo de la Inquisición. En términos de autoridad, es un cargo a un nivel similar que el de Senescal, salvo matices. Los títulos individuales de este grupo son las Virtudes Cardinales: Prudencia, Fortaleza, Templanza y Justicia, respectivamente.
-- **Comendadores:** El grupo más numeroso. Aquí figuran los inquisidores cuyo deber principal es proteger una región concreta. Se trata de un grupo lleno de excepciones, dado que también se incluye aquí a Trotaconventos, quien carece de región asignada y está en constante traslado, y a Marte, el mariscal encargado del interior de la Teocracia, ante quien responden todos los comendadores y por extensión se considera también Comendador General de todos los territorios salvo la capital, de la cual es comendadora Clementine. Estas inconsistencias dejan entrever la influencia directa del Sumo Sacerdote en la estructura de la Inquisición, dado que al ascender a alguien por orden directa no se tienen en cuenta los protocolos que evitan este tipo de casos excepcionales. Los títulos individuales de este grupo son las Virtudes Capitales: Templanza, Caridad, Generosidad, Castidad, Paciencia, Diligencia y Humildad.
+- **Senescales:** Los Senescales responden directamente ante el Gran Maestre. En este grupo figuran [[Clementine, La Caridad|Clementine d'If]], cuyo principal deber es proteger [[Bela Sankta]]; y los gemelos Revo y Sunon, guardaespaldas personales del Sumo Sacerdote y máxima autoridad de la Inquisición en su ausencia. Los títulos individuales de este grupo son las Virtudes Teologales: Caridad, Esperanza y Fe, respectivamente.
+- **Mariscales:** En este grupo figuran los inquisidores a cargo de las distintas divisiones del Ejército Magno: [[Alexandr, La Prudencia|Alexandr Bentz]] en infantería, Ölbaum Kirsch en jinetes de guivernos y Marte como capitán de los comendadores. Adicionalmente, también se incluye en esta categoría a Acacia, encargada del cuerpo administrativo de la Inquisición. En términos de autoridad, es un cargo a un nivel similar que el de Senescal, salvo matices. Los títulos individuales de este grupo son las Virtudes Cardinales: Prudencia, Fortaleza, Templanza y Justicia, respectivamente.
+- **Comendadores:** El grupo más numeroso. Aquí figuran los inquisidores cuyo deber principal es proteger una región concreta. Se trata de un grupo lleno de excepciones, dado que también se incluye aquí a [[Trotaconventos, La Humildad|Trotaconventos]], quien carece de región asignada y está en constante traslado, y a Marte, el mariscal encargado del interior de la Teocracia, ante quien responden todos los comendadores y por extensión se considera también Comendador General de todos los territorios salvo la capital, de la cual es comendadora [[Clementine, La Caridad|Clementine]]. Estas inconsistencias dejan entrever la influencia directa del Sumo Sacerdote en la estructura de la Inquisición, dado que al ascender a alguien por orden directa no se tienen en cuenta los protocolos que evitan este tipo de casos excepcionales. Los títulos individuales de este grupo son las Virtudes Capitales: Templanza, Caridad, Generosidad, Castidad, Paciencia, Diligencia y Humildad.
 
 **Lista de inquisidores actuales**
 ```dataview
 TABLE without ID embed(link(imagen, "500x500")) as "Portrait", file.link as "Nombre"
-FROM #comendador 
+FROM #inquisidor AND !#ex-inquisidor 
 SORT title ASC
 ```
 
@@ -52,9 +64,3 @@ En esta categoría figuran el resto de miembros de la organización, con rango d
 - **Gonfaloneros:** Oficiales de origen plebeyo al cargo de los escuderos y exploradores del ejército. Responden ante un submariscal, y al igual que este, su origen plebeyo no los desacredita de su posición de oficial. Este cargo solo existe en el frente.
 - **Sargentos:** Soldados rasos del ejército de origen plebeyo, pero con formación militar a la par que la de un caballero. Responden ante un submariscal.
 - **Escuderos:** Plebeyos bajo el mando de un gonfalonero, con la misión de asistir a los caballeros en batalla y de cuidar el equipo y las caballerías de los mismos.
-
-
-**Líder**
-
-[[Connor O'Sullivan|Sumo Sacerdote]]
-

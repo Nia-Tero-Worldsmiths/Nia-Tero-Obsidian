@@ -1,15 +1,45 @@
 ---
-title: "Bela Sankta"
+title: Bela Sankta
 NoteType: lugar
 draft: true
 tags:
   - WIP
 aliases:
-  - "Capital de Magna"
+  - Capital de Magna
+ubicacion: "[[Teocracia Magna]]"
+gobernador: "[[Connor O'Sullivan|Sumo Sacerdote]]"
+perteneceA: "[[Santa Inquisición de Magna]]"
 ---
 
+>[!infobox]
+># **`=this.title`**
+> 
+> | Información    ||
+> | ---------------- | -------------- |
+> | Ubicado en        | `=this.ubicacion` |
+> | Gobernado por  | `=this.gobernador` |
+> | Pertenece a       | `=this.perteneceA` |
 
-**Tipo**
+TEXTO INTRODUCTORIO
 
-Capital
+### Historia
 
+
+### Sociopolítica
+#### Demografía 
+
+
+#### Gobierno
+
+
+%%#### Núcleos de poder%%
+
+
+### Geografía y economía
+#### Puntos de interés
+
+
+#### Defensas
+
+
+#### Industria

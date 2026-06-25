@@ -1,0 +1,249 @@
+{
+  "size": {
+    "w": 1080,
+    "h": 1580
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [
+    {
+      "type": "pin",
+      "id": "marker_qtnow6",
+      "x": 0.4639508875922227,
+      "y": 0.5636201291143921,
+      "layer": "default",
+      "link": "",
+      "iconKey": "nacion",
+      "tooltip": ""
+    }
+  ],
+  "bases": [
+    {
+      "path": "z_Assets/Maps/Pandysia GIRADO.png"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "z_Assets/Maps/Pandysia GIRADO.png",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [
+    {
+      "id": "draw_umw6e3",
+      "name": "Fronteras",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "drawings": [
+    {
+      "id": "draw_q2zoh1",
+      "layerId": "draw_umw6e3",
+      "kind": "polygon",
+      "visible": true,
+      "polygon": [
+        {
+          "x": 0.46488801474921815,
+          "y": 0.5107761735134998
+        },
+        {
+          "x": 0.35023657867930963,
+          "y": 0.602028140144483
+        },
+        {
+          "x": 0.2968372796878454,
+          "y": 0.6739561609006698
+        },
+        {
+          "x": 0.3989241748185859,
+          "y": 0.7072362899072636
+        },
+        {
+          "x": 0.3769362281750418,
+          "y": 0.7480312867540562
+        },
+        {
+          "x": 0.431906094783902,
+          "y": 0.775943653017651
+        },
+        {
+          "x": 0.6125213707844429,
+          "y": 0.6922065542268665
+        },
+        {
+          "x": 0.7098965630629953,
+          "y": 0.6761032659978694
+        },
+        {
+          "x": 0.7397373477935194,
+          "y": 0.5891455095612854
+        },
+        {
+          "x": 0.6659206697759071,
+          "y": 0.4968199903817024
+        },
+        {
+          "x": 0.5999568298452749,
+          "y": 0.4313332849171144
+        },
+        {
+          "x": 0.5010110699493263,
+          "y": 0.4066415762993189
+        },
+        {
+          "x": 0.4680291499840102,
+          "y": 0.4184506543339168
+        },
+        {
+          "x": 0.4805936909231783,
+          "y": 0.4613927562779088
+        },
+        {
+          "x": 0.4680291499840102,
+          "y": 0.5086290684163002
+        }
+      ],
+      "style": {
+        "strokeColor": "#ff0000",
+        "strokeWidth": 2,
+        "fillColor": "#ff0000",
+        "fillOpacity": 0.15,
+        "fillPattern": "solid",
+        "label": "Juutei"
+      }
+    }
+  ],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": [],
+  "deleted": [
+    {
+      "id": "undo_kuucf7",
+      "label": "Delete pin",
+      "createdAt": "2026-06-20T11:25:24.522Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_lkknm1",
+          "x": 0.47092355989129653,
+          "y": 0.6121040492185157,
+          "layer": "default",
+          "link": "",
+          "iconKey": "nacion",
+          "tooltip": ""
+        },
+        "index": 1
+      }
+    },
+    {
+      "id": "undo_h9vrno",
+      "label": "Delete pin",
+      "createdAt": "2026-06-20T11:25:01.791Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_xpcyeh",
+          "x": 0.4600988518465809,
+          "y": 0.5995867075368903,
+          "layer": "default",
+          "link": "",
+          "iconKey": "Nación",
+          "tooltip": ""
+        },
+        "index": 0
+      }
+    },
+    {
+      "id": "undo_4xtrky",
+      "label": "Delete polygon",
+      "createdAt": "2026-06-08T22:37:11.239Z",
+      "payload": {
+        "kind": "drawing",
+        "drawing": {
+          "id": "draw_rvgxdz",
+          "layerId": "draw_umw6e3",
+          "kind": "polygon",
+          "visible": true,
+          "polygon": [
+            {
+              "x": 0.47117028521880255,
+              "y": 0.5053349367453517
+            },
+            {
+              "x": 0.368629093669807,
+              "y": 0.6029306229816974
+            },
+            {
+              "x": 0.3517552267060482,
+              "y": 0.684556106015732
+            },
+            {
+              "x": 0.37901301180135083,
+              "y": 0.7422262842463
+            },
+            {
+              "x": 0.4348265717583991,
+              "y": 0.7750539241621617
+            },
+            {
+              "x": 0.5918833334979999,
+              "y": 0.7076241773079592
+            },
+            {
+              "x": 0.7087024124778684,
+              "y": 0.6694731363246604
+            },
+            {
+              "x": 0.735960197573171,
+              "y": 0.5940582878693024
+            },
+            {
+              "x": 0.5776054460671272,
+              "y": 0.40773925050900595
+            },
+            {
+              "x": 0.46727631591947366,
+              "y": 0.4192732861551195
+            },
+            {
+              "x": 0.4724682749852456,
+              "y": 0.5026732362116332
+            }
+          ],
+          "style": {
+            "strokeColor": "#ff0000",
+            "strokeWidth": 2,
+            "fillColor": "#ff0000",
+            "fillOpacity": 0.15,
+            "fillPattern": "striped",
+            "label": "Juutei",
+            "fillPatternAngle": 45,
+            "fillPatternSpacing": 8,
+            "fillPatternStrokeWidth": 1,
+            "fillPatternOpacity": 0.5
+          },
+          "bakedPath": "ZoomMap/draw-overlays/region-pandysia-draw_rvgxdz.svg",
+          "bakedWidth": 414.94136853649263,
+          "bakedHeight": 580.3571843719861
+        },
+        "index": 0
+      }
+    }
+  ]
+}

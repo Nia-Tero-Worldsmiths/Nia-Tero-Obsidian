@@ -7,7 +7,10 @@ tags:
   - inquisidor
   - WIP
   - comendador
+  - senescal
 aliases:
+  - Clementine
+  - Clementine d'If
   - La Caridad
 alineamiento: CE
 especie: Humana
@@ -21,7 +24,7 @@ cargoOrg:
   - Comendadora
   - Senescal (verdugo mayor)
 titulos:
-  - La Humildad
+  - La Caridad
 clase: Clériga
 subclase: Muerte
 elan: Silentu
@@ -32,16 +35,16 @@ elan: Silentu
 > `=embed(link(this.imagen))`
 > 
 > || Info. narrativa |
->| -------------- | -------------- |
->| Alineamiento  | `=this.alineamiento` |
->| Especie          | `=this.especie` |
->| Género           | `=this.genero` |
->| Edad               | `=this.edad` años |
->| Lugar de nacimiento | `=this.lugarNacimiento` |
->| Creencia         | `=this.creencia` |
->| Organización  | `=this.organizacion` |
->| └>Cargos       | `=this.cargoOrg` |
->| Títulos             | `=this.titulos` |
+> | -------------- | -------------- |
+> | Alineamiento  | `=this.alineamiento` |
+> | Especie          | `=this.especie` |
+> | Género           | `=this.genero` |
+> | Edad               | `=this.edad` años |
+> | Lugar de nacimiento | `=this.lugarNacimiento` |
+> | Creencia         | `=this.creencia` |
+> | Organización  | `=this.organizacion` |
+> | └>Cargo         | `=this.cargoOrg` |
+> | Títulos             | `=this.titulos` |
 >
 > || Info. mecánica |
 > | ----------- | ----------- |
@@ -55,9 +58,6 @@ Clementine d'If es una de los siete Comendadores de la [[Teocracia Magna]], al c
 
 ### Descripción física
 
-#### Rasgos distintivos
-
-
 
 #### Habilidades especiales
 
@@ -70,14 +70,14 @@ Cuando lleva a cabo sus labores como Inquisidora, suele usar una diadema decorad
 
 %%### Equipamiento especializado%%
 
+
+### Background
+
+
+
 ### Social
-
-#### Formación
-
-
-
-#### Ocupación
-
 
 #### Lazos familiares
 Tras pasar sus primeros años de vida en la calle, fue acogida por la Baronesa Basilides d'If a los cinco años de edad. 
+
+#### Amistades

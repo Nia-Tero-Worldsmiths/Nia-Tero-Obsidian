@@ -1,0 +1,80 @@
+{
+  "size": {
+    "w": 4620,
+    "h": 2940
+  },
+  "layers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "visible": true,
+      "locked": false
+    }
+  ],
+  "markers": [],
+  "bases": [
+    {
+      "path": "z_Assets/Maps/Faro de la tormenta.webp"
+    }
+  ],
+  "overlays": [],
+  "activeBase": "z_Assets/Maps/Faro de la tormenta.webp",
+  "measurement": {
+    "scales": {},
+    "customUnitPxPerUnit": {},
+    "travelTimePresetIds": [],
+    "travelDaysEnabled": false,
+    "displayUnit": "km"
+  },
+  "pinSizeOverrides": {},
+  "grids": [],
+  "panClamp": true,
+  "drawLayers": [],
+  "drawings": [],
+  "secondScreen": {
+    "showGrids": true
+  },
+  "textLayers": [],
+  "deleted": [
+    {
+      "id": "undo_n78v9t",
+      "label": "Delete pin",
+      "createdAt": "2026-06-07T15:12:21.961Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_hu5gre",
+          "x": 0.5053915781188508,
+          "y": 0.33385899814471237,
+          "layer": "default",
+          "link": "",
+          "iconKey": "Capital",
+          "tooltip": "",
+          "scaleLikeSticker": true
+        },
+        "index": 0
+      }
+    },
+    {
+      "id": "undo_8bu7vo",
+      "label": "Delete pin",
+      "createdAt": "2026-06-07T15:12:20.780Z",
+      "payload": {
+        "kind": "marker",
+        "marker": {
+          "type": "pin",
+          "id": "marker_a1h7by",
+          "x": 0.5820543026424503,
+          "y": 0.35439981174187335,
+          "layer": "default",
+          "link": "",
+          "iconKey": "pinRed",
+          "tooltip": "",
+          "scaleLikeSticker": true
+        },
+        "index": 1
+      }
+    }
+  ]
+}

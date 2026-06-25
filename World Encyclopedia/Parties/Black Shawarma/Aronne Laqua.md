@@ -1,5 +1,5 @@
 ---
-title: "Aronne Laqua"
+title: Aronne Laqua
 NoteType: persona
 imagen: Aronne Laqua.jpg
 draft: true
@@ -7,38 +7,43 @@ tags:
   - WIP
   - PJ
   - blackShawarma
+
 aliases: 
+  - Aronne
 alineamiento: LE
-especie: Dragonborn/Jotunn
+especie: Dragonkin / Jotunnborn
 genero: Mujer
 edad: 28
 lugarNacimiento: Laqua
 creencia: Laqua
-organizacion: Black Shawarma
-cargoOrg: ¿?
-titulos: Heredera de la casa Laqua
-clase: Paladín
+organizacion: 
+  - "[[Black Shawarma]]"
+cargoOrg: 
+  - Evil madre
+titulos: 
+  - Heredera de la casa Laqua
+clase: Paladina
 subclase: Venganza
-elan:
+elan: Laqua
 ---
 
 >[!infobox]
 ># **`=this.title`**
 > `=embed(link(this.imagen))`
 > 
-> | Info. narrativa     ||
->| -------------- | -------------- |
->| Alineamiento  | `=this.alineamiento` |
->| Especie          | `=this.especie` |
->| Género           | `=this.genero` |
->| Edad               | `=this.edad` años |
->| Lugar de nacimiento | `=this.lugarNacimiento` |
->| Creencia         | `=this.creencia` |
->| Organización  | `=this.organizacion` |
->| └>Cargo         | `=this.cargoOrg` |
->| Títulos             | `=this.titulos` |
+> || Info. narrativa |
+> | -------------- | -------------- |
+> | Alineamiento  | `=this.alineamiento` |
+> | Especie          | `=this.especie` |
+> | Género           | `=this.genero` |
+> | Edad               | `=this.edad` años |
+> | Lugar de nacimiento | `=this.lugarNacimiento` |
+> | Creencia         | `=this.creencia` |
+> | Organización  | `=this.organizacion` |
+> | └>Cargo         | `=this.cargoOrg` |
+> | Títulos             | `=this.titulos` |
 >
-> |Info. mecánica ||
+> || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
@@ -59,9 +64,13 @@ Actualmente presenta una estatura base mucho mayor, de 2 metros 30, siendo capaz
 Sus anteriormente perlados cuernos ahora presentan unas puntas azules, que se degradan hasta el blanco cerca de la base de los cuernos.
 Otro aspecto que ha cambiado ha sido su pelo. Anteriormente completamente negro, ahora presenta un degradado por capas hasta terminar en un azul hielo.
 
+%%#### Visado de Boreas%%
+
 #### Rasgos distintivos
 Aronne presenta una marca de nacimiento de color azul oscuro que comienza sobre su corazón y llega hasta la cara, donde se esparce por el lateral.
 Tiene dos pequeños tatuajes verticales que van desde las cejas a la parte debajo del ojo, a la altura del centro de los ojos, de color azul media noche.
+
+%%#### Visado de Boreas%%
 
 #### Habilidades especiales
 Puede comunar con Laqua y entrar en contacto con ella directamente.

@@ -52,20 +52,29 @@ Connor O'Sullivan, popularmente conocido como el Sumo Sacerdote, es el dirigente
 ### Descripción física
 A simple vista puede parecer una persona normal. Nada de su aspecto físico más allá del atuendo es inmediatamente destacable.
 
+%%#### Visado de Boreas%%
+
 #### Habilidades especiales
 Dado que es una de las personas de todo el plano terrenal con más elan de Tero, Connor es posiblemente el geomante más poderoso que existe en Nia Tero.
-
 
 #### Vestimenta y accesorios
 Cuando se muestra en público, suele vestir atuendos pontificales de elevada pompa.
 
+%%#### Equipamiento especializado%%
 
-%%### Equipamiento especializado%%
+
+### Background
+
 
 ### Social
 
+%%#### Ocupación%%
 
-#### Formación
+#### Entorno cercano
 
+#### Lazos familiares
 
-#### Ocupación
+#### Amistades
+
+%%#### Otros%%
+

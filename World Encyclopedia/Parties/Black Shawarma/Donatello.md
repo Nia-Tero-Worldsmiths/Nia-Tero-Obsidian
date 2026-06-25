@@ -48,28 +48,28 @@ Texto introductorio
 
 ### Descripción física
 
-#### Rasgos distintivos
-
-
+%%#### Visado de Boreas%%
 
 #### Habilidades especiales
 
-
-
-#### Vestimenta y accesorios
-
-
+%%#### Vestimenta y accesorios%%
 
 %%#### Equipamiento especializado%%
 
+
+### Background
+
+
 ### Social
 
-#### Formación
+%%#### Ocupación%%
 
-
-
-#### Ocupación
-
+#### Entorno cercano
 
 #### Lazos familiares
+
+#### Amistades
+
+%%#### Otros%%
+
 
