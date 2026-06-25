@@ -62,7 +62,7 @@ Potis de genderbending
 ### Background
 Gary se crió en la ciudad de [[Eicadia]], donde vivió de joven estudiando recetas alquímicas básicas de sus padres. Siempre tuvo una cierta tendencia a querer verse similar a una mujer y durante su adolescencia se tintó el pelo y comenzó a vestir como una mujer, hasta el punto de que prácticamente era indistinguible de una salvo por su voz y características físicas.
 
-Cuando se hizo mayor se mudó fuera de casa y comenzó a trabajar como "chica de compañía" en alguna de las posadas más importantes de la ciudad, donde los clientes en ciertas ocasiones buscaban experiencias más únicas. Durante su tiempo trabajando aquí logró mejorar en su fabricación de sustancias y además aprendió mucho acerca de la elaboración de bebidas gracias a sus compañeros de trabajo.
+Cuando se hizo mayor se mudó fuera de casa y comenzó a trabajar como "chica de compañía", quizá en cosas más íntimas en alguna de las posadas más importantes de la ciudad, donde los clientes en ciertas ocasiones buscaban experiencias más únicas. Durante su tiempo trabajando aquí logró mejorar en su fabricación de sustancias y además aprendió mucho acerca de la elaboración de bebidas gracias a sus compañeros de trabajo.
 
 Tras esta etapa decidió finalmente cambiar de género empleando sus propias pociones y darle un giro a su vida volviéndose aventurera. Con sus ahorros viajó hasta llegar a la ciudad de [[Faelas]], donde decidió probar suerte y convertirse en aventurera.
 

@@ -1,18 +1,18 @@
 ---
-title: Mimi
+title: Suli
 NoteType: persona
-imagen: Mimi.jpg
+imagen: suli.jpg
 draft: true
 tags:
   - WIP
-  - aventurerosSinGrupo
+  - vanguardia
 aliases:
   -
 alineamiento: TN/CG...
-especie: Humana
-genero: Mujer
-edad: 32
-lugarNacimiento: "[[Desierto de Kharos]]"
+especie: Azarketi
+genero: Hombre
+edad: 30
+lugarNacimiento: "[[Neridia]]"
 creencia: 
 organizacion:
   - "[[Espadas libres de Eris]]"
@@ -20,10 +20,10 @@ cargoOrg:
   -
 titulos:
   - 
-clase: Clériga
+clase: Bardo
 subclase: 
 elan:
-pathbuilderId: 425399
+pathbuilderId: # Solo relevante para PJs de pathfinder
 ---
 
 >[!infobox]
@@ -50,9 +50,9 @@ pathbuilderId: 425399
 > |Pathbuilder ID| `=this.pathbuilderId` |
 
 
+
+
 ### Descripción física
-
-
 
 #### Rasgos distintivos
 
@@ -60,11 +60,10 @@ pathbuilderId: 425399
 
 
 ### Background
-Clériga de un dios menor de Fajro, la princesa de las arenas, venerada por todo el [[Desierto de Kharos]]. Se crió como una clériga en un templo de su ciudad nativa, Kanth. Era un templo muy tradicionalista que no aprueba la adoración a otros dioses ni la salida del templo en general.
+Suli proviene de [[Brumia]] de la región del [[Valle de los lagos coralinos]]. Trabajó desde joven como camarero. Allí conoció a un viejo bardo llamado <Placeholder> el cual decidió entrenarlo como bardo dados los intereses y talentos del chico. Pasaron mucho tiempo juntos en la ciudad hasta que un día desapareció sin dejar ningún tipo de rastro. Desde entonces, Suli ha seguido practicando y entrenando para conseguir unirse a la real escuela de bardos de Neridia, y continua con el legado de su maestro, y quién sabe quizá descubrir cuál fue su destino.
 
 ### Social
-
-#### Formación
+Extremandamente alegre y sociable, le encantan la música y los espectáculos, y sobre todo le gusta pasar el tiempo con amigos. Está interesado en estudiar música y asistir al colegio de bardos de [[Neridia]].
 
 #### Ocupación
 

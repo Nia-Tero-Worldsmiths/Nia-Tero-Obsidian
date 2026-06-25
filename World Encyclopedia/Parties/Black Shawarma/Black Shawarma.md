@@ -2,6 +2,9 @@
 title: "BLack Shawarma"
 NoteType: organizacion
 draft: true
+cssclasses:
+ - cards
+ - cards-cols-2 #Cambiar esta según cuántas tarjetas se quiere por fila
 tags:
   - WIP
   - party
@@ -12,5 +15,18 @@ aliases:
 
 
 **Territorios controlados**
+
+#### Miembros
+
+
+
+ **Miembros**
+
+```dataview
+TABLE without ID embed(link(imagen, "500x500")) as "Portrait", file.link as "Nombre"
+FROM #blackShawarma
+SORT title ASC
+```
+
 
 - [[Faro de la Tormenta]]
