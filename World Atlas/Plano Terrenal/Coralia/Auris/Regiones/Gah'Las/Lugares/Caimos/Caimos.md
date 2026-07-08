@@ -1,0 +1,1 @@
+Caimos es una región del centro de [[Gah'Las]], situada entre [[Meitan]], [[Faelas]]y [[Luma]], es una de las zonas más pequeñas de la región, y originalmente contaba con una de las principales fortalezas  de todo [[Gah'Las]], aunque quedó abandonada cuando se fundó la ciudad de Luma. No hay ningún asentamiento digno de mención, aunque sí que hay pequeños pueblos por la región.
