@@ -9,21 +9,22 @@ tags:
 aliases:
   - 
 alineamiento: TN/CG...
-especie: Elemental de Aire
+especie: Elemental verdadero de Aire
 genero: Mujer
 edad: Indefinida
 lugarNacimiento: "[[Eicadia]]"
-creencia: 
+creencia:
 organizacion:
   - "[[Vireon]]"
+  - "[[Kingmaker]]"
 cargoOrg:
   - General
 titulos:
   - La Tormenta Eterna
 clase: Eidolon
-subclase: 
+subclase:
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
+pathbuilderId:
 ---
 
 >[!infobox]
@@ -61,7 +62,7 @@ La versión actual de Selina tiene la forma de una mujer compuesta completamente
 
 
 ### Background
-Selina surgió como defensa del planeta frente al ritual de [[Origo mutatio]] realizado por [[Flammula]]. Fue una de los elementales más poderosos que adquirieron consciencia durante el ritual y general de las fuerzas que ocupaban [[Velaris]], por lo que fue una enemiga natural durante la conquista de [[Boh'ron]].
+Selina surgió como defensa del planeta frente al ritual de [[Origo mutatio]] realizado por [[Flammula]]. Fue una de los elementales más poderosos llamados durante el ritual y general de las fuerzas que ocupaban [[Velaris]], por lo que fue una enemiga natural durante la [[Conquista de Velaris]], realizada por [[Boh'ron]].
 
 Selina fue la protectora de la región de [[Eicadia]], y la última de sus hermanos en caer frente a los héroes.
 
@@ -71,7 +72,7 @@ Fue capaz de mantener el Status Quo en la guerra durante años, hasta que finalm
 
 Finalmente, cayó derrotada en batalla junto a su guardia de honor frente al grupo de incursión de [[Boh'ron]] y [[Vailaya]], quienes tomaron la decisión de sellarla al considerarla una gran adversaria.
 
-En su forma sellada pasó a formar parte de la colección de [[Boh'ron]], quien la guardaba como una de sus más preciadas piezas de la colección. Tras varios cientos de años, debido a los grandes logros de [[Kalis]], este fue premiado con Selina, quien adoptó la forma de Eidolon y se convirtió en su fiel compañera, aunque sin recuerdos de su vida pasada como general de las fuerzas elementales.
+En su forma sellada pasó a formar parte de la colección de [[Boh'ron]], quien la guardaba como una de sus más preciadas piezas. Tras varios cientos de años, debido a los grandes logros de [[Kalis]], este fue premiado con Selina, quien adoptó la forma de Eidolon y se convirtió en su fiel compañera, aunque sin recuerdos de su vida pasada como general de las fuerzas elementales.
 
 ### Social
 
