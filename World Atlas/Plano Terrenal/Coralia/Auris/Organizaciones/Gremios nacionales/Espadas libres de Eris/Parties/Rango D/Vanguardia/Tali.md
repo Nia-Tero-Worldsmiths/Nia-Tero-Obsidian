@@ -69,6 +69,8 @@ No le gusta lidiar con desconocidos, masas de gente, las mascotas y ser venerada
 Le gusta el vino
 Las estrellas le dijeron que conocería a Pom
 
+En su hogar hay que hacer con los familiares. Hay piscinas de divinación
+
 
 ### Misión
 La misión de Tali consistirá en restaurar su reputación en su pueblo y acabar con la fuente de las visiones que provocaron esta situación.
