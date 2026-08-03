@@ -49,7 +49,7 @@
       "y": 0.6500922309027778,
       "layer": "default",
       "link": "Hammerhold",
-      "iconKey": "punto de interés",
+      "iconKey": "edificacion",
       "tooltip": ""
     },
     {
@@ -69,7 +69,7 @@
       "y": 0.7607693142361112,
       "layer": "default",
       "link": "Peaje Soberano",
-      "iconKey": "punto de interés",
+      "iconKey": "edificacion",
       "tooltip": ""
     },
     {
@@ -79,7 +79,7 @@
       "y": 0.18785264756944445,
       "layer": "default",
       "link": "Pabellón de Halcón",
-      "iconKey": "punto de interés",
+      "iconKey": "edificacion",
       "tooltip": ""
     }
   ],

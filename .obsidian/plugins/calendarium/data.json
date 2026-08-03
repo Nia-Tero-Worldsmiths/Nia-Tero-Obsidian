@@ -470,8 +470,8 @@
   },
   "debug": false,
   "askedToMoveFC": false,
-  "askedAboutSync": true,
-  "syncBehavior": "Always",
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
   "inlineEventsTag": null,
   "paths": [
     [
