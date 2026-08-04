@@ -24,6 +24,3 @@ Aún no encontramos industrialización pero si producción en masa de Galo y los
 Las espirales de la ciudad forman el símbolo de la alquimia entre ellas. Cada una guarda en su interior un [[World Encyclopedia/Ciencia y Tecnología/Luma/Cristal de transmutación]], que al encontrarse en sintonía permiten potenciar la fuerza de las venas elementales que pasan por la zona, son vitales para lograr el objetivo final de Flammula y para potenciar la síntesis del [[World Encyclopedia/Ciencia y Tecnología/Luma/Galo]] que se produce en la ciudad.
 
 
-PJ del mario es un roca viviente recién nacido de graalem.
-La familia del de rei, Ebrietas se acaba de mudar a Luma a picar piedra. Ahora su pj es Magus y vive con su familia. Quiere separarse de su familia. Se dedica a encantar arma
-

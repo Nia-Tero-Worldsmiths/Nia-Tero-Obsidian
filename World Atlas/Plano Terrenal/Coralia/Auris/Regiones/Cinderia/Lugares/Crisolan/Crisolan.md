@@ -1,0 +1,3 @@
+Esta región se encuentra al norte de [[Calcindor]], y limita con el país vecino. Es una cordillera volcánica plagada de volcanes semiactivos, por lo que pocas especies se han atrevido a adentrarse por aquí. Se rumorea acerca de la presencia de antiguos dragones en al región y una importante presencia de especies como los enanos y los Surki.
+
+Aquí se encuentran algunas de las forjas de mayor calidad del país, que aprovechan la propia de los volcanes como alimento para los altos hornos, permitiendo crear aleaciones casi imposibles de replicar en cualquier otro lugar del continente.

@@ -1,0 +1,1 @@
+Valle de clima altamente inestable con cambios bruscos tanto de climatología como de temperatura.

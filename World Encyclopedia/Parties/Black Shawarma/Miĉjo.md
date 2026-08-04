@@ -5,6 +5,8 @@ imagen: Micĵo.png
 draft: true
 tags:
   - WIP
+  - PJ
+  - blackShawarma
 aliases:
   - Mijaelo
 alineamiento: TN/CG...

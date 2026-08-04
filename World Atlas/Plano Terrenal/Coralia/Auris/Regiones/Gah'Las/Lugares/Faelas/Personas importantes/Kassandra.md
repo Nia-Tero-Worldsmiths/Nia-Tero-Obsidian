@@ -6,7 +6,7 @@ draft: true
 tags:
   - WIP
 aliases:
-  -
+  - El bibliotecario
 alineamiento: TN/CG...
 especie: Humana
 genero: Mujer

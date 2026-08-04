@@ -5,7 +5,7 @@ imagen: Tali.jpg
 draft: true
 tags:
   - WIP
-  - aventurerosSinGrupo
+  - vanguardia
 aliases:
   - 
 alineamiento: TN/CG...
@@ -68,6 +68,8 @@ Le gustan la astrología, el misticismo, comer y descubrir cosas nuevas.
 No le gusta lidiar con desconocidos, masas de gente, las mascotas y ser venerada
 Le gusta el vino
 Las estrellas le dijeron que conocería a Pom
+
+En su hogar hay que hacer con los familiares. Hay piscinas de divinación
 
 
 ### Misión

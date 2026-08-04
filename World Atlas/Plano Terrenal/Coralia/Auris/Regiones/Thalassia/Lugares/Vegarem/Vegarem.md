@@ -1,0 +1,1 @@
+Meseta situada generalmente a gran altitud por la que discurren los rápidos procedentes de [[Raudon]]. en esta zona mucho más llana se han formado varias vegas de los ríos que por allí transcurren de camino a [[Brumya]].

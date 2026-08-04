@@ -5,7 +5,7 @@ imagen: Mimi.jpg
 draft: true
 tags:
   - WIP
-  - aventurerosSinGrupo
+  - vanguardia
 aliases:
   -
 alineamiento: TN/CG...
