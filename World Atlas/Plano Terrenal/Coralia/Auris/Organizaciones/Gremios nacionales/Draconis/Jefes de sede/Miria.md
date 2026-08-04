@@ -2,7 +2,7 @@
 title: Miria
 NoteType: persona
 imagen: Miria.png
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

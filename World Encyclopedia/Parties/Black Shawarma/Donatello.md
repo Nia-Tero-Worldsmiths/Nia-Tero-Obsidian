@@ -2,7 +2,7 @@
 title: "Donatello"
 NoteType: persona
 imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
-draft: true
+publish: false
 tags:
   - WIP
   - PJ

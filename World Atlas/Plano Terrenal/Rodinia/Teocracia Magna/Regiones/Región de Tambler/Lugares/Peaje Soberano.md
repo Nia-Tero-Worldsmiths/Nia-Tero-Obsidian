@@ -1,7 +1,7 @@
 ---
 title: "Peaje Soberano"
 NoteType: lugar
-draft: true
+publish: false
 tags:
  - WIP
 aliases:

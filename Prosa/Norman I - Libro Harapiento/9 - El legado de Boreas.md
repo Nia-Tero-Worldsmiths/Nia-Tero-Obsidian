@@ -3,7 +3,7 @@ title: 9 - El legado de Boreas
 NoteType: prosa
 cssclasses:
   - prosa
-draft: false
+publish: true
 padre: "[[Norman I - Libro Harapiento]]"
 anterior: "[[8 - Ocho]]"
 siguiente: "[[10 - Mi mayor legado]]"

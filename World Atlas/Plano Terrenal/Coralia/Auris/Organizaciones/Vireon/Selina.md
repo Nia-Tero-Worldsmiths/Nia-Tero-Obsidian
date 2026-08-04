@@ -2,7 +2,7 @@
 title: Selina, la Tormenta Eterna
 NoteType: persona
 imagen: Selina.png
-draft: true
+publish: false
 tags:
   - WIP
   - Kingmaker

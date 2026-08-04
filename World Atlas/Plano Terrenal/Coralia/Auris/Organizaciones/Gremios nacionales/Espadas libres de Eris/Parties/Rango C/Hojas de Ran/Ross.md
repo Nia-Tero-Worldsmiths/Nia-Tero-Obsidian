@@ -2,7 +2,7 @@
 title: Ross 
 NoteType: persona
 imagen: Ross.jpg
-draft: true
+publish: false
 tags:
   - WIP
   - hojasDeRan

@@ -3,9 +3,9 @@ title:
 NoteType: prosa
 cssclass: prosa
 publish: false
-padre: 
-anterior: 
-siguiente: 
+padre: "[[Conquista de Velaris]]"
+anterior: "[[1 - La sala del ocaso]]"
+siguiente:
 tags:
   - WIP
 ---

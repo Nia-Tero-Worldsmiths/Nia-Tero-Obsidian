@@ -1,7 +1,7 @@
 ---
 title: "Libro Harapiento"
 NoteType: tomo
-draft: false
+publish: true
 tags: 
   -
 ---

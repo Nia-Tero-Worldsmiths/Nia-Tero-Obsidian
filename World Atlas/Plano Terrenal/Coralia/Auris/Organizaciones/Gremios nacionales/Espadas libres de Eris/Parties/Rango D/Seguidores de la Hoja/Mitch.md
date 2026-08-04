@@ -2,7 +2,7 @@
 title: Mich
 NoteType: persona
 imagen: Mich.png
-draft: true
+publish: false
 tags:
   - WIP
   - seguidoresDeLaHoja

@@ -2,7 +2,7 @@
 title: Saŝa Blanka
 NoteType: persona
 imagen: Saŝa.png
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

@@ -2,7 +2,7 @@
 title: Sarah
 NoteType: persona
 imagen: Sarah.png
-draft: true
+publish: false
 tags:
   - WIP
   - hojasDeRan

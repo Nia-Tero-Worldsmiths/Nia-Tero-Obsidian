@@ -2,7 +2,7 @@
 title: Ramiel
 NoteType: persona
 imagen: Ramiel.jpg
-draft: true
+publish: false
 tags:
   - WIP
   - Kingmaker

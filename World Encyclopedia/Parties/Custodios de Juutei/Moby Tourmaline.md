@@ -2,7 +2,7 @@
 title: Moby Tourmaline
 NoteType: persona
 imagen: Moby (Rondfort).jpg
-draft: false
+publish: true
 tags:
   - PJ
   - custodios-de-juutei

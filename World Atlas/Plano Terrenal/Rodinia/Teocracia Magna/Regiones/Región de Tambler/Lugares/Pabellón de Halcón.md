@@ -1,7 +1,7 @@
 ---
 title: "Pabellón de Halcón"
 NoteType: lugar
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

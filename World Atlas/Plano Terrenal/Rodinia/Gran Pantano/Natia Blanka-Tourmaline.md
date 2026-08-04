@@ -2,7 +2,7 @@
 title: Natia Blanka-Tourmaline
 NoteType: persona
 imagen:
-draft: false
+publish: true
 tags:
 aliases:
   - Natia

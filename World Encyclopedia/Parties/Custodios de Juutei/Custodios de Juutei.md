@@ -7,7 +7,7 @@ cssclasses:
 imagen: [[]] #Borrar paréntesis una vez importada la imagen
 personaAlCargo: "[[Diana Birgersdotter]]"
 tipoOrg: party
-draft: true
+publish: false
 tags:
   - WIP
   - party

@@ -1,7 +1,7 @@
 ---
 title: "Santa Talla"
 NoteType: tecnologia
-draft: false
+publish: true
 tags:
   - WIP
 aliases:

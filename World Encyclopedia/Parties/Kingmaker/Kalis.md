@@ -2,7 +2,7 @@
 title: Kalis
 NoteType: persona
 imagen: kalis.jpeg
-draft: true
+publish: false
 tags:
   - WIP
   - Kingmaker

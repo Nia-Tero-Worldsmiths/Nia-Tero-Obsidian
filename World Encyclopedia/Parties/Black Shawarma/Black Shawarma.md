@@ -1,7 +1,7 @@
 ---
 title: Black Shawarma
 NoteType: organizacion
-draft: true
+publish: false
 cssclasses:
  - cards
  - cards-cols-2 #Cambiar esta según cuántas tarjetas se quiere por fila

@@ -2,7 +2,7 @@
 title: Tali
 NoteType: persona
 imagen: Tali.jpg
-draft: true
+publish: false
 tags:
   - WIP
   - vanguardia

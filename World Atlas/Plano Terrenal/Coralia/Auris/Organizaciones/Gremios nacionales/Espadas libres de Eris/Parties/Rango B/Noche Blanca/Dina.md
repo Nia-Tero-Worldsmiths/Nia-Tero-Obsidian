@@ -2,7 +2,7 @@
 title: Dina
 NoteType: persona
 imagen: Dina.png
-draft: true
+publish: false
 tags:
   - WIP
   - nocheBlanca

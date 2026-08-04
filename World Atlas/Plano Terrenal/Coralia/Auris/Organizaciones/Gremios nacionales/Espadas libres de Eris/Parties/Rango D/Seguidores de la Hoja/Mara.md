@@ -2,7 +2,7 @@
 title: Mara
 NoteType: persona
 imagen: Mara.png
-draft: true
+publish: false
 tags:
   - WIP
   - seguidoresDeLaHoja

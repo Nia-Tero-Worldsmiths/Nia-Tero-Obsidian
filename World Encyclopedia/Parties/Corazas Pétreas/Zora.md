@@ -2,7 +2,7 @@
 title: Zora
 NoteType: persona
 imagen: Zora.png
-draft: true
+publish: false
 tags:
   - WIP
   - corazasPetreas

@@ -1,7 +1,7 @@
 ---
 title: Kon
 NoteType: persona
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

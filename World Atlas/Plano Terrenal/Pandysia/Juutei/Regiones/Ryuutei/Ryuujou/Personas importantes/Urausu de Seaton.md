@@ -2,7 +2,7 @@
 title: Urausu de Seaton
 NoteType: persona
 imagen: Urausu.jpg
-draft: false
+publish: true
 tags:
   - WIP
 aliases:

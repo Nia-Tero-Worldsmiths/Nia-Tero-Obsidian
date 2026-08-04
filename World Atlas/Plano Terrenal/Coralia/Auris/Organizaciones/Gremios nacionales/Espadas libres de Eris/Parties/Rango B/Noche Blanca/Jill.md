@@ -2,7 +2,7 @@
 title: Jill
 NoteType: persona
 imagen: Jill.jpg
-draft: true
+publish: false
 tags:
   - WIP
   - nocheBlanca

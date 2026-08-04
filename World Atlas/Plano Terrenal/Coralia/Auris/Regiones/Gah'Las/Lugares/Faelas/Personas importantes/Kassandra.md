@@ -2,7 +2,7 @@
 title: Kassandra
 NoteType: persona
 imagen: Kassandra.png
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

@@ -2,7 +2,7 @@
 title: Mimi
 NoteType: persona
 imagen: Mimi.jpg
-draft: true
+publish: false
 tags:
   - WIP
   - vanguardia

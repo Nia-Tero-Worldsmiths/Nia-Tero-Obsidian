@@ -2,7 +2,7 @@
 title: Vailaya
 NoteType: persona
 imagen: Vailaya.jpg
-draft: true
+publish: false
 tags:
   - WIP
   - Elementalis

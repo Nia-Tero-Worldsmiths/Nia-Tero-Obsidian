@@ -2,7 +2,7 @@
 title: Hans Juggernaut
 NoteType: persona
 imagen: N/A
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

@@ -2,7 +2,7 @@
 title: Kaila
 NoteType: persona
 imagen: Kaila.png
-draft: true
+publish: false
 tags:
   - WIP
   - seguidoresDeLaHoja

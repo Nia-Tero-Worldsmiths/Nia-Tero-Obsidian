@@ -2,7 +2,7 @@
 title: Gaultam
 NoteType: persona
 imagen: Gaultam.jpg 
-draft: true
+publish: false
 tags:
   - WIP
   - mastinesCarmesi

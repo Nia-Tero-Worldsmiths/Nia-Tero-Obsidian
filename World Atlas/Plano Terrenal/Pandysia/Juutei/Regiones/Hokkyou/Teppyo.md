@@ -1,7 +1,7 @@
 ---
-title: 
+title: Teppyo
 NoteType: lugar
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

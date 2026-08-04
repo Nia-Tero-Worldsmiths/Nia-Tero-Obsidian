@@ -1,7 +1,7 @@
 ---
 title: "Las 20 Caras de Fortuna"
 NoteType: creencia
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

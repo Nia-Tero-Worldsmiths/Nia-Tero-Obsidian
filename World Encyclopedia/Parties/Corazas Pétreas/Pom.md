@@ -2,7 +2,7 @@
 title: Pom
 NoteType: persona
 imagen: Pom.jpg
-draft: false
+publish: true
 tags:
   - WIP
   - corazasPetreas

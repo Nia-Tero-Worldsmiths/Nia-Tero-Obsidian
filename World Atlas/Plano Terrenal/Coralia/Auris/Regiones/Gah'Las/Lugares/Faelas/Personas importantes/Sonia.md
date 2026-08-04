@@ -2,7 +2,7 @@
 title: Sonia
 NoteType: persona
 imagen: [[Sonia.png]]
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

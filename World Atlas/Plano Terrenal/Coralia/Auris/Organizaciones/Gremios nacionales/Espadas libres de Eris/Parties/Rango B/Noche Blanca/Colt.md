@@ -2,7 +2,7 @@
 title: Colt
 NoteType: persona
 imagen: colt.jpg
-draft: true
+publish: false
 tags:
   - WIP
   - nocheBlanca

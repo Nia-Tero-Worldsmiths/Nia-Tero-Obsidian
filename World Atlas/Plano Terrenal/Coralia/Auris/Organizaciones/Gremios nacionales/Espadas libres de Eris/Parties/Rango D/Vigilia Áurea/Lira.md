@@ -2,7 +2,7 @@
 title: Lira
 NoteType: persona
 imagen: Lira.png
-draft: true
+publish: false
 tags:
   - WIP
   - vigiliaAurea

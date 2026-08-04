@@ -2,7 +2,7 @@
 title: Piers
 NoteType: persona
 imagen: Piers.png
-draft: true
+publish: false
 tags:
   - WIP
   - hojasDeRan

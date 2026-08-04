@@ -2,7 +2,7 @@
 title: Ronnie
 NoteType: persona
 imagen: Ronnie.png
-draft: true
+publish: false
 tags:
   - WIP
   - mastinesCarmesi

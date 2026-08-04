@@ -2,7 +2,7 @@
 title: Clementine d'If
 NoteType: persona
 imagen: Clementine.jpg
-draft: false
+publish: true
 tags:
   - inquisidor
   - WIP

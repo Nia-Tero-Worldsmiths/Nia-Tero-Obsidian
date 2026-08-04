@@ -2,7 +2,7 @@
 title: Isolde Neerdowell
 NoteType: persona
 imagen: Isolde.jpg
-draft: true
+publish: false
 tags:
   - WIP
   - Kingmaker

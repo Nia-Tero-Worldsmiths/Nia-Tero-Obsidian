@@ -1,7 +1,7 @@
 ---
 title: "Gran Pantano"
 NoteType: nacion
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

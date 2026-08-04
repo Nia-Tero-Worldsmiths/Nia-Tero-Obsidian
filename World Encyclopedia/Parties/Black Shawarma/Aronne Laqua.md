@@ -2,7 +2,7 @@
 title: Aronne Laqua
 NoteType: persona
 imagen: Aronne Laqua.jpg
-draft: true
+publish: false
 tags:
   - WIP
   - PJ

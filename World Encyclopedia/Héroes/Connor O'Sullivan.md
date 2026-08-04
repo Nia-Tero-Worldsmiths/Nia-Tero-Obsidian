@@ -2,7 +2,7 @@
 title: Connor O'Sullivan
 NoteType: persona
 imagen: Connor O'Sullivan.png
-draft: true
+publish: false
 tags:
   - WIP
 aliases:
@@ -55,7 +55,7 @@ A simple vista puede parecer una persona normal. Nada de su aspecto físico más
 %%#### Visado de Boreas%%
 
 #### Habilidades especiales
-Dado que es una de las personas de todo el plano terrenal con más elan de Tero, Connor es posiblemente el geomante más poderoso que existe en Nia Tero.
+Dado que es una de las personas de todo el plano terrenal con más elan de Tero, Connor es fácilmente uno de los geomantes más poderosos que existen en Nia Tero.
 
 #### Vestimenta y accesorios
 Cuando se muestra en público, suele vestir atuendos pontificales de elevada pompa.

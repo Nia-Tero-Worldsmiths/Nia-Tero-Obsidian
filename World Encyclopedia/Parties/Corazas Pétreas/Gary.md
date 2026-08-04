@@ -2,7 +2,7 @@
 title: Gary
 NoteType: persona
 imagen: Gary.jpg
-draft: true
+publish: false
 tags:
   - WIP
   - corazasPetreas

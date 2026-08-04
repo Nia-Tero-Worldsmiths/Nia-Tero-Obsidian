@@ -1,7 +1,7 @@
 ---
 title: Chanquete
 NoteType: persona
-draft: false
+publish: true
 tags:
   -
 aliases:

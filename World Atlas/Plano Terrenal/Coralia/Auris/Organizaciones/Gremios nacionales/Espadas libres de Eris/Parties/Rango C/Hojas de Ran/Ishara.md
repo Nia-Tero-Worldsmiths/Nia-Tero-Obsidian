@@ -2,7 +2,7 @@
 title: Ishara
 NoteType: persona
 imagen: Ishara.png
-draft: true
+publish: false
 tags:
   - WIP
   - hojasDeRan

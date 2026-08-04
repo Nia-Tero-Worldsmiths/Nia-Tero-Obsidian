@@ -2,7 +2,7 @@
 title: Trotaconventos
 NoteType: persona
 imagen: Trotaconventos.jpg
-draft: false
+publish: true
 tags:
   - inquisidor
   - comendador

@@ -2,7 +2,7 @@
 title: Ceres
 NoteType: persona
 imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

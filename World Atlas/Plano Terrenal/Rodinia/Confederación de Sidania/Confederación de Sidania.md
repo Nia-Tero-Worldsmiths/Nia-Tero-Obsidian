@@ -1,7 +1,7 @@
 ---
 title: Sidania
 NoteType: nacion
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

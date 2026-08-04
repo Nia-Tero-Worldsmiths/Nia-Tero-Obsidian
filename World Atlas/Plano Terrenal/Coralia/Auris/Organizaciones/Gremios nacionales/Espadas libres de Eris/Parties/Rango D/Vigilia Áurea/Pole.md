@@ -2,7 +2,7 @@
 title: Pole
 NoteType: persona
 imagen: Pole.png 
-draft: true
+publish: false
 tags:
   - WIP
   - vigiliaAurea

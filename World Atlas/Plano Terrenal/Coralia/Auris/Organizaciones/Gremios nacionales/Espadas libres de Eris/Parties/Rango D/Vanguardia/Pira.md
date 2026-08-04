@@ -2,7 +2,7 @@
 title: Pira
 NoteType: persona
 imagen: Pira.jpg
-draft: true
+publish: false
 tags:
   - WIP
   - vanguardia

@@ -2,7 +2,7 @@
 title: Miĉjo
 NoteType: persona
 imagen: Micĵo.png
-draft: true
+publish: false
 tags:
   - WIP
   - PJ

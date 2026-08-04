@@ -2,7 +2,7 @@
 title: Suli
 NoteType: persona
 imagen: suli.jpg
-draft: true
+publish: false
 tags:
   - WIP
   - vanguardia

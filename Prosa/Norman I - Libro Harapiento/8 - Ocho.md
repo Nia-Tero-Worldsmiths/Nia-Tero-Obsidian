@@ -3,7 +3,7 @@ title: 8 - Ocho
 NoteType: prosa
 cssclasses:
   - prosa
-draft: false
+publish: true
 padre: "[[Norman I - Libro Harapiento]]"
 anterior: "[[7 - Cambio de actitud]]"
 siguiente: "[[9 - El legado de Boreas]]"

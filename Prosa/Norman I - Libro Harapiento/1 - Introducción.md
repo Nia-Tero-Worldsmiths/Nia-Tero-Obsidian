@@ -3,7 +3,7 @@ title: 1 - Introducción
 NoteType: prosa
 cssclasses:
   - prosa
-draft: false
+publish: true
 padre: "[[Norman I - Libro Harapiento]]"
 anterior: 
 siguiente: "[[2 - Las Turbulencias del Mundo]]"
