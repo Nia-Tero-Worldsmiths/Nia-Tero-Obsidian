@@ -2,7 +2,7 @@
 title: Mara
 NoteType: persona
 imagen: Mara.png
-draft: true
+publish: false
 tags:
   - WIP
   - seguidoresDeLaHoja
@@ -22,7 +22,6 @@ titulos:
 clase: Guardian
 subclase:
 elan:
-pathbuilderId: 434904
 ---
 
 >[!infobox]
@@ -46,7 +45,6 @@ pathbuilderId: 434904
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 
 
@@ -71,4 +69,4 @@ Viene de una región lejana(agua) al oeste del país. Se crió junto a su tribu 
 Chica muy abierta e ilusionada con todo el nuevo mundo de ser aventurera, brabucona y con ganas de poner a prueba su fuerza siempre que pueda.
 
 #### Lazos familiares
-
+Trata a [[Kaila]] como su hermana pequeña. Apoya la relación con Pom y tira mucho de Kaila aunque ella no lo sepa.

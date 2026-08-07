@@ -2,10 +2,10 @@
 title: Pira
 NoteType: persona
 imagen: Pira.jpg
-draft: true
+publish: false
 tags:
   - WIP
-  - aventurerosSinGrupo
+  - vanguardia
 aliases:
   -
 alineamiento: TN/CG...
@@ -23,7 +23,6 @@ titulos:
 clase: Commander
 subclase: 
 elan:
-pathbuilderId: 434904
 ---
 
 >[!infobox]
@@ -47,7 +46,6 @@ pathbuilderId: 434904
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 
 Texto introductorio

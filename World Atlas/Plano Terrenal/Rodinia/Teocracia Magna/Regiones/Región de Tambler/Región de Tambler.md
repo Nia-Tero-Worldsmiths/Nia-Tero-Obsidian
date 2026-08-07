@@ -1,7 +1,7 @@
 ---
 title: Región de Tambler
 NoteType: region
-draft: false
+publish: true
 tags:
   - WIP
 aliases:

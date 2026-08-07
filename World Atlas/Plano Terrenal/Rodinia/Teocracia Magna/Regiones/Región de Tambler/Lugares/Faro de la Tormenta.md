@@ -1,7 +1,7 @@
 ---
 title: Faro de la Tormenta
 NoteType: lugar
-draft: false
+publish: true
 tags:
   - WIP
 aliases: 

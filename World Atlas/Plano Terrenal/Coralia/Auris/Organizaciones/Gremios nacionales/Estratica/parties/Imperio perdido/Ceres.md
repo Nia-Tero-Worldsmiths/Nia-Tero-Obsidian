@@ -2,7 +2,7 @@
 title: Ceres
 NoteType: persona
 imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
-draft: true
+publish: false
 tags:
   - WIP
 aliases:
@@ -44,7 +44,6 @@ elan:
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 Monje catfolk
 

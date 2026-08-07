@@ -2,7 +2,7 @@
 title: Dina
 NoteType: persona
 imagen: Dina.png
-draft: true
+publish: false
 tags:
   - WIP
   - nocheBlanca
@@ -22,7 +22,6 @@ titulos:
 clase: Inventor
 subclase:
 elan:
-pathbuilderId: 425399
 ---
 
 >[!infobox]
@@ -46,7 +45,6 @@ pathbuilderId: 425399
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 
 ### Descripción física

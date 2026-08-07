@@ -1,8 +1,8 @@
 ---
-title: 
+title: Corin
 NoteType: persona
 imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
-draft: true
+publish: false
 tags:
   - WIP
 aliases:
@@ -21,7 +21,6 @@ titulos:
 clase: Monje
 subclase: 
 elan:
-pathbuilderId:
 ---
 
 >[!infobox]
@@ -45,7 +44,6 @@ pathbuilderId:
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 Joven miembro recién incorporada a la guardia de la ciudad. Es un chico problemático y rara vez lo dejan sin supervisión, tiene talento pero le pierden sus modales.
 

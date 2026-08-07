@@ -2,7 +2,7 @@
 title: Ishara
 NoteType: persona
 imagen: Ishara.png
-draft: true
+publish: false
 tags:
   - WIP
   - hojasDeRan
@@ -23,7 +23,6 @@ titulos:
 clase: Psychic the unbound step y precise discipline
 subclase: 
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
 ---
 
 >[!infobox]
@@ -47,7 +46,6 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 
 ### Descripción física

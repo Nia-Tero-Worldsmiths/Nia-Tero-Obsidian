@@ -2,7 +2,7 @@
 title: Jill
 NoteType: persona
 imagen: Jill.jpg
-draft: true
+publish: false
 tags:
   - WIP
   - nocheBlanca
@@ -23,7 +23,6 @@ titulos:
 clase: Champion
 subclase:
 elan:
-pathbuilderId:
 ---
 
 >[!infobox]
@@ -47,7 +46,6 @@ pathbuilderId:
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 
 ### Descripción física

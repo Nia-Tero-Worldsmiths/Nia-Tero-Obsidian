@@ -1,7 +1,7 @@
 ---
 title: Villa Nicolás
 NoteType: lugar
-draft: false
+publish: true
 tags:
   - 
 aliases:

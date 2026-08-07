@@ -1,7 +1,7 @@
 ---
 title: Dandelion
 NoteType: lugar
-draft: false
+publish: true
 tags:
   - WIP
 aliases: 

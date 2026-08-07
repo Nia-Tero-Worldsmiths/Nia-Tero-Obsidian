@@ -1,7 +1,7 @@
 ---
 title: "Génesis"
 NoteType: cosmolog
-draft: true
+publish: false
 tags:
   - WIP
 ---

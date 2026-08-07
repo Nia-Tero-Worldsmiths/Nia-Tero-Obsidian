@@ -2,7 +2,7 @@
 title: Celeste de Carvajal
 NoteType: persona
 imagen: Celeste de Carvajal.jpg
-draft: false
+publish: true
 tags:
   - inquisidor
   - WIP

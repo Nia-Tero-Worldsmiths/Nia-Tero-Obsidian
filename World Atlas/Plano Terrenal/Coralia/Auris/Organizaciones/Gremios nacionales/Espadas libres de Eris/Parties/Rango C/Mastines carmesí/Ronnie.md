@@ -2,7 +2,7 @@
 title: Ronnie
 NoteType: persona
 imagen: Ronnie.png
-draft: true
+publish: false
 tags:
   - WIP
   - mastinesCarmesi
@@ -22,7 +22,6 @@ titulos:
 clase: Rogue 
 subclase: 
 elan:
-pathbuilderId: 425399
 ---
 
 >[!infobox]
@@ -46,7 +45,6 @@ pathbuilderId: 425399
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 
 Esqueleto adicto a las apuestas

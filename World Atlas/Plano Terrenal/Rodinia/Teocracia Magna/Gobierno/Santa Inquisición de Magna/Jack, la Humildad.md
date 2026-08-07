@@ -2,7 +2,7 @@
 title: Jack Aston Bentz
 NoteType: persona
 imagen: Jack.jpg
-draft: true
+publish: false
 tags:
   - WIP
   - inquisidor

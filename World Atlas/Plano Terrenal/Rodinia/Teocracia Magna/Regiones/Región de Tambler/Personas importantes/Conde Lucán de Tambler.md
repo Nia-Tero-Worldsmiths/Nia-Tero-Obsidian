@@ -2,7 +2,7 @@
 title: Luca Noir Tambler
 NoteType: persona
 imagen: Conde de Tambler.png
-draft: false
+publish: true
 tags:
   - Tambler
 aliases:

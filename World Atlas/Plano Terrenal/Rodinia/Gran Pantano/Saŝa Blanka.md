@@ -1,8 +1,8 @@
 ---
-title: Saŝa Blanka
+title: Saŝa Blanka-Tourmaline
 NoteType: persona
 imagen: Saŝa.png
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

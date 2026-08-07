@@ -1,0 +1,1 @@
+Zona pantanosa ubicada entre [[Vegarem]] y  [[Nacaria]]. La inamensa mayoría de la región está conformada por marismas y pantanos, por lo que es una próspera zona para el cultivo de ciertos alimentos.

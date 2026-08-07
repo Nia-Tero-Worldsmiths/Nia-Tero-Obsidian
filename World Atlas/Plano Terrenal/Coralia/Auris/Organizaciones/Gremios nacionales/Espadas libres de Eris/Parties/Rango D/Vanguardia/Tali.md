@@ -2,10 +2,10 @@
 title: Tali
 NoteType: persona
 imagen: Tali.jpg
-draft: true
+publish: false
 tags:
   - WIP
-  - aventurerosSinGrupo
+  - vanguardia
 aliases:
   - 
 alineamiento: TN/CG...
@@ -24,7 +24,6 @@ titulos:
 clase: Oráculo
 subclase:
 elan:
-pathbuilderId: 425399
 ---
 
 >[!infobox]
@@ -48,7 +47,6 @@ pathbuilderId: 425399
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 
 ### Descripción física
@@ -68,6 +66,8 @@ Le gustan la astrología, el misticismo, comer y descubrir cosas nuevas.
 No le gusta lidiar con desconocidos, masas de gente, las mascotas y ser venerada
 Le gusta el vino
 Las estrellas le dijeron que conocería a Pom
+
+En su hogar hay que hacer con los familiares. Hay piscinas de divinación
 
 
 ### Misión

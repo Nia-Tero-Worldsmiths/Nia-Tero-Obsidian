@@ -2,7 +2,7 @@
 title: Diana Birgersdotter
 NoteType: persona
 imagen: Diana (Rondfort).jpg
-draft: false
+publish: true
 tags:
   - inquisidor
   - WIP

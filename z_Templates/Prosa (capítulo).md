@@ -2,7 +2,7 @@
 title:
 NoteType: prosa
 cssclass: prosa
-draft: true
+publish: false
 padre: 
 anterior: 
 siguiente: 

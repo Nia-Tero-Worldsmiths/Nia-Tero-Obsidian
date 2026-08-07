@@ -2,7 +2,7 @@
 title: Líder de la [[Mano Negra]]
 NoteType: persona
 imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
-draft: true
+publish: false
 tags:
   - WIP
 aliases:
@@ -21,7 +21,6 @@ titulos:
 clase: Rogue
 subclase: 
 elan:
-pathbuilderId:
 ---
 
 >[!infobox]
@@ -45,7 +44,6 @@ pathbuilderId:
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 Texto introductorio
 

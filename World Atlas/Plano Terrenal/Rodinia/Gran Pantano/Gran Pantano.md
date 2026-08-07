@@ -1,9 +1,9 @@
 ---
-title: "Gran Pantano"
+title: Gran Pantano
 NoteType: nacion
-draft: true
+publish: true
 tags:
   - WIP
 aliases:
-  - 
+  -
 ---

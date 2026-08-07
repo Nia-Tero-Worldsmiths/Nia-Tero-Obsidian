@@ -1,7 +1,7 @@
 ---
 title: "Libro Harapiento"
 NoteType: tomo
-draft: false
+publish: true
 tags: 
   -
 ---
@@ -22,4 +22,5 @@ Y es que la suerte es desde luego lo que acompaña al autor original, pero no qu
 ```dataview
 table without id file.link as "Lista de capítulos"
 where padre = this.file.link
+sort number(file.name) asc
 ```

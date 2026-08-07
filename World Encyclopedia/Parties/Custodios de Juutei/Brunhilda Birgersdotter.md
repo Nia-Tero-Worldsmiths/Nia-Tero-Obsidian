@@ -2,7 +2,7 @@
 title: Brunhilda Birgersdotter
 NoteType: persona
 imagen: Brunhilda (Rondfort).jpg
-draft: false
+publish: true
 tags:
   - PJ
   - WIP

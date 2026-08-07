@@ -2,7 +2,7 @@
 title: Ebrietas
 NoteType: persona
 imagen: [[]] #Borrar paréntesis una vez importada la imagen
-draft: true
+publish: false
 tags:
   - WIP
   - corazasPetreas
@@ -23,7 +23,6 @@ titulos:
 clase: Magus
 subclase: Investigator
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
 ---
 
 >[!infobox]
@@ -47,7 +46,6 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 
 Texto introductorio

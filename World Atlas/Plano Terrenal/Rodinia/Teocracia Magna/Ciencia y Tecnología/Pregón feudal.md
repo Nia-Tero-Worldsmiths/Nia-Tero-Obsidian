@@ -1,7 +1,7 @@
 ---
 title: "Pregón Feudal"
 NoteType: objeto
-draft: false
+publish: true
 tags:
   - WIP
 aliases:

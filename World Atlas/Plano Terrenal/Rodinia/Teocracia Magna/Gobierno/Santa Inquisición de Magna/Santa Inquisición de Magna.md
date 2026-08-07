@@ -1,6 +1,7 @@
 ---
 title: Santa Inquisición de Magna
 NoteType: organizacion
+publish: true
 cssclasses:
   - cards
   - cards-cols-3

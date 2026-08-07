@@ -2,7 +2,7 @@
 title: Alexandr Bentz
 NoteType: persona
 imagen: Alexandr Bentz.jpg
-draft: true
+publish: false
 tags:
   - WIP
   - inquisidor

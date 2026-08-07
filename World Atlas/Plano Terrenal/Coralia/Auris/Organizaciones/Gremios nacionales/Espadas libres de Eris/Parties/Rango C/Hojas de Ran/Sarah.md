@@ -2,7 +2,7 @@
 title: Sarah
 NoteType: persona
 imagen: Sarah.png
-draft: true
+publish: false
 tags:
   - WIP
   - hojasDeRan
@@ -14,7 +14,7 @@ genero: Mujer
 edad: 28
 lugarNacimiento: "[[Sylphoria]]"
 creencia:
-organizacion: "[[World Atlas/Plano Terrenal/Coralia/Auris/Organizaciones/Gremios nacionales/Espadas libres de Eris/Parties/Rango C/Hojas de Ran/Hojas de Ran]]"
+organizacion: "[[Hojas de Ran]]"
 cargoOrg:
   - Capitana
 titulos:
@@ -22,7 +22,6 @@ titulos:
 clase: Gunslinguer
 subclase:
 elan:
-pathbuilderId: 425399
 ---
 
 >[!infobox]
@@ -46,7 +45,6 @@ pathbuilderId: 425399
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 Capitana de las [[Hojas de Ran]]
 

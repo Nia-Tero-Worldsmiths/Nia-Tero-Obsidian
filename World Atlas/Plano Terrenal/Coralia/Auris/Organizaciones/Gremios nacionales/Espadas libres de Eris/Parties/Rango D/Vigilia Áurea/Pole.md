@@ -2,7 +2,7 @@
 title: Pole
 NoteType: persona
 imagen: Pole.png 
-draft: true
+publish: false
 tags:
   - WIP
   - vigiliaAurea
@@ -23,7 +23,6 @@ titulos:
 clase: Sorcerer oscuridad
 subclase: 
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
 ---
 
 >[!infobox]
@@ -47,7 +46,6 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 
 #vigiliaAurea 

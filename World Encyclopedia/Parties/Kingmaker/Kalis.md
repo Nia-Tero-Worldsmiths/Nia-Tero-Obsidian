@@ -2,7 +2,7 @@
 title: Kalis
 NoteType: persona
 imagen: kalis.jpeg
-draft: true
+publish: false
 tags:
   - WIP
   - Kingmaker
@@ -25,7 +25,6 @@ titulos:
 clase: Summoner
 subclase: Chammpion
 elan:
-pathbuilderId: # Solo relevante para PJs de pathfinder
 ---
 
 >[!infobox]
@@ -49,7 +48,6 @@ pathbuilderId: # Solo relevante para PJs de pathfinder
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 
 Nombre real: Kaliros Altharis
@@ -72,7 +70,7 @@ Tuvieron una larga relación, de unos 38 años hasta que un día la descubrió e
 
 Desde entonces, con 122 años, Kalis montó su propia tienda con sus ahorros en la capital, pero dadas sus habilidades sociales llamó la atención de varias personas en la corte, quiénes le ofrecieron un puesto allí. Desde entonces ascendió rápidamente al puesto de  emisario de la corte de [[Boh'Ron]]. Ha estado realizando principalmente labores diplomáticas y estudiando la situación geopolítica del reino, a la vez que tratando de forjar relaciones diplomáticas con países y asociaciones extranjeras. Tras pasar tanto tiempo trabajando en la corte fue reconocido por el mismo [[Boh'ron]], quien ha llegado a considerarlo su mano derecha. Este premió su lealtad y le obsequió con su eidolon [[Selina]], una legendaria guerrera que cayó contra él en batalla y fue sellada como recuerdo de aquello.
 
-Respondiendo a la llamada de socorro de Minerva, [[Boh'Ron]] decidió prestarle su ayuda enviando a [[Kalis]] a la misión de investigar la isla, con la esperanza de poder ayudarla y recopilar información acerca de los sucesos de la isla.
+Respondiendo a la llamada de socorro de Minerva, [[Boh'Ron]] decidió prestarle su ayuda enviando a [[Kalis]] a la misión de investigar la isla, con la esperanza de poder ayudarla y recopilar información acerca de los sucesos de la isla. Fue enviado con un dispositivo de comunicación escondido en forma de pendientes que permiten a [[Boh'ron]] contactar con él para recibir noticias.
 
 
 ### Social
@@ -81,11 +79,7 @@ Respondiendo a la llamada de socorro de Minerva, [[Boh'Ron]] decidió prestarle 
 #### Formación
 
 #### Ocupación
-Trabaja generalmente como consejero y cónsul en la corte de [[Boh'ron]], aunque ha sido enviado en una misión "diplomática" para ayudar a recuperar Muro Dornöj
-
-
-Mentora de Linzi Miranda. ¿Qué escribiría? -> Épica historia romántica.
-
+Trabaja generalmente como consejero y cónsul en la corte de [[Boh'ron]], aunque ha sido enviado en una misión "diplomática" para ayudar a recuperar Muro Dornöj.
 
 
 

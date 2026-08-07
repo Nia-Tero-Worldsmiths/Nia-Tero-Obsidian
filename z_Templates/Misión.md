@@ -1,6 +1,6 @@
 ---
 NoteType: Misión
-draft: true
+publish: false
 tags:
   - WIP
 ---

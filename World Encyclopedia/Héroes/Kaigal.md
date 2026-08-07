@@ -2,7 +2,7 @@
 title: Kaigal
 NoteType: persona
 imagen: Diana (Rondfort).jpg
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

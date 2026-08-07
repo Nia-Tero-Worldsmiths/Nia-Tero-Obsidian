@@ -1,7 +1,7 @@
 ---
 title: "La Cámara de los Seis"
 NoteType:
-draft: false
+publish: true
 tags:
   - WIP
 aliases:

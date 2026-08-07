@@ -1,7 +1,7 @@
 ---
-title: 
+title: Volin
 NoteType: persona
-draft: true
+publish: false
 tags:
   - WIP
   - Personjes

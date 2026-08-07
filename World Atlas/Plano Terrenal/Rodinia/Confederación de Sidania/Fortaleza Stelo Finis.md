@@ -1,7 +1,7 @@
 ---
 title: "Fortaleza Stelo Finis"
 NoteType: lugar
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

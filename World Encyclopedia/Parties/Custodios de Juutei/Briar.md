@@ -2,7 +2,7 @@
 title: Briar
 NoteType: persona
 imagen: Briar.jpg
-draft: true
+publish: true
 tags:
   - WIP
 aliases:

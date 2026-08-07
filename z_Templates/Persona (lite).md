@@ -2,7 +2,7 @@
 title: 
 NoteType: persona
 imagen: [[]] #Borrar paréntesis una vez importada la imagen
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

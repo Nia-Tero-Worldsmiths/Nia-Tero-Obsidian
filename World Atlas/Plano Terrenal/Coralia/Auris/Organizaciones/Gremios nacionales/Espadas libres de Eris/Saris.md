@@ -2,7 +2,7 @@
 title: Saris
 NoteType: persona
 imagen: saris.jpg
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

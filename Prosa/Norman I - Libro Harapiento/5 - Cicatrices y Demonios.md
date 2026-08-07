@@ -3,7 +3,7 @@ title: 5 - Cicatrices y Demonios
 NoteType: prosa
 cssclasses:
   - prosa
-draft: false
+publish: true
 padre: "[[Norman I - Libro Harapiento]]"
 anterior: "[[4 - Jötunn]]"
 siguiente: "[[6 - Cañones]]"

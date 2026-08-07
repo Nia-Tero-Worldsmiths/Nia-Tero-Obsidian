@@ -1,7 +1,7 @@
 ---
 title: "Egos y Dagon"
 NoteType: creencia
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

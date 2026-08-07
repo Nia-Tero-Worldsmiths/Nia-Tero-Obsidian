@@ -4,3 +4,5 @@ Este ejército se dedicó a defender las diferentes regiones en las que se encue
 
 El ejército ocupó las regiones de [[Velaris]], [[Thalassia]], [[Calcindor]] y [[Gah'Las]].
 
+Entre sus más renombrados generales se encontraban [[Selina]] y Miguel
+

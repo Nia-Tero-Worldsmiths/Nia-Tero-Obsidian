@@ -1,7 +1,7 @@
 ---
 title: "Teocracia Magna"
 NoteType: nacion
-draft: true
+publish: false
 tags:
   - WIP
 aliases:

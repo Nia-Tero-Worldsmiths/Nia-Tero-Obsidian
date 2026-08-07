@@ -2,7 +2,7 @@
 title: Boh'Ron
 NoteType: persona
 imagen: Boh'ron separado.jpg
-draft: true
+publish: false
 tags:
   - WIP
   - Elementalis

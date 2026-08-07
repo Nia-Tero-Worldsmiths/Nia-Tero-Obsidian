@@ -2,7 +2,7 @@
 title: Mira
 NoteType: persona
 imagen: Mira.png
-draft: true
+publish: false
 tags:
   - WIP
 aliases:
