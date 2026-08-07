@@ -5,10 +5,10 @@ publish: true
 cssclasses:
   - cards
   - cards-cols-2
-imagen:
-  - []
+imagen: castle-flag.svg
 tags:
   - WIP
+  - party
 aliases:
   - 
 personaAlCargo: "[[Pom]]"
@@ -25,13 +25,10 @@ tipoOrg: Party gremial
 > | Tipo de organización | `=this.tipoOrg` |
 
 
-#Party 
 Party de rango Espada (D) de las espadas libres de Eris que trabajan principalmente en la región de [[Faelas]].  
-#### Miembros
+#### Estructura
 
-
-
- **Miembros**
+###### Miembros
 
 ```dataview
 TABLE without ID embed(link(imagen, "500x500")) as "Portrait", file.link as "Nombre"

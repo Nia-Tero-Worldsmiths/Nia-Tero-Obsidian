@@ -4,8 +4,7 @@ NoteType: organizacion
 cssclasses:
   - cards
   - cards-cols-3
-imagen:
-  - []
+imagen: castle-flag.svg
 personaAlCargo: "[[Diana Birgersdotter]]"
 tipoOrg: party
 publish: true
@@ -15,8 +14,6 @@ tags:
 aliases:
   -
 ---
-
-
 
 >[!infobox]
 ># **`=this.title`**
@@ -34,7 +31,7 @@ Dado su reducido tamaño y la cercanía de sus miembros, esta party casi carece 
 
 Vincenzo y Briar son subordinados de estas tres.
 
-**Miembros**
+###### Miembros
 ```dataview
 TABLE without ID embed(link(imagen, "500x500")) as "Portrait", file.link as "Nombre"
 FROM #custodios-de-juutei

@@ -25,6 +25,7 @@ perteneceA: "[[Organización]]"
 > | Gobernado por  | `=this.gobernador` |
 > | Pertenece a       | `=this.perteneceA` |
 
+
 TEXTO INTRODUCTORIO
 
 ### Historia

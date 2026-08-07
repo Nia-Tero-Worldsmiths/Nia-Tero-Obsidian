@@ -34,13 +34,29 @@
 	clear: right;
 }
 
-.cards img{
-	width: 100% !important;
-	object-fit: cover !important;
-	object-position: 100% 0;
-	margin-bottom: -100% !important;
+/* Card adjustments */
+.cards .block-language-dataview {
+	clear: right;
 }
 
-.cards-cols-2 img{
-	margin-bottom: 0% !important;
+.cards h6 {
+	clear: right;
+	margin-bottom: 0;
 }
+
+.cards table.dataview tbody {
+	padding: 0;
+}
+
+.cards table.dataview tbody > tr {
+	padding: 0;
+}
+
+.cards table.dataview tbody > tr > td img{
+	width: 100% !important;
+	object-fit: cover !important;
+	object-position: 50% 0;
+	padding: 0;
+}
+
+

@@ -1,7 +1,7 @@
 ---
 title: Ebrietas
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: Placeholder avatar.jpg
 publish: false
 tags:
   - WIP

@@ -1,26 +1,26 @@
 ---
-title: 
+title:
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+imagen: Placeholder avatar.jpg
 publish: false
 tags:
   - WIP
 aliases:
   - 
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
+especie:
+genero:
+edad:
 lugarNacimiento: "[[Lugar]]"
-creencia: 
+creencia:
 organizacion:
   - "[[Organización]]"
 cargoOrg:
-  -
+  - 
 titulos:
   - 
-clase: 
-subclase: 
+clase:
+subclase:
 elan:
 ---
 
@@ -47,7 +47,7 @@ elan:
 > |Patrón/Elan | `=this.elan` |
 
 
-Texto introductorio
+TEXTO INTRODUCTORIO
 
 ### Descripción física
 

@@ -1,7 +1,7 @@
 ---
-title: "Santa Talla"
+title: Santa Talla
 NoteType: tecnologia
-publish: true
+publish: false
 tags:
   - WIP
 aliases:

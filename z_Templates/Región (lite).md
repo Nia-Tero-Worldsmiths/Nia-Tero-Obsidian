@@ -20,6 +20,7 @@ perteneceA: "[[Organización]]"
 > | Gobernado por  | `=this.gobernador` |
 > | Pertenece a       | `=this.perteneceA` |
 
+
 DESCRIPCIÓN
 
 ### Ubicaciones de la región 

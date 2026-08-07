@@ -5,7 +5,7 @@ publish: true
 cssclasses:
   - cards
   - cards-cols-3
-imagen: [[]] #La imagen y eso
+imagen: castle-flag.svg
 tags:
   - WIP
 aliases:
@@ -42,7 +42,7 @@ En esta categoría se incluyen los cargos más altos de todo el país. A pesar d
 - **Mariscales:** En este grupo figuran los inquisidores a cargo de las distintas divisiones del Ejército Magno: [[Alexandr, La Prudencia|Alexandr Bentz]] en infantería, Ölbaum Kirsch en jinetes de guivernos y Marte como capitán de los comendadores. Adicionalmente, también se incluye en esta categoría a Acacia, encargada del cuerpo administrativo de la Inquisición. En términos de autoridad, es un cargo a un nivel similar que el de Senescal, salvo matices. Los títulos individuales de este grupo son las Virtudes Cardinales: Prudencia, Fortaleza, Templanza y Justicia, respectivamente.
 - **Comendadores:** El grupo más numeroso. Aquí figuran los inquisidores cuyo deber principal es proteger una región concreta. Se trata de un grupo lleno de excepciones, dado que también se incluye aquí a [[Trotaconventos, La Humildad|Trotaconventos]], quien carece de región asignada y está en constante traslado, y a Marte, el mariscal encargado del interior de la Teocracia, ante quien responden todos los comendadores y por extensión se considera también Comendador General de todos los territorios salvo la capital, de la cual es comendadora [[Clementine, La Caridad|Clementine]]. Estas inconsistencias dejan entrever la influencia directa del Sumo Sacerdote en la estructura de la Inquisición, dado que al ascender a alguien por orden directa no se tienen en cuenta los protocolos que evitan este tipo de casos excepcionales. Los títulos individuales de este grupo son las Virtudes Capitales: Templanza, Caridad, Generosidad, Castidad, Paciencia, Diligencia y Humildad.
 
-**Lista de inquisidores actuales**
+###### Lista de inquisidores actuales
 ```dataview
 TABLE without ID embed(link(imagen, "500x500")) as "Portrait", file.link as "Nombre"
 FROM #inquisidor AND !#ex-inquisidor 
