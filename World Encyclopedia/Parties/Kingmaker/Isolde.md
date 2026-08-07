@@ -46,7 +46,6 @@ elan:
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 
 Texto introductorio

@@ -21,7 +21,6 @@ titulos:
 clase: Bruja 
 subclase: 
 elan:
-pathbuilderId:
 ---
 
 >[!infobox]
@@ -45,7 +44,6 @@ pathbuilderId:
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 Joven miembro recién incorporada a la guardia de la ciudad. Actualmente en fase de entrenamiento pero se encuentra entre las mejores de su promoción.
 

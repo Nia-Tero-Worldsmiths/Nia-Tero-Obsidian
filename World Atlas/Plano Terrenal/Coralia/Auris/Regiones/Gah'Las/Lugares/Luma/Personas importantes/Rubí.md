@@ -21,7 +21,6 @@ titulos:
 clase: Commander
 subclase: 
 elan:
-pathbuilderId: 
 ---
 
 >[!infobox]
@@ -45,7 +44,6 @@ pathbuilderId:
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 ### Descripción física
 Estéticamente se trata de una elfa con el pelo rojo oscuro casi castaño. Tiene la apariencia de una mujer humana de unos 30 años. Lleva una imponente armadura negra con un estandarte con el símbolo de una mano negra en su espalda. En la mano derecha lleva un talwar y en la izquierda un escudo de acero. Su figura es bella a la vez que imponente.

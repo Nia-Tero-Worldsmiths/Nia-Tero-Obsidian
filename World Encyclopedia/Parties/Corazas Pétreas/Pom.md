@@ -22,7 +22,6 @@ titulos:
 clase: Kineticista / Guardiana
 subclase: Tierra
 elan:
-pathbuilderId: 384228
 ---
 
 >[!infobox]
@@ -46,7 +45,6 @@ pathbuilderId: 384228
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
-> |Pathbuilder ID| `=this.pathbuilderId` |
 
 
 Pom es una yaoguai de reciente nacimiento con muy poco conocimiento sobre el mundo.

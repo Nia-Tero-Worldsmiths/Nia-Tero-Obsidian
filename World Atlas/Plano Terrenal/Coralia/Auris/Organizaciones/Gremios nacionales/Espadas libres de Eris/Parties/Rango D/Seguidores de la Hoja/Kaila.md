@@ -22,7 +22,6 @@ titulos:
 clase: Rogue
 subclase:
 elan:
-pathbuilderId: 434904
 ---
 
 >[!infobox]
