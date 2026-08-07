@@ -1,10 +1,12 @@
 ---
-nombre: "Organizacion"
+title: Corazas Pétreas
 NoteType: organizacion
+publish: true
 cssclasses:
- - cards
- - cards-cols-2 #Cambiar esta según cuántas tarjetas se quiere por fila
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+  - cards
+  - cards-cols-2
+imagen:
+  - []
 tags:
   - WIP
 aliases:

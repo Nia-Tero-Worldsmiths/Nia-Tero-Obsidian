@@ -1,18 +1,19 @@
 ---
-title: "Custodios de Juutei"
+title: Custodios de Juutei
 NoteType: organizacion
 cssclasses:
- - cards
- - cards-cols-3 #Cambiar esta según cuántas tarjetas se quiere por fila
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+  - cards
+  - cards-cols-3
+imagen:
+  - []
 personaAlCargo: "[[Diana Birgersdotter]]"
 tipoOrg: party
-publish: false
+publish: true
 tags:
   - WIP
   - party
 aliases:
-  - 
+  -
 ---
 
 

@@ -2,13 +2,12 @@
 title: Aronne Laqua
 NoteType: persona
 imagen: Aronne Laqua.jpg
-publish: false
+publish: true
 tags:
   - WIP
   - PJ
   - blackShawarma
-
-aliases: 
+aliases:
   - Aronne
 alineamiento: LE
 especie: Dragonkin / Jotunnborn
@@ -16,11 +15,11 @@ genero: Mujer
 edad: 28
 lugarNacimiento: Laqua
 creencia: Laqua
-organizacion: 
+organizacion:
   - "[[Black Shawarma]]"
-cargoOrg: 
+cargoOrg:
   - Evil madre
-titulos: 
+titulos:
   - Heredera de la casa Laqua
 clase: Paladina
 subclase: Venganza

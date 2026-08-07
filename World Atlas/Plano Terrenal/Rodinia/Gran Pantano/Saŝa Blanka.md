@@ -1,5 +1,5 @@
 ---
-title: Saŝa Blanka
+title: Saŝa Blanka-Tourmaline
 NoteType: persona
 imagen: Saŝa.png
 publish: false

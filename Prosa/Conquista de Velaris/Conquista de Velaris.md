@@ -19,4 +19,5 @@ Han pasado varios meses desde que completamos las obras de la fortaleza, y comen
 ```dataview
 table without id file.link as "Lista de capítulos"
 where padre = this.file.link
+sort number(file.name) asc
 ```

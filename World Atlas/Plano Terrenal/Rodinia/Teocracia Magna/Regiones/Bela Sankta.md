@@ -1,7 +1,7 @@
 ---
 title: Bela Sankta
 NoteType: lugar
-publish: false
+publish: true
 tags:
   - WIP
 aliases:

@@ -85,7 +85,7 @@ Cuando a sus 19 años, durante uno de los "golpes" del gremio en los que de vez 
 #### Lazos familiares
 - [[Natia Blanka-Tourmaline]]: Moby considera a su hermana mayor un verdadero ejemplo a seguir: es amable, inteligente, constante, y se desvive por su pueblo. Hace alrededor de un año restablecieron el contacto y, tras disculparse la una con la otra por la separación brusca que tuvieron el día de la muerte de sus padres, se pusieron al día de sus vivencias. Moby le ha dejado claro que el día que se case quiere que sea Natia quien oficie la boda.
 - Pedro: El padre adoptivo de Moby. Con él tiene tanto buenos recuerdos como historias que aborrece. A pesar de que siempre se ha mostrado reacia a llamarlo padre, esto no se alinea en absoluto con su opinión de él, lo considera su padre de pleno hecho. Se trata de una persona increíblemente esquiva, y resulta imposible dar con él si no quiere ser encontrado.
-- Kiuvi: Su hermanastro menor. Prácticamente no ha podido compartir tiempo con él, fue adoptado por Pedro al poco de huir Moby de [[Velmonte]]. A pesar de no conocerse mucho, Moby 
+- Kiuvi: Su hermanastro menor. Prácticamente no ha podido compartir tiempo con él, fue adoptado por Pedro al poco de huir Moby de [[Velmonte]]. A pesar de no conocerse mucho, Moby lo tiene en muy alta estima, y le enorgullece lo inteligente que es.
 
 %%#### Amistades%%
 

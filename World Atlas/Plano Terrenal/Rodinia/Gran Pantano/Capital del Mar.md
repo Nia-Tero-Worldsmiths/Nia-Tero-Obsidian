@@ -1,9 +1,9 @@
 ---
-title: "Capital del Mar"
+title: Capital del Mar
 NoteType: region
-publish: false
+publish: true
 tags:
   - WIP
 aliases:
-  - 
+  -
 ---
