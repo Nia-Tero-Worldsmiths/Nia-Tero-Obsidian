@@ -1,7 +1,7 @@
 ---
 title: "Espada"
 NoteType: persona
-imagen: "LA IMAGEN VA DIRECTAMENTE EN LA TABLA DE MOMENTO"
+imagen: Placeholder avatar.jpg
 publish: false
 tags:
   - WIP
@@ -24,25 +24,26 @@ elan:
 
 >[!infobox]
 ># **`=this.title`**
-> IMAGEN AQUÍ
+> `=embed(link(this.imagen))`
 > 
-> | Info. narrativa     ||
->| -------------- | -------------- |
->| Alineamiento  | `=this.alineamiento` |
->| Especie          | `=this.especie` |
->| Género           | `=this.genero` |
->| Edad               | `=this.edad` años |
->| Lugar de nacimiento | `=this.lugarNacimiento` |
->| Creencia         | `=this.creencia` |
->| Organización  | `=this.organizacion` |
->| └>Cargo         | `=this.cargoOrg` |
->| Títulos             | `=this.titulos` |
+> || Info. narrativa |
+> | -------------- | -------------- |
+> | Alineamiento  | `=this.alineamiento` |
+> | Especie          | `=this.especie` |
+> | Género           | `=this.genero` |
+> | Edad               | `=this.edad` años |
+> | Lugar de nacimiento | `=this.lugarNacimiento` |
+> | Creencia         | `=this.creencia` |
+> | Organización  | `=this.organizacion` |
+> | └>Cargo         | `=this.cargoOrg` |
+> | Títulos             | `=this.titulos` |
 >
-> |Info. mecánica ||
+> || Info. mecánica |
 > | ----------- | ----------- |
 > | Clase          | `=this.clase` |
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
+
 
 Texto introductorio
 
@@ -71,5 +72,4 @@ Texto introductorio
 #### Amistades
 
 %%#### Otros%%
-
 

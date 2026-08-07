@@ -1,16 +1,17 @@
 ---
-nombre: "Organizacion"
+nombre: Organizacion
 NoteType: organizacion
 cssclasses:
- - cards
- - cards-cols-2 #Cambiar esta según cuántas tarjetas se quiere por fila
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
+  - cards
+  - cards-cols-2
+imagen: castle-flag.svg
 tags:
   - WIP
+  - party
 aliases:
   - 
 personaAlCargo: "[[Ramiel]]"
-tipoOrg: 
+tipoOrg:
 ---
 
 >[!infobox]
@@ -23,13 +24,10 @@ tipoOrg:
 > | Tipo de organización | `=this.tipoOrg` |
 
 
-#Party 
-Grupo de aventureros enviados por Minerva a conquistar un territorio vacío para fundar la nueva ciudad de Muro Dornöj
-#### Miembros
+Grupo de aventureros enviados por Lady Minerva Dríada Tambler a conquistar un territorio vacío para fundar la nueva ciudad de Murodornoj.
+#### Estructura
 
-
-
- **Miembros**
+###### Miembros
 
 ```dataview
 TABLE without ID embed(link(imagen, "500x500")) as "Portrait", file.link as "Nombre"

@@ -8,7 +8,7 @@ aliases:
   - Tambler
 ubicacion: "[[Teocracia Magna]]"
 gobernador: "[[Conde Lucán de Tambler]]"
-perteneceA: "[[Teocracia Magna]]"
+perteneceA: "[[Santa Inquisición de Magna]]"
 ---
 
 ## Mapa de la región
@@ -62,7 +62,7 @@ Tambler es una región de terreno heterogéneo donde abundan tanto las planicies
 Las zonas verdes de la región se localizan enteramente en los dos tercios Oeste de la misma, ya que debido a la influencia de Rond-Fort en el ecosistema a su alrededor, la zona este de la región es un pantanal inhabitable.
 
 ### Turismo
-Existen dos tipos de turismos fácilmente diferenciables en la región. Primeramente está el turismo interno de peregrinaje que se puede encontrar en [[Montelegro]], ciudad de alta importancia religiosa. [[Velmonte]], la capital, es una de las escasas ciudades de la Teocracia en las que existe turismo internacional, gracias a su famoso puerto comercial.
+Existen dos tipos de turismos fácilmente diferenciables en la región. Primeramente está el turismo interno de peregrinaje que se puede encontrar en [[Montelegro]], ciudad de alta importancia religiosa. Además de esto [[Velmonte]], la capital de la región, es una de las escasas ciudades de la Teocracia en las que existe turismo internacional, gracias a su famoso puerto comercial.
 
 ### Ubicaciones de la región 
 ```dataview
