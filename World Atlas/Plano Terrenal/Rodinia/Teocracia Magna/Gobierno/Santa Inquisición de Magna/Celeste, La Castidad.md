@@ -1,17 +1,17 @@
 ---
 title: Celeste de Carvajal
 NoteType: persona
-imagen: Celeste de Carvajal.jpg
+imagen: Celeste de Carvajal.webp
 publish: true
 tags:
   - inquisidor
   - WIP
   - comendador
-aliases: 
+aliases:
 alineamiento: TN
 especie: Cambion
 genero: No binario
-edad: 34
+edad: "34"
 lugarNacimiento: Forgesita
 creencia: "[[Las 20 Caras de Fortuna]]"
 organizacion:
@@ -48,7 +48,7 @@ elan: Eŭforia (Lovers)
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
-Celeste de Carvajal es uno de los siete Comendadores de la [[Teocracia Magna]], al cargo de la [[Región de Forgesita]], ostentando el titulo de La Castidad. Bastante popular en su región, ha acumulado poder político sobre la Inquisición, a la cual dirige desde la Gran Academia de las Artes y las Letras de Forgesita 
+Celeste de Carvajal es uno de los siete Comendadores de la [[Teocracia Magna]], al cargo de la [[Forgesita|Región de Forgesita]], ostentando el titulo de La Castidad. Bastante popular en su región, ha acumulado poder político sobre la Inquisición, a la cual dirige desde la Gran Academia de las Artes y las Letras de Forgesita 
 
 ### Descripción física
 

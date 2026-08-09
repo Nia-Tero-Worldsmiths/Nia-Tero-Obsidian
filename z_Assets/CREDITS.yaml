@@ -1,0 +1,143 @@
+# Provenance for the artwork in z_Assets/.
+#
+# The images here come from different places and each needs a different answer. 
+# The site's text is CC BY-SA 4.0. No image is covered by that, and none will
+# be until its row below says so explicitly. A Creative Commons grant cannot be
+# withdrawn once made, so "reserved" is the safe default: it can always be
+# opened later, never closed again.
+#
+# FIELDS
+#
+#   origin    original | ai | licensed | external | unknown   (required)
+#               original -- drawn by a member of the team
+#               ai       -- generative output
+#               licensed -- someone else's, under terms that let us publish
+#               external -- someone else's, with no permission to publish
+#               unknown  -- not yet established
+#   author    who made it. Only meaningful for `origin: original`.
+#   license   overrides the default below. Add one only when it differs.
+#             REQUIRED for `origin: licensed` -- that origin means nothing
+#             without naming the terms it relies on.
+#   source    where it came from, as a URL or a plain description.
+#             REQUIRED for `origin: licensed`, so the claim can be rechecked.
+#
+
+version: 1
+
+# Whether a file may be copied to the public site, by origin.
+policy:
+  original: publish   # ours to show
+  ai:       publish   # showable, but see `defaults.license`
+  licensed: publish   # someone else's, but the terms allow it
+  external: never     # someone else's work -- vault-only reference
+  unknown:  never     # unclassified is not a licence to publish
+
+# Applied to any row that does not say otherwise, and to any file with no row.
+defaults:
+  origin: unknown
+  license: reserved
+
+
+assets:
+  # ─── Original art — Rei-pyo ────────────────────────────────────────────────
+  # Reserved for now. Rei-pyo owns the copyright the moment each is drawn and
+  # nothing needs doing to keep it; opening them up is their call to make, and
+  # it does not have to match the licence on the text.
+  "Alexandr Bentz.webp":      { origin: original, author: Rei-pyo }
+  "Aronne Laqua.webp":         { origin: original, author: Rei-pyo }
+  "Briar.webp":                { origin: original, author: Rei-pyo }
+  "Brunhilda (Rondfort).webp": { origin: original, author: Rei-pyo }
+  "Celeste de Carvajal.webp": { origin: original, author: Rei-pyo }
+  "Clementine.webp":          { origin: original, author: Rei-pyo }
+  "Conde de Tambler.webp":    { origin: original, author: Rei-pyo }
+  "Diana (Rondfort).webp":     { origin: original, author: Rei-pyo }
+  "Isolde.webp":               { origin: original, author: Rei-pyo }
+  "Jack.webp":                { origin: original, author: Rei-pyo }
+  "Marte.webp":               { origin: original, author: Rei-pyo }
+  "Moby (Rondfort).webp":      { origin: original, author: Rei-pyo }
+  "Saŝa.webp":                { origin: original, author: Rei-pyo }
+  "Trotaconventos.webp":      { origin: original, author: Rei-pyo }
+  "Urausu.webp":               { origin: original, author: Rei-pyo }
+
+  # ─── Maps ──────────────────────────────────────────────────────────────────
+  # Rendered by the zoommap module. If any were assembled in a map generator,
+  # that generator's terms may apply on top of whoever built them.
+  "Faro de la tormenta.webp": { origin: original, author: Marioespiro }
+  "Luma.webp":                 { origin: original, author: Emperadoracero }
+  "Pandysia GIRADO.webp":      { origin: original, author: Rei-pyo }
+  "Tambler.webp":              { origin: original, author: Marioespiro }
+
+  # ─── AI generated ──────────────────────────────────────────────────────────
+  # Published, never licensed. Worth recording the model per row if it is ever
+  # known -- some services attach terms to their output.
+  "Boh'ron separado.jpg":     { origin: ai }
+  "Dina.png":                 { origin: ai }
+  "elfa paladina.jpg":        { origin: ai }
+  "Ishara.png":               { origin: ai }
+  "Kaila.png":                { origin: ai }
+  "kalis.jpeg":               { origin: ai }
+  "Kassandra.png":            { origin: ai }
+  "Kon.JPG":                  { origin: ai }
+  "Lira.png":                 { origin: ai }
+  "Mara.png":                 { origin: ai }
+  "Mich.png":                 { origin: ai }
+  "Mira.png":                 { origin: ai }
+  "Miria.png":                { origin: ai }
+  "Miria_transformada.png":   { origin: ai }
+  "Piers.png":                { origin: ai }
+  "Pira.jpg":                 { origin: ai }
+  "Pole.png":                 { origin: ai }
+  "Ronnie.png":               { origin: ai }
+  "Sarah.png":                { origin: ai }
+  "Selina.png":               { origin: ai }
+  "Sonia.png":                { origin: ai }
+  "Zora.png":                 { origin: ai }
+
+  # ─── Unverified: probably external ─────────────────────────────────────────
+  # These need a human who remembers where they came from. Until then they
+  # count as `unknown`, which means never published -- and three of them are
+  # published right now, so classifying these is the one job with a deadline.
+  # The four at 736px are the strongest candidates: that is the width Pinterest
+  # serves at.
+  "Bárbara.jpg":              { origin: unknown }   # 503x1024
+  "Bruja.jpg":                { origin: unknown }   # 1200x1378
+  "Ceres.jpg":                { origin: unknown }   # 736x736
+  "colt.jpg":                 { origin: unknown }   # 474x629
+  "Connor O'Sullivan.png":    { origin: unknown }   # 332x857
+  "Gary.jpg":                 { origin: unknown }   # 1200x1993 -- CURRENTLY PUBLISHED
+  "Gaultam.jpg":              { origin: unknown }   # 631x960
+  "Jill.jpg":                 { origin: unknown }   # 736x736
+  "Micĵo.png":                { origin: unknown }   # 636x900   -- CURRENTLY PUBLISHED
+  "Mimi.jpg":                 { origin: unknown }   # 826x1462
+  "Pom.jpg":                  { origin: unknown }   # 736x910   -- CURRENTLY PUBLISHED
+  "Ramiel.jpg":               { origin: unknown }   # 236x606
+  "Ross.jpg":                 { origin: unknown }   # 736x1187
+  "saris.jpg":                { origin: unknown }
+  "Sol.jpg":                  { origin: unknown }   # 186x271
+  "Suli.jpg":                 { origin: unknown }   # 711x1100
+  "Tali.jpg":                 { origin: unknown }   # 1029x1200
+  "Vailaya.jpg":              { origin: unknown }   # 1085x1450
+  "Vana.jpg":                 { origin: unknown }
+
+  # ─── Third-party, permitted ────────────────────────────────────────────────
+  # Nothing here yet. The shape, for whoever adds the first one:
+  #
+  #   "Some stock photo.jpg":
+  #     { origin: licensed, license: CC-BY-4.0,
+  #       source: "https://example.org/photo -- by A. Photographer" }
+  #
+  # Record the licence exactly enough to act on later: "CC-BY-4.0" is checkable,
+  # "free to use" is not.
+
+  # ─── Guild logos ───────────────────────────────────────────────────────────
+  # Small marks. Worth checking whether these were drawn or sourced -- a logo
+  # lifted from elsewhere carries the same problem as a portrait.
+  "simbolo caballo estratica.jpg":            { origin: unknown }
+  "Símbolo de los buscadores perdidos.jpeg":  { origin: unknown }   # 225x225
+  "simbolo dragon draconis.jpg":              { origin: unknown }
+  "simbolo estrella draconis.jpg":            { origin: unknown }   # 612x612
+  "simbolo winged sword espadas libres.jpg":  { origin: unknown }   # 307x350
+
+# Not listed: z_Assets/Icons/ (Font Awesome and RPG Awesome, third-party icon
+# packs that ship their own LICENSE files and are excluded from the site build
+# by `asset_exclude_dirs` in the parser config).

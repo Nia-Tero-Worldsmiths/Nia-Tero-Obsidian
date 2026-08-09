@@ -10,7 +10,7 @@ aliases:
 alineamiento: TN/CG...
 especie:
 genero:
-edad:
+edad: "X"
 lugarNacimiento: "[[Lugar]]"
 creencia:
 organizacion:
@@ -67,11 +67,11 @@ TEXTO INTRODUCTORIO
 
 %%#### Ocupación%%
 
-#### Entorno cercano
+%%#### Entorno cercano%%
 
-#### Lazos familiares
+%%#### Lazos familiares%%
 
-#### Amistades
+%%#### Amistades%%
 
 %%#### Otros%%
 

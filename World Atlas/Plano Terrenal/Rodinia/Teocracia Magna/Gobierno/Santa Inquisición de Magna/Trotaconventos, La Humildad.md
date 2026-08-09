@@ -1,7 +1,7 @@
 ---
 title: Trotaconventos
 NoteType: persona
-imagen: Trotaconventos.jpg
+imagen: Trotaconventos.webp
 publish: true
 tags:
   - inquisidor
@@ -13,7 +13,7 @@ aliases:
 alineamiento: CN
 especie: Doppelganger
 genero: Mujer
-edad: 87
+edad: "87"
 lugarNacimiento: Forgesita
 creencia: N/A
 organizacion:
@@ -25,7 +25,7 @@ titulos:
   - La Humildad (anteriormente)
 clase: Clériga
 subclase: Engaño
-elan: Neglektemo
+elan: Abaddon
 ---
 
 >[!infobox]

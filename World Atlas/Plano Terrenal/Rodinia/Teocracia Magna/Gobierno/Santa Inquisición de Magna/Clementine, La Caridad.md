@@ -1,7 +1,7 @@
 ---
 title: Clementine d'If
 NoteType: persona
-imagen: Clementine.jpg
+imagen: Clementine.webp
 publish: true
 tags:
   - inquisidor
@@ -15,7 +15,7 @@ aliases:
 alineamiento: CE
 especie: Humana
 genero: Mujer
-edad: 32
+edad: "32"
 lugarNacimiento: "[[Bela Sankta]]"
 creencia: ???
 organizacion:

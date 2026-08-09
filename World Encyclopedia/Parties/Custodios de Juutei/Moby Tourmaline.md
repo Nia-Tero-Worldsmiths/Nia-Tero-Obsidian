@@ -1,7 +1,7 @@
 ---
 title: Moby Tourmaline
 NoteType: persona
-imagen: Moby (Rondfort).jpg
+imagen: Moby (Rondfort).webp
 publish: true
 tags:
   - PJ
@@ -11,7 +11,7 @@ aliases:
 alineamiento: CG
 especie: Aksolotl
 genero: Mujer
-edad: 22
+edad: "22"
 lugarNacimiento: "[[Capital del Mar]]"
 creencia: "[[Egos y Dagon]]"
 organizacion: "[[Custodios de Juutei]]"

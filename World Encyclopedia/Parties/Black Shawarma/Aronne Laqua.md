@@ -1,7 +1,7 @@
 ---
 title: Aronne Laqua
 NoteType: persona
-imagen: Aronne Laqua.jpg
+imagen: Aronne Laqua.webp
 publish: true
 tags:
   - WIP
@@ -12,7 +12,7 @@ aliases:
 alineamiento: LE
 especie: Dragonkin / Jotunnborn
 genero: Mujer
-edad: 28
+edad: "28"
 lugarNacimiento: Laqua
 creencia: Laqua
 organizacion:
@@ -112,7 +112,7 @@ A partir de este momento, comenzó una investigación personal acerca de las mar
 Fue durante este tiempo que logró mantener más conversaciones con Laqua, las cuales la llevaron a plantearse el abandonar la ciudad e incluso el país y formarse como aventurera viajando por el mundo a la vez que buscaba pistas acerca tanto de su pasado como de su reliquia familiar, con la esperanza de poder volver a su casa.
 
 Esto le llevó a elaborar un plan junto a Idelia para escapar de Sidania a través de la cordillera de Drako Vidis, que acabaron llevando a cabo años más tarde, cuando Aronne cumplió los 25 años.
-Tras cruzar la cordillera acabó en Belmonte, en la [[Región de Tambler]], donde conoció al que en un futuro sería su grupo, [[Black Shawarma]].
+Tras cruzar la cordillera acabó en Belmonte, en la [[Tambler|Región de Tambler]], donde conoció al que en un futuro sería su grupo, [[Black Shawarma]].
 
 #### Lazos familiares
 Aronne tiene un hermano mayor, Lucien y un hermano y hermana menores que son mellizos.

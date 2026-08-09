@@ -1,7 +1,7 @@
 ---
 title: Jack Aston Bentz
 NoteType: persona
-imagen: Jack.jpg
+imagen: Jack.webp
 publish: false
 tags:
   - WIP
@@ -14,7 +14,7 @@ aliases:
 alineamiento: LE
 especie: Humano
 genero: Hombre
-edad: 25
+edad: "25"
 lugarNacimiento: "[[Lugar]]"
 creencia: "[[Las 20 Caras de Fortuna]]"
 organizacion:
@@ -25,7 +25,7 @@ titulos:
   - La Humildad
 clase: Clérigo
 subclase: Guerra
-elan: Oberon
+elan: Abaddon
 ---
 
 >[!infobox]

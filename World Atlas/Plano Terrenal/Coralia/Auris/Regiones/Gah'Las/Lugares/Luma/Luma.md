@@ -3,8 +3,11 @@ La ciudad de Luma se encuentra en el corazón de la región de [[Gah'Las]], refu
 
 La arquitectura de la ciudad destaca por el amplio uso de los balcones en las casas y el uso de un compuesto similar a la piedra y el hormigón, un compuesto llamado [[World Encyclopedia/Ciencia y Tecnología/Luma/Galo]] por el que es conocida la región.
 
-Bañada en tonos anaranjados, es una ciudad que destaca por sus altas torres y espirales que parecen querer desafiar en altura a las montañas que la rodean, unidas entre sí mediante numerosas pasarelas de las que cuelgan los estandartes de la ciudad y la región. ![[Pasted image 20260203200443.png]]
+Bañada en tonos anaranjados, es una ciudad que destaca por sus altas torres y espirales que parecen querer desafiar en altura a las montañas que la rodean, unidas entre sí mediante numerosas pasarelas de las que cuelgan los estandartes de la ciudad y la región.
+
+![[Luma.webp]]
 [[alquimia tiera.png]]
+
 Existen 5 grandes espirales, siendo la más grande la sur en la que reside la familia real y en la que se encuentra el cuartel central del ejército de la ciudad. 
 En las otras 4 espirales podemos encontrar casetas de guardia, mercados varios y centros tanto de gobierno como de organizaciones locales.
 

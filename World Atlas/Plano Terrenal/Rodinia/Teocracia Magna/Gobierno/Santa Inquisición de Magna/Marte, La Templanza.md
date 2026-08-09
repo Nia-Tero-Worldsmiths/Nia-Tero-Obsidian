@@ -1,30 +1,29 @@
 ---
-title: Alexandr Bentz
+title: Marte Electris
 NoteType: persona
-imagen: Alexandr Bentz.webp
+imagen: Marte.webp
 publish: false
 tags:
   - WIP
   - inquisidor
-  - mariscal
 aliases:
-  - La Prudencia
-  - Alexandr Bentz
+  - Marte
 alineamiento: NE
-especie: Humano
+especie: Autogólem de carne
 genero: Hombre
-edad: "71"
-lugarNacimiento: "[[Lugar]]"
-creencia: "[[Las 20 Caras de Fortuna]]"
+edad: ~900
+lugarNacimiento: Caravan
+creencia:
 organizacion:
   - "[[Santa Inquisición de Magna]]"
 cargoOrg:
-  - General de Infanteria
+  - Mariscal a cargo de los Comendadores
 titulos:
-  - La Prudencia
+  - La Templanza
+  - Inquisidor más Fuerte
 clase: Clérigo
-subclase: Conocimiento
-elan: Boreala
+subclase: Sangre
+elan: Oberon
 ---
 
 >[!infobox]
@@ -50,7 +49,7 @@ elan: Boreala
 > |Patrón/Elan | `=this.elan` |
 
 
-Texto introductorio
+TEXTO INTRODUCTORIO
 
 ### Descripción física
 
@@ -70,9 +69,11 @@ Texto introductorio
 
 %%#### Ocupación%%
 
-#### Lazos familiares
+%%#### Entorno cercano%%
 
-#### Amistades
+%%#### Lazos familiares%%
+
+%%#### Amistades%%
 
 %%#### Otros%%
 
