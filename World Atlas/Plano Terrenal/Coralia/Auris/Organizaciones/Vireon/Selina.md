@@ -60,7 +60,7 @@ La versión actual de Selina tiene la forma de una mujer compuesta completamente
 
 
 ### Background
-Selina surgió como defensa del planeta frente al ritual de [[Origo mutatio]] realizado por [[Flammula]]. Fue una de los elementales más poderosos llamados durante el ritual y general de las fuerzas que ocupaban [[Velaris]], por lo que fue una enemiga natural durante la [[Conquista de Velaris]], realizada por [[Boh'ron]].
+Selina surgió como defensa del planeta frente al ritual de [[Origo mutatio]] realizado por [[Flammula]]. Fue una de los elementales más poderosos llamados durante el ritual y general de las fuerzas que ocupaban [[Velaris]], por lo que fue una enemiga natural durante la [[El ojo de la tormenta]], realizada por [[Boh'ron]].
 
 Selina fue la protectora de la región de [[Eicadia]], y la última de sus hermanos en caer frente a los héroes.
 

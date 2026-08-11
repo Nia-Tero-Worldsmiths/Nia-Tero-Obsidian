@@ -1,9 +1,9 @@
 ---
-title:
+title: Preparativos de guerra
 NoteType: prosa
 cssclass: prosa
 publish: false
-padre: "[[Conquista de Velaris]]"
+padre: "[[El ojo de la tormenta]]"
 anterior: "[[1 - La sala del ocaso]]"
 siguiente:
 tags:

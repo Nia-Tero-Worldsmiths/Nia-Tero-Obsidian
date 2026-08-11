@@ -73,7 +73,7 @@ Tras su llegada al nuevo continente, siguió las indicaciones de [[Flammula]] ha
 A partir de este momento, Vailaya se hizo uno con su control del agua y se convirtió en un poderoso Genasi de agua, una undina.
 
 Tras su conversión, fue encargada con la [[Conquista de Thalassia]], por parte de [[Flammula]].
-Fue la primera [[Elementalis]] en terminar su tarea de conquista, y erigió la ciudad de [[Neridia]] en el núcleo elemental de la región, siguiendo las instrucciones de su general. Tras terminar con esta tarea, asistió a su pareja [[Boh'ron]] en la [[Conquista de Velaris]] contra la resistencia de [[Selina]].
+Fue la primera [[Elementalis]] en terminar su tarea de conquista, y erigió la ciudad de [[Neridia]] en el núcleo elemental de la región, siguiendo las instrucciones de su general. Tras terminar con esta tarea, asistió a su pareja [[Boh'ron]] en la [[El ojo de la tormenta]] contra la resistencia de [[Selina]].
 
 Tras finalizar esta tarea, se dedicó al gobierno y restauración de la región de [[Thalassia]], a la vez que se encargaba de aumentar la recolección de energía elemental bajo las órdenes de [[Flammula]].
 
