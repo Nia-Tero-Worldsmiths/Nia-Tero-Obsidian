@@ -7,8 +7,8 @@ tags:
 aliases:
   - 
 ubicacion: "[[Cinderia]]"
-gobernador: "[[Persona]]"
-perteneceA: "[[Elementalis]]"
+gobernador: "[[Kaigal]]"
+perteneceA: "[[Auris]]"
 ---
 
 >[!infobox]

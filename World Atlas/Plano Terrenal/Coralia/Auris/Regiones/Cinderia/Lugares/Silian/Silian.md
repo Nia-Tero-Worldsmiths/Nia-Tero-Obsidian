@@ -1,1 +1,24 @@
+---
+title: Silian
+NoteType: lugar
+publish: false
+tags:
+  - WIP
+aliases:
+  - 
+ubicacion: "[[Cinderia]]"
+gobernador: "[[Kaigal]]"
+perteneceA: "[[Auris]]"
+---
+
+>[!infobox]
+># **`=this.title`**
+> 
+> | Información    ||
+> | ---------------- | -------------- |
+> | Ubicado en        | `=this.ubicacion` |
+> | Gobernado por  | `=this.gobernador` |
+> | Pertenece a       | `=this.perteneceA` |
+
+
 Silian es una de las regiones más productivas de todo el país, debido a la gran calidad del suelo en la que se asienta, es considerada como el principal centro agricultural y ganadero del país, y gran parte de la comida que se consume de manera diaria proviene de esta región. En esta región se encuentra la ciudad de "", que gestiona toda la producción local y de los pueblos y asentamientos de la región. También se encuentra aquí uno de los principales centros de distribución de la región.

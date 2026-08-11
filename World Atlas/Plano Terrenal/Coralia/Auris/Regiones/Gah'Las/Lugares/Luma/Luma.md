@@ -1,3 +1,26 @@
+---
+title: Luma
+NoteType: lugar
+publish: false
+tags:
+  - WIP
+aliases:
+  - 
+ubicacion: "[[Gah'Las]]"
+gobernador: "[[Khan]]"
+perteneceA: "[[Auris]]"
+---
+
+>[!infobox]
+># **`=this.title`**
+> 
+> | Información    ||
+> | ---------------- | -------------- |
+> | Ubicado en        | `=this.ubicacion` |
+> | Gobernado por  | `=this.gobernador` |
+> | Pertenece a       | `=this.perteneceA` |
+
+
 #Territorio
 La ciudad de Luma se encuentra en el corazón de la región de [[Gah'Las]], refugiada en el valle de Nalas, así llamado por el río que nace en las montañas que rodean la ciudad y transcurre por el centro de la misma.
 

@@ -1,3 +1,26 @@
+---
+title: Sylphoria 
+NoteType: lugar
+publish: false
+tags:
+  - WIP
+aliases:
+  - 
+ubicacion: "[[Velaris]]"
+gobernador: "[[Boh'ron]]"
+perteneceA: "[[Auris]]"
+---
+
+>[!infobox]
+># **`=this.title`**
+> 
+> | Información    ||
+> | ---------------- | -------------- |
+> | Ubicado en        | `=this.ubicacion` |
+> | Gobernado por  | `=this.gobernador` |
+> | Pertenece a       | `=this.perteneceA` |
+
+
 Selva de la región de [[Velaris]] que colinda con la región de [[Gah'Las]].
 
 Se trata de una estructura viva en capas: capas flotantes de vegetación suspendida por corrientes de viento, troncos enormes que parecen crecer en espiral hacia el cielo, y raíces que atraviesan la roca como si esta fuera blanda.
