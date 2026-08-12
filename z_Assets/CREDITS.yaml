@@ -119,6 +119,11 @@ assets:
   "Vailaya.jpg":              { origin: unknown }   # 1085x1450
   "Vana.jpg":                 { origin: unknown }
 
+  # ─── Known external ────────────────────────────────────────────────────────
+  # These images cannot be published, and replacing them should be a priority
+  # in order to have the local vault and the published wiki as close as possible
+  "Placeholder avatar.jpg"    { origin: external }
+
   # ─── Third-party, permitted ────────────────────────────────────────────────
   # Nothing here yet. The shape, for whoever adds the first one:
   #

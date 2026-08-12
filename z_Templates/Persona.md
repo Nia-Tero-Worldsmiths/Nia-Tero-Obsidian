@@ -46,8 +46,8 @@ elan:
 > |└>Subclase| `=this.subclase` |
 > |Patrón/Elan | `=this.elan` |
 
-
 TEXTO INTRODUCTORIO
+
 
 ### Descripción física
 
@@ -74,4 +74,3 @@ TEXTO INTRODUCTORIO
 %%#### Amistades%%
 
 %%#### Otros%%
-

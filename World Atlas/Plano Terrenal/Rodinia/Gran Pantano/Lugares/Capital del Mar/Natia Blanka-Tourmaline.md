@@ -11,10 +11,10 @@ aliases:
 alineamiento: LG
 especie: Aksolotl
 genero: Mujer
-edad: 29
+edad: "29"
 lugarNacimiento: "[[Capital del Mar]]"
 creencia: "[[Egos y Dagon]]"
-organizacion: [[Matriarcado del Pantano]]
+organizacion: "[[Matriarcado del Pantano]]"
 cargoOrg:
   - Sacerdotisa Mayor del templo blanco
 ---
@@ -39,4 +39,4 @@ Natia es la hermana mayor de [[Moby Tourmaline]]. Actualmente es la esposa de [[
 
 Natia nació con una deformidad en la punta de la cola: la aleta se le dobla en un ángulo recto, lo cual le hace prácticamente imposible nadar sin desviarse. A pesar de esto, ha entrenado a diario durante años para convivir con ello, desarrollando un estilo de nado propio que incorpora su desviación natural en la trayectoria que quiere seguir. Todo el que conoce a Natia personalmente afirma con seguridad que, de no ser por este defecto, sería una de las mejores nadadoras de todo el Pantano.
 
-Cuando Moby era una mera renacuaja, ambas perdieron a sus padres a manos de Saŝa en un desafío por el gobierno de la ciudad. Este hecho se atribuye a la personalidad violenta y salvaje de la tiburona, aunque Natia tiene la certeza de que hay un matiz más a esa historia que la gente ignora: Saŝa nunca se avergüenza de ninguna de sus victorias en combate, excepto de aquella, la cual evita recordar activamente. Es por esto que dedica un gran esfuerzo en intentar que su mujer deje de castigarse por lo que ocurrió aquel día.
+Cuando Moby era una mera renacuaja, ambas perdieron a sus padres a manos de [[Saŝa Blanka|Saŝa]] en un desafío por el gobierno del Pantano. Este hecho se atribuye a la personalidad violenta y salvaje de la tiburona, aunque únicamente Natia es consciente de que hay un matiz más a esa historia que la gente ignora: [[Saŝa Blanka|Saŝa]] nunca se avergüenza de ninguna de sus victorias en combate, excepto de aquella, la cual aún a día de hoy le causa mucho dolor recordar. Fue únicamente gracias al gran esfuerzo de Natia que su mujer ha podido con el paso de los años dejar de castigarse por lo que ocurrió aquel día y aceptar que, si bien posiblemente fuera obra de Dagon, tan solo una voluntad férrea puede evitar que ocurra de nuevo.

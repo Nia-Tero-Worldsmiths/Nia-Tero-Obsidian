@@ -4,7 +4,6 @@ NoteType: persona
 imagen: Briar.webp
 publish: true
 tags:
-  - WIP
 aliases:
   - 
 alineamiento: TN

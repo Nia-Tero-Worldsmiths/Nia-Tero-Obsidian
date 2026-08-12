@@ -26,15 +26,8 @@ tipoOrg:
 TEXTO INTRODUCTORIO
 
 
-### Ideología
-
-
 ### Estructura
 Descripción de la estructura. Separar en tantas subsecciones como se quiera
-
-%%#### Política interna%%
-
-%%#### Ejército%%
 
 ###### Miembros
 ```dataview
@@ -44,15 +37,4 @@ SORT title ASC
 ```
 
 
-### Relaciones exteriores
-
-%%#### Relaciones diplomáticas%%
-
-%%#### Guerras%%
-
-
 ### Historia
-
-%%#### Fundación%%
-
-%%#### Intervenciones relevantes%%

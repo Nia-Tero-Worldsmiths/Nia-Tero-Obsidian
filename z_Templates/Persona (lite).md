@@ -28,5 +28,4 @@ cargoOrg:
 > | Organización  | `=this.organizacion` |
 > | └>Cargo         | `=this.cargoOrg` |
 
-
 DESCRIPCIÓN

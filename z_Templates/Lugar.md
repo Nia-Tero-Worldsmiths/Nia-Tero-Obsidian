@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 NoteType: lugar
 publish: false
 tags:
@@ -20,27 +20,29 @@ perteneceA: "[[Organización]]"
 > | Gobernado por  | `=this.gobernador` |
 > | Pertenece a       | `=this.perteneceA` |
 
-
 TEXTO INTRODUCTORIO
+
 
 %%### Historia%%
 
 
 ### Sociopolítica
-#### Demografía 
 
+#### Demografía
+
+%%#### Cultura%%
 
 #### Gobierno
-
 
 %%#### Núcleos de poder%%
 
 
 ### Geografía y economía
-#### Puntos de interés
 
-
-#### Defensas
-
+%%#### Puntos de interés%%
 
 #### Industria
+
+%%#### Comercio%%
+
+#### Defensas

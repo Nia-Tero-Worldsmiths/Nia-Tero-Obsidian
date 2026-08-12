@@ -6,7 +6,7 @@ tags:
   - WIP
 aliases:
   - 
-ubicacion: "[[Región]]"
+ubicacion: "[[Nación]]"
 gobernador: "[[Persona]]"
 perteneceA: "[[Organización]]"
 ---
@@ -25,30 +25,29 @@ perteneceA: "[[Organización]]"
 > | Gobernado por  | `=this.gobernador` |
 > | Pertenece a       | `=this.perteneceA` |
 
-
 TEXTO INTRODUCTORIO
+
 
 ### Historia
 
 
 ### Sociopolítica
+
 #### Demografía
 
+#### Cultura
 
 #### Gobierno
-
 
 #### Núcleos de poder
 
 
-### Geografía
+### Geografía y economía
 
+#### Puntos de interés
 
-### Turismo 
+#### Industria
 
+%%#### Comercio%%
 
-### Ubicaciones de la región 
-```dataview
-list 
-where ubicacion = this.file.link
-```
+%%#### Defensas%%

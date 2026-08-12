@@ -1,5 +1,5 @@
 ---
-title: Gran Pantano
+title:
 NoteType: nacion
 publish: false
 tags:
@@ -7,20 +7,19 @@ tags:
 aliases:
   - 
 imagen: castle-flag.svg
-ubicacion: "[[Rodinia]]"
-tipoGobierno: Caciquismo
+ubicacion: "[[Continente]]"
+tipoGobierno: 
 orgsDeGobierno:
-  - "[[Matriarcado del Pantano]]"
-capital: "[[Capital del Mar]]"
-fundacion: 17, Héroes
-TL: 2
-gentilicio: Marino
+  - "[[Organización]]"
+capital: "[[Lugar]]"
+fundacion:
+TL: 
+gentilicio:
 lenguasOficiales:
-  - Marino
-  - Común
+  -
 ---
 
-%%## Mapa de la nación%%
+## Mapa de la nación
 %%Alt+M para crear un mapa aquí%%
 
 ---

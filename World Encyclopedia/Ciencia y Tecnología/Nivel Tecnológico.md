@@ -1,4 +1,9 @@
-El nivel de tecnología (TL) es una métrica de las capacidades científicas y de producción de una nación, así como de la complejidad y efectividad del equipamiento que son capaces de fabricar.
+---
+aliases:
+  - Technology Level
+---
+
+El nivel tecnológico (TL) es una métrica de las capacidades científicas y de producción de una nación, así como de la complejidad y efectividad del equipamiento que son capaces de fabricar.
 
 Lo normal es que las naciones de Nia Tero ronden el TL 2-3, aunque puede haber outliers tanto hacia arriba como hacia abajo.
 

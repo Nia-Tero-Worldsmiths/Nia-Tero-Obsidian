@@ -8,6 +8,7 @@
     "organizacion": "multitext",
     "edad": "text",
     "previa": "text",
-    "padre": "text"
+    "padre": "text",
+    "TL": "number"
   }
 }
