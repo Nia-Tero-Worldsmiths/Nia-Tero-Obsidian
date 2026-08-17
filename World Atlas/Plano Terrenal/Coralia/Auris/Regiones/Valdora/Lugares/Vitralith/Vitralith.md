@@ -1,13 +1,13 @@
 ---
-title: Eicadia
+title: Vitralith
 NoteType: lugar
 publish: false
 tags:
   - WIP
 aliases:
   - 
-ubicacion: "[[Velaris]]"
-gobernador: "[[Boh'ron]]"
+ubicacion: "[[Valdora]]"
+gobernador: "[[Flammula]]"
 perteneceA: "[[Auris]]"
 ---
 
@@ -21,4 +21,4 @@ perteneceA: "[[Auris]]"
 > | Pertenece a       | `=this.perteneceA` |
 
 
-Capital de la región de [[Velaris]], regentada por [[Boh'ron]].
+Capital de [[Auris]]
