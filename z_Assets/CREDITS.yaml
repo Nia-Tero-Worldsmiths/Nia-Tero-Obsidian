@@ -70,28 +70,28 @@ assets:
   # ─── AI generated ──────────────────────────────────────────────────────────
   # Published, never licensed. Worth recording the model per row if it is ever
   # known -- some services attach terms to their output.
-  "Boh'ron separado.jpg":     { origin: ai }
-  "Dina.png":                 { origin: ai }
-  "elfa paladina.jpg":        { origin: ai }
-  "Ishara.png":               { origin: ai }
-  "Kaila.png":                { origin: ai }
-  "kalis.jpeg":               { origin: ai }
-  "Kassandra.png":            { origin: ai }
-  "Kon.JPG":                  { origin: ai }
-  "Lira.png":                 { origin: ai }
-  "Mara.png":                 { origin: ai }
-  "Mich.png":                 { origin: ai }
-  "Mira.png":                 { origin: ai }
-  "Miria.png":                { origin: ai }
-  "Miria_transformada.png":   { origin: ai }
-  "Piers.png":                { origin: ai }
-  "Pira.jpg":                 { origin: ai }
-  "Pole.png":                 { origin: ai }
-  "Ronnie.png":               { origin: ai }
-  "Sarah.png":                { origin: ai }
-  "Selina.png":               { origin: ai }
-  "Sonia.png":                { origin: ai }
-  "Zora.png":                 { origin: ai }
+  "Boh'ron separado.jpg":     { origin: ai, source: GPT-4o mini}
+  "Dina.png":                 { origin: ai, source: canva
+  "elfa paladina.jpg":        { origin: external }
+  "Ishara.png":               { origin: ai, source: GPT-4o mini }
+  "Kaila.png":                { origin: ai, source: GPT-4o mini}
+  "kalis.jpeg":               { origin: ai, source: GPT-4o mini }
+  "Kassandra.png":            { origin: external }
+  "Kon.JPG":                  { origin: external }
+  "Lira.png":                 { origin: ai, source: GPT-4o mini }
+  "Mara.png":                 { origin: ai, source: GPT-4o mini }
+  "Mich.png":                 { origin: ai, source: GPT-4o mini }
+  "Mira.png":                 { origin: ai, source: GPT-4o mini }
+  "Miria.png":                { origin: ai, source: GPT-4o mini }
+  "Miria_transformada.png":   { origin: ai, source: GPT-4o mini }
+  "Piers.png":                { origin: ai, source: GPT-4o mini }
+  "Pira.jpg":                 { origin: ai, source: GPT-4o mini }
+  "Pole.png":                 { origin: ai, source: GPT-4o mini }
+  "Ronnie.png":               { origin: ai, source: GPT-4o mini }
+  "Sarah.png":                { origin: ai, source: GPT-4o mini }
+  "Selina.png":               { origin: ai, source: GPT-4o mini }
+  "Sonia.png":                { origin: ai, source: GPT-4o mini }
+  "Zora.png":                 { origin: ai, source: GPT-4o mini }
 
   # ─── Unverified: probably external ─────────────────────────────────────────
   # These need a human who remembers where they came from. Until then they
@@ -99,25 +99,25 @@ assets:
   # published right now, so classifying these is the one job with a deadline.
   # The four at 736px are the strongest candidates: that is the width Pinterest
   # serves at.
-  "Bárbara.jpg":              { origin: unknown }   # 503x1024
-  "Bruja.jpg":                { origin: unknown }   # 1200x1378
-  "Ceres.jpg":                { origin: unknown }   # 736x736
-  "colt.jpg":                 { origin: unknown }   # 474x629
+  "Bárbara.jpg":              { origin: external }   # 503x1024
+  "Bruja.jpg":                { origin: external }   # 1200x1378
+  "Ceres.jpg":                { origin: external }   # 736x736
+  "colt.jpg":                 { origin: external }   # 474x629
   "Connor O'Sullivan.png":    { origin: unknown }   # 332x857
-  "Gary.jpg":                 { origin: unknown }   # 1200x1993 -- CURRENTLY PUBLISHED
-  "Gaultam.jpg":              { origin: unknown }   # 631x960
-  "Jill.jpg":                 { origin: unknown }   # 736x736
+  "Gary.jpg":                 { origin: external }   # 1200x1993 -- externalPUBLISHED
+  "Gaultam.jpg":              { origin: external }   # 631x960
+  "Jill.jpg":                 { origin: external }   # 736x736
   "Micĵo.png":                { origin: unknown }   # 636x900   -- CURRENTLY PUBLISHED
-  "Mimi.jpg":                 { origin: unknown }   # 826x1462
+  "Mimi.jpg":                 { origin: external }   # 826x1462
   "Pom.jpg":                  { origin: unknown }   # 736x910   -- CURRENTLY PUBLISHED
   "Ramiel.jpg":               { origin: unknown }   # 236x606
-  "Ross.jpg":                 { origin: unknown }   # 736x1187
-  "saris.jpg":                { origin: unknown }
-  "Sol.jpg":                  { origin: unknown }   # 186x271
-  "Suli.jpg":                 { origin: unknown }   # 711x1100
-  "Tali.jpg":                 { origin: unknown }   # 1029x1200
-  "Vailaya.jpg":              { origin: unknown }   # 1085x1450
-  "Vana.jpg":                 { origin: unknown }
+  "Ross.jpg":                 { origin: external }   # 736x1187
+  "saris.jpg":                { origin: external }
+  "Sol.jpg":                  { origin: external }   # 186x271
+  "Suli.jpg":                 { origin: external }   # 711x1100
+  "Tali.jpg":                 { origin: external }   # 1029x1200
+  "Vailaya.jpg":              { origin: ai, source: GPT-4o mini }   # 1085x1450
+  "Vana.jpg":                 { origin: external }
 
   # ─── Known external ────────────────────────────────────────────────────────
   # These images cannot be published, and replacing them should be a priority
@@ -137,11 +137,11 @@ assets:
   # ─── Guild logos ───────────────────────────────────────────────────────────
   # Small marks. Worth checking whether these were drawn or sourced -- a logo
   # lifted from elsewhere carries the same problem as a portrait.
-  "simbolo caballo estratica.jpg":            { origin: unknown }
-  "Símbolo de los buscadores perdidos.jpeg":  { origin: unknown }   # 225x225
-  "simbolo dragon draconis.jpg":              { origin: unknown }
-  "simbolo estrella draconis.jpg":            { origin: unknown }   # 612x612
-  "simbolo winged sword espadas libres.jpg":  { origin: unknown }   # 307x350
+  "simbolo caballo estratica.jpg":            { origin: external }
+  "Símbolo de los buscadores perdidos.jpeg":  { origin: external }   # 225x225
+  "simbolo dragon draconis.jpg":              { origin: external }
+  "simbolo estrella draconis.jpg":            { origin: external }   # 612x612
+  "simbolo winged sword espadas libres.jpg":  { origin: external }   # 307x350
 
 # Not listed: z_Assets/Icons/ (Font Awesome and RPG Awesome, third-party icon
 # packs that ship their own LICENSE files and are excluded from the site build
