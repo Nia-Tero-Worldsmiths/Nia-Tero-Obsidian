@@ -5,7 +5,7 @@ publish: false
 tags:
   - WIP
 ---
- `=this.title` es uno de los libros prohibidos de [[Auris]]. Este tomo narra la verdadera historia acerca de la conquista de la región de [[Velaris]] y el destino de la última general de [[Vireon]], [[Selina]].
+ `=this.title` es uno de los libros prohibidos de [[Auris]]. Este tomo, escrito por Melorith, narra la verdadera historia acerca de la conquista de la región de [[Velaris]] y el destino de la última general de [[Vireon]], [[Selina]].
 
 
 

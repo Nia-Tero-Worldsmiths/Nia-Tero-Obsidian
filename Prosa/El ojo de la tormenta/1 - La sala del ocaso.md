@@ -5,7 +5,7 @@ cssclass: prosa
 publish: false
 padre: "[[El ojo de la tormenta]]"
 anterior:
-siguiente: "[[2 - Preparativos de guerra]]"
+siguiente: "[[2 - El camino a la capital]]"
 tags:
   - WIP
 ---

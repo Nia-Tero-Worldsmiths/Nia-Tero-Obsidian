@@ -1,5 +1,5 @@
 ---
-title: Preparativos de guerra
+title: El camino a la capital
 NoteType: prosa
 cssclass: prosa
 publish: false
@@ -48,25 +48,50 @@ Supongo que esto era algo de esperar, quitando a Calinore, el resto éramos guer
 
 Tras tratar un par de temas más, terminó la reunión y en el camino a mi habitación coincidí con Calinore, así que le invité a pasar a charlar un rato, aún era pronto para dormir.
 
-(Intro de vitralith desde la distancia)
-hemos llegado a [[Vitralith]], la ciudad que estaba construyendo [[Flammula]] en persona. 
-(Reunión con [[Flammula]] y el resto, órdenes)
+"Me sorprende que estés interesado en política, no te tenía por esa clase de hombre"
 
+"¿Y por qué clase de hombre me tenías?"
 
+"Siendo sincera, pensé que eras del tipo que prefiere solucionar las cosas sin dar mil rodeos, con una solución eficaz, aunque no le guste al resto"
+¿Y es eso incompatible con la política?
 
+"Ilumíname"
 
+"Cierto es que los asuntos de la corte suelen ir más despacio, pero también es cierto que desde la corte se puede manejar todo mejor que como un mero soldado. Te admito que no me gustan los políticos, ni su tendencia a mentir, urdir tramas y tratar de beneficiarse siempre pero da una mejor imagen pública que se tomen las decisiones en la corte y no en un consejo de guerra, ¿verdad?"
 
-Idalis - Capitán de las hojas de la marea X
-Pandora - Mano derecha de [[Vailaya]](Parte de la esencia de boh'ron, desligada de el gracias a sus poderes de cambio, por eso en su forma completa tiene un ojo de color tuquesa como ella) X
-Aleanna la bruma sombría X
-Kylyn el ejecutor (slime) X
-Elunise la brisa marina X
-Calinore - maestro estratega X
-Melorith X
-Vailaya X
+"Hmm, supongo que si lo miras así tiene sentido, ¿entonces tu plan es ayudar a gestionar el país desde la política, y evitar así que la gestión sea llevada por manos incompetentes?"
 
+"Algo así, aunque es una buena forma de simplificarlo. No tengo intención de empezar en esto en un futuro cercano, aún queda mucho trabajo por hacer como soldado y mi vocación es y siempre será la estrategia, pero digamos que estoy tratando de ganarme mi sitio en la corte, para cuando todo esto termine"
 
+"Bueno, si ese es tu deseo quién soy yo para cuestionarlo, solo espero que no termines como esos viejos amargados"
 
+"Oh venga, quizás sea un poco seco pero nunca un amargado", me dijo mientras le veía sonreír por primera vez en toda la noche. "Oye, Melorith, ¿Qué vas a hacer cuando termine nuestro trabajo?, o sea estoy seguro de que una capitana de la guardia siempre tendrá trabajo en la misma pero tienes algún plan a futuro?"
+
+*Así que un plan a futuro, alguna vez he pensado en el tema pero vivo una vida tan ocupada que no me había parado a cuestionarlo seriamente*. 
+
+"Hmm, no estoy segura. Estoy cómoda con mi trabajo y me encantaría seguir puliendo mis habilidades, aunque entiendo que eventualmente no quedarán enemigos a los que derrotar. Quizá en un futuro me haga pescadora, o quizá escritora"
+
+"¿Pescadora?"
+
+"Sí, ¿algo raro eh?. Siempre me ha gustado mucho el mar, y me siento más cómoda en medio del océano que en mi propia casa, así que puestos a retirarme pocos mejores lugares se me ocurren"
+
+"¿Y lo de escritora?"
+
+"Oh eso, desde pequeña siempre me han encantado los cuentos y relatos de fantasía. Si te soy sincera también he llevado un diario desde que comenzamos la reconquista, como una especie de forma de mantener mis pies en la tierra, al menos al principio."
+
+"Hmm interesante, bueno si algún día te animas siéntete libre de consultarme. He estudiado infinidad de libros acerca del arte de la guerra. Sé que quizá no sean del mismo estilo que escribes pero confío en poder ayudarte."
+
+"Gracias, cuenta con ello."
+
+Y con esto nos despedimos por la noche, dispuestos a descansar. Nunca había tenido una charla informal con Calinore, y he de admitir que me ha sorprendido para bien. No tiene nada que ver con la personalidad fría y calculadora que conocía, aunque parece que esa era solo la faceta que presenta durante los preparativos de guerra.
+
+Un par de días más tarde abandonamos el espeso [[Bosque de Manis]] y nos adentramos en las extensas llanuras de [[Valdora]], que se extendías por kilómetros y kilómetros, permitiendo vislumbrar en el horizonte una silueta grisácea de lo que parecían ser casas y edificios asomando sobre una muralla de piedra negra, con un monumental edificio en el centro del lugar que eclipsaba tanto al resto de casas como a la propia muralla desde la distancia. Hacía un siglo que no pisaba estas tierras, y en aquella época apenas era posible distinguir varias casas sueltas en la lejanía.
+
+"Parece que se han puesto las pilas", dijo Elunise.
+
+"Desde luego" dijo [[Vailaya]], "esa ciudad que veis en la lejanía es [[Vitralith]], la ciudad que estaba construyendo [[Flammula]] junto a [[Graalem]], la tierra sagrada, y por lo que veo la fase inicial está casi terminada."
+
+"Vamos, nos están esperando.", añadió Pandora antes de aligerar el ritmo de la caravana.
 
 | Capítulo anterior |    Volver     | Siguiente capítulo |
 | ----------------- |:-------------:| ------------------:|
