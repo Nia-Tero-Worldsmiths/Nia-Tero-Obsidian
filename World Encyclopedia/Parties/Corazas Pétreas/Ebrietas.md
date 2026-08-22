@@ -1,7 +1,7 @@
 ---
 title: Ebrietas
 NoteType: persona
-imagen: Placeholder avatar.jpg
+imagen: Placeholder avatar.webp
 publish: false
 tags:
   - WIP

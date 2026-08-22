@@ -1,7 +1,7 @@
 ---
 title: Hans Juggernaut
 NoteType: persona
-imagen: Placeholder avatar.jpg
+imagen: Placeholder avatar.webp
 publish: true
 tags:
 aliases:
