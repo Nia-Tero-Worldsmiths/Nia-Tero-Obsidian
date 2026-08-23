@@ -27,29 +27,11 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
+:::lang es
 ### Descripción física
 
 #### Rasgos distintivos
@@ -64,4 +46,4 @@ Tiene una personalidad muy extrovertida y le encanta la magia y los estudios, au
 Es una chica a la que le gusta ligar y flirtear pero le gusta dejar a la gente con la miel en los labios.
 
 #### Lazos familiares
-
+:::

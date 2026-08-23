@@ -24,18 +24,10 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
->`=embed(link(this.imagen))`
-> || Información |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
+```i18n-infobox
+```
 
+:::lang es
 #Handlers
 # Estética
 Mira  una elfa de pelo rojo que actúa como la guía del grupo y recepcionista del gremio, por lo que no tiene clase y lleva ropa algo arreglada, levemente similar a una ropa de maid de colores blancos y rojizos.
@@ -56,4 +48,4 @@ A nivel de personalidad comienza siendo algo insegura y un poco torpe, cometiend
 Le encantan las fiestas y disfrutar con los compañeros, y no le gusta que se pongan en peligros innecesarios. Le gusta vivir aventuras.
 No le gusta hablar de su familia ni de la ciudad de [[Luma]]. Le encantaría poder reunirse de vuelta con su hermana.
 Soltera.
-
+:::

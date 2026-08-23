@@ -11,14 +11,10 @@ gobernador: "[[Boh'ron]]"
 perteneceA: "[[Auris]]"
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
 
+:::lang es
 Zona marina altamente cambiante debido a las fuertes corrientes de aire, que provocan la aparición constante de nuevos bancos de arena, y la desaparición de otros a su vez. Se pueden ver ocasionalmente a lo lejos mangas de agua.
+:::

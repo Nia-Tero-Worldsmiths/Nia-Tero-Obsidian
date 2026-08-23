@@ -11,15 +11,10 @@ gobernador: "[[Persona]]"
 perteneceA: "[[Organización]]"
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
+:::lang es
 Ciudad capital de la región de Hokusen, sirve de punto de comercio entre las zonas más al norte de la región y el resto de regiones del país. Ciudad muy animada y multicultural, cuenta con una gran universidad de ingeniería.
 
 %%### Historia%%
@@ -45,3 +40,4 @@ Tras la llegada de la señora [[Diana Birgersdotter]] y el establecimiento de un
 
 
 #### Industria
+:::

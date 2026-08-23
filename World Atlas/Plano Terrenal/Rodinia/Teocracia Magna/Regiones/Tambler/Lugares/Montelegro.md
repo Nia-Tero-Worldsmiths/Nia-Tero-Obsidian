@@ -10,15 +10,10 @@ gobernador: Abad Mayor Havel
 perteneceA: "[[Teocracia Magna]]"
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
+:::lang es
 Montelegro es una de las tres ciudades de mayor importancia en la [[Tambler|Región de Tambler]].
 
 ### Historia
@@ -58,3 +53,4 @@ La principal fuente de ingresos de Montelegro es el turismo proveniente del inte
 En adición a esto, los pastos de los alrededores de la ciudad son un lugar perfecto para la ganadería, situando la meseta de Montelegro como el principal productor de dicha industria en [[Tambler]].
 
 Mismamente, debido al carácter escarpado y poco fértil de las tierras de alrededor, la meseta no resulta un buen lugar para la agricultura.
+:::

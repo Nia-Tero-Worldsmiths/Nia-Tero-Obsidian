@@ -11,14 +11,10 @@ gobernador: "[[Khan]]"
 perteneceA: "[[Auris]]"
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
 
+:::lang es
 Zona al sur de [[Yrvalass]], limítrofe entre la región de [[Gah'Las]] y [[Thalassia]]. Como aspecto destacable de esta región, son unos grandes glaciares que descienden desde las montañas de [[Yrvalass]], llegando hasta la cosa donde se derriten formando un paisaje único.
+:::

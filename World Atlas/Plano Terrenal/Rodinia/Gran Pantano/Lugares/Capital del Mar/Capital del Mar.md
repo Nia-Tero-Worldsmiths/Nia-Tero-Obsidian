@@ -1,12 +1,45 @@
 ---
 title: Capital del Mar
-NoteType: region
+NoteType: lugar
 publish: true
 tags:
   - WIP
 aliases:
   -
-ubicacion: "[[Nación]]"
-gobernador: "[[Persona]]"
-perteneceA: "[[Organización]]"
+ubicacion: "[[Gran Pantano]]"
+gobernador: "[[Saŝa Blanka]]"
+perteneceA: "[[Matriarcado del Pantano]]"
 ---
+
+```i18n-infobox
+```
+
+:::lang es
+TEXTO INTRODUCTORIO
+
+
+%%### Historia%%
+
+
+### Sociopolítica
+
+#### Demografía
+
+%%#### Cultura%%
+
+#### Gobierno
+
+%%#### Núcleos de poder%%
+
+
+### Geografía y economía
+
+%%#### Puntos de interés%%
+
+#### Industria
+
+%%#### Comercio%%
+
+#### Defensas
+
+:::

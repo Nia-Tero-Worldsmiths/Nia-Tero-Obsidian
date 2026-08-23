@@ -15,15 +15,10 @@ personaAlCargo: "[[Sarah]]"
 tipoOrg: 
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Información |
-> | -------------- | -------------- |
-> | Persona al cargo | `=this.personaAlCargo`  |
-> | Tipo de organización | `=this.tipoOrg` |
+```i18n-infobox
+```
 
+:::lang es
 Party de rango filo perdido(C) de las [[Espadas libres de Eris]], basada en [[Faelas]].
 Chi es su handler
 #### Estructura
@@ -42,3 +37,4 @@ SORT title ASC
 #### Fundación
 
 #### Intervenciones relevantes
+:::

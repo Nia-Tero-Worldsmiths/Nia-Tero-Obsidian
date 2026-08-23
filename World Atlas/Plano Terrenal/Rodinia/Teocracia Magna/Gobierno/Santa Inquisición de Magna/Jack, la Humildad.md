@@ -30,29 +30,11 @@ subclase: Guerra
 elan: Abaddon
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
+:::lang es
 Jack Aston Bentz es uno de los siete Comendadores de la [[Teocracia Magna]], ostentando el título de La Humildad. Al contrario que otros títulos, La Humildad no está asociada a una región en concreto; actualmente, La Humildad cumple las funciones de misionero mayor, extendiendo la creencia en [[Las 20 Caras de Fortuna]] en el país de Juutei.
 
 ### Descripción física
@@ -78,3 +60,4 @@ En el pasado, tuvo una relación amorosa con una tal Cinera. A pesar de las quej
 
 #### Lazos familiares
 Es nieto de [[Alexandr, La Prudencia|Alexandr Bentz]], la Prudencia. Esto ha incitado acusaciones entre varios miembros de la Inquisición de que no ha obtenido el puesto por habilidad, sino por un evidente caso de nepotismo.
+:::

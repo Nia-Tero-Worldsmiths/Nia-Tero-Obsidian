@@ -26,30 +26,12 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
 
+:::lang es
 ### Descripción física
 
 Se trata de una mujer de 38 años con una piel clara, escamas de tonos verdes por el cuerpo y unos fulminantes ojos verdes. La cara de la mujer tiene una mueca juguetona. Lleva eyeliner verde oscuro que le extiende los ojos. Su pelo es de color negro largo y liso con capas por dentro de color verde y abalorios y detalles en el pelo de oro y jade. Viste con un vestido largo verde y tiene marcas de tatuajes mágicos en el pecho y los brazos.
@@ -72,5 +54,4 @@ Tiene una cierta afinidad por el veneno y el ácido y es capaz de controlarlos p
 Miria nació en la confederación de Sidania, dentro de una de las familias nobles. Por problemas con la política loca decidió abandonar su hogar por contactos descubrió de la existencia del gremio de [[Draconis]] de [[Coralia]], al que se había unido su mejor amigo de la infancia. Decidió ponerse en contacto con él y emprender el viaje hacia el nuevo continente para unirse al gremio en cuanto cumplió la mayoría de edad.
 
 Una vez aquí se formó como aventurera y destacó desde un principio junto al grupo al que lideraba. Con el tiempo adquirió una personalidad más ruda, juguetona e implacable, con lo que adquirió el sobrenombre de la emperatriz, nombre por el que se le conoce de manera informal entre el resto de gremios. Es una de las personas que más veces ha ganado el torneo de [[Auris]], lo que afianzó aún más su sobrenombre y fama entre el resto de grupos de aventureros. 
-
-
+:::

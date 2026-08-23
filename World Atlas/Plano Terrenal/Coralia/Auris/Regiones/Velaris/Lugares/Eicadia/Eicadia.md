@@ -11,14 +11,10 @@ gobernador: "[[Boh'ron]]"
 perteneceA: "[[Auris]]"
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
 
+:::lang es
 Capital de la región de [[Velaris]], regentada por [[Boh'ron]].
+:::

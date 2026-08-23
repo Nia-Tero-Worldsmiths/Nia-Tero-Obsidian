@@ -11,14 +11,10 @@ gobernador: "[[Vailaya]]"
 perteneceA: "[[Auris]]"
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
 
+:::lang es
 Zona pantanosa ubicada entre [[Vegarem]] y  [[Nacaria]]. La inamensa mayoría de la región está conformada por marismas y pantanos, por lo que es una próspera zona para el cultivo de ciertos alimentos.
+:::

@@ -26,18 +26,11 @@ elan:
 ---
 
  
->[!infobox]
-># **`=this.title`**
-> || Información |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
+```i18n-infobox
+```
 
 
+:::lang es
 Descripción
  
  [[Personas importantes]]
@@ -47,3 +40,4 @@ Buscadora de los [[Fieles de la montaña]], se infiltró en el palacio de Khan p
 Su liberación permitiría avanzar con la [[Búsqueda de la verdad]].
 
 Shisk.
+:::

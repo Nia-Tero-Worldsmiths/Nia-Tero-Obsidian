@@ -27,29 +27,11 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
+:::lang es
 #vigiliaAurea 
 
 ### Descripción física
@@ -63,5 +45,4 @@ Está viviendo su primera  vida sin haber participado anteriormente en el ciclo 
 
 
 Ha dicho que saludará a Elara de parte de esta gente.
-
-
+:::

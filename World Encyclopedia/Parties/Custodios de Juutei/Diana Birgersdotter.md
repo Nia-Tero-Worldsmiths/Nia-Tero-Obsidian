@@ -34,28 +34,10 @@ subclase: Celo
 elan: Fajro
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
->| -------------- | -------------- |
->| Alineamiento  | `=this.alineamiento` |
->| Especie          | `=this.especie` |
->| Género           | `=this.genero` |
->| Edad               | `=this.edad` años |
->| Lugar de nacimiento | `=this.lugarNacimiento` |
->| Creencia         | `=this.creencia` |
->| Organización  | `=this.organizacion` |
->| └>Cargos       | `=this.cargoOrg` |
->| Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
+:::lang es
 Diana era la inquisidora mayor más joven, ostentando el título de La Diligencia. Como Comendadora, su labor principal era la de defender y vigilar la región de Tambler. Actualmente recibe asilo político en Rondfort como miembro de las [[Custodios de Juutei]].
 
 ### Descripción física
@@ -79,9 +61,6 @@ Sin embargo, una vez entró a Rondfort sustituyó esta armadura por un traje tá
 Tanto la armadura de inquisidora mayor como el espadón que utiliza en el oficio están grabados con un gran número de runas de Santa Talla, tanto útiles como ornamentales.
 
 ### Social
-
-#### Formación
-
 Habiendo nacido en la belicista región de Milita, Diana ha recibido formación militar de la más alta calidad. Una vez finalizara su instrucción básica, entró al Cuerpo de Jinetes de Guivernos, bajo la tutela de Indara. En poco tiempo se convertiría en la candidata mas apta para liderar a los Jinetes, gracias a su facilidad natural para tratar con los dracónidos, ademas de ser de gran popularidad entre las filas, junto con su compañera Ölbaum Kirsch. No llegó a ocupar este puesto debido a la prejubilación de su tío Iván.
 
 Además de esto, también está versada en diversas materias intelectuales, especialmente religión e historia. Como parte de la familia Birgersdotter, por supuesto ha sido formada en el arte de la forja, la [[Santa Talla]], e incluso las artes culinarias.
@@ -89,3 +68,12 @@ Además de esto, también está versada en diversas materias intelectuales, espe
 #### Ocupación
 
 Diana pertenece a la Santa Inquisición de Magna. Concretamente dentro de esta, es una inquisidora mayor, la más joven en este cargo. Se encuentra a cargo de la región de Tambler, como Comendadora de la misma.
+
+%%#### Entorno cercano%%
+
+%%#### Lazos familiares%%
+
+%%#### Amistades%%
+
+%%#### Otros%%
+:::

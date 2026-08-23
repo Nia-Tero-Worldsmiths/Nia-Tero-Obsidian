@@ -15,15 +15,10 @@ personaAlCargo: "[[Aronne Laqua]]"
 tipoOrg: party
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Información |
-> | -------------- | -------------- |
-> | Persona al cargo | `=this.personaAlCargo`  |
-> | Tipo de organización | `=this.tipoOrg` |
+```i18n-infobox
+```
 
+:::lang es
 Texto introductorio
 
 ### Estructura
@@ -38,6 +33,4 @@ SORT title ASC
 
 ### Historia
 
-#### Fundación
-
-#### Intervenciones relevantes
+:::

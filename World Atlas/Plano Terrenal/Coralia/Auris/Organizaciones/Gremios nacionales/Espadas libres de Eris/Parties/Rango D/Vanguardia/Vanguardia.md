@@ -15,16 +15,11 @@ personaAlCargo: "[[Pira]]"
 tipoOrg:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Información |
-> | -------------- | -------------- |
-> | Persona al cargo | `=this.personaAlCargo`  |
-> | Tipo de organización | `=this.tipoOrg` |
+```i18n-infobox
+```
 
 
+:::lang es
 Party de rango Espada (D) de las espadas libres de Eris que trabajan principalmente en la región de [[Faelas]].   
 Son una party centrada principalmente en la sección de aventuras y en general son muy abiertos y dispuestos a cooperar.
 
@@ -40,3 +35,4 @@ SORT title ASC
 
 
 ### Historia
+:::

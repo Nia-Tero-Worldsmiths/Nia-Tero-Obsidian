@@ -25,28 +25,10 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
+:::lang es
 ### Descripción física
 Estéticamente se trata de una elfa con el pelo rojo oscuro casi castaño. Tiene la apariencia de una mujer humana de unos 30 años. Lleva una imponente armadura negra con un estandarte con el símbolo de una mano negra en su espalda. En la mano derecha lleva un talwar y en la izquierda un escudo de acero. Su figura es bella a la vez que imponente.
 
@@ -82,4 +64,4 @@ Una vez la conoces, se trata de una persona cálida y agradable, que se preocupa
 
 
 #### Lazos familiares
-
+:::

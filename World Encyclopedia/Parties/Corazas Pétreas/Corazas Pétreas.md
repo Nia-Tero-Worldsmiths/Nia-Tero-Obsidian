@@ -15,18 +15,13 @@ personaAlCargo: "[[Pom]]"
 tipoOrg: Party gremial
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Información |
-> | -------------- | -------------- |
-> | Persona al cargo | `=this.personaAlCargo`  |
-> | Tipo de organización | `=this.tipoOrg` |
+```i18n-infobox
+```
 
 
+:::lang es
 Party de rango Espada (D) de las espadas libres de Eris que trabajan principalmente en la región de [[Faelas]].  
-#### Estructura
+### Estructura
 
 ###### Miembros
 
@@ -39,6 +34,4 @@ SORT title ASC
 
 ### Historia
 
-#### Fundación
-
-#### Intervenciones relevantes
+:::

@@ -29,39 +29,26 @@ subclase: Chammpion
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
+:::lang es
 Nombre real: Kaliros Altharis
 ### Descripción física
 Kalis es un yaksha masculino de aspecto joven y relativamente musculado. Tiene una figura fina y ágil, con una altura de 1,80 metros. Tiene una piel un poco morena, y cuenta con varios tatuajes de colores con flores de loto y otros motivos similares en los brazos.
 En cuanto a su pelo, cuenta con un largo pelo blanco, con una coleta detrás de la cabeza por la que cae una pequeña parte del pelo y un flequillo en la parte delantera. Tiene un punto blanco en el centro de la frente similar al de las tradiciones indias
 
-#### Rasgos distintivos
-Tatuajes coloridos de con motivos florales en los brazos
+Tiene tatuajes coloridos de con motivos florales en los brazos
+
+%%#### Visado de Boreas%%
 
 #### Habilidades especiales
 Muy hábil en diplomacia y asuntos de la corte, capaz de lidiar de forma eficaz con todo tipo de situaciones y personas de la realeza.
+
+%%#### Vestimenta y accesorios%%
+
+%%#### Equipamiento especializado%%
 
 
 ### Background
@@ -76,14 +63,14 @@ Respondiendo a la llamada de socorro de Minerva, [[Boh'Ron]] decidió prestarle 
 
 
 ### Social
-
-
-#### Formación
-
 #### Ocupación
 Trabaja generalmente como consejero y cónsul en la corte de [[Boh'ron]], aunque ha sido enviado en una misión "diplomática" para ayudar a recuperar Muro Dornöj.
 
+%%#### Entorno cercano%%
 
+%%#### Lazos familiares%%
 
+%%#### Amistades%%
 
-
+%%#### Otros%%
+:::

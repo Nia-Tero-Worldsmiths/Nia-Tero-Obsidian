@@ -27,33 +27,14 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
+:::lang es
 ### Descripción física
 Físicamente tiene el aspecto de una chica joven con la piel muy clarita y el pelo verde menta. Suele llevar ropajes de aventurera algo estrafalarios que recuerdan a los ropajes de un alquimista. Lleva una camisa blanca con una chaqueta de cuero de mangas cortas y anchas decorada con varias tiras de cuerdo. En la cintura lleva un cinturón lleno de viales y un pantalón ancho corto del que cuelgan varias bolsas. Como calzado emplean unas botas dobles y unas medias de lana largas sobre la rodilla.
 
-#### Rasgos distintivos
 Lo más destacable de su apariencia son el tono de su pelo y unas características gafas anchas que le facilitan la vista a distancias cortas.
 
 #### Habilidades especiales
@@ -75,3 +56,13 @@ No le gusta pasar mucho tiempo alejada de una ciudad, o que husmeen mucho en su 
 
 Su padrino es Piers
 
+%%#### Ocupación%%
+
+%%#### Entorno cercano%%
+
+%%#### Lazos familiares%%
+
+%%#### Amistades%%
+
+%%#### Otros%%
+:::

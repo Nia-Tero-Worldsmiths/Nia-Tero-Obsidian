@@ -27,31 +27,13 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
 
 
+:::lang es
 ### Descripción física
 Se trata de una mujer Ghoran joven crecida a partir de rosas negras con un aspecto humanoide aunque en su piel se pueden encontrar flores, raíces y espinas propias de la rosa. 
 Tiene una piel de tono verde oscuro con rosas rosáceas y negras. y una bella cara con unos penetrantes ojos verdes. El ojo derecho se encuentra rodeado de una serie de espinas que continúan hasta su pelo. 
@@ -59,7 +41,6 @@ Su pelo largo trenzado de color negro está entrelazado con flores, hojas y espi
 Como ropa lleva un atuendo de cuero negro estilo western con un cinturón de munición, dos botas con espuelas y los bajos de la capa de su atuendo recuerdan a las capas de las flores de las rosas.
 Usa dos pistolas de duelo largas, cada una en cada mano.
 
-#### Rasgos distintivos
 Presenta espinas y flores incrustadas en su piel y su pelo.
 Deben comprarle un arma Dina
 
@@ -70,6 +51,15 @@ Esta mujer es nativa de [[Sylphoria]], concretamente de los estratos inferiores.
 
 
 ### Social
-
 A nivel personal de primeras es un tanto borde pero realmente es porque es una persona tímida con pocas habilidades sociales debido a la escasa interacción con gente de fuera del bosque. Se pondrá nerviosa en las conversaciones en las que esté [[Sarah]] cerca, hasta que le haya revelado el secreto al menos.
 
+%%#### Ocupación%%
+
+%%#### Entorno cercano%%
+
+%%#### Lazos familiares%%
+
+%%#### Amistades%%
+
+%%#### Otros%%
+:::

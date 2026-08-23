@@ -30,28 +30,10 @@ subclase: Engaño
 elan: Abaddon
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
+:::lang es
 Trotaconventos es una gran excepción dentro de la Inquisición de Magna. Se trata de la única Comendadora que carece de región asignada, dado que es la principal encargada de llevar a cabo ejecuciones desde las sombras. Además de esto, es la única inquisidora mayor que no es humana, sino cambiaformas.
 
 Por estas dos razones es ampliamente vista como una paria por sus iguales en el oficio, aunque este sentimiento no se extiende a aquellos por debajo suya, dado que solo los inquisidores mayores y el Sumo Sacerdote conocen esta información.
@@ -76,3 +58,4 @@ Dado el carácter más encubierto de su labor en la Inquisición, Trotaconventos
 #### Lazos familiares
 
 #### Amistades
+:::

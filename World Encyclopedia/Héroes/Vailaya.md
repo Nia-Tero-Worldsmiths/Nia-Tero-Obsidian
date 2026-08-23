@@ -31,38 +31,22 @@ subclase: Desconocida
 elan: Desconocida
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
+:::lang es
 ### Descripción física
 Mujer de ascedencia Maüi
 Edad aparente: 40 años
 
-#### Rasgos distintivos
+%%#### Visado de Boreas%%
 
 #### Habilidades especiales
 
-#### Vestimenta y accesorios
+%%#### Vestimenta y accesorios%%
+
+%%#### Equipamiento especializado%%
 
 
 
@@ -92,4 +76,4 @@ Gobernante de [[Thalassia]], general de las [[4 alas de Auris]].
 
 #### Lazos familiares
 Mujer de [[Boh'ron]]
-
+:::

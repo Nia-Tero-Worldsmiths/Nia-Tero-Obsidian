@@ -11,15 +11,10 @@ gobernador: "[[Conde Lucán de Tambler|Lucán de Tambler]]"
 perteneceA: "[[Teocracia Magna]]"
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
+:::lang es
 Velmonte es la capital de la región de Tambler, y también la ciudad más grande de la misma. Es la única ciudad en toda la Teocracia Magna que dispone de puerto comercial internacional.
 
 ### Historia
@@ -52,3 +47,4 @@ La ciudad está defendida en su totalidad por el ejército privado del [[Conde L
 Gracias a su bien situado puerto, la principal fuente de ingresos de Velmonte es el comercio internacional de todo tipo de materias y productos, y en menor medida el turismo internacional. No es raro ver por las zonas portuarias mercaderes y turistas provenientes de Puerto Medio, país con el que la Teocracia tiene buenas relaciones. Otra nación de la que se pueden ver habitantes con cierta regularidad es el [[Gran Pantano]], llegados tanto por barco como por tierra. Con menor frecuencia, también llegan barcos provenientes del Imperio del Este, y muy rara vez se ven turistas y peregrinos de Rond-Fort, dada la situación de guerra entre ambos países.
 
 Una vez al mes suele llegar por la puerta Sur una pequeña caravana de buhoneros provenientes de Rond-Fort, transportando diversos productos y objetos mágicos del lugar, todos ellos a precios desorbitados, de baja calidad y comúnmente defectuosos. Esta es la única forma de comercio que existe entre ambas ciudades.
+:::

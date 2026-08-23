@@ -15,15 +15,10 @@ perteneceA: "[[Black Shawarma]]"
 
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
+:::lang es
 El Faro de la Tormenta es una pequeña fortaleza ubicada en el Noreste de la región de Tambler, sobre un pequeño peñón cercano a la costa. Recibe su nombre del robusto faro que corona la única torre del edificio, así como del carácter comúnmente embravecido de las aguas de la zona.
 
 A pesar de la presencia del faro, la estructura es utilizada únicamente como fortaleza particular del grupo de aventureros [[Black Shawarma]].
@@ -47,3 +42,4 @@ Recientemente fue librado de amenazas y completamente renovado por orden del [[C
 La posición estratégica del lugar es particularmente notable, dado que la totalidad de la fortaleza se encuentra construida sobre un peñón situado a pocos metros de la costa. donde se encuentra el único acceso terrestre al mismo. En el camino que une el peñón con la playa de acceso, se encuentra un segundo peñón de tamaño más reducido, el cual ha sido ahuecado para alojar un pequeño cuartillo para un soldado encargado de gestionar el acceso por tierra a la fortaleza.
 
 En adición a esto, la línea de costa se encuentra bajo un escarpado acantilado el cual solo puede ser bajado siguiendo unas estrechas escaleras de piedras excavadas en el mismo, además de utilizando la recientemente construida grúa.
+:::

@@ -28,31 +28,13 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
 
 
+:::lang es
 ### Descripción física
 La versión actual de Selina tiene la forma de una mujer compuesta completamente de aire, con un largo cabello blanquecino ondulado y unos ojos azulados, lleva un collar con una joya azul celeste.
 
@@ -82,4 +64,4 @@ En su forma sellada pasó a formar parte de la colección de [[Boh'ron]], quien 
 Eidolon de [[Kalis]]
 
 #### Lazos familiares
-
+:::

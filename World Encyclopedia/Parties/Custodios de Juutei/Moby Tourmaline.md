@@ -29,28 +29,10 @@ subclase:
 elan: Pensante
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> |      |Info. narrativa|
->| -------------- | -------------- |
->| Alineamiento  | `=this.alineamiento` |
->| Especie          | `=this.especie` |
->| Género           | `=this.genero` |
->| Edad               | `=this.edad` años |
->| Lugar de nacimiento | `=this.lugarNacimiento` |
->| Creencia         | `=this.creencia` |
->| Organización  | `=this.organizacion` |
->| └>Cargo         | `=this.cargoOrg` |
->| Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
+:::lang es
 Moby es una de las tres integrantes principales del grupo de aventureras [[Custodios de Juutei]], junto con [[Brunhilda Birgersdotter]] y [[Diana Birgersdotter]].
 
 ### Descripción física
@@ -97,3 +79,4 @@ Cuando a sus 19 años, durante uno de los "golpes" del gremio en los que de vez 
 
 
 %%#### Otros%%
+:::
