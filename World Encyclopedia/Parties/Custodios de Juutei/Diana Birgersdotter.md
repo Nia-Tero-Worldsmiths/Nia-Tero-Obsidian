@@ -13,10 +13,10 @@ aliases:
   - Dianita
   - La Diligencia
 imagen: Diana (Rondfort).webp
-estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
-especie: Humana / Dragona (magnesio)
+estado: Vivo
+especie: Dragona (magnesio)
 genero: Mujer
-fechaNacimiento:   #"X, Era"
+fechaNacimiento: 856, Héroes #"X, Era"
 edad: "21"
 lugarNacimiento: Birgitta
 alineamiento: LG

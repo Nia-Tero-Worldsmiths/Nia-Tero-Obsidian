@@ -23,8 +23,12 @@ cargoOrg:
   - Madre
 titulos:
   - 
-clase: Bardo / Warlock
-subclase: Susurros / Hexblade
+clase:
+  - Bardo
+  - Warlock
+subclase:
+  - Susurros
+  - Hexblade
 elan:
 ---
 

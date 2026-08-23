@@ -6,19 +6,19 @@ tags:
 aliases:
   - 
 imagen: Briar.webp
-estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
+estado: Vivo
 especie: Golem de carne
 genero: Mujer
-fechaNacimiento:   #"X, Era"
+fechaNacimiento: 877, Héroes #"X, Era"
 edad: <1
-lugarNacimiento: "[[Lugar]]"
+lugarNacimiento: "[[Ryuujou]]"
 alineamiento: TN
 creencia:
 organizacion: "[[Custodios de Juutei]]"
 cargoOrg: Guardiana de la guarida
 titulos:
   - 
-clase:
+clase: Monje
 subclase:
 elan:
 ---

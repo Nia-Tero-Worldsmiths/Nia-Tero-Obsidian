@@ -55,7 +55,7 @@ assets:
   "Jack.webp":                 { origin: original, author: Rei-pyo }
   "Marte.webp":                { origin: original, author: Rei-pyo }
   "Moby (Rondfort).webp":      { origin: original, author: Rei-pyo }
-  "Placeholder avatar.webp":    { origin: original, author: Rei-pyo }
+  "Placeholder avatar.webp":   { origin: original, author: Rei-pyo }
   "Saŝa.webp":                 { origin: original, author: Rei-pyo }
   "Trotaconventos.webp":       { origin: original, author: Rei-pyo }
   "Urausu.webp":               { origin: original, author: Rei-pyo }
@@ -63,36 +63,34 @@ assets:
   # ─── Maps ──────────────────────────────────────────────────────────────────
   # Rendered by the zoommap module. If any were assembled in a map generator,
   # that generator's terms may apply on top of whoever built them.
-  "Faro de la tormenta.webp": { origin: original, author: Marioespiro }
-  "Luma.webp":                { origin: original, author: Emperadoracero }
-  "Pandysia GIRADO.webp":     { origin: original, author: Rei-pyo }
-  "Tambler.webp":             { origin: original, author: Marioespiro }
+  "Faro de la tormenta.webp":  { origin: original, author: Marioespiro }
+  "Luma.webp":                 { origin: original, author: Emperadoracero }
+  "Pandysia GIRADO.webp":      { origin: original, author: Rei-pyo }
+  "Tambler.webp":              { origin: original, author: Marioespiro }
 
   # ─── AI generated ──────────────────────────────────────────────────────────
   # Published, never licensed. Worth recording the model per row if it is ever
   # known -- some services attach terms to their output.
-  "Boh'ron separado.jpg":     { origin: ai, source: GPT-4o mini}
-  "Dina.png":                 { origin: ai, source: canva
-  "elfa paladina.jpg":        { origin: external }
-  "Ishara.png":               { origin: ai, source: GPT-4o mini }
-  "Kaila.png":                { origin: ai, source: GPT-4o mini}
-  "kalis.jpeg":               { origin: ai, source: GPT-4o mini }
-  "Kassandra.png":            { origin: external }
-  "Kon.JPG":                  { origin: external }
-  "Lira.png":                 { origin: ai, source: GPT-4o mini }
-  "Mara.png":                 { origin: ai, source: GPT-4o mini }
-  "Mich.png":                 { origin: ai, source: GPT-4o mini }
-  "Mira.png":                 { origin: ai, source: GPT-4o mini }
-  "Miria.png":                { origin: ai, source: GPT-4o mini }
-  "Miria_transformada.png":   { origin: ai, source: GPT-4o mini }
-  "Piers.png":                { origin: ai, source: GPT-4o mini }
-  "Pira.jpg":                 { origin: ai, source: GPT-4o mini }
-  "Pole.png":                 { origin: ai, source: GPT-4o mini }
-  "Ronnie.png":               { origin: ai, source: GPT-4o mini }
-  "Sarah.png":                { origin: ai, source: GPT-4o mini }
-  "Selina.png":               { origin: ai, source: GPT-4o mini }
-  "Sonia.png":                { origin: ai, source: GPT-4o mini }
-  "Zora.png":                 { origin: ai, source: GPT-4o mini }
+  "Boh'ron separado.jpg":      { origin: ai, source: GPT-4o mini }
+  "Dina.png":                  { origin: ai, source: canva }
+  "Ishara.png":                { origin: ai, source: GPT-4o mini }
+  "Kaila.png":                 { origin: ai, source: GPT-4o mini }
+  "kalis.jpeg":                { origin: ai, source: GPT-4o mini }
+  "Lira.png":                  { origin: ai, source: GPT-4o mini }
+  "Mara.png":                  { origin: ai, source: GPT-4o mini }
+  "Mich.png":                  { origin: ai, source: GPT-4o mini }
+  "Mira.png":                  { origin: ai, source: GPT-4o mini }
+  "Miria.png":                 { origin: ai, source: GPT-4o mini }
+  "Miria_transformada.png":    { origin: ai, source: GPT-4o mini }
+  "Piers.png":                 { origin: ai, source: GPT-4o mini }
+  "Pira.jpg":                  { origin: ai, source: GPT-4o mini }
+  "Pole.png":                  { origin: ai, source: GPT-4o mini }
+  "Ronnie.png":                { origin: ai, source: GPT-4o mini }
+  "Sarah.png":                 { origin: ai, source: GPT-4o mini }
+  "Selina.png":                { origin: ai, source: GPT-4o mini }
+  "Sonia.png":                 { origin: ai, source: GPT-4o mini }
+  "Vailaya.jpg":               { origin: ai, source: GPT-4o mini }
+  "Zora.png":                  { origin: ai, source: GPT-4o mini }
 
   # ─── Unverified: probably external ─────────────────────────────────────────
   # These need a human who remembers where they came from. Until then they
@@ -100,34 +98,36 @@ assets:
   # published right now, so classifying these is the one job with a deadline.
   # The four at 736px are the strongest candidates: that is the width Pinterest
   # serves at.
-  "Bárbara.jpg":              { origin: external }   # 503x1024
-  "Bruja.jpg":                { origin: external }   # 1200x1378
-  "Ceres.jpg":                { origin: external }   # 736x736
-  "colt.jpg":                 { origin: external }   # 474x629
-  "Connor O'Sullivan.png":    { origin: unknown }   # 332x857
-  "Gary.jpg":                 { origin: external }   # 1200x1993 -- externalPUBLISHED
-  "Gaultam.jpg":              { origin: external }   # 631x960
-  "Jill.jpg":                 { origin: external }   # 736x736
-  "Micĵo.png":                { origin: unknown }   # 636x900   -- CURRENTLY PUBLISHED
-  "Mimi.jpg":                 { origin: external }   # 826x1462
-  "Pom.jpg":                  { origin: unknown }   # 736x910   -- CURRENTLY PUBLISHED
-  "Ramiel.jpg":               { origin: unknown }   # 236x606
-  "Ross.jpg":                 { origin: external }   # 736x1187
-  "saris.jpg":                { origin: external }
-  "Sol.jpg":                  { origin: external }   # 186x271
-  "Suli.jpg":                 { origin: external }   # 711x1100
-  "Tali.jpg":                 { origin: external }   # 1029x1200
-  "Vailaya.jpg":              { origin: ai, source: GPT-4o mini }   # 1085x1450
-  "Vana.jpg":                 { origin: external }
+  "Connor O'Sullivan.png":     { origin: unknown }
+  "Micĵo.png":                 { origin: unknown }   # CURRENTLY PUBLISHED
+  "Ramiel.jpg":                { origin: unknown }
 
   # ─── Known external ────────────────────────────────────────────────────────
   # These images cannot be published, and replacing them should be a priority
   # in order to have the local vault and the published wiki as close as possible
-  "simbolo caballo estratica.jpg":            { origin: external }
-  "Símbolo de los buscadores perdidos.jpeg":  { origin: external }
-  "simbolo dragon draconis.jpg":              { origin: external }
-  "simbolo estrella draconis.jpg":            { origin: external }
-  "simbolo winged sword espadas libres.jpg":  { origin: external }
+  "Bárbara.jpg":               { origin: external }
+  "Bruja.jpg":                 { origin: external }
+  "Ceres.jpg":                 { origin: external }
+  "colt.jpg":                  { origin: external }
+  "elfa paladina.jpg":         { origin: external }
+  "Gary.jpg":                  { origin: external }   # CURRENTLY PUBLISHED
+  "Gaultam.jpg":               { origin: external }
+  "Jill.jpg":                  { origin: external }
+  "Kassandra.png":             { origin: external }
+  "Kon.JPG":                   { origin: external }
+  "Mimi.jpg":                  { origin: external }
+  "Pom.jpg":                   { origin: external }   # CURRENTLY PUBLISHED
+  "Ross.jpg":                  { origin: external }
+  "saris.jpg":                 { origin: external }
+  "simbolo caballo estratica.jpg":           { origin: external }
+  "Símbolo de los buscadores perdidos.jpeg": { origin: external }
+  "simbolo dragon draconis.jpg":             { origin: external }
+  "simbolo estrella draconis.jpg":           { origin: external }
+  "simbolo winged sword espadas libres.jpg": { origin: external }
+  "Sol.jpg":                   { origin: external }
+  "Suli.jpg":                  { origin: external }
+  "Tali.jpg":                  { origin: external }
+  "Vana.jpg":                  { origin: external }
 
   # ─── Third-party, permitted ────────────────────────────────────────────────
   # Nothing here yet. The shape, for whoever adds the first one:

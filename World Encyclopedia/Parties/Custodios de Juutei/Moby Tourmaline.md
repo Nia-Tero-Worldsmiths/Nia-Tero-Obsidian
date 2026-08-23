@@ -8,10 +8,10 @@ tags:
 aliases:
   - Moby
 imagen: Moby (Rondfort).webp
-estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
+estado: Vivo
 especie: Aksolotl
 genero: Mujer
-fechaNacimiento:   #"X, Era"
+fechaNacimiento: 855, Héroes
 edad: "22"
 lugarNacimiento: "[[Capital del Mar]]"
 alineamiento: CG

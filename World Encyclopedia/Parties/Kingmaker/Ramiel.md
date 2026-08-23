@@ -8,7 +8,7 @@ tags:
 aliases:
   -
 imagen: Ramiel.jpg
-estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
+estado: Vivo
 especie: 
 genero: 
 fechaNacimiento:   #"X, Era"

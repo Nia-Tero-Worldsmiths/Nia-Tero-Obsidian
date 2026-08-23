@@ -8,8 +8,7 @@ tags:
 aliases:
   -
 imagen: Gary.jpg
-estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
-especie: Humana
+estado: Vivo
 genero: Hombre
 fechaNacimiento:   #"X, Era"
 edad: 22

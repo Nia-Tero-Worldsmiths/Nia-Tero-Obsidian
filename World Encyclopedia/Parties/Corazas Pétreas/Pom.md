@@ -8,7 +8,7 @@ tags:
 aliases:
   - 
 imagen: Pom.jpg
-estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
+estado: Vivo
 especie: Yaoguai elemental
 genero: Piedra Pómez
 fechaNacimiento:   #"X, Era"
@@ -21,8 +21,11 @@ cargoOrg:
   - Aventurera
 titulos:
   - 
-clase: Kineticista / Guardiana
-subclase: Tierra
+clase:
+  - Kineticista
+  - Guardiana
+subclase:
+  - Tierra
 elan:
 ---
 

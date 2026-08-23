@@ -8,7 +8,7 @@ tags:
 aliases:
   -
 imagen: Placeholder avatar.webp
-estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
+estado: Vivo
 especie: Surki
 genero: Mujer
 fechaNacimiento:   #"X, Era"
@@ -22,8 +22,10 @@ cargoOrg:
   -
 titulos:
   - En el espectro?¿
-clase: Magus
-subclase: Investigator
+clase:
+  - Magus
+  - Investigator
+subclase: 
 elan:
 ---
 

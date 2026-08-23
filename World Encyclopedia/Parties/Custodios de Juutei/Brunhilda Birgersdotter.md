@@ -11,10 +11,10 @@ aliases:
   - Bru-nya
   - Hilda
 imagen: Brunhilda (Rondfort).webp
-estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
+estado: Vivo
 especie: Goblin / Daeva
 genero: Mujer
-fechaNacimiento:   #"X, Era"
+fechaNacimiento: 857, Héroes #"X, Era"
 edad: "20"
 lugarNacimiento: Drakovidis Norte
 alineamiento: CN

@@ -8,7 +8,7 @@ tags:
 aliases:
   -
 imagen: Zora.png
-estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
+estado: Vivo
 especie: Ghoran
 genero: Mujer
 fechaNacimiento:   #"X, Era"
@@ -22,8 +22,8 @@ cargoOrg:
   -
 titulos:
   - 
-clase: Gunslinguer
-subclase: 
+clase: Gunslinger
+subclase: Pistolero
 elan:
 ---
 

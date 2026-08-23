@@ -8,10 +8,10 @@ tags:
 aliases:
   - 
 imagen: Isolde.webp
-estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
+estado: Vivo
 especie:
 genero:
-fechaNacimiento:   #"X, Era"
+fechaNacimiento: 878/03/14, Héroes #"X, Era"
 edad: "18"
 lugarNacimiento: "[[Lugar]]"
 alineamiento: TN/CG...
