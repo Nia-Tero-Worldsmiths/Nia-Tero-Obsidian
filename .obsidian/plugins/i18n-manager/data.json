@@ -1,0 +1,26 @@
+{
+  "activeLanguage": "es",
+  "languages": [
+    {
+      "code": "es",
+      "label": "Español"
+    },
+    {
+      "code": "ja",
+      "label": "日本語"
+    },
+    {
+      "code": "en",
+      "label": "English"
+    }
+  ],
+  "defaultLanguage": "es",
+  "hideInEditor": false,
+  "showLangHeader": true,
+  "showRibbon": true,
+  "showStatusBar": true,
+  "overrideInlineTitle": true,
+  "infoboxTablePath": "z_Templates/i18n-infobox.yaml",
+  "workDirs": [],
+  "excludeDirs": []
+}
