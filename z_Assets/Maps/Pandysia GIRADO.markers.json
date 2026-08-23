@@ -25,11 +25,11 @@
   ],
   "bases": [
     {
-      "path": "z_Assets/Maps/Pandysia GIRADO.png"
+      "path": "z_Assets/Maps/Pandysia GIRADO.webp"
     }
   ],
   "overlays": [],
-  "activeBase": "z_Assets/Maps/Pandysia GIRADO.png",
+  "activeBase": "z_Assets/Maps/Pandysia GIRADO.webp",
   "measurement": {
     "scales": {},
     "customUnitPxPerUnit": {},

@@ -7,26 +7,29 @@ tags:
   - Personjes
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: 
 genero: 
+fechaNacimiento:   #"X, Era"
 edad: 
+lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
+creencia:
 organizacion: "[[Organización]]"
 cargoOrg:
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> || Información |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
+```i18n-infobox
+```
 
 
+:::lang es
 Descripción#Personajes [[Personas importantes]]
 
 Dueño del yunque perdido, en el [[Mercado de armas]] de la espiral vitriol.
@@ -36,3 +39,4 @@ Es un enano de metro veinte, de unos 45 años de edad. Piel morena, pelo negro c
 Durante muchos años se le conocía como el mejor herrero de la ciudad pero ha perdido la motivación y las ganas de trabajar desde que su mujer le abandonó. 
  
 Tiene dos hijos que sigue cuidando él, por lo que no puede dejar el trabajo y debe cuidar de todo él solo. Su hijo mayor le ayuda en la tienda como dependiente.
+:::

@@ -1,18 +1,20 @@
 ---
 title: Selina, la Tormenta Eterna
 NoteType: persona
-imagen: Selina.png
 publish: false
 tags:
   - WIP
   - Kingmaker
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: Selina.png
+estado: Vivo
 especie: Elemental verdadero de Aire
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: Indefinida
 lugarNacimiento: "[[Eicadia]]"
+alineamiento: TN/CG...
 creencia:
 organizacion:
   - "[[Vireon]]"
@@ -26,31 +28,13 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
 
 
+:::lang es
 ### Descripción física
 La versión actual de Selina tiene la forma de una mujer compuesta completamente de aire, con un largo cabello blanquecino ondulado y unos ojos azulados, lleva un collar con una joya azul celeste.
 
@@ -60,7 +44,7 @@ La versión actual de Selina tiene la forma de una mujer compuesta completamente
 
 
 ### Background
-Selina surgió como defensa del planeta frente al ritual de [[Origo mutatio]] realizado por [[Flammula]]. Fue una de los elementales más poderosos llamados durante el ritual y general de las fuerzas que ocupaban [[Velaris]], por lo que fue una enemiga natural durante la [[Conquista de Velaris]], realizada por [[Boh'ron]].
+Selina surgió como defensa del planeta frente al ritual de [[Origo mutatio]] realizado por [[Flammula]]. Fue una de los elementales más poderosos llamados durante el ritual y general de las fuerzas que ocupaban [[Velaris]], por lo que fue una enemiga natural durante la [[El ojo de la tormenta|Conquista de Velaris]], realizada por [[Boh'ron]].
 
 Selina fue la protectora de la región de [[Eicadia]], y la última de sus hermanos en caer frente a los héroes.
 
@@ -80,4 +64,4 @@ En su forma sellada pasó a formar parte de la colección de [[Boh'ron]], quien 
 Eidolon de [[Kalis]]
 
 #### Lazos familiares
-
+:::

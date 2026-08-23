@@ -1,16 +1,20 @@
 ---
 title:
 NoteType: prosa
-cssclass: prosa
 publish: false
+cssclasses:
+  - prosa
+tags:
+  - WIP
 padre: 
 anterior: 
 siguiente: 
-tags:
-  - WIP
 ---
 
+:::lang es
+CONTENIDO
 
 | Capítulo anterior |    Volver     | Siguiente capítulo |
 | ----------------- |:-------------:| ------------------:|
-| `=this.anterior`  | `=this.padre` |  `=this.siguiente` | 
+| `=this.anterior`  | `=this.padre` |  `=this.siguiente` |
+:::

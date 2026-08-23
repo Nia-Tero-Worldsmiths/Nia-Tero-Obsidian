@@ -1,0 +1,15 @@
+{
+  "extensions": [
+    "yaml"
+  ],
+  "folding": true,
+  "lineNumbers": true,
+  "wordWrap": true,
+  "minimap": true,
+  "semanticValidation": true,
+  "syntaxValidation": true,
+  "themeColor": "DARK",
+  "fontSize": 14,
+  "fontFamily": "'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace",
+  "fontLigatures": true
+}

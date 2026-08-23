@@ -1,8 +1,11 @@
 ---
 title: 3 - El periplo de Boreas
 NoteType: prosa
-cssclass: prosa
 publish: true
+cssclasses:
+  - prosa
+tags:
+  - 
 padre: "[[Norman I - Libro Harapiento]]"
 anterior: "[[2 - Las Turbulencias del Mundo]]"
 siguiente: "[[4 - Jötunn]]"

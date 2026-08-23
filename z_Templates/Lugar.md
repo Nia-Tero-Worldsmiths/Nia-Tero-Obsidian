@@ -1,5 +1,5 @@
 ---
-title: 
+title:
 NoteType: lugar
 publish: false
 tags:
@@ -11,36 +11,36 @@ gobernador: "[[Persona]]"
 perteneceA: "[[Organización]]"
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
-
+:::lang es
 TEXTO INTRODUCTORIO
+
 
 %%### Historia%%
 
 
 ### Sociopolítica
-#### Demografía 
 
+#### Demografía
+
+%%#### Cultura%%
 
 #### Gobierno
-
 
 %%#### Núcleos de poder%%
 
 
 ### Geografía y economía
-#### Puntos de interés
 
+%%#### Puntos de interés%%
+
+#### Industria
+
+%%#### Comercio%%
 
 #### Defensas
 
+:::
 
-#### Industria

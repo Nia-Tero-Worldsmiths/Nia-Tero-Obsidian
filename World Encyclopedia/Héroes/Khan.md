@@ -1,18 +1,20 @@
 ---
 title: Héroe de la tierra
 NoteType: persona
-imagen: Diana (Rondfort).jpg
 publish: false
 tags:
   - WIP
 aliases:
   -
-alineamiento: TN
+imagen: Diana (Rondfort).jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Oread
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 857
 lugarNacimiento: 
  - Graalem general
+alineamiento: TN
 creencia: Alquimia
 organizacion: 
  - Elementalis
@@ -26,40 +28,21 @@ subclase: Desconocida
 elan: Desconocida
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
+:::lang es
 ### Descripción física
 Hombre adulto que aparenta algo más de 50 años, con una altura de metro noventa y piel morena, con marcados rasgos sudamericanos y un pelo de un tono castaño oscuro y una voz bastante grave. Personalidad calmada y serena.
 
-#### Rasgos distintivos
+%%#### Visado de Boreas%%
 
 #### Habilidades especiales
 
-#### Vestimenta y accesorios
+%%#### Vestimenta y accesorios%%
 
 %%#### Equipamiento especializado%%
-
 
 ### Background
 
@@ -79,9 +62,13 @@ Tras esto fue a la tierra señalada por [[Flammula]], la región de [[Gah'Las]],
 
 ### Social
 
-#### Formación
+%%#### Ocupación%%
 
-#### Ocupación
+%%#### Entorno cercano%%
 
-#### Lazos familiares
+%%#### Lazos familiares%%
 
+%%#### Amistades%%
+
+%%#### Otros%%
+:::

@@ -1,29 +1,24 @@
 ---
 title: Custodios de Juutei
 NoteType: organizacion
+publish: true
 cssclasses:
   - cards
   - cards-cols-3
-imagen: castle-flag.svg
-personaAlCargo: "[[Diana Birgersdotter]]"
-tipoOrg: party
-publish: true
 tags:
   - WIP
   - party
 aliases:
   -
+imagen: castle-flag.svg
+personaAlCargo: "[[Diana Birgersdotter]]"
+tipoOrg: party
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Información |
-> | -------------- | -------------- |
-> | Persona al cargo | `=this.personaAlCargo`  |
-> | Tipo de organización | `=this.tipoOrg` |
+```i18n-infobox
+```
 
+:::lang es
 Texto introductorio
 
 ### Estructura
@@ -41,7 +36,4 @@ SORT title ASC
 
 ### Historia
 
-#### Fundación
-
-
-#### Intervenciones relevantes
+:::

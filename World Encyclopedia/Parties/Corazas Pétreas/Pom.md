@@ -1,52 +1,39 @@
 ---
 title: Pom
 NoteType: persona
-imagen: Pom.jpg
 publish: true
 tags:
   - WIP
   - corazasPetreas
 aliases:
   - 
-alineamiento: TN
+imagen: Pom.jpg
+estado: Vivo
 especie: Yaoguai elemental
 genero: Piedra Pómez
+fechaNacimiento:   #"X, Era"
 edad: 3
 lugarNacimiento: "[[Graalem]]"
+alineamiento: TN
 creencia:
 organizacion: "[[Espadas libres de Eris]]"
 cargoOrg:
   - Aventurera
 titulos:
   - 
-clase: Kineticista / Guardiana
-subclase: Tierra
+clase:
+  - Kineticista
+  - Guardiana
+subclase:
+  - Tierra
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
+:::lang es
 Pom es una yaoguai de reciente nacimiento con muy poco conocimiento sobre el mundo.
 
 ### Descripción física
@@ -75,7 +62,13 @@ Después de eso puso rumbo hacia una dirección cardinal al azar y, tras días d
 
 ### Social
 
-#### Entorno cercano
+%%#### Ocupación%%
 
-#### Lazos familiares
+%%#### Entorno cercano%%
 
+%%#### Lazos familiares%%
+
+%%#### Amistades%%
+
+%%#### Otros%%
+:::

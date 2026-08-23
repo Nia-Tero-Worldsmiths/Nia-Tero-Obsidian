@@ -6,49 +6,52 @@ tags:
   - WIP
 aliases:
   - 
-ubicacion: "[[Región]]"
+ubicacion: "[[Nación]]"
 gobernador: "[[Persona]]"
 perteneceA: "[[Organización]]"
 ---
 
+:::lang es
 ## Mapa de la región
+:::
+:::lang ja
+## 地域の地図
+:::
+:::lang all
+
 %%Alt+M para crear un mapa aquí%%
 
 ---
+```i18n-infobox
+```
+:::
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
-
-
+:::lang es
 TEXTO INTRODUCTORIO
+
 
 ### Historia
 
 
 ### Sociopolítica
+
 #### Demografía
 
+#### Cultura
 
 #### Gobierno
-
 
 #### Núcleos de poder
 
 
-### Geografía
+### Geografía y economía
 
+#### Puntos de interés
 
-### Turismo 
+#### Industria
 
+%%#### Comercio%%
 
-### Ubicaciones de la región 
-```dataview
-list 
-where ubicacion = this.file.link
-```
+%%#### Defensas%%
+
+:::

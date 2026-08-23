@@ -1,9 +1,11 @@
 ---
 title: 10 - Mi mayor legado
 NoteType: prosa
+publish: true
 cssclasses:
   - prosa
-publish: true
+tags:
+  - 
 padre: "[[Norman I - Libro Harapiento]]"
 anterior: "[[9 - El legado de Boreas]]"
 siguiente:

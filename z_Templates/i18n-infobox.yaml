@@ -1,0 +1,229 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# Tabla de traducciones del infobox — plugin i18n Manager
+#
+# Un infobox se declara UNA sola vez por nota:
+#
+#     ```i18n-infobox
+#     ```
+#
+# El plugin elige el diseño según el `NoteType` del frontmatter, saca las
+# etiquetas de este archivo y los valores del frontmatter de la nota.
+#
+# Reparto de responsabilidades:
+#   - labels  : las etiquetas de cada fila. Son por NoteType, no por nota, así
+#               que viven aquí una sola vez en lugar de copiarse en 183 notas.
+#   - values  : vocabulario controlado (especie, clase, alineamiento...). Son
+#               valores enumerables que se repiten en cientos de notas.
+#   - layouts : qué filas muestra cada NoteType y en qué orden.
+#
+# El texto libre por nota (title, gentilicio, cargoOrg...) NO va aquí: se
+# escribe en el frontmatter de cada nota con claves sufijadas, p. ej.
+#     title:    Gran Pantano
+#     title_ja: 大湿地
+# `clave_<idioma>` gana sobre `clave`; si falta, se usa `clave`.
+#
+# Idiomas actuales: es (por defecto), ja, en.
+# Añadir un idioma = añadir una columna aquí + las claves sufijadas en las notas.
+# ─────────────────────────────────────────────────────────────────────────────
+
+labels:
+  # ── Cabeceras de sección ──────────────────────────────────────────────────
+  informacion:     { es: "Información",     ja: "情報",        en: "Information" }
+  info_narrativa:  { es: "Info. narrativa", ja: "物語情報",     en: "Narrative" }
+  info_mecanica:   { es: "Info. mecánica",  ja: "ゲーム情報",   en: "Mechanics" }
+
+  # ── Lugar / Región / Nación ───────────────────────────────────────────────
+  ubicacion:       { es: "Ubicado en",          ja: "所在地",       en: "Located in" }
+  gobernador:      { es: "Gobernado por",       ja: "統治者",       en: "Governed by" }
+  perteneceA:      { es: "Pertenece a",         ja: "所属",         en: "Belongs to" }
+  tipoGobierno:    { es: "Tipo de gobierno",    ja: "政体",         en: "Government type" }
+  orgsDeGobierno:  { es: "└> Orgs. de gobierno",ja: "└> 統治機関",   en: "└> Governing orgs." }
+  capital:         { es: "Capital",             ja: "首都",         en: "Capital" }
+  fundacion:       { es: "Fecha de fundación",  ja: "建国",         en: "Founded" }
+  # Las etiquetas se renderizan como markdown, así que pueden ser enlaces. Con la
+  # sintaxis [[Nota|texto]] el enlace apunta siempre a la misma nota, pero el texto
+  # visible cambia con el idioma — igual que hacía el infobox antiguo, que enlazaba
+  # esta fila a la nota que explica los niveles tecnológicos.
+  # `prefix` y `suffix` decoran el VALOR, no la etiqueta. Aceptan un texto suelto
+  # (igual en todos los idiomas, como la sigla "TL") o un mapa por idioma (para
+  # palabras de verdad, como "años" / "歳"). El infobox antiguo escribía esta fila
+  # como `TL =this.TL`, es decir con la sigla delante del número.
+  TL:
+    es: "[[Nivel Tecnológico]]"
+    ja: "[[Nivel Tecnológico|技術レベル]]"
+    en: "[[Nivel Tecnológico|Tech level]]"
+    prefix: "TL"
+  gentilicio:       { es: "Gentilicio",        ja: "民族名",      en: "Demonym" }
+  lenguasOficiales: { es: "Lenguas oficiales", ja: "公用語",      en: "Official languages" }
+
+  # ── Organización ──────────────────────────────────────────────────────────
+  personaAlCargo:  { es: "Persona al cargo",     ja: "責任者",          en: "In charge" }
+  tipoOrg:         { es: "Tipo de organización", ja: "組織種別",        en: "Organization type" }
+
+  # ── Persona ───────────────────────────────────────────────────────────────
+  alineamiento:    { es: "Alineamiento",         ja: "属性",           en: "Alignment" }
+  especie:         { es: "Especie",              ja: "種族",           en: "Species" }
+  genero:          { es: "Género",               ja: "性別",           en: "Gender" }
+  edad:            { es: "Edad",                 ja: "年齢",           en: "Age",
+                     suffix: { es: "años", ja: "歳", en: "years" } }
+  fechaNacimiento: { es: "Fecha de nacimiento", ja: "生年",       en: "Date of birth" }
+  lugarNacimiento: { es: "Lugar de nacimiento",  ja: "出身地",         en: "Birthplace" }
+  creencia:        { es: "Creencia",             ja: "信仰",           en: "Belief" }
+  organizacion:    { es: "Organización",         ja: "所属組織",       en: "Organization" }
+  cargoOrg:        { es: "└> Cargo",             ja: "└> 役職",        en: "└> Role" }
+  titulos:         { es: "Títulos",              ja: "称号",           en: "Titles" }
+  clase:           { es: "Clase",                ja: "クラス",         en: "Class" }
+  subclase:        { es: "└> Subclase",          ja: "└> サブクラス",   en: "└> Subclass" }
+  elan:            { es: "Patrón / Elan",        ja: "守護者 / エラン", en: "Patron / Elan" }
+
+
+# ── Estado de la persona ─────────────────────────────────────────────────────
+# No ocupa una fila del infobox: se muestra como un símbolo en volado junto al
+# título, con el texto de abajo como tooltip. Un diseño lo activa indicando qué
+# clave del frontmatter mirar (`status: estado` en `layouts.persona`).
+#
+# Obsidian NO tiene un tipo "enum" para las propiedades, así que este conjunto
+# cerrado se define aquí y la única validación es visual: un valor que no esté
+# en la lista cae en la entrada marcada `fallback: true`, de modo que una errata
+# se ve en lugar de pasar desapercibida.
+#
+# `symbol` vacío = sin marca. Vivo es el caso normal y no lleva símbolo; una nota
+# sin la clave `estado` tampoco muestra nada.
+status:
+  Vivo:        { symbol: "",  es: "Vivo",                     ja: "生存",     en: "Alive" }
+  Muerto:      { symbol: "†", es: "Muerto",                   ja: "死亡",     en: "Dead" }
+  Estasis:     { symbol: "‡", es: "En algún tipo de estasis", ja: "停滞状態", en: "In some form of stasis" }
+  Desconocido: { symbol: "?", es: "Estado desconocido",       ja: "状態不明", en: "Status unknown" }
+
+  # Esta entrada NO es un valor que se escriba: recoge cualquier cosa que no esté
+  # en la lista de arriba (una errata, o el marcador sin rellenar de la plantilla).
+  # Lleva su propio símbolo porque significa otra cosa que «Desconocido»: aquel es
+  # un dato del personaje, este es un error en la nota. El plugin le añade la clase
+  # `ml-infobox-status--fallback`, que lo pinta en color de aviso.
+  _sin_reconocer:
+    symbol: "⚠"
+    es: "Valor de «estado» no reconocido"
+    ja: "「estado」の値が不正です"
+    en: "Unrecognized «estado» value"
+    fallback: true
+
+# Vocabulario controlado: se traduce una vez y vale para todas las notas.
+# Si una nota define `especie_ja`, ese valor manual gana sobre esta tabla.
+values:
+  especie:
+    Humano:        { ja: "人間",           en: "Human" }
+    Humana:        { ja: "人間",           en: "Human" }
+    Fetchling:     { ja: "フェッチリング",   en: "Fetchling" }
+    Doppelganger:  { ja: "ドッペルゲンガー", en: "Doppelganger" }
+    Yaksha:        { ja: "夜叉",           en: "Yaksha" }
+    Anadi:         { ja: "アナディ",        en: "Anadi" }
+    Aksolotl:      { ja: "アホロートル",    en: "Axolotl" }
+
+  # Mujer/Hombre es el par dominante (39 + 23 notas) frente a Masculino (3 notas);
+  # "Femenino" no aparece en ninguna nota. Se mantienen los valores sueltos que
+  # existen de verdad para que ninguna nota quede sin traducir mientras normalizas.
+  genero:
+    Mujer:         { ja: "女性",         en: "Woman" }
+    Hombre:        { ja: "男性",         en: "Man" }
+    "No binario":  { ja: "ノンバイナリー", en: "Non-binary" }
+
+  # `alineamiento` no se traduce: la sigla (TN, CG...) es la misma en todos los
+  # idiomas, así que no hay entrada aquí y el valor pasa tal cual.
+
+  clase:
+    Clérigo:     { ja: "クレリック",   en: "Cleric" }
+    Clériga:     { ja: "クレリック",   en: "Cleric" }
+    Monje:       { ja: "モンク",       en: "Monk" }
+    Desconocida: { ja: "不明",         en: "Unknown" }
+    Desconocido: { ja: "不明",         en: "Unknown" }
+
+  subclase:
+    Venganza:            { ja: "復讐",       en: "Vengeance" }
+    Tierra:              { ja: "大地",       en: "Land" }
+    "Sangre dracónica":  { ja: "竜の血脈",   en: "Draconic Bloodline" }
+    Desconocida:         { ja: "不明",       en: "Unknown" }
+
+  tipoOrg:
+    party:                    { ja: "パーティー",   en: "Party" }
+    "Party gremial":          { ja: "ギルドパーティー", en: "Guild party" }
+    "Organismo totalitario":  { ja: "全体主義組織", en: "Totalitarian body" }
+    "Administración pública": { ja: "行政機関",     en: "Public administration" }
+
+# Qué filas muestra cada NoteType. La clave se compara ignorando mayúsculas y
+# acentos, así que `Misión` encuentra `mision`.
+layouts:
+  lugar:
+    heading: informacion
+    rows: [ubicacion, gobernador, perteneceA]
+
+  region:
+    heading: informacion
+    rows: [ubicacion, gobernador, perteneceA]
+
+  # `image:` nombra la clave del frontmatter con la imagen. Se acepta tanto
+  # `imagen: archivo.png` como `imagen: "[[archivo.png]]"`, y un placeholder vacío
+  # no muestra nada en lugar de un embed roto. `imageSize` es opcional y admite
+  # "250" o "250x180"; si la nota ya trae un tamaño dentro del enlace, gana la nota.
+  # Con `imagen_ja` se puede dar una imagen distinta por idioma (mapas rotulados).
+  nacion:
+    image: imagen
+    heading: informacion
+    rows:
+      - ubicacion
+      - tipoGobierno
+      - orgsDeGobierno
+      - capital
+      - fundacion
+      - TL
+      - gentilicio
+      - lenguasOficiales
+
+  organizacion:
+    image: imagen
+    heading: informacion
+    rows: [personaAlCargo, tipoOrg]
+
+  # Una fila con "?" al final es OPCIONAL: desaparece si la nota no tiene valor,
+  # en lugar de imprimirse con un guion. Sin "?" la fila es obligatoria, así que
+  # el infobox mantiene una forma fija por NoteType y sirve de lista de pendientes.
+  #
+  # El criterio para marcar una fila opcional no es "se rellena poco", sino "su
+  # ausencia es normal, no una laguna". Toda persona tiene especie y edad; no toda
+  # persona tiene subclase o un patrón.
+  #
+  # Si TODAS las filas de una sección desaparecen, la sección tampoco se dibuja.
+  persona:
+    image: imagen
+    # `estado` no ocupa fila: se muestra como símbolo en volado junto al título.
+    status: estado
+    sections:
+      - heading: info_narrativa
+        rows:
+          - especie
+          - genero
+          - fechaNacimiento?
+          - edad?
+          - lugarNacimiento?
+          - alineamiento
+          - creencia?
+          - organizacion
+          - cargoOrg?
+          - titulos?
+      - heading: info_mecanica
+        rows:
+          # `group` empareja claves POR POSICIÓN: la primera clase con la primera
+          # subclase, la segunda con la segunda, etc. Así un personaje multiclase
+          # se escribe con listas en lugar de barras:
+          #     clase:    [Rogue, Maga]
+          #     subclase: [Arcane Trickster, Bladesinger]
+          # Las etiquetas se numeran solo cuando hay más de una posición, así que
+          # un personaje de una sola clase se ve exactamente igual que antes.
+          #
+          # La asimetría solo vale en un sentido. Una clase sin subclase es normal
+          # y su fila desaparece (por el "?"). Una subclase sin clase es un error,
+          # así que la fila se muestra marcada en color de aviso. Para saltarse una
+          # posición basta con dejarla vacía:
+          #     clase:    [Kineticista, Guardiana]
+          #     subclase: [, Tierra]        # la subclase es de Guardiana
+          - group: [clase, subclase?]
+          - elan?

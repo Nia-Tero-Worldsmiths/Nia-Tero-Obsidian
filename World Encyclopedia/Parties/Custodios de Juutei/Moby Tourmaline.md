@@ -1,50 +1,38 @@
 ---
 title: Moby Tourmaline
 NoteType: persona
-imagen: Moby (Rondfort).jpg
 publish: true
 tags:
   - PJ
   - custodios-de-juutei
 aliases:
   - Moby
-alineamiento: CG
+imagen: Moby (Rondfort).webp
+estado: Vivo
 especie: Aksolotl
 genero: Mujer
-edad: 22
+fechaNacimiento: 855, Héroes
+edad: "22"
 lugarNacimiento: "[[Capital del Mar]]"
+alineamiento: CG
 creencia: "[[Egos y Dagon]]"
 organizacion: "[[Custodios de Juutei]]"
 cargoOrg:
   - Miembro
 titulos:
-clase: Rogue / Maga
-subclase: Arcane Trickster / Bladesinger
+clase:
+  - Rogue
+  - Maga
+subclase:
+  - Arcane Trickster
+  - Bladesinger
 elan: Pensante
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> |      |Info. narrativa|
->| -------------- | -------------- |
->| Alineamiento  | `=this.alineamiento` |
->| Especie          | `=this.especie` |
->| Género           | `=this.genero` |
->| Edad               | `=this.edad` años |
->| Lugar de nacimiento | `=this.lugarNacimiento` |
->| Creencia         | `=this.creencia` |
->| Organización  | `=this.organizacion` |
->| └>Cargo         | `=this.cargoOrg` |
->| Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
+:::lang es
 Moby es una de las tres integrantes principales del grupo de aventureras [[Custodios de Juutei]], junto con [[Brunhilda Birgersdotter]] y [[Diana Birgersdotter]].
 
 ### Descripción física
@@ -66,9 +54,9 @@ A pesar de sus habilidades regenerativas, traumas físicos de especial notorieda
 %%#### Equipamiento especializado%%
 
 ### Background
-Moby nació en la [[Capital del Mar]], como segunda hija de los entonces gobernantes de la ciudad. Tuvo una infancia relativamente tranquila, marcada por la admiración que sentía hacia todos los miembros de su familia: su padre Alec, capaz de encontrar siempre la solución a cualquier problema; su madre Neia, quien se desvivía por el bienestar de su gente; y su hermana mayor Natia, quien, además de compartir las cualidades de sus padres, nació con una deformidad en la cola que le impedía nadar como sus iguales, y aún así se esforzaba más que nadie para no dejar que esto le supusiera un problema.
+Moby nació en la [[Capital del Mar]], como segunda hija de los entonces gobernantes de la ciudad. Tuvo una infancia relativamente tranquila, marcada por la admiración que sentía hacia todos los miembros de su familia: su padre Alec, capaz de encontrar siempre la solución a cualquier problema; su madre Neia, quien se desvivía por el bienestar de su gente; y su hermana mayor [[Natia Blanka-Tourmaline|Natia]], quien, además de compartir las cualidades de sus padres, nació con una deformidad en la cola que le impedía nadar como sus iguales, y aún así se esforzaba más que nadie para no dejar que esto le supusiera un problema.
 
-Todo esto cambió bruscamente cuando una joven [[Saŝa Blanka|Saŝa]], amiga de la infancia de Natia, retó a ambos padres de Moby por el gobierno de la ciudad, cosa a lo que, como es tradición, aceptaron con gusto. Moby no recuerda con exactitud los detalles de aquel día, tan solo las consecuencias: acabó huérfana, alejada de su hermana, y rumbo al Sur, lejos de aquel lugar donde tenía tan buenos recuerdos que no iba a poder recuperar jamás.
+Todo esto cambió bruscamente cuando una joven [[Saŝa Blanka]], amiga de la infancia de [[Natia Blanka-Tourmaline|Natia]], retó a ambos padres de Moby por el gobierno de la ciudad, cosa a lo que, como es tradición, aceptaron con gusto. Moby no recuerda con exactitud los detalles de aquel día, tan solo las consecuencias: acabó huérfana, alejada de su hermana, y rumbo al Sur, lejos de aquel lugar donde tenía tan buenos recuerdos que no iba a poder recuperar jamás.
 
 Pasó unos meses viviendo en las calles de [[Velmonte]], hasta que fue adoptada por Pedro, a quien le debe la vida por sacarla del lugar en el que estaba, darle una educación y criarla como la hija que nunca tuvo. Prácticamente todo lo que sabe Moby en la actualidad se lo debe a Pedro.
 
@@ -83,7 +71,7 @@ Cuando a sus 19 años, durante uno de los "golpes" del gremio en los que de vez 
 - Samune de [[Teppyo]]: Moby conoció a Samune recientemente en una visita de emergencia del grupo a [[Teppyo]], fue un flechazo a primera vista. Después de saber de las condiciones en las que ella vivía, se propuso sacarla de aquel lugar cuando antes y de permitirle llevar la vida que ella quisiera. Tras valorarlo profundamente junto con Urausu, las tres decidieron descubrir juntas cómo hacer funcionar una relación poliamorosa.
 
 #### Lazos familiares
-- [[Natia Blanka-Tourmaline]]: Moby considera a su hermana mayor un verdadero ejemplo a seguir: es amable, inteligente, constante, y se desvive por su pueblo. Hace alrededor de un año restablecieron el contacto y, tras disculparse la una con la otra por la separación brusca que tuvieron el día de la muerte de sus padres, se pusieron al día de sus vivencias. Moby le ha dejado claro que el día que se case quiere que sea Natia quien oficie la boda.
+- [[Natia Blanka-Tourmaline]]: Moby considera a su hermana mayor un verdadero ejemplo a seguir: es amable, inteligente, constante, y se desvive por su pueblo. Hace alrededor de un año restablecieron el contacto y, tras disculparse la una con la otra por la separación brusca que tuvieron el día de la muerte de sus padres, se pusieron al día de sus vivencias. Moby le ha dejado claro que el día que se case quiere que sea ella quien oficie la boda.
 - Pedro: El padre adoptivo de Moby. Con él tiene tanto buenos recuerdos como historias que aborrece. A pesar de que siempre se ha mostrado reacia a llamarlo padre, esto no se alinea en absoluto con su opinión de él, lo considera su padre de pleno hecho. Se trata de una persona increíblemente esquiva, y resulta imposible dar con él si no quiere ser encontrado.
 - Kiuvi: Su hermanastro menor. Prácticamente no ha podido compartir tiempo con él, fue adoptado por Pedro al poco de huir Moby de [[Velmonte]]. A pesar de no conocerse mucho, Moby lo tiene en muy alta estima, y le enorgullece lo inteligente que es.
 
@@ -91,3 +79,4 @@ Cuando a sus 19 años, durante uno de los "golpes" del gremio en los que de vez 
 
 
 %%#### Otros%%
+:::

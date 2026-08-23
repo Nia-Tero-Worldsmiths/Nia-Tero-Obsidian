@@ -5,29 +5,31 @@ publish: false
 cssclasses:
   - cards
   - cards-cols-3
-imagen: castle-flag.svg
 tags:
   - WIP
 aliases:
   - 
+imagen: castle-flag.svg
 personaAlCargo: "[[Persona]]"
 tipoOrg:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Información |
-> | -------------- | -------------- |
-> | Persona al cargo | `=this.personaAlCargo`  |
-> | Tipo de organización | `=this.tipoOrg` |
+```i18n-infobox
+```
 
-
+:::lang es
 TEXTO INTRODUCTORIO
+
+
+### Ideología
+
 
 ### Estructura
 Descripción de la estructura. Separar en tantas subsecciones como se quiera
+
+%%#### Política interna%%
+
+%%#### Ejército%%
 
 ###### Miembros
 ```dataview
@@ -37,9 +39,17 @@ SORT title ASC
 ```
 
 
-### Historia
+### Relaciones exteriores
 
+%%#### Relaciones diplomáticas%%
+
+%%#### Guerras%%
+
+
+### Historia
 
 %%#### Fundación%%
 
 %%#### Intervenciones relevantes%%
+
+:::

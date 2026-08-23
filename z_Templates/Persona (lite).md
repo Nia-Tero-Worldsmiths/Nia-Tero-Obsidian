@@ -1,32 +1,35 @@
 ---
-title: 
+title:
 NoteType: persona
-imagen: Placeholder avatar.jpg
 publish: false
 tags:
   - WIP
 aliases:
   - 
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
+especie:
+genero:
+fechaNacimiento:   #"X, Era"
+edad:   #"X" (el campo debe ser string)
+lugarNacimiento: "[[Lugar]]"
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
-organizacion: "[[Organización]]"
+creencia:
+organizacion:
+  - "[[Organización]]"
 cargoOrg:
+  - 
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-%%> `=embed(link(this.imagen))`%%
-> 
-> || Información |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
+```i18n-infobox
+```
 
-
+:::lang es
 DESCRIPCIÓN
+
+:::

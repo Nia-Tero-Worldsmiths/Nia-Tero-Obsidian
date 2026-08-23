@@ -1,5 +1,13 @@
 Este archivo documenta la estructura a seguir para los ficheros a crear en este vault. Los cambios a esta estructura deberán repercutirse de forma recíproca.
 
+Prosa
+├─> Obra X
+│      ├─> 1 - Capítulo
+│      ├─> 2 - Capítulo
+│       ⋮
+├─> Obra Y
+⋮
+
 World Atlas
 ├─> Plano terrenal
 │      ├─> Continente X
@@ -31,8 +39,8 @@ World Atlas
 │      ├─> Ciudad X (6)
 │       ⋮
 └─> Planos Superiores
-        ├─> Plano X (7)
-         ⋮
+ ⋮       ├─> Plano X (7)
+ ⋮       ⋮
 
 World Encyclopedia (8)
 ├─> Ciencia y Tecnología
@@ -42,12 +50,12 @@ World Encyclopedia (8)
 │      ├─> Héroe Y
 │       ⋮
 ├─> Parties (11)
- ⋮      ├─> Party X
+ ⋮      ├─> Party X
  ⋮      │      ├─> PJ X
  ⋮      │      ├─> PJ Y
  ⋮      │       ⋮
-        ├─> Party Y
-         ⋮
+ ⋮      ├─> Party Y
+ ⋮       ⋮
 
  ─ ├ │ └ ⋮
 

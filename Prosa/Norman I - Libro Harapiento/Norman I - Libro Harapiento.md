@@ -4,6 +4,8 @@ NoteType: tomo
 publish: true
 tags: 
   -
+aliases:
+  -
 ---
 
 Durante mis días de aventurero como parte del grupo [[Black Shawarma|Black Shawarma]] viví una experiencia de lo más peculiar en la biblioteca municipal de la [[Capital del Mar]].

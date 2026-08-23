@@ -7,27 +7,30 @@ tags:
   - Personajes
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: 
 genero: 
+fechaNacimiento:   #"X, Era"
 edad: 
+lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
+creencia:
 organizacion: "[[Organización]]"
 cargoOrg:
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> || Información |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
+```i18n-infobox
+```
 
 
 
+:::lang es
  [[Personas importantes]]
 
 Milo es el dueño de la [[Granja de Milo ]]en la que tiene lugar la primera misión de la campaña.
@@ -38,3 +41,4 @@ Junto a él se encuentra su mujer, Lorna, preparando un guiso para la hora de la
 
 Es una persona amable y muy abierta de mente que recibe a sus invitados como si fuesen amigos de toda la vida.
 Su mujer es muy tímida y no tiende a hablar mucho con los extranjeros.
+:::

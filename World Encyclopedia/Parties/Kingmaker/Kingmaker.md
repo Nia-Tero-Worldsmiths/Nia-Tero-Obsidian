@@ -1,31 +1,27 @@
 ---
-nombre: Organizacion
+title:
 NoteType: organizacion
+publish: false
 cssclasses:
   - cards
   - cards-cols-2
-imagen: castle-flag.svg
 tags:
   - WIP
   - party
 aliases:
   - 
+imagen: castle-flag.svg
 personaAlCargo: "[[Ramiel]]"
 tipoOrg:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Información |
-> | -------------- | -------------- |
-> | Persona al cargo | `=this.personaAlCargo`  |
-> | Tipo de organización | `=this.tipoOrg` |
+```i18n-infobox
+```
 
 
+:::lang es
 Grupo de aventureros enviados por Lady Minerva Dríada Tambler a conquistar un territorio vacío para fundar la nueva ciudad de Murodornoj.
-#### Estructura
+### Estructura
 
 ###### Miembros
 
@@ -38,6 +34,4 @@ SORT title ASC
 
 ### Historia
 
-#### Fundación
-
-#### Intervenciones relevantes
+:::

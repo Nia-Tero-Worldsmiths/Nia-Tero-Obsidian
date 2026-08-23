@@ -1,7 +1,6 @@
 ---
 title: Aronne Laqua
 NoteType: persona
-imagen: Aronne Laqua.jpg
 publish: true
 tags:
   - WIP
@@ -9,11 +8,14 @@ tags:
   - blackShawarma
 aliases:
   - Aronne
-alineamiento: LE
+imagen: Aronne Laqua.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Dragonkin / Jotunnborn
 genero: Mujer
-edad: 28
+fechaNacimiento:   #"X, Era"
+edad: "28"
 lugarNacimiento: Laqua
+alineamiento: LE
 creencia: Laqua
 organizacion:
   - "[[Black Shawarma]]"
@@ -26,28 +28,10 @@ subclase: Venganza
 elan: Laqua
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
+:::lang es
 Aronne es una noble de Laqua, en el país de Sidania, y una de las posibles herederas de la casa Laqua.
 
 ### Descripción física
@@ -63,13 +47,10 @@ Actualmente presenta una estatura base mucho mayor, de 2 metros 30, siendo capaz
 Sus anteriormente perlados cuernos ahora presentan unas puntas azules, que se degradan hasta el blanco cerca de la base de los cuernos.
 Otro aspecto que ha cambiado ha sido su pelo. Anteriormente completamente negro, ahora presenta un degradado por capas hasta terminar en un azul hielo.
 
-%%#### Visado de Boreas%%
+Aronne presenta una marca de nacimiento de color azul oscuro que comienza sobre su corazón y llega hasta la cara, donde se esparce por el lateral.
 
 #### Rasgos distintivos
-Aronne presenta una marca de nacimiento de color azul oscuro que comienza sobre su corazón y llega hasta la cara, donde se esparce por el lateral.
 Tiene dos pequeños tatuajes verticales que van desde las cejas a la parte debajo del ojo, a la altura del centro de los ojos, de color azul media noche.
-
-%%#### Visado de Boreas%%
 
 #### Habilidades especiales
 Puede comunar con Laqua y entrar en contacto con ella directamente.
@@ -82,16 +63,6 @@ El resto de la armadura presenta formas de dientes de dragón y escamas de drag�
 
 #### Equipamiento especializado
 Aronne lleva como arma el espadón de la casa Laqua, un espadón de dos manos de metal muy oscuro y adornado por la empuñadora y la hoja. Presenta unas runas azules de un tono brillante.
-
-### Social
-
-#### Formación
-Fue formada como posible heredera de la casa Laqua, al igual que sus hermanos. 
-Fue entrenada por Idelia, quien eventualmente se convertiría en su retainer y guardiana.
-Además, pasó un tiempo estudiando en la escuela de oficiales de Laqua, donde fue formada como capitana de los barcos fortaleza de Laqua.
-
-#### Ocupación
-Actualmente es parte del grupo [[Black Shawarma]].
 
 ### Background
 Aronne Laqua es una dragonborn nacida en la casa. Es la segunda descendiente de la familia y su primera hija mujer, convirtiéndose en la principal heredera del trono.
@@ -112,8 +83,15 @@ A partir de este momento, comenzó una investigación personal acerca de las mar
 Fue durante este tiempo que logró mantener más conversaciones con Laqua, las cuales la llevaron a plantearse el abandonar la ciudad e incluso el país y formarse como aventurera viajando por el mundo a la vez que buscaba pistas acerca tanto de su pasado como de su reliquia familiar, con la esperanza de poder volver a su casa.
 
 Esto le llevó a elaborar un plan junto a Idelia para escapar de Sidania a través de la cordillera de Drako Vidis, que acabaron llevando a cabo años más tarde, cuando Aronne cumplió los 25 años.
-Tras cruzar la cordillera acabó en Belmonte, en la [[Región de Tambler]], donde conoció al que en un futuro sería su grupo, [[Black Shawarma]].
+Tras cruzar la cordillera acabó en Belmonte, en la [[Tambler|Región de Tambler]], donde conoció al que en un futuro sería su grupo, [[Black Shawarma]].
+
+### Social
+#### Lazos familiares
+- Aurora Laqua: Aurora es la madre de Aronne, y la actual gobernante de Laqua, en la [[Confederación de Sidania]]. Venerada y temida por su justo mando y su ferocidad en batalla. Su estilo de pelea es muy diestro, combinando la evasión y el engaño con una fuerte ofensiva y una altamente refinada magia de agua. Su mera presencia provoca la aparición de una densa bruma que dificulta enormemente la visión en su interior, además de otros efectos. Para evitar que eso afecte a su labor diaria, normalmente lleva unas pulseras rúnicas que le ayudan a inhibir el efecto de su aura y permite que otras personas más débiles se acerquen a ella.
+- Lucien Laqua: Hermano mayor de Aronne. Originalmente el principal candidato para heredar el trono de Laqua, actualmente no es un contendiente debido a la existencia de sus hermanas. Sigue preparandose como futuro heredero pero actualmente tiene baja prioridad en al línea sucesora. A nivel de aspecto es relativamente similara a Aronne, aunque con mayor presencia de linaje dracónido y una piel más oscura.
+- Maya Laqua: Hermana menor de Aronne, melliza de Irina
+- Irina Laqua: Hermana menor de Aronne, melliza de Maya
 
 #### Lazos familiares
 Aronne tiene un hermano mayor, Lucien y un hermano y hermana menores que son mellizos.
-
+:::

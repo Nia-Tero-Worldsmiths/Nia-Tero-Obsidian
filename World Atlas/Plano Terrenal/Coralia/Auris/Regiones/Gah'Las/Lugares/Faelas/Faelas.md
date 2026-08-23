@@ -1,5 +1,5 @@
 ---
-title: 
+title: Faelas
 NoteType: lugar
 publish: false
 tags:
@@ -7,19 +7,14 @@ tags:
 aliases:
   - 
 ubicacion: "[[Gah'Las]]"
-gobernador: "[[Persona]]"
+gobernador: "[[Vira]]"
 perteneceA: "[[Auris]]"
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
+:::lang es
 Pequeño pueblo ubicado al sur de la ciudad de [[Luma]], en la región de [[Gah'Las]].
 
 ### Historia
@@ -59,3 +54,4 @@ La ciudad se encuentra rodeada por un muro de Galo de mediana altura que permite
 
 #### Industria
 La ciudad cuenta con una escasa producción industrial, limitándose a la fabricación de recursos básicos y repuestos para el cuartel de la guardia.
+:::

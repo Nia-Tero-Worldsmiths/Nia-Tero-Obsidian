@@ -1,5 +1,4 @@
 [
-  "obsidian-importer",
   "folder-notes",
   "obsidian-style-settings",
   "obsidian-icon-folder",
@@ -7,7 +6,8 @@
   "table-editor-obsidian",
   "supercharged-links-obsidian",
   "dataview",
-  "webpage-html-export",
   "calendarium",
-  "zoom-map"
+  "zoom-map",
+  "i18n-manager",
+  "vscode-editor"
 ]

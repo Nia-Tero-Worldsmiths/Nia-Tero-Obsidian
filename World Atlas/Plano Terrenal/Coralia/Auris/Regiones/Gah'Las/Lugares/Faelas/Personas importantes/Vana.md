@@ -6,26 +6,29 @@ tags:
   - WIP
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Humano
 genero: Mujer 
+fechaNacimiento:   #"X, Era"
 edad: 27
+lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
+creencia:
 organizacion: "[[Buscadores perdidos]]"
 cargoOrg: Jefa de la sede de Faelas
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> || Información |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
+```i18n-infobox
+```
 
 
+:::lang es
 Descripción
 
 Líder de los [[Buscadores perdidos]] en la región de [[Faelas]].
@@ -40,3 +43,4 @@ Fue una amante de [[Kon]] en sus días como aventurero pero en la actualidad no 
 
 # Efectos de la campaña
 Debido a la conversación con [[Pom]], está explorando la posibilidad de que nazcan criaturas dentro de la mazmorra de [[Graalem]], aunque lleva la investigación muy en secreto.
+:::

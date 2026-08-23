@@ -11,15 +11,10 @@ gobernador: "[[Persona]]"
 perteneceA: "[[Organización]]"
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
+:::lang es
 Capital de Juutei, ubicada a los pies de la Cordillera Regia, hogar de la Casa Imperial y centro religioso del Culto del Dragón.
 
 %%### Historia%%
@@ -55,3 +50,4 @@ Recientemente se ha inaugurado una capilla en la zona alta de la ciudad en honor
 
 
 #### Industria
+:::

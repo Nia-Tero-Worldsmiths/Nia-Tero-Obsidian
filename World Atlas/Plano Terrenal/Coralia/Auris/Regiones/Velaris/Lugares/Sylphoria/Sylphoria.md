@@ -1,3 +1,21 @@
+---
+title: Sylphoria 
+NoteType: lugar
+publish: false
+tags:
+  - WIP
+aliases:
+  - 
+ubicacion: "[[Velaris]]"
+gobernador: "[[Boh'ron]]"
+perteneceA: "[[Auris]]"
+---
+
+```i18n-infobox
+```
+
+
+:::lang es
 Selva de la región de [[Velaris]] que colinda con la región de [[Gah'Las]].
 
 Se trata de una estructura viva en capas: capas flotantes de vegetación suspendida por corrientes de viento, troncos enormes que parecen crecer en espiral hacia el cielo, y raíces que atraviesan la roca como si esta fuera blanda.
@@ -11,3 +29,4 @@ Los nagaji y otras especies ligadas a la tierra se establecen más abajo, en la 
 No existe una única autoridad, sino una red de tribus, clanes y enclaves interconectados, unidos principalmente por senderos de raíces vivas. La convivencia no es completamente pacífica ni completamente conflictiva; es un sistema de negociación constante con el entorno como árbitro, aunque no es poco común encontrar ciertas disputas entre las tribus de los Anadi.
 
 Es una selva que no pertenece del todo ni al cielo ni al suelo, sino al espacio entre ambos: un territorio donde la gravedad, la cultura y la magia están en un fino equilibrio permanente.
+:::

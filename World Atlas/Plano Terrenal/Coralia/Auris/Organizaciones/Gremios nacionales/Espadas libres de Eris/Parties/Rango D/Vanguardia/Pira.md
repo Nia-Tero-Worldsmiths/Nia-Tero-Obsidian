@@ -1,18 +1,20 @@
 ---
 title: Pira
 NoteType: persona
-imagen: Pira.jpg
 publish: false
 tags:
   - WIP
   - vanguardia
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Pira.jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Orca
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 31
 lugarNacimiento: "[[Calcindor]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Espadas libres de Eris]]"
@@ -25,29 +27,11 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
+:::lang es
 Texto introductorio
 
 ### Descripción física
@@ -68,3 +52,4 @@ Pira es una mujer nativa de [[Calcindor]]. Creció en la ciudad junto a su tirbu
 
 ### Social
 Es una chica fuerte pero algo insegura, con síndrome del impostor debido a su pasado. No soporta que ningún hombre le diga lo que tiene que hacer y a veces tiende a bloquearse en situaciones que le presionen emocionalmente.
+:::
