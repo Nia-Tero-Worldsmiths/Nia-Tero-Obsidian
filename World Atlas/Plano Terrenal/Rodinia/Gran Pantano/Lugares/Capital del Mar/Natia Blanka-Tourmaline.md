@@ -1,7 +1,7 @@
 ---
 title: Natia Blanka-Tourmaline
 NoteType: persona
-imagen: Placeholder avatar.jpg
+imagen: Placeholder avatar.webp
 publish: true
 tags:
   - matriarcadoPantano

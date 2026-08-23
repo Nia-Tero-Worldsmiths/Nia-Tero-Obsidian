@@ -14,5 +14,13 @@
       ],
       "key": "M"
     }
+  ],
+  "i18n-manager:insert-infobox": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
+    }
   ]
 }

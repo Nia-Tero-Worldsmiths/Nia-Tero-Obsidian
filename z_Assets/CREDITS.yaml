@@ -43,29 +43,30 @@ assets:
   # Reserved for now. Rei-pyo owns the copyright the moment each is drawn and
   # nothing needs doing to keep it; opening them up is their call to make, and
   # it does not have to match the licence on the text.
-  "Alexandr Bentz.webp":      { origin: original, author: Rei-pyo }
+  "Alexandr Bentz.webp":       { origin: original, author: Rei-pyo }
   "Aronne Laqua.webp":         { origin: original, author: Rei-pyo }
   "Briar.webp":                { origin: original, author: Rei-pyo }
   "Brunhilda (Rondfort).webp": { origin: original, author: Rei-pyo }
-  "Celeste de Carvajal.webp": { origin: original, author: Rei-pyo }
-  "Clementine.webp":          { origin: original, author: Rei-pyo }
-  "Conde de Tambler.webp":    { origin: original, author: Rei-pyo }
+  "Celeste de Carvajal.webp":  { origin: original, author: Rei-pyo }
+  "Clementine.webp":           { origin: original, author: Rei-pyo }
+  "Conde de Tambler.webp":     { origin: original, author: Rei-pyo }
   "Diana (Rondfort).webp":     { origin: original, author: Rei-pyo }
   "Isolde.webp":               { origin: original, author: Rei-pyo }
-  "Jack.webp":                { origin: original, author: Rei-pyo }
-  "Marte.webp":               { origin: original, author: Rei-pyo }
+  "Jack.webp":                 { origin: original, author: Rei-pyo }
+  "Marte.webp":                { origin: original, author: Rei-pyo }
   "Moby (Rondfort).webp":      { origin: original, author: Rei-pyo }
-  "Saŝa.webp":                { origin: original, author: Rei-pyo }
-  "Trotaconventos.webp":      { origin: original, author: Rei-pyo }
+  "Placeholder avatar.webp":    { origin: original, author: Rei-pyo }
+  "Saŝa.webp":                 { origin: original, author: Rei-pyo }
+  "Trotaconventos.webp":       { origin: original, author: Rei-pyo }
   "Urausu.webp":               { origin: original, author: Rei-pyo }
 
   # ─── Maps ──────────────────────────────────────────────────────────────────
   # Rendered by the zoommap module. If any were assembled in a map generator,
   # that generator's terms may apply on top of whoever built them.
   "Faro de la tormenta.webp": { origin: original, author: Marioespiro }
-  "Luma.webp":                 { origin: original, author: Emperadoracero }
-  "Pandysia GIRADO.webp":      { origin: original, author: Rei-pyo }
-  "Tambler.webp":              { origin: original, author: Marioespiro }
+  "Luma.webp":                { origin: original, author: Emperadoracero }
+  "Pandysia GIRADO.webp":     { origin: original, author: Rei-pyo }
+  "Tambler.webp":             { origin: original, author: Marioespiro }
 
   # ─── AI generated ──────────────────────────────────────────────────────────
   # Published, never licensed. Worth recording the model per row if it is ever
@@ -122,26 +123,19 @@ assets:
   # ─── Known external ────────────────────────────────────────────────────────
   # These images cannot be published, and replacing them should be a priority
   # in order to have the local vault and the published wiki as close as possible
-  "Placeholder avatar.jpg"    { origin: external }
+  "simbolo caballo estratica.jpg":            { origin: external }
+  "Símbolo de los buscadores perdidos.jpeg":  { origin: external }
+  "simbolo dragon draconis.jpg":              { origin: external }
+  "simbolo estrella draconis.jpg":            { origin: external }
+  "simbolo winged sword espadas libres.jpg":  { origin: external }
 
   # ─── Third-party, permitted ────────────────────────────────────────────────
   # Nothing here yet. The shape, for whoever adds the first one:
   #
-  #   "Some stock photo.jpg":
-  #     { origin: licensed, license: CC-BY-4.0,
-  #       source: "https://example.org/photo -- by A. Photographer" }
+  # "Some stock photo.jpg": { origin: licensed, license: CC-BY-4.0, source: "https://example.org/photo - by A. Photographer" }
   #
   # Record the licence exactly enough to act on later: "CC-BY-4.0" is checkable,
   # "free to use" is not.
-
-  # ─── Guild logos ───────────────────────────────────────────────────────────
-  # Small marks. Worth checking whether these were drawn or sourced -- a logo
-  # lifted from elsewhere carries the same problem as a portrait.
-  "simbolo caballo estratica.jpg":            { origin: external }
-  "Símbolo de los buscadores perdidos.jpeg":  { origin: external }   # 225x225
-  "simbolo dragon draconis.jpg":              { origin: external }
-  "simbolo estrella draconis.jpg":            { origin: external }   # 612x612
-  "simbolo winged sword espadas libres.jpg":  { origin: external }   # 307x350
 
 # Not listed: z_Assets/Icons/ (Font Awesome and RPG Awesome, third-party icon
 # packs that ship their own LICENSE files and are excluded from the site build

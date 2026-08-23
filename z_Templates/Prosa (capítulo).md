@@ -10,8 +10,10 @@ tags:
   - WIP
 ---
 
+:::lang es
 CONTENIDO
 
 | Capítulo anterior |    Volver     | Siguiente capítulo |
 | ----------------- |:-------------:| ------------------:|
-| `=this.anterior`  | `=this.padre` |  `=this.siguiente` | 
+| `=this.anterior`  | `=this.padre` |  `=this.siguiente` |
+:::

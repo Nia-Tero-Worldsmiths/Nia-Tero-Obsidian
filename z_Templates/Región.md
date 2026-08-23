@@ -11,20 +11,22 @@ gobernador: "[[Persona]]"
 perteneceA: "[[Organización]]"
 ---
 
+:::lang es
 ## Mapa de la región
+:::
+:::lang ja
+## 地域の地図
+:::
+:::lang all
+
 %%Alt+M para crear un mapa aquí%%
 
 ---
+```i18n-infobox
+```
+:::
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
-
+:::lang es
 TEXTO INTRODUCTORIO
 
 
@@ -51,3 +53,5 @@ TEXTO INTRODUCTORIO
 %%#### Comercio%%
 
 %%#### Defensas%%
+
+:::

@@ -1,8 +1,10 @@
 ---
 aliases:
-  - Technology Level
+  - Tech Level
+publish: true
 ---
 
+:::lang es
 El nivel tecnológico (TL) es una métrica de las capacidades científicas y de producción de una nación, así como de la complejidad y efectividad del equipamiento que son capaces de fabricar.
 
 Lo normal es que las naciones de Nia Tero ronden el TL 2-3, aunque puede haber outliers tanto hacia arriba como hacia abajo.
@@ -26,3 +28,4 @@ Lo normal es que las naciones de Nia Tero ronden el TL 2-3, aunque puede haber o
 | 14  | Estelar   | Herramientas y armas de fusión portátiles |  |
 | 15  | Estelar tardío | Desarrollo de tratamientos de longevidad aumenta la esperanza de vida de un gran número de especies |  |
 | 16  | Estelar tardío | Armas de plasma y escudos de energía portátiles |  |
+:::

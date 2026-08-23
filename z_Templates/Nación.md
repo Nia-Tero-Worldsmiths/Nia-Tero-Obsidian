@@ -18,27 +18,22 @@ gentilicio:
 lenguasOficiales:
   -
 ---
-
+:::lang es
 ## Mapa de la nación
+:::
+:::lang ja
+## 国の地図
+:::
+:::lang all
+
 %%Alt+M para crear un mapa aquí%%
 
 ---
+```i18n-infobox
+```
+:::
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> | Información                 ||
-> | ---------------------- | -------------- |
-> | Ubicado en                  | `=this.ubicacion` |
-> | Tipo de gobierno         | `=this.tipoGobierno` |
-> | └> Orgs. de gobierno | `=this.orgsDeGobierno` |
-> | Capital                          | `=this.capital` |
-> | Fecha de fundación    | `=this.fundacion`  |
-> | [[Nivel Tecnológico]]  | TL `=this.TL`  |
-> | Gentilicio                      | `=this.gentilicio`  |
-> | Lenguas oficiales        | `=this.lenguasOficiales` |
-
+:::lang es
 TEXTO INTRODUCTORIO
 
 
@@ -68,3 +63,4 @@ TEXTO INTRODUCTORIO
 %%#### Industria%%
 
 %%#### Comercio%%
+:::

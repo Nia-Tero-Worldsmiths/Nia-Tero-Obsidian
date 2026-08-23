@@ -1,0 +1,10 @@
+{
+  "id": "i18n-manager",
+  "name": "i18n Manager",
+  "version": "0.1.0",
+  "minAppVersion": "1.4.0",
+  "description": "Escribe varios idiomas en una misma nota y cambia el idioma visible. Nunca modifica una nota salvo por orden explícita.",
+  "author": "Nia Tero Worldsmiths (fork of mi18n by J.K.)",
+  "authorUrl": "https://github.com/Nia-Tero-Worldsmiths/obsidian-i18n-manager",
+  "isDesktopOnly": false
+}

@@ -4,5 +4,5 @@
   "livePreview": false,
   "readableLineLength": true,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": false
 }
