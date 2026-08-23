@@ -82,7 +82,7 @@ Tras su llegada al nuevo continente, siguió las indicaciones de [[Flammula]] ha
 
 A partir de este momento, Boh'ron se hizo uno con su control del aire y se convirtió en un poderoso Genasi de aire, un sylph.
 
-Tras esto fue enviado por [[Flammula]] al lugar de convergencia de la vena elemental de aire que recorre el continente con el objetivo de poder recolectar los recursos naturales de la zona y asegurar un suministro constante de estos para poder seguir con la investigación, por lo que comenzó la [[Conquista de Velaris]]. Recibió la ayuda de [[Vailaya]] en su batalla final contra Selina, a quien logró sellar y añadió a su colección personal.
+Tras esto fue enviado por [[Flammula]] al lugar de convergencia de la vena elemental de aire que recorre el continente con el objetivo de poder recolectar los recursos naturales de la zona y asegurar un suministro constante de estos para poder seguir con la investigación, por lo que comenzó la [[El ojo de la tormenta]]. Recibió la ayuda de [[Vailaya]] en su batalla final contra Selina, a quien logró sellar y añadió a su colección personal.
 
 Disfruta compartir tiempo con su mujer [[Vailaya]], aunque debido a sus puestos a veces les resulta complicado pasar tanto tiempo juntos como les gustaría.
 

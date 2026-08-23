@@ -1,13 +1,13 @@
 ---
-title: Eicadia
+title: Argenos
 NoteType: lugar
 publish: false
 tags:
   - WIP
 aliases:
   - 
-ubicacion: "[[Velaris]]"
-gobernador: "[[Boh'ron]]"
+ubicacion: "[[Bosque de Manis]]"
+gobernador: "[[Vailaya]]"
 perteneceA: "[[Auris]]"
 ---
 
@@ -20,5 +20,4 @@ perteneceA: "[[Auris]]"
 > | Gobernado por  | `=this.gobernador` |
 > | Pertenece a       | `=this.perteneceA` |
 
-
-Capital de la región de [[Velaris]], regentada por [[Boh'ron]].
+Primer pueblo construido en toda la región de [[Thalassia]]. Lugar de descanso de Elunise y punto de conexión principal con [[Valdora]].
