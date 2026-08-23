@@ -1,12 +1,13 @@
 ---
 title:
 NoteType: persona
-imagen: Placeholder avatar.webp
 publish: false
 tags:
   - WIP
 aliases:
   - 
+
+imagen: Placeholder avatar.webp
 especie:
 genero:
 fechaNacimiento: "X, Era"

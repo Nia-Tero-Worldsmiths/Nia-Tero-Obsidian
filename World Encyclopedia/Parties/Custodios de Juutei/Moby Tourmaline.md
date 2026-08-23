@@ -18,8 +18,12 @@ organizacion: "[[Custodios de Juutei]]"
 cargoOrg:
   - Miembro
 titulos:
-clase: Rogue / Maga
-subclase: Arcane Trickster / Bladesinger
+clase:
+  - Rogue
+  - Maga
+subclase:
+  - Arcane Trickster
+  - Bladesinger
 elan: Pensante
 ---
 

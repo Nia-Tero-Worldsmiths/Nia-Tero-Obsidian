@@ -5,24 +5,20 @@ publish: false
 cssclasses:
   - cards
   - cards-cols-3
-imagen: castle-flag.svg
 tags:
   - WIP
 aliases:
   - 
+
+imagen: castle-flag.svg
 personaAlCargo: "[[Persona]]"
 tipoOrg:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Información |
-> | -------------- | -------------- |
-> | Persona al cargo | `=this.personaAlCargo`  |
-> | Tipo de organización | `=this.tipoOrg` |
+```i18n-infobox
+```
 
+:::lang es
 TEXTO INTRODUCTORIO
 
 
@@ -38,3 +34,5 @@ SORT title ASC
 
 
 ### Historia
+
+:::
