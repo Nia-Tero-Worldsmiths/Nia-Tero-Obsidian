@@ -8,7 +8,7 @@ aliases:
   - 
 ubicacion: "[[Auris]]"
 gobernador: "[[Kaigal]]"
-perteneceA: "[[Elementalis]]"
+perteneceA: "[[Auris]]"
 ---
 
 >[!infobox]

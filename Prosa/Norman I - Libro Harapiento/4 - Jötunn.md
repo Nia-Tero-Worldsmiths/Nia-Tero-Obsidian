@@ -1,7 +1,8 @@
 ---
 title: 4 - Jötunn
 NoteType: prosa
-cssclass: prosa
+cssclasses:
+  - prosa
 publish: true
 padre: "[[Norman I - Libro Harapiento]]"
 anterior: "[[3 - El periplo de Boreas]]"

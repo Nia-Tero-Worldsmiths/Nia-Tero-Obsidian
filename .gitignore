@@ -6,3 +6,9 @@ _*
 
 # Plugins problemáticos
 .obsidian/plugins/various-complements/histories.json
+
+# i18n-manager: el idioma activo es una preferencia personal, no compartida.
+# El código fuente vive en el repo hermano obsidian-i18n-manager; aquí solo se
+# versiona el bundle compilado (main.js, manifest.json, styles.css).
+.obsidian/plugins/i18n-manager/data.json
+.obsidian/plugins/i18n-manager/.hotreload

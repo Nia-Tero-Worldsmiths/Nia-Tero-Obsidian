@@ -1,7 +1,7 @@
 ---
 title: Alexandr Bentz
 NoteType: persona
-imagen: Alexandr Bentz.jpg
+imagen: Alexandr Bentz.webp
 publish: false
 tags:
   - WIP
@@ -13,7 +13,7 @@ aliases:
 alineamiento: NE
 especie: Humano
 genero: Hombre
-edad: 71
+edad: "71"
 lugarNacimiento: "[[Lugar]]"
 creencia: "[[Las 20 Caras de Fortuna]]"
 organizacion:

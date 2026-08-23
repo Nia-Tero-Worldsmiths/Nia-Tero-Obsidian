@@ -1,7 +1,8 @@
 ---
 title: 2 - Las Turbulencias del Mundo
 NoteType: prosa
-cssclass: prosa
+cssclasses:
+  - prosa
 publish: true
 padre: "[[Norman I - Libro Harapiento]]"
 anterior: "[[1 - Introducción]]"

@@ -1,7 +1,7 @@
 ---
 title: Brunhilda Birgersdotter
 NoteType: persona
-imagen: Brunhilda (Rondfort).jpg
+imagen: Brunhilda (Rondfort).webp
 publish: true
 tags:
   - PJ
@@ -14,7 +14,7 @@ aliases:
 alineamiento: CN
 especie: Goblin / Daeva
 genero: Mujer
-edad: 20
+edad: "20"
 lugarNacimiento: Drakovidis Norte
 creencia: ???
 organizacion: "[[Custodios de Juutei]]"

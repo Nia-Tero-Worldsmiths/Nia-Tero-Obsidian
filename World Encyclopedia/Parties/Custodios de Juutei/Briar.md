@@ -1,12 +1,11 @@
 ---
 title: Briar
 NoteType: persona
-imagen: Briar.jpg
+imagen: Briar.webp
 publish: true
 tags:
-  - WIP
 aliases:
-  -
+  - 
 alineamiento: TN
 especie: Golem de carne
 genero: Mujer

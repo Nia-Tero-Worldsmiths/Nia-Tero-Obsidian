@@ -1,5 +1,5 @@
 ---
-title: 
+title: Faelas
 NoteType: lugar
 publish: false
 tags:
@@ -7,7 +7,7 @@ tags:
 aliases:
   - 
 ubicacion: "[[Gah'Las]]"
-gobernador: "[[Persona]]"
+gobernador: "[[Vira]]"
 perteneceA: "[[Auris]]"
 ---
 

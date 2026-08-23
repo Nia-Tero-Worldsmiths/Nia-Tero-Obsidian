@@ -12,7 +12,7 @@ ubicacion: Plano Terrenal
 ## Mapa continental
 ```zoommap
 imageBases:
-  - path: z_Assets/Maps/Pandysia GIRADO.png
+  - path: z_Assets/Maps/Pandysia GIRADO.webp
 markers: z_Assets/Maps/Pandysia GIRADO.markers.json
 markerLayers:
   - Default

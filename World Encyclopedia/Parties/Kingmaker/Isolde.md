@@ -1,27 +1,27 @@
 ---
 title: Isolde Neerdowell
 NoteType: persona
-imagen: Isolde.jpg
+imagen: Isolde.webp
 publish: false
 tags:
   - WIP
   - Kingmaker
 aliases:
-  -
+  - 
 alineamiento: TN/CG...
-especie: 
-genero: 
-edad: 
+especie:
+genero:
+edad: "18"
 lugarNacimiento: "[[Lugar]]"
-creencia: 
+creencia:
 organizacion:
   - "[[Organización]]"
 cargoOrg:
-  -
+  - 
 titulos:
   - 
-clase: 
-subclase: 
+clase:
+subclase:
 elan:
 ---
 

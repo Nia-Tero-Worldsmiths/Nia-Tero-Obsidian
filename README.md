@@ -10,6 +10,6 @@ Lista de notas a ignorar al exportar
 
 ```dataview
 table NoteType
-where draft
+where !publish
 sort NoteType
 ```

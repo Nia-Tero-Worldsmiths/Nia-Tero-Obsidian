@@ -1,7 +1,7 @@
 ---
 title: 
 NoteType: persona
-imagen: Placeholder avatar.jpg
+imagen: Placeholder avatar.webp
 publish: false
 tags:
   - WIP
@@ -15,18 +15,10 @@ organizacion: "[[Organización]]"
 cargoOrg:
 ---
 
->[!infobox]
-># **`=this.title`**
-%%> `=embed(link(this.imagen))`%%
-> 
-> || Información |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
+```i18n-infobox
+```
 
-
+:::lang es
 DESCRIPCIÓN
+
+:::

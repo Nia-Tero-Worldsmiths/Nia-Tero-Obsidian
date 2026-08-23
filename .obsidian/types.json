@@ -6,8 +6,9 @@
     "cargoOrg": "multitext",
     "titulos": "multitext",
     "organizacion": "multitext",
-    "edad": "number",
+    "edad": "text",
     "previa": "text",
-    "padre": "text"
+    "padre": "text",
+    "TL": "number"
   }
 }

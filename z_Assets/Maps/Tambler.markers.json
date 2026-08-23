@@ -85,11 +85,11 @@
   ],
   "bases": [
     {
-      "path": "z_Assets/Maps/Tambler.jpg"
+      "path": "z_Assets/Maps/Tambler.webp"
     }
   ],
   "overlays": [],
-  "activeBase": "z_Assets/Maps/Tambler.jpg",
+  "activeBase": "z_Assets/Maps/Tambler.webp",
   "measurement": {
     "scales": {},
     "customUnitPxPerUnit": {},

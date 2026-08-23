@@ -1,7 +1,7 @@
 ---
 title: Diana Birgersdotter
 NoteType: persona
-imagen: Diana (Rondfort).jpg
+imagen: Diana (Rondfort).webp
 publish: true
 tags:
   - inquisidor
@@ -16,7 +16,7 @@ aliases:
 alineamiento: LG
 especie: Humana / Dragona (magnesio)
 genero: Mujer
-edad: 21
+edad: "21"
 lugarNacimiento: Birgitta
 creencia: "[[Las 20 Caras de Fortuna]]"
 organizacion:
