@@ -1,7 +1,6 @@
 ---
 title: Trotaconventos
 NoteType: persona
-imagen: Trotaconventos.webp
 publish: true
 tags:
   - inquisidor
@@ -10,11 +9,14 @@ tags:
 aliases:
   - Trotaconventos
   - La Troti
-alineamiento: CN
+imagen: Trotaconventos.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Doppelganger
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: "87"
 lugarNacimiento: Forgesita
+alineamiento: CN
 creencia: N/A
 organizacion:
   - "[[Santa Inquisición de Magna]] (anteriormente)"

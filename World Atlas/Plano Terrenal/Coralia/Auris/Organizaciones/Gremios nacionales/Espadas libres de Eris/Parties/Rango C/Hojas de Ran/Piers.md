@@ -1,18 +1,20 @@
 ---
 title: Piers
 NoteType: persona
-imagen: Piers.png
 publish: false
 tags:
   - WIP
   - hojasDeRan
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Piers.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Vishankya
 genero: Masculino
+fechaNacimiento:   #"X, Era"
 edad: 36
 lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Hojas de Ran]]"

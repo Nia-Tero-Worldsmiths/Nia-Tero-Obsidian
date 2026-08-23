@@ -6,12 +6,22 @@ tags:
   - WIP
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Humano
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 38
+lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
+creencia:
 organizacion: "[[Faelas]]"
 cargoOrg:
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
 >[!infobox]

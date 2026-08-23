@@ -1,14 +1,15 @@
 ---
-nombre: "Organizacion"
+title:
 NoteType: organizacion
+publish: false
 cssclasses:
  - cards
  - cards-cols-2 #Cambiar esta según cuántas tarjetas se quiere por fila
-imagen: castle-flag.svg
 tags:
   - WIP
 aliases:
   - 
+imagen: castle-flag.svg
 personaAlCargo: "[[Persona]]"
 tipoOrg: 
 ---

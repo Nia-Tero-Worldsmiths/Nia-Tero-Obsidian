@@ -1,19 +1,21 @@
 ---
 title: Cassie
 NoteType: persona
-imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
 publish: false
 tags:
   - WIP
 aliases:
   -
-alineamiento: TC
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Kitsune
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 38
 lugarNacimiento: "[[Luma]]"
+alineamiento: TC
 creencia: 
-organizacion: "[[]]"
+organizacion: "[[Organización]]"
 cargoOrg:
   -
 titulos:

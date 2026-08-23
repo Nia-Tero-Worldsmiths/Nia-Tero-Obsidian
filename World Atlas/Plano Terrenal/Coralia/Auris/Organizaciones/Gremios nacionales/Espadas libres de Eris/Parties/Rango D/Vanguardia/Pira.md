@@ -1,18 +1,20 @@
 ---
 title: Pira
 NoteType: persona
-imagen: Pira.jpg
 publish: false
 tags:
   - WIP
   - vanguardia
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Pira.jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Orca
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 31
 lugarNacimiento: "[[Calcindor]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Espadas libres de Eris]]"

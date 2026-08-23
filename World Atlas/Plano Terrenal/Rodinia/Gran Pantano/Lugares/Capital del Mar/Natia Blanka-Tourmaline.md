@@ -1,22 +1,29 @@
 ---
 title: Natia Blanka-Tourmaline
 NoteType: persona
-imagen: Placeholder avatar.webp
 publish: true
 tags:
   - matriarcadoPantano
 aliases:
   - Natia
   - Natia Blanka
-alineamiento: LG
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Aksolotl
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: "29"
 lugarNacimiento: "[[Capital del Mar]]"
+alineamiento: LG
 creencia: "[[Egos y Dagon]]"
 organizacion: "[[Matriarcado del Pantano]]"
 cargoOrg:
   - Sacerdotisa Mayor del templo blanco
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
 >[!infobox]

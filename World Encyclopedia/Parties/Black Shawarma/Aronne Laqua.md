@@ -1,7 +1,6 @@
 ---
 title: Aronne Laqua
 NoteType: persona
-imagen: Aronne Laqua.webp
 publish: true
 tags:
   - WIP
@@ -9,11 +8,14 @@ tags:
   - blackShawarma
 aliases:
   - Aronne
-alineamiento: LE
+imagen: Aronne Laqua.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Dragonkin / Jotunnborn
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: "28"
 lugarNacimiento: Laqua
+alineamiento: LE
 creencia: Laqua
 organizacion:
   - "[[Black Shawarma]]"

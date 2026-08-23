@@ -1,18 +1,20 @@
 ---
 title: Kalis
 NoteType: persona
-imagen: kalis.jpeg
 publish: false
 tags:
   - WIP
   - Kingmaker
 aliases:
   -
-alineamiento: TN/CG...
+imagen: kalis.jpeg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Yaksha
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: 215
 lugarNacimiento: "[[Templo de Eden]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Kingmaker]]"

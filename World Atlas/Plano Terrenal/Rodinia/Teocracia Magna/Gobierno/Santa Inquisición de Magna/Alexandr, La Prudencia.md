@@ -1,7 +1,6 @@
 ---
 title: Alexandr Bentz
 NoteType: persona
-imagen: Alexandr Bentz.webp
 publish: false
 tags:
   - WIP
@@ -10,11 +9,14 @@ tags:
 aliases:
   - La Prudencia
   - Alexandr Bentz
-alineamiento: NE
+imagen: Alexandr Bentz.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Humano
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: "71"
 lugarNacimiento: "[[Lugar]]"
+alineamiento: NE
 creencia: "[[Las 20 Caras de Fortuna]]"
 organizacion:
   - "[[Santa Inquisición de Magna]]"

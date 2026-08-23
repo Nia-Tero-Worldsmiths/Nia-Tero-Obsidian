@@ -5,12 +5,12 @@ publish: true
 cssclasses:
   - cards
   - cards-cols-3
-imagen: castle-flag.svg
 tags:
   - WIP
 aliases:
   - Santa Inquisición
   - Inquisición
+imagen: castle-flag.svg
 personaAlCargo: "[[Connor O'Sullivan|Sumo Sacerdote de Magna]]"
 tipoOrg: Organismo totalitario
 ---

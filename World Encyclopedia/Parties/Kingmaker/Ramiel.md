@@ -1,18 +1,20 @@
 ---
 title: Ramiel
 NoteType: persona
-imagen: Ramiel.jpg
 publish: false
 tags:
   - WIP
   - Kingmaker
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Ramiel.jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: 
 genero: 
+fechaNacimiento:   #"X, Era"
 edad: 
 lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Organización]]"

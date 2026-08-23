@@ -1,18 +1,20 @@
 ---
 title: Dina
 NoteType: persona
-imagen: Dina.png
 publish: false
 tags:
   - WIP
   - nocheBlanca
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: Dina.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Anadi
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 32
 lugarNacimiento: "[[Sylphoria]]"
+alineamiento: TN/CG...
 creencia:
 organizacion: "[[World Atlas/Plano Terrenal/Coralia/Auris/Organizaciones/Gremios nacionales/Espadas libres de Eris/Parties/Rango B/Noche Blanca/Noche Blanca]]"
 cargoOrg:

@@ -1,17 +1,26 @@
 ---
 title: Godoy
 NoteType: persona
-imagen: Placeholder avatar.webp
 publish: true
 tags:
 aliases:
   - 
-alineamiento: NG/CG/LG/TN
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Doppelganger
 genero: M/H/NB/NB
+fechaNacimiento:   #"X, Era"
 edad: 47/47/41/41
+lugarNacimiento: "[[Lugar]]"
+alineamiento: NG/CG/LG/TN
+creencia:
 organizacion: Cuerpo privado del [[Conde Lucán de Tambler|Conde de Tambler]]
 cargoOrg: Mayordomo
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
 >[!infobox]

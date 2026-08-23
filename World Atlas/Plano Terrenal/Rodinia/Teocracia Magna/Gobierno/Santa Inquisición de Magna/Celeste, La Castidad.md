@@ -1,18 +1,20 @@
 ---
 title: Celeste de Carvajal
 NoteType: persona
-imagen: Celeste de Carvajal.webp
 publish: true
 tags:
   - inquisidor
   - WIP
   - comendador
 aliases:
-alineamiento: TN
+imagen: Celeste de Carvajal.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Cambion
 genero: No binario
+fechaNacimiento:   #"X, Era"
 edad: "34"
 lugarNacimiento: Forgesita
+alineamiento: TN
 creencia: "[[Las 20 Caras de Fortuna]]"
 organizacion:
   - "[[Santa Inquisición de Magna]]"

@@ -1,15 +1,16 @@
 ---
-nombre: Organizacion
+title:
 NoteType: organizacion
+publish: false
 cssclasses:
   - cards
   - cards-cols-2
-imagen: castle-flag.svg
 tags:
   - WIP
   - party
 aliases:
   - 
+imagen: castle-flag.svg
 personaAlCargo: "[[Mara]]"
 tipoOrg:
 ---

@@ -1,9 +1,11 @@
 ---
 title: 7 - Cambio de actitud
 NoteType: prosa
+publish: true
 cssclasses:
   - prosa
-publish: true
+tags:
+  - 
 padre: "[[Norman I - Libro Harapiento]]"
 anterior: "[[6 - Cañones]]"
 siguiente: "[[8 - Ocho]]"

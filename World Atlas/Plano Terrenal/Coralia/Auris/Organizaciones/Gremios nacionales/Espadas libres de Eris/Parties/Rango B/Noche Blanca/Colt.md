@@ -1,18 +1,20 @@
 ---
 title: Colt
 NoteType: persona
-imagen: colt.jpg
 publish: false
 tags:
   - WIP
   - nocheBlanca
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: colt.jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Jotunn
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: 32
 lugarNacimiento: "[[Yrvalass]]"
+alineamiento: TN/CG...
 creencia:
 organizacion:
   - "[[Noche Blanca]]"

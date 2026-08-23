@@ -1,19 +1,20 @@
 ---
 title: Tali
 NoteType: persona
-imagen: Tali.jpg
 publish: false
 tags:
   - WIP
   - vanguardia
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: Tali.jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Fetchling
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 19
 lugarNacimiento: "[[Estria]]"
-lugarNacimiento: "[[Estria]]"
+alineamiento: TN/CG...
 creencia:
 organizacion:
   - "[[Espadas libres de Eris]]"

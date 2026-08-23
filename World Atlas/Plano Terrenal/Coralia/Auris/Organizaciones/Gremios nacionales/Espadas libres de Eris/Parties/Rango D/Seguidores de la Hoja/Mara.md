@@ -1,18 +1,20 @@
 ---
 title: Mara
 NoteType: persona
-imagen: Mara.png
 publish: false
 tags:
   - WIP
   - seguidoresDeLaHoja
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: Mara.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Nagaji
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 24
 lugarNacimiento: "[[Bosque de Manis]]"
+alineamiento: TN/CG...
 creencia:
 organizacion: "[[Seguidores de la Hoja]]"
 cargoOrg:

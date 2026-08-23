@@ -1,17 +1,19 @@
 ---
 title: Liam
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
 publish: false
 tags:
   - WIP
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: 
 genero: 
+fechaNacimiento:   #"X, Era"
 edad: 
 lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Organización]]"

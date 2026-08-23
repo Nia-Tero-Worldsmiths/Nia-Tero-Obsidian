@@ -1,13 +1,13 @@
 ---
 title: El camino a la capital
 NoteType: prosa
-cssclass: prosa
 publish: false
+cssclasses: prosa
+tags:
+  - WIP
 padre: "[[El ojo de la tormenta]]"
 anterior: "[[1 - La sala del ocaso]]"
 siguiente:
-tags:
-  - WIP
 ---
 
 Hace ya un mes desde que partimos de [[Neridia]]. Tras la reunión en la sala del Ocaso todos los presentes acudimos a nuestros respectivos aposentos y comenzamos las preparaciones, tratando de llamar la atención lo mínimo posible.

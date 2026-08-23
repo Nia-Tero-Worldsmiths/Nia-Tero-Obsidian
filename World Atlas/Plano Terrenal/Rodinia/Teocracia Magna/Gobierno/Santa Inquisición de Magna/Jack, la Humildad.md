@@ -1,7 +1,6 @@
 ---
 title: Jack Aston Bentz
 NoteType: persona
-imagen: Jack.webp
 publish: false
 tags:
   - WIP
@@ -11,11 +10,14 @@ aliases:
   - Jack Aston Bentz
   - La Humildad
   - Jackass
-alineamiento: LE
+imagen: Jack.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Humano
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: "25"
 lugarNacimiento: "[[Lugar]]"
+alineamiento: LE
 creencia: "[[Las 20 Caras de Fortuna]]"
 organizacion:
   - "[[Santa Inquisición de Magna]]"

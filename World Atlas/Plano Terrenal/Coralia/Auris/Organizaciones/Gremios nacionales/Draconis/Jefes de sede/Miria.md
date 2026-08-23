@@ -1,17 +1,19 @@
 ---
 title: Miria
 NoteType: persona
-imagen: Miria.png
 publish: false
 tags:
   - WIP
 aliases:
   - Emperatriz
-alineamiento: CN
+imagen: Miria.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Humana versatile heritage dragonblood
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 38
 lugarNacimiento: "[[Confederación de Sidania]]"
+alineamiento: CN
 creencia:
 organizacion:
   - "[[Draconis]]"

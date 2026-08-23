@@ -1,18 +1,20 @@
 ---
 title: Moby Tourmaline
 NoteType: persona
-imagen: Moby (Rondfort).webp
 publish: true
 tags:
   - PJ
   - custodios-de-juutei
 aliases:
   - Moby
-alineamiento: CG
+imagen: Moby (Rondfort).webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Aksolotl
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: "22"
 lugarNacimiento: "[[Capital del Mar]]"
+alineamiento: CG
 creencia: "[[Egos y Dagon]]"
 organizacion: "[[Custodios de Juutei]]"
 cargoOrg:

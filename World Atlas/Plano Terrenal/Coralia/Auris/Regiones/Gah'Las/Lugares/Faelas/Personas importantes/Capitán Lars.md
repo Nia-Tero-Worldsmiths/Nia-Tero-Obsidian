@@ -6,12 +6,22 @@ tags:
   - WIP
 aliases:
   - 
-alineamiento: TN/CG...
-especie:Humano oread
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
+especie: Humano oread
 genero: Masculino
+fechaNacimiento:   #"X, Era"
 edad: 45
+lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
+creencia:
 organizacion: "[[4 alas de Auris]]"
 cargoOrg: Capitán de la región de Faelas
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
 

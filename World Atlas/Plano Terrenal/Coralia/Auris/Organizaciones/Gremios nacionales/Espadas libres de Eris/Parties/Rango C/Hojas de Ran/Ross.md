@@ -1,18 +1,20 @@
 ---
 title: Ross 
 NoteType: persona
-imagen: Ross.jpg
 publish: false
 tags:
   - WIP
   - hojasDeRan
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Ross.jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Humano
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: 52
 lugarNacimiento: "[[Neridia]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Hojas de Ran]]"

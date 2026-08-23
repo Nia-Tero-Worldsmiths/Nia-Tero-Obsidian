@@ -1,18 +1,27 @@
 ---
 title: Urausu de Seaton
 NoteType: persona
-imagen: Urausu.webp
 publish: true
 tags:
   - WIP
 aliases:
   - Urausu
-alineamiento: LE
+imagen: Urausu.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Lamia
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: "32"
+lugarNacimiento: "[[Lugar]]"
+alineamiento: LE
+creencia:
 organizacion: El Tacón Invertido
 cargoOrg: Madame de la región de [[Ryuujou]]
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
 >[!infobox]

@@ -1,7 +1,6 @@
 ---
 title: Miĥaelo de Forgesita
 NoteType: persona
-imagen: Micĵo.png
 publish: false
 tags:
   - WIP
@@ -9,11 +8,14 @@ tags:
   - blackShawarma
 aliases:
   - Miĥaelo
-alineamiento: TN/CG...
+imagen: Micĵo.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Doppelganger
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: "37"
 lugarNacimiento: "[[Forgesita]]"
+alineamiento: TN/CG...
 creencia: "[[Las 20 Caras de Fortuna]]"
 organizacion:
   - "[[Black Shawarma]]"

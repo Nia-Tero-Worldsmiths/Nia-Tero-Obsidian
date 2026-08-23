@@ -1,17 +1,19 @@
 ---
 title: Miguel, la montaña andante
 NoteType: persona
-imagen: [[]] #Borrar paréntesis una vez importada la imagen
 publish: false
 tags:
   - WIP
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: Placeholder avatar.webp
+estado: Vivo
 especie: Elemental verdadero de tierra
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: Indefinida
 lugarNacimiento: "[[Luma]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Vireon]]"

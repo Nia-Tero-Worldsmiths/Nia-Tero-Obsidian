@@ -1,7 +1,6 @@
 ---
 title: Connor O'Sullivan
 NoteType: persona
-imagen: Connor O'Sullivan.png
 publish: false
 tags:
   - WIP
@@ -9,11 +8,14 @@ aliases:
   - Sumo Sacerdote
   - Sumo Sacerdote de Magna
   - Gran Maestre
-alineamiento: LE
+imagen: Connor O'Sullivan.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Humano
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: 
 lugarNacimiento: Irlanda
+alineamiento: LE
 creencia: 
 organizacion:
   - "[[Santa Inquisición de Magna]]"

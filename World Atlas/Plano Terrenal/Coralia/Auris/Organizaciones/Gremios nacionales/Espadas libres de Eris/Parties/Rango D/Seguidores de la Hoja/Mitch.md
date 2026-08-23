@@ -1,18 +1,20 @@
 ---
 title: Mich
 NoteType: persona
-imagen: Mich.png
 publish: false
 tags:
   - WIP
   - seguidoresDeLaHoja
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: Mich.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Humano
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: 23
 lugarNacimiento: "[[Faelas]]"
+alineamiento: TN/CG...
 creencia:
 organizacion: "[[Seguidores de la Hoja]]"
 cargoOrg:

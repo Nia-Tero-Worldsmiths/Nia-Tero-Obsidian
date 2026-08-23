@@ -6,7 +6,6 @@ tags:
   - WIP
 aliases:
   - 
-
 imagen: castle-flag.svg
 ubicacion: "[[Continente]]"
 tipoGobierno: 

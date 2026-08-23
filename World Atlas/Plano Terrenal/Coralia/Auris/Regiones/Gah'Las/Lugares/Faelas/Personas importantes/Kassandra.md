@@ -1,17 +1,19 @@
 ---
 title: Kassandra
 NoteType: persona
-imagen: Kassandra.png
 publish: false
 tags:
   - WIP
 aliases:
   - El bibliotecario
-alineamiento: TN/CG...
+imagen: Kassandra.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Humana
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 32 
 lugarNacimiento: "[[Faelas]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Organización]]"

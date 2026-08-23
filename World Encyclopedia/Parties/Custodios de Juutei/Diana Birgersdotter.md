@@ -1,7 +1,6 @@
 ---
 title: Diana Birgersdotter
 NoteType: persona
-imagen: Diana (Rondfort).webp
 publish: true
 tags:
   - inquisidor
@@ -13,11 +12,14 @@ aliases:
   - Diana
   - Dianita
   - La Diligencia
-alineamiento: LG
+imagen: Diana (Rondfort).webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Humana / Dragona (magnesio)
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: "21"
 lugarNacimiento: Birgitta
+alineamiento: LG
 creencia: "[[Las 20 Caras de Fortuna]]"
 organizacion:
   - "[[Santa Inquisición de Magna]]"

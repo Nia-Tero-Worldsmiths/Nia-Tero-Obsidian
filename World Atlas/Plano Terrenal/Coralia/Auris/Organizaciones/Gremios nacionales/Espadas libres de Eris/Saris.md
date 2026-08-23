@@ -1,18 +1,27 @@
 ---
 title: Saris
 NoteType: persona
-imagen: saris.jpg
 publish: false
 tags:
   - WIP
 aliases:
   -
-alineamiento: TN/CG...
+imagen: saris.jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Automaton
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: 126
+lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
+creencia:
 organizacion: "[[Espadas libres de Eris]]"
 cargoOrg:
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
 >[!infobox]

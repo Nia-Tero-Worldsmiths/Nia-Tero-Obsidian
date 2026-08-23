@@ -1,18 +1,20 @@
 ---
 title: Isolde Neerdowell
 NoteType: persona
-imagen: Isolde.webp
 publish: false
 tags:
   - WIP
   - Kingmaker
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: Isolde.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie:
 genero:
+fechaNacimiento:   #"X, Era"
 edad: "18"
 lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
 creencia:
 organizacion:
   - "[[Organización]]"

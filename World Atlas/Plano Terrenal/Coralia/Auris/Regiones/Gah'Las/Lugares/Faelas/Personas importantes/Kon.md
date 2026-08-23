@@ -6,12 +6,22 @@ tags:
   - WIP
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Orco
 genero: Masculino 
+fechaNacimiento:   #"X, Era"
 edad: 40
+lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
+creencia:
 organizacion: "[[Espadas libres de Eris]]"
 cargoOrg: Jefe de la sede de Faelas
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
 >[!infobox]

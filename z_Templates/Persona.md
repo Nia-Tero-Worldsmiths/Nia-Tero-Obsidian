@@ -6,14 +6,13 @@ tags:
   - WIP
 aliases:
   - 
-
 imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie:
 genero:
-fechaNacimiento: "X, Era"
-edad: "X"
+fechaNacimiento:   #"X, Era"
+edad:   #"X" (el campo debe ser string)
 lugarNacimiento: "[[Lugar]]"
-estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 alineamiento: TN/CG...
 creencia:
 organizacion:

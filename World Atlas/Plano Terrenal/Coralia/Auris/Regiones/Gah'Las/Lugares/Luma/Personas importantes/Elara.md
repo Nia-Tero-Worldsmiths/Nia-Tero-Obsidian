@@ -1,17 +1,19 @@
 ---
 title: Elara
 NoteType: persona
-imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
 publish: false
 tags:
   - WIP
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Samsaran
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 170
 lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion: "[[Guardia de Luma]]"
 cargoOrg: Recluta

@@ -1,7 +1,6 @@
 ---
 title: Luca Noir Tambler
 NoteType: persona
-imagen: Conde de Tambler.webp
 publish: true
 tags:
   - Tambler
@@ -9,11 +8,14 @@ aliases:
   - Conde de Tambler
   - Lucán de Tambler
   - Luca Noir Tambler
-alineamiento: TN
+imagen: Conde de Tambler.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Semielfo dhampiro
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: "128"
 lugarNacimiento: ???
+alineamiento: TN
 creencia: ???
 organizacion: "[[Teocracia Magna]]"
 cargoOrg:

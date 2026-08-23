@@ -1,18 +1,20 @@
 ---
 title: Ronnie
 NoteType: persona
-imagen: Ronnie.png
 publish: false
 tags:
   - WIP
   - mastinesCarmesi
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Ronnie.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Skeleton
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: 80
 lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion: "[[]]"
 cargoOrg:

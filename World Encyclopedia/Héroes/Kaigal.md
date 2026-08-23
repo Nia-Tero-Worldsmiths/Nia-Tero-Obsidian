@@ -1,18 +1,20 @@
 ---
 title: Kaigal
 NoteType: persona
-imagen: Diana (Rondfort).jpg
 publish: false
 tags:
   - WIP
 aliases:
   - 
-alineamiento: TN
+imagen: Diana (Rondfort).jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Ifrit
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: 857
 lugarNacimiento:
   - Graalem general
+alineamiento: TN
 creencia: Alquimia
 organizacion:
   - Elementalis

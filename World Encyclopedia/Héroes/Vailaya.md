@@ -1,19 +1,21 @@
 ---
 title: Vailaya
 NoteType: persona
-imagen: Vailaya.jpg
 publish: false
 tags:
   - WIP
   - Elementalis
 aliases:
   -
-alineamiento: TN
+imagen: Vailaya.jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Undina
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 857
 lugarNacimiento: 
  - Graalem general
+alineamiento: TN
 creencia: Alquimia
 organizacion: 
  - Elementalis

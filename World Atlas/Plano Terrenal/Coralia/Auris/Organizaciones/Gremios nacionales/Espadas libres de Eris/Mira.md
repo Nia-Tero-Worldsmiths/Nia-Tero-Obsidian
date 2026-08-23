@@ -1,18 +1,27 @@
 ---
 title: Mira
 NoteType: persona
-imagen: Mira.png
 publish: false
 tags:
   - WIP
 aliases:
   -
-alineamiento: LG
+imagen: Mira.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Elfa
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 25
+lugarNacimiento: "[[Lugar]]"
+alineamiento: LG
+creencia:
 organizacion: "[[Espadas libres de Eris]]"
 cargoOrg: Handler de las corazas pétreas
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
 >[!infobox]

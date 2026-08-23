@@ -1,18 +1,20 @@
 ---
 title: Suli
 NoteType: persona
-imagen: suli.jpg
 publish: false
 tags:
   - WIP
   - vanguardia
 aliases:
   -
-alineamiento: TN/CG...
+imagen: suli.jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Azarketi
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: 30
 lugarNacimiento: "[[Neridia]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Espadas libres de Eris]]"

@@ -1,18 +1,20 @@
 ---
 title: Jill
 NoteType: persona
-imagen: Jill.jpg
 publish: false
 tags:
   - WIP
   - nocheBlanca
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: Jill.jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Humana
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 30
 lugarNacimiento: "[[Auris]]"
+alineamiento: TN/CG...
 creencia:
 organizacion:
   - "[[Noche Blanca]]"

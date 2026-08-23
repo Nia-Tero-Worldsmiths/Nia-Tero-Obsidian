@@ -1,18 +1,20 @@
 ---
 title: Selina, la Tormenta Eterna
 NoteType: persona
-imagen: Selina.png
 publish: false
 tags:
   - WIP
   - Kingmaker
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: Selina.png
+estado: Vivo
 especie: Elemental verdadero de Aire
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: Indefinida
 lugarNacimiento: "[[Eicadia]]"
+alineamiento: TN/CG...
 creencia:
 organizacion:
   - "[[Vireon]]"

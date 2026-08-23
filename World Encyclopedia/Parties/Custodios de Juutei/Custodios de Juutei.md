@@ -1,18 +1,18 @@
 ---
 title: Custodios de Juutei
 NoteType: organizacion
+publish: true
 cssclasses:
   - cards
   - cards-cols-3
-imagen: castle-flag.svg
-personaAlCargo: "[[Diana Birgersdotter]]"
-tipoOrg: party
-publish: true
 tags:
   - WIP
   - party
 aliases:
   -
+imagen: castle-flag.svg
+personaAlCargo: "[[Diana Birgersdotter]]"
+tipoOrg: party
 ---
 
 >[!infobox]

@@ -1,18 +1,20 @@
 ---
 title: "Donatello"
 NoteType: persona
-imagen: Placeholder avatar.webp
 publish: false
 tags:
   - WIP
   - PJ
   - blackShawarma
 aliases: 
-alineamiento: TN/CG...
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: 
 genero: 
+fechaNacimiento:   #"X, Era"
 edad: 
 lugarNacimiento: 
+alineamiento: TN/CG...
 creencia: 
 organizacion: 
 cargoOrg: 

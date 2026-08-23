@@ -9,7 +9,6 @@ tags:
   - WIP
 aliases:
   - 
-
 imagen: castle-flag.svg
 personaAlCargo: "[[Persona]]"
 tipoOrg:

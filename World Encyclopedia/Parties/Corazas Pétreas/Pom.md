@@ -1,18 +1,20 @@
 ---
 title: Pom
 NoteType: persona
-imagen: Pom.jpg
 publish: true
 tags:
   - WIP
   - corazasPetreas
 aliases:
   - 
-alineamiento: TN
+imagen: Pom.jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Yaoguai elemental
 genero: Piedra Pómez
+fechaNacimiento:   #"X, Era"
 edad: 3
 lugarNacimiento: "[[Graalem]]"
+alineamiento: TN
 creencia:
 organizacion: "[[Espadas libres de Eris]]"
 cargoOrg:

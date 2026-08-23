@@ -1,18 +1,20 @@
 ---
 title: Sarah
 NoteType: persona
-imagen: Sarah.png
 publish: false
 tags:
   - WIP
   - hojasDeRan
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: Sarah.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Anadi
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 28
 lugarNacimiento: "[[Sylphoria]]"
+alineamiento: TN/CG...
 creencia:
 organizacion: "[[Hojas de Ran]]"
 cargoOrg:

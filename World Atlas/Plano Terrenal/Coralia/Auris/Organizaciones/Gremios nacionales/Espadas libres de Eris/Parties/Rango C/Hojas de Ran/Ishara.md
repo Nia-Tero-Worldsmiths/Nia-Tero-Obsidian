@@ -1,18 +1,20 @@
 ---
 title: Ishara
 NoteType: persona
-imagen: Ishara.png
 publish: false
 tags:
   - WIP
   - hojasDeRan
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Ishara.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Yaksha
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 32
 lugarNacimiento: "[[Templo de Eden]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Hojas de Ran]]"

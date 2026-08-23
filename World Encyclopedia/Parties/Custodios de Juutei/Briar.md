@@ -1,17 +1,26 @@
 ---
 title: Briar
 NoteType: persona
-imagen: Briar.webp
 publish: true
 tags:
 aliases:
   - 
-alineamiento: TN
+imagen: Briar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Golem de carne
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: <1
+lugarNacimiento: "[[Lugar]]"
+alineamiento: TN
+creencia:
 organizacion: "[[Custodios de Juutei]]"
 cargoOrg: Guardiana de la guarida
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
 >[!infobox]

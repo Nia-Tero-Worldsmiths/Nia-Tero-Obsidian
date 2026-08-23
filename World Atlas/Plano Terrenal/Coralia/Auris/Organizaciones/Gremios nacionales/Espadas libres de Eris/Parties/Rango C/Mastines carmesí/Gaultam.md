@@ -1,18 +1,20 @@
 ---
 title: Gaultam
 NoteType: persona
-imagen: Gaultam.jpg 
 publish: false
 tags:
   - WIP
   - mastinesCarmesi
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Gaultam.jpg 
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Kenku
 genero: Macho
+fechaNacimiento:   #"X, Era"
 edad: 32
 lugarNacimiento: "[[Calcindor]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Mastines carmesí]]"

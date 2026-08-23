@@ -1,18 +1,20 @@
 ---
 title: Kaila
 NoteType: persona
-imagen: Kaila.png
 publish: false
 tags:
   - WIP
   - seguidoresDeLaHoja
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: Kaila.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Fetchling
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 26
 lugarNacimiento: "[[Luma]]"
+alineamiento: TN/CG...
 creencia:
 organizacion: "[[Seguidores de la Hoja]]"
 cargoOrg:

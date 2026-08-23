@@ -6,12 +6,22 @@ tags:
   - WIP
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Humano
 genero: Hombre 
+fechaNacimiento:   #"X, Era"
 edad: 30
+lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
+creencia:
 organizacion: "[[Estratica]]"
 cargoOrg: Jefe de la sede de Faelas
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
 >[!infobox]

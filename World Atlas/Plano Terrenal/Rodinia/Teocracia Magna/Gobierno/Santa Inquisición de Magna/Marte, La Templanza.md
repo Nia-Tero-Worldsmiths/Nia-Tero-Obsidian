@@ -1,18 +1,20 @@
 ---
 title: Marte Electris
 NoteType: persona
-imagen: Marte.webp
 publish: false
 tags:
   - WIP
   - inquisidor
 aliases:
   - Marte
-alineamiento: NE
+imagen: Marte.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Autogólem de carne
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: ~900
 lugarNacimiento: Caravan
+alineamiento: NE
 creencia:
 organizacion:
   - "[[Santa Inquisición de Magna]]"

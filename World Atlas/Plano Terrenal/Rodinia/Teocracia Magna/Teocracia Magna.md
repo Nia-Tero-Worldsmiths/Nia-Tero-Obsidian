@@ -7,6 +7,17 @@ tags:
 aliases:
   - Teocracia
   - Magna
+imagen: castle-flag.svg
+ubicacion: "[[Continente]]"
+tipoGobierno: 
+orgsDeGobierno:
+  - "[[Organización]]"
+capital: "[[Lugar]]"
+fundacion:
+TL: 
+gentilicio:
+lenguasOficiales:
+  -
 ---
 
 

@@ -1,7 +1,6 @@
 ---
 title: Clementine d'If
 NoteType: persona
-imagen: Clementine.webp
 publish: true
 tags:
   - inquisidor
@@ -12,11 +11,14 @@ aliases:
   - Clementine
   - Clementine d'If
   - La Caridad
-alineamiento: CE
+imagen: Clementine.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Humana
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: "32"
 lugarNacimiento: "[[Bela Sankta]]"
+alineamiento: CE
 creencia: ???
 organizacion:
   - "[[Santa Inquisición de Magna]]"

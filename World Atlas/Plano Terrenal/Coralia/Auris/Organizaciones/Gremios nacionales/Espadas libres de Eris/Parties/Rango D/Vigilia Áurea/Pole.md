@@ -1,18 +1,20 @@
 ---
 title: Pole
 NoteType: persona
-imagen: Pole.png 
 publish: false
 tags:
   - WIP
   - vigiliaAurea
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Pole.png 
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Samsaran 
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: 50
 lugarNacimiento: "[[Luma]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Vigilia Áurea]]"

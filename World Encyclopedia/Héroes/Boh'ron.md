@@ -1,18 +1,20 @@
 ---
 title: Boh'Ron
 NoteType: persona
-imagen: Boh'ron separado.jpg
 publish: false
 tags:
   - WIP
   - Elementalis
 aliases:
-alineamiento: TN
+imagen: Boh'ron separado.jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Sylph
 genero: Fluído
+fechaNacimiento:   #"X, Era"
 edad: 857
 lugarNacimiento:
   - Graalem general
+alineamiento: TN
 creencia: Ninguna
 organizacion:
   - Elementalis

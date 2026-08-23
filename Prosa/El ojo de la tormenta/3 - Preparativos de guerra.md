@@ -1,13 +1,13 @@
 ---
 title: Preparativos de guerra
 NoteType: prosa
-cssclass: prosa
 publish: false
+cssclasses: prosa
+tags:
+  - WIP
 padre: "[[El ojo de la tormenta]]"
 anterior: "[[2 - El camino a la capital]]"
 siguiente: 
-tags:
-  - WIP
 ---
 
 "Reunión Con el grupo y Flammula y reunión interna"

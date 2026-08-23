@@ -6,7 +6,6 @@ tags:
   - WIP
 aliases:
   - 
-
 ubicacion: "[[Región]]"
 gobernador: "[[Persona]]"
 perteneceA: "[[Organización]]"

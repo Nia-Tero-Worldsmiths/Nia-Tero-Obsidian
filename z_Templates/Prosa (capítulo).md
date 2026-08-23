@@ -6,7 +6,6 @@ cssclasses:
   - prosa
 tags:
   - WIP
-
 padre: 
 anterior: 
 siguiente: 

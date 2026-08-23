@@ -1,17 +1,26 @@
 ---
 title: Hans Juggernaut
 NoteType: persona
-imagen: Placeholder avatar.webp
 publish: true
 tags:
 aliases:
   - 
-alineamiento: CG
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Doppelganger
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: "47"
+lugarNacimiento: "[[Lugar]]"
+alineamiento: CG
+creencia:
 organizacion: Gremio de aventureros de [[Dandelion]]
 cargoOrg: Maestro gremial
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
 >[!infobox]

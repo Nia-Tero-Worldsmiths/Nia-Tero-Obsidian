@@ -1,18 +1,20 @@
 ---
 title: Ebrietas
 NoteType: persona
-imagen: Placeholder avatar.webp
 publish: false
 tags:
   - WIP
   - corazasPetreas
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Surki
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 
 lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Corazas Pétreas]]"

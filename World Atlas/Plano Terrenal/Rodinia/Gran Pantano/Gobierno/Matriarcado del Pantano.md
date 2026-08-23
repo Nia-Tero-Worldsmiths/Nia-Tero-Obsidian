@@ -5,11 +5,11 @@ publish: false
 cssclasses:
   - cards
   - cards-cols-2
-imagen: castle-flag.svg
 tags:
   - WIP
 aliases:
   - 
+imagen: castle-flag.svg
 personaAlCargo: "[[Saŝa Blanka]]"
 tipoOrg: Administración pública
 ---

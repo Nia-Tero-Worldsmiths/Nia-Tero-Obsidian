@@ -1,21 +1,28 @@
 ---
 title: Saŝa Blanka-Tourmaline
 NoteType: persona
-imagen: Saŝa.webp
 publish: true
 tags:
   - matriarcadoPantano
 aliases:
   - Saŝa
   - Carnicera del Coliseo
-alineamiento: CG
+imagen: Saŝa.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Ictio
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: "29"
 lugarNacimiento: "[[Capital del Mar]]"
+alineamiento: CG
 creencia: "[[Egos y Dagon]]"
 organizacion: "[[Matriarcado del Pantano]]"
 cargoOrg: Matriarca
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
 >[!infobox]

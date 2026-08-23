@@ -1,18 +1,20 @@
 ---
 title: Mimi
 NoteType: persona
-imagen: Mimi.jpg
 publish: false
 tags:
   - WIP
   - vanguardia
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Mimi.jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Humana
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 32
 lugarNacimiento: "[[Desierto de Kharos]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Espadas libres de Eris]]"

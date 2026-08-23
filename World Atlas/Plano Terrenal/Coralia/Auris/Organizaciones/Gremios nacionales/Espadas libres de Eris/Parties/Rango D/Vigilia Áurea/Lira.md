@@ -1,18 +1,20 @@
 ---
 title: Lira
 NoteType: persona
-imagen: Lira.png
 publish: false
 tags:
   - WIP
   - vigiliaAurea
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: Lira.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Lizardfolk
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 19
 lugarNacimiento: "[[Faelas]]"
+alineamiento: TN/CG...
 creencia:
 organizacion: "[[Vigilia Áurea]]"
 cargoOrg:

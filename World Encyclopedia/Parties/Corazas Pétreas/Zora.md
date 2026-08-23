@@ -1,18 +1,20 @@
 ---
 title: Zora
 NoteType: persona
-imagen: Zora.png
 publish: false
 tags:
   - WIP
   - corazasPetreas
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Zora.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Ghoran
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 12
 lugarNacimiento: "[[Sylphoria]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Espadas libres de Eris]]"
