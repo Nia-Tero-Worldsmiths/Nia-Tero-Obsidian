@@ -1,18 +1,20 @@
 ---
 title: Flammula
 NoteType: persona
-imagen: Diana (Rondfort).jpg
 publish: false
 tags:
   - WIP
 aliases:
   -
-alineamiento: TN
+imagen: Diana (Rondfort).jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Humano
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 857
 lugarNacimiento: 
  - Graalem general
+alineamiento: TN
 creencia: Alquimia
 organizacion: 
  - Elementalis
@@ -25,38 +27,20 @@ subclase: Desconocida
 elan: Desconocida
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
+:::lang es
 Mujer
 Edad aparente: 55 años
 
 ### Descripción física
 
-#### Rasgos distintivos
+%%#### Visado de Boreas%%
 
 #### Habilidades especiales
 
-#### Vestimenta y accesorios
+%%#### Vestimenta y accesorios%%
 
 %%#### Equipamiento especializado%%
 
@@ -72,9 +56,13 @@ Es la cabeza detrás de [[Elementalis]], y su líder.
 
 ### Social
 
-#### Formación
+%%#### Ocupación%%
 
-#### Ocupación
+%%#### Entorno cercano%%
 
-#### Lazos familiares
+%%#### Lazos familiares%%
 
+%%#### Amistades%%
+
+%%#### Otros%%
+:::

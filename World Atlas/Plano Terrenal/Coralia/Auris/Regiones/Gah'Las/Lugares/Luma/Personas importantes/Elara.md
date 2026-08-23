@@ -1,17 +1,19 @@
 ---
 title: Elara
 NoteType: persona
-imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
 publish: false
 tags:
   - WIP
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Samsaran
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 170
 lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion: "[[Guardia de Luma]]"
 cargoOrg: Recluta
@@ -23,28 +25,10 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
+:::lang es
 Joven miembro recién incorporada a la guardia de la ciudad. Actualmente en fase de entrenamiento pero se encuentra entre las mejores de su promoción.
 
 ### Descripción física
@@ -77,4 +61,4 @@ Tiene una personalidad muy agradable y siempre dispuesta a ayudar, aunque no sop
 Recluta de la [[Guardia de Luma]]
 
 #### Lazos familiares
-
+:::

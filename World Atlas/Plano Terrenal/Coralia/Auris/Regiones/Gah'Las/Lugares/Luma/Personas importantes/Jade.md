@@ -1,17 +1,19 @@
 ---
 title: Líder de la [[Mano Negra]]
 NoteType: persona
-imagen: ![[]] #Borrar exclamación y paréntesis una vez importada la imagen
 publish: false
 tags:
   - WIP
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Placeholder avatar.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Fetchling
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 28
 lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion: "[[Mano negra]]"
 cargoOrg:
@@ -23,28 +25,10 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
+:::lang es
 Texto introductorio
 
 ### Descripción física
@@ -79,4 +63,4 @@ Personalmente se trata de una mujer implacable, sin ningún tipo de escrúpulos 
 Su objetivo con la mano negra es recopilar toda la información posible acerca del resto de esclavistas, compradores, casas de subastas, etc... Una vez recupere a su hermana y recopile toda la información que necesita, planea luchar para acabar con todo el esclavismo de la ciudad, desde lo más alto hasta los niveles más bajos. No confía en la gente porque duda que puedan comprender sus métodos y oculta el verdadero propósito de la organización a la inmensa mayoría, salvo a [[Rubí]] y otras personas de su máxima confianza.
 
 #### Lazos familiares
-
+:::

@@ -11,14 +11,10 @@ gobernador: "[[Vailaya]]"
 perteneceA: "[[Auris]]"
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
 
+:::lang es
 Meseta situada generalmente a gran altitud por la que discurren los rápidos procedentes de [[Raudon]]. en esta zona mucho más llana se han formado varias vegas de los ríos que por allí transcurren de camino a [[Brumya]].
+:::

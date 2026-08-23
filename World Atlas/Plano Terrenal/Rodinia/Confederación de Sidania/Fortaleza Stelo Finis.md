@@ -6,4 +6,7 @@ tags:
   - WIP
 aliases:
   - "Stelo Finis"
+ubicacion: "[[Región]]"
+gobernador: "[[Persona]]"
+perteneceA: "[[Organización]]"
 ---

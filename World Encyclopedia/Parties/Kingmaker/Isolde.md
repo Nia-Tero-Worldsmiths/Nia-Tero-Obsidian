@@ -1,18 +1,20 @@
 ---
 title: Isolde Neerdowell
 NoteType: persona
-imagen: Isolde.webp
 publish: false
 tags:
   - WIP
   - Kingmaker
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: Isolde.webp
+estado: Vivo
 especie:
 genero:
+fechaNacimiento: 878/03/14, Héroes #"X, Era"
 edad: "18"
 lugarNacimiento: "[[Lugar]]"
+alineamiento: TN/CG...
 creencia:
 organizacion:
   - "[[Organización]]"
@@ -25,35 +27,16 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
+:::lang es
 Texto introductorio
 
 ### Descripción física
 
-#### Rasgos distintivos
-
+%%#### Visado de Boreas%%
 
 #### Habilidades especiales
 
@@ -68,4 +51,13 @@ Texto introductorio
 
 ### Social
 
+%%#### Ocupación%%
 
+%%#### Entorno cercano%%
+
+%%#### Lazos familiares%%
+
+%%#### Amistades%%
+
+%%#### Otros%%
+:::

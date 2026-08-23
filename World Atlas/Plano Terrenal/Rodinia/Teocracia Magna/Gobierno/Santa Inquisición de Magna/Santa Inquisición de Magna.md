@@ -5,26 +5,24 @@ publish: true
 cssclasses:
   - cards
   - cards-cols-3
-imagen: castle-flag.svg
 tags:
   - WIP
 aliases:
   - Santa Inquisición
   - Inquisición
+imagen: castle-flag.svg
 personaAlCargo: "[[Connor O'Sullivan|Sumo Sacerdote de Magna]]"
 tipoOrg: Organismo totalitario
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Información |
-> | -------------- | -------------- |
-> | Persona al cargo | `=this.personaAlCargo`  |
-> | Tipo de organización | `=this.tipoOrg` |
+```i18n-infobox
+```
 
+:::lang es
 La Inquisición es el organismo gubernamental más importante de la Teocracia Magna. En ella se engloban todos los altos cargos dedicados a controlar diversos aspectos del país: ejército, poder judicial, defensa de las regiones, etc.
+
+### Ideología
+
 
 ### Estructura
 
@@ -65,3 +63,18 @@ En esta categoría figuran el resto de miembros de la organización, con rango d
 - **Gonfaloneros:** Oficiales de origen plebeyo al cargo de los escuderos y exploradores del ejército. Responden ante un submariscal, y al igual que este, su origen plebeyo no los desacredita de su posición de oficial. Este cargo solo existe en el frente.
 - **Sargentos:** Soldados rasos del ejército de origen plebeyo, pero con formación militar a la par que la de un caballero. Responden ante un submariscal.
 - **Escuderos:** Plebeyos bajo el mando de un gonfalonero, con la misión de asistir a los caballeros en batalla y de cuidar el equipo y las caballerías de los mismos.
+
+### Relaciones exteriores
+
+%%#### Relaciones diplomáticas%%
+
+%%#### Guerras%%
+
+
+### Historia
+
+%%#### Fundación%%
+
+%%#### Intervenciones relevantes%%
+
+:::

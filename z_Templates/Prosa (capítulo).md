@@ -1,13 +1,14 @@
 ---
 title:
 NoteType: prosa
-cssclass: prosa
 publish: false
+cssclasses:
+  - prosa
+tags:
+  - WIP
 padre: 
 anterior: 
 siguiente: 
-tags:
-  - WIP
 ---
 
 :::lang es

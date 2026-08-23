@@ -1,18 +1,20 @@
 ---
 title: Celeste de Carvajal
 NoteType: persona
-imagen: Celeste de Carvajal.webp
 publish: true
 tags:
   - inquisidor
   - WIP
   - comendador
 aliases:
-alineamiento: TN
+imagen: Celeste de Carvajal.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Cambion
 genero: No binario
+fechaNacimiento:   #"X, Era"
 edad: "34"
 lugarNacimiento: Forgesita
+alineamiento: TN
 creencia: "[[Las 20 Caras de Fortuna]]"
 organizacion:
   - "[[Santa Inquisición de Magna]]"
@@ -26,28 +28,10 @@ subclase: Belleza
 elan: Eŭforia (Lovers)
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
+:::lang es
 Celeste de Carvajal es uno de los siete Comendadores de la [[Teocracia Magna]], al cargo de la [[Forgesita|Región de Forgesita]], ostentando el titulo de La Castidad. Bastante popular en su región, ha acumulado poder político sobre la Inquisición, a la cual dirige desde la Gran Academia de las Artes y las Letras de Forgesita 
 
 ### Descripción física
@@ -83,3 +67,4 @@ Años mas tarde, una vez Celeste tuvo cierta edad, encontro a su madre Rennala, 
 Tras el inidente que desembocó en la muerte de su madre, Añil, soldado raso de la Inquisición, comenzó a profesar un gran respeto hacia Celeste, y a tratarlo de hermane mayor. Celeste no esta del todo contento con este trato, pero siente aprecio por el hombre que crió su madre.
 
 #### Amistades
+:::

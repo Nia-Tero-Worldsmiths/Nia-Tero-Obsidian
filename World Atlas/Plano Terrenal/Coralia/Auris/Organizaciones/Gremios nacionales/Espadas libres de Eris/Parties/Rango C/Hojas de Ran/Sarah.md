@@ -1,18 +1,20 @@
 ---
 title: Sarah
 NoteType: persona
-imagen: Sarah.png
 publish: false
 tags:
   - WIP
   - hojasDeRan
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: Sarah.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Anadi
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 28
 lugarNacimiento: "[[Sylphoria]]"
+alineamiento: TN/CG...
 creencia:
 organizacion: "[[Hojas de Ran]]"
 cargoOrg:
@@ -24,28 +26,10 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
+:::lang es
 Capitana de las [[Hojas de Ran]]
 
 ### Descripción física
@@ -72,4 +56,4 @@ Nativa del bosque de Temis. Se trata de una Anadi que se quedó huérfana a los 
 #### Ocupación
 
 #### Lazos familiares
-
+:::

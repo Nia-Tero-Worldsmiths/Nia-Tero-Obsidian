@@ -11,15 +11,10 @@ gobernador: "[[Santa Inquisición de Magna]]"
 perteneceA: "[[Teocracia Magna]]"
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
+:::lang es
 Villa Nicolás es una aldea diminuta, en la cual hasta hace poco residían menos de 100 habitantes, situada en el extremo sureste de la región de Tambler y protegida de la influencia de Rond-Fort por la Arboleda de los Herejes.
 
 Se trata de un emplazamiento de suma importancia para la Teocracia Magna, debido a la conocida historia de Nicolás el Mudo, la cual se considera tabú en todos los territorios de la misma a excepción de esta misma aldea.
@@ -49,21 +44,27 @@ Dicen las malas lenguas que en realidad fueron ejecutados por jurar haber sido d
 #### Demografía
 Villa Nicolás era una aldea exclusivamente humana. No hay razón particular para este hecho, simplemente nunca se llegó a dar el caso en el que llegaran a vivir miembros de otras especies.
 
+%%####Cultura%%
+
 #### Gobierno
 La aldea era lo suficientemente reducida como para no necesitar un sistema de alcaldía electiva. El gobierno de esta era llevado a cabo por un pequeño consejo de ancianos.
 
 %%#### Núcleos de poder%%
 
-### Geografía
+### Geografía y economía
 #### Puntos de interés
 El punto de mayor interés en la aldea es sin lugar a dudas la antigua casa de Nicolás el Mudo, el mismo de la leyenda, la cual estaba remodelada como albergue-museo para los pocos peregrinos que llegaban hasta este lugar tan recóndito de la Teocracia. En los alrededores de la casa, se puede observar en el suelo claramente una circunferencia irregular que la bordea a un par de metros de distancia, cuya forma levantada da a entender que la casa en su totalidad, junto con los cimientos y el terreno de alrededor, fueron levantados de su entorno y posteriormente vueltos a poner en su sitio sin mucho cuidado, reforzando la historia de la leyenda.
 
 Al sur de la aldea se encuentra un antiguo santuario dedicado a Pensante, faceta del conocimiento de la diosa Fortuna. Lamentablemente, el paso de los años y el desuso ha hecho mella en este, y actualmente se halla en ruinas.
 
-#### Defensas
-Aparte del frondoso bosque que rodea la aldea, esta no dispone de mayores ventajas geográficas. Tampoco se dispone de un cuerpo de defensa regular, aunque gran parte de los aldeanos poseen un físico trabajado del que pueden hacer uso si es necesario.
-
 #### Industria
 La principal fuente de ingresos de Villa Nicolás era la exportación de leña. La calidad de los árboles de la zona es excepcional, y en la aldea abundaban no solo los leñadores, sino los conocimientos y metodologías para una correcta tala periódica y duradera que no dañara el ecosistema. A pesar de la escasa población del emplazamiento, se coronaba como el principal productor de leña de toda la región.
 
 Dada la delicada situación social de Villa Nicolás en la Teocracia, el número de peregrinos que llegaban a la aldea era virtualmente nulo, aunque los pocos curiosos que se atrevían a visitarla eran recompensados con un cálido recibimiento y la posibilidad de alojarse en la casa del mismísimo Nicolás el Mudo.
+
+%%#### Comercio%%
+
+#### Defensas
+A parte del frondoso bosque que rodea la aldea, esta no dispone de mayores ventajas geográficas. Tampoco se dispone de un cuerpo de defensa regular, aunque gran parte de los aldeanos poseen un físico trabajado del que pueden hacer uso si es necesario.
+
+:::

@@ -5,11 +5,11 @@ publish: false
 cssclasses:
   - cards
   - cards-cols-3
-imagen: castle-flag.svg
 tags:
   - WIP
 aliases:
   - 
+imagen: castle-flag.svg
 personaAlCargo: "[[Persona]]"
 tipoOrg:
 ---

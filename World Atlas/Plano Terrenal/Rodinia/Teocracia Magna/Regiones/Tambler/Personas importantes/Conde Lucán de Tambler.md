@@ -1,7 +1,6 @@
 ---
 title: Luca Noir Tambler
 NoteType: persona
-imagen: Conde de Tambler.webp
 publish: true
 tags:
   - Tambler
@@ -9,11 +8,14 @@ aliases:
   - Conde de Tambler
   - Lucán de Tambler
   - Luca Noir Tambler
-alineamiento: TN
+imagen: Conde de Tambler.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Semielfo dhampiro
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: "128"
 lugarNacimiento: ???
+alineamiento: TN
 creencia: ???
 organizacion: "[[Teocracia Magna]]"
 cargoOrg:
@@ -26,36 +28,15 @@ subclase: Sangre dracónica
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
+:::lang es
 Lucán de Tambler es el Conde a quien pertenece la región de Tambler de la Teocracia Magna. Es un mestizo de madre elfa y padre vampiro: un semielfo dhampiro, aunque dado el solapamiento de rasgos distintivos entre ambas especies y el número virtualmente inexistente de vampiros en Magna, comúnmente se asume que simplemente es mitad elfo y mitad humano.
 
 Su nombre completo es en realidad Luca Noir Tambler, pero prefiere esconder el apellido de su padre bajo el pseudónimo de Lucán.
 
 ### Descripción física
-
-#### Rasgos distintivos
-
 Siendo Lucán un semielfo dhampiro, su piel es extremadamente pálida. También presenta orejas puntiagudas, de menor tamaño que las de un alto elfo, rasgo que denota su condición de semielfo. Como se puede apreciar, ambos rasgos descritos coinciden también con los de un semielfo corriente, dado que los altos elfos tienden a presentar también tez pálida.
 
 Sus colmillos son más afilados de lo normal, pero este rasgo de por sí no es suficiente como para levantar sospechas, ya que en la Teocracia pocos saben de la existenca de los vampiros, y esta cualidad queda relegada a un mero tema de conversación con el que otros nobles rompen el hielo en bailes y otros eventos.
@@ -73,3 +54,4 @@ Lucán mantiene el contacto con sus familiares por parte materna, relacionados c
 #### Sobre su condición de mestizo
 
 Por herencia materna, Lucán ostenta el título de Conde de Tambler. No ha heredado ningún título por parte de padre, es decir, su padre no es reconocido como noble de la Teocracia Magna. Este tipo de uniones matrimoniales son comúnmente vistas con malos ojos, dado que se entienden como una pérdida de nobleza de sangre, aunque en el caso de Lucán, siendo la familia de Tambler una de elfos puros, la nobleza de Magna no lo ve como un evento necesariamente perjudicial, ya que la dilución de esta sangre es en pos de la humana, sea noble o no.
+:::

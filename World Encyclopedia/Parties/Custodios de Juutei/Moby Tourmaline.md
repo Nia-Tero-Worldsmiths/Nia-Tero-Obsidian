@@ -1,50 +1,38 @@
 ---
 title: Moby Tourmaline
 NoteType: persona
-imagen: Moby (Rondfort).webp
 publish: true
 tags:
   - PJ
   - custodios-de-juutei
 aliases:
   - Moby
-alineamiento: CG
+imagen: Moby (Rondfort).webp
+estado: Vivo
 especie: Aksolotl
 genero: Mujer
+fechaNacimiento: 855, Héroes
 edad: "22"
 lugarNacimiento: "[[Capital del Mar]]"
+alineamiento: CG
 creencia: "[[Egos y Dagon]]"
 organizacion: "[[Custodios de Juutei]]"
 cargoOrg:
   - Miembro
 titulos:
-clase: Rogue / Maga
-subclase: Arcane Trickster / Bladesinger
+clase:
+  - Rogue
+  - Maga
+subclase:
+  - Arcane Trickster
+  - Bladesinger
 elan: Pensante
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> |      |Info. narrativa|
->| -------------- | -------------- |
->| Alineamiento  | `=this.alineamiento` |
->| Especie          | `=this.especie` |
->| Género           | `=this.genero` |
->| Edad               | `=this.edad` años |
->| Lugar de nacimiento | `=this.lugarNacimiento` |
->| Creencia         | `=this.creencia` |
->| Organización  | `=this.organizacion` |
->| └>Cargo         | `=this.cargoOrg` |
->| Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
+:::lang es
 Moby es una de las tres integrantes principales del grupo de aventureras [[Custodios de Juutei]], junto con [[Brunhilda Birgersdotter]] y [[Diana Birgersdotter]].
 
 ### Descripción física
@@ -91,3 +79,4 @@ Cuando a sus 19 años, durante uno de los "golpes" del gremio en los que de vez 
 
 
 %%#### Otros%%
+:::

@@ -9,6 +9,7 @@
     "edad": "text",
     "previa": "text",
     "padre": "text",
-    "TL": "number"
+    "TL": "number",
+    "fechaNacimiento": "text"
   }
 }

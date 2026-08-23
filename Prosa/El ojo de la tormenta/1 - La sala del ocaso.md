@@ -1,13 +1,13 @@
 ---
 title: La sala del ocaso
 NoteType: prosa
-cssclass: prosa
 publish: false
+cssclasses: prosa
+tags:
+  - WIP
 padre: "[[El ojo de la tormenta]]"
 anterior:
 siguiente: "[[2 - El camino a la capital]]"
-tags:
-  - WIP
 ---
 
 Ahora que nuestra batalla había terminado, los capitanes asumíamos un rol de gestión en la zona, ayudando a distribuir la carga de trabajo para optimizar la recuperación de la región, por lo que no era extraño recibir llamadas ocasionales por parte de su majestad para discutir en qué puntos deberíamos centrar nuestros esfuerzos o cómo lidiar con alguno de los problemas que surgiesen en la gestión. Sin embargo, esta vez sentía que algo no cuadraba. 

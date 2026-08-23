@@ -4,6 +4,8 @@ NoteType: tomo
 publish: false
 tags:
   - WIP
+aliases:
+  -
 ---
 
 :::lang es

@@ -5,31 +5,22 @@ publish: false
 cssclasses:
   - cards
   - cards-cols-2
-imagen: castle-flag.svg
 tags:
   - WIP
 aliases:
   - 
+imagen: castle-flag.svg
 personaAlCargo: "[[Saŝa Blanka]]"
 tipoOrg: Administración pública
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Información |
-> | -------------- | -------------- |
-> | Persona al cargo | `=this.personaAlCargo`  |
-> | Tipo de organización | `=this.tipoOrg` |
+```i18n-infobox
+```
 
-
+:::lang es
 El Matriarcado es el organismo gubernamental que administra los territorios del [[Gran Pantano]]. A pesar de su nombre actual, no favorece la presencia de mujeres en el cargo titular, sino que la denominación del organismo cambia en función de quién esté a la cabeza.
 
-
-
 ### Estructura
-
 
 ###### Miembros
 ```dataview
@@ -39,9 +30,10 @@ SORT title ASC
 ```
 
 
-%%### Historia%%
-
+### Historia
 
 %%#### Fundación%%
 
 %%#### Intervenciones relevantes%%
+
+:::

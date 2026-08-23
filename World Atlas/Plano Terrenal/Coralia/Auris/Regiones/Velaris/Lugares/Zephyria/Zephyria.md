@@ -11,14 +11,10 @@ gobernador: "[[Boh'ron]]"
 perteneceA: "[[Auris]]"
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
 
+:::lang es
 Valles, ríos y montañas con islas flotantes de las que caen cascadas provocadas por la alta humendad presente a esa altura.
+:::

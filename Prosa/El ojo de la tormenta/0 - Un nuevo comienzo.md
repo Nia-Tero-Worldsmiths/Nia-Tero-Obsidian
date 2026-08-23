@@ -1,13 +1,13 @@
 ---
 title: Un nuevo comienzo
 NoteType: prosa
-cssclass: prosa
 publish: false
+cssclasses: prosa
+tags:
+  - WIP
 padre: "[[El ojo de la tormenta]]"
 anterior: 
 siguiente: "[[1 - La sala del ocaso]]"
-tags:
-  - WIP
 ---
 Mi nombre es Melorith, capitana del segundo grupo de ataque anfibio del ejército de la señora [[Vailaya]], y quiero dejar este relato a modo de crónica de la más dura de nuestras batallas durante la gran conquista contra el ejército de [[Vireon]]. Que este texto sirva como prueba de la valentía de mi señora y de todos los que la acompañamos en un viaje quizá sin retorno.
 

@@ -11,15 +11,10 @@ gobernador: "[[Persona]]"
 perteneceA: "[[Santa Inquisición de Magna]]"
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
+:::lang es
 Forgesita es la región más meridional de la [[Teocracia Magna]]. 
 
 ### Ubicaciones de la región 
@@ -27,3 +22,4 @@ Forgesita es la región más meridional de la [[Teocracia Magna]].
 list 
 where ubicacion = this.file.link
 ```
+:::

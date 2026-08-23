@@ -1,19 +1,20 @@
 ---
 title: Tali
 NoteType: persona
-imagen: Tali.jpg
 publish: false
 tags:
   - WIP
   - vanguardia
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: Tali.jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Fetchling
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 19
 lugarNacimiento: "[[Estria]]"
-lugarNacimiento: "[[Estria]]"
+alineamiento: TN/CG...
 creencia:
 organizacion:
   - "[[Espadas libres de Eris]]"
@@ -26,29 +27,11 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
+:::lang es
 ### Descripción física
 
 #### Rasgos distintivos
@@ -74,4 +57,4 @@ En su hogar hay que hacer con los familiares. Hay piscinas de divinación
 La misión de Tali consistirá en restaurar su reputación en su pueblo y acabar con la fuente de las visiones que provocaron esta situación.
 ### Misión
 La misión de Tali consistirá en restaurar su reputación en su pueblo y acabar con la fuente de las visiones que provocaron esta situación.
-
+:::

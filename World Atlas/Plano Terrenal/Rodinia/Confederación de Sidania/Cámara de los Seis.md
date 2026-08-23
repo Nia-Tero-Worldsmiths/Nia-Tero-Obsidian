@@ -1,5 +1,5 @@
 ---
-title: "La Cámara de los Seis"
+title: "Cámara de los Seis"
 NoteType:
 publish: true
 tags:

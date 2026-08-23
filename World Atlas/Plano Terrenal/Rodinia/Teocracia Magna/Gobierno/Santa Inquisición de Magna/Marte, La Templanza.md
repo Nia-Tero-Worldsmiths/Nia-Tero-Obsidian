@@ -1,18 +1,20 @@
 ---
 title: Marte Electris
 NoteType: persona
-imagen: Marte.webp
 publish: false
 tags:
   - WIP
   - inquisidor
 aliases:
   - Marte
-alineamiento: NE
+imagen: Marte.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Autogólem de carne
 genero: Hombre
+fechaNacimiento:   #"X, Era"
 edad: ~900
 lugarNacimiento: Caravan
+alineamiento: NE
 creencia:
 organizacion:
   - "[[Santa Inquisición de Magna]]"
@@ -26,29 +28,11 @@ subclase: Sangre
 elan: Oberon
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
+:::lang es
 TEXTO INTRODUCTORIO
 
 ### Descripción física
@@ -76,4 +60,4 @@ TEXTO INTRODUCTORIO
 %%#### Amistades%%
 
 %%#### Otros%%
-
+:::

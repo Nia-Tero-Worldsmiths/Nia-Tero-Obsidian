@@ -1,7 +1,6 @@
 ---
 title: Clementine d'If
 NoteType: persona
-imagen: Clementine.webp
 publish: true
 tags:
   - inquisidor
@@ -12,11 +11,14 @@ aliases:
   - Clementine
   - Clementine d'If
   - La Caridad
-alineamiento: CE
+imagen: Clementine.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Humana
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: "32"
 lugarNacimiento: "[[Bela Sankta]]"
+alineamiento: CE
 creencia: ???
 organizacion:
   - "[[Santa Inquisición de Magna]]"
@@ -30,30 +32,12 @@ subclase: Muerte
 elan: Silentu
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
 
+:::lang es
 Clementine d'If es una de los siete Comendadores de la [[Teocracia Magna]], al cargo de [[Bela Sankta]], ostentando el titulo de La Caridad. Asimismo, desempeña el papel de Verdugo Mayor, por lo que también se la considera una Senescal.
 
 ### Descripción física
@@ -81,3 +65,4 @@ Cuando lleva a cabo sus labores como Inquisidora, suele usar una diadema decorad
 Tras pasar sus primeros años de vida en la calle, fue acogida por la Baronesa Basilides d'If a los cinco años de edad. 
 
 #### Amistades
+:::

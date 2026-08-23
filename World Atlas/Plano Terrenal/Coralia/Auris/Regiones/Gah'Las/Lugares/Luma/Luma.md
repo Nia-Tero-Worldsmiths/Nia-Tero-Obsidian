@@ -11,16 +11,11 @@ gobernador: "[[Khan]]"
 perteneceA: "[[Auris]]"
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
 
+:::lang es
 #Territorio
 La ciudad de Luma se encuentra en el corazón de la región de [[Gah'Las]], refugiada en el valle de Nalas, así llamado por el río que nace en las montañas que rodean la ciudad y transcurre por el centro de la misma.
 
@@ -48,5 +43,4 @@ Aún no encontramos industrialización pero si producción en masa de Galo y los
 
 
 Las espirales de la ciudad forman el símbolo de la alquimia entre ellas. Cada una guarda en su interior un [[World Encyclopedia/Ciencia y Tecnología/Luma/Cristal de transmutación]], que al encontrarse en sintonía permiten potenciar la fuerza de las venas elementales que pasan por la zona, son vitales para lograr el objetivo final de Flammula y para potenciar la síntesis del [[World Encyclopedia/Ciencia y Tecnología/Luma/Galo]] que se produce en la ciudad.
-
-
+:::

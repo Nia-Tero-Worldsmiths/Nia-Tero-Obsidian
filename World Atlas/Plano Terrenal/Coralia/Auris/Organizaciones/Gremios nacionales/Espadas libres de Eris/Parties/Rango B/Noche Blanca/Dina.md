@@ -1,18 +1,20 @@
 ---
 title: Dina
 NoteType: persona
-imagen: Dina.png
 publish: false
 tags:
   - WIP
   - nocheBlanca
 aliases:
   - 
-alineamiento: TN/CG...
+imagen: Dina.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Anadi
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 32
 lugarNacimiento: "[[Sylphoria]]"
+alineamiento: TN/CG...
 creencia:
 organizacion: "[[World Atlas/Plano Terrenal/Coralia/Auris/Organizaciones/Gremios nacionales/Espadas libres de Eris/Parties/Rango B/Noche Blanca/Noche Blanca]]"
 cargoOrg:
@@ -24,29 +26,11 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
+:::lang es
 ### Descripción física
 
 Este personaje de raza un Anadi, es decir una criatura que puede tener una forma humanoide y una forma arácnida. En su forma humana se trata de una mujer de 32 años que tiene una altura por encima de lo normal, teniendo una altura de casi dos metros. Tiene una complexión fuerte y de clase es una inventora. Como arma lleva un espadón de dos manos fabricado por ella misma con unas hojas cortantes incrustadas en la propia hoja del arma y un dispositivo para producir seda desde la guarda, que se conecta con los brazales que lleva.
@@ -74,4 +58,4 @@ Es la novia de [[Colt]].
 #### Ocupación
 
 #### Lazos familiares
-
+:::

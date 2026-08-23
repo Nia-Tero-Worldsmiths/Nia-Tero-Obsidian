@@ -1,18 +1,20 @@
 ---
 title: Ishara
 NoteType: persona
-imagen: Ishara.png
 publish: false
 tags:
   - WIP
   - hojasDeRan
 aliases:
   -
-alineamiento: TN/CG...
+imagen: Ishara.png
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Yaksha
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 32
 lugarNacimiento: "[[Templo de Eden]]"
+alineamiento: TN/CG...
 creencia: 
 organizacion:
   - "[[Hojas de Ran]]"
@@ -25,29 +27,11 @@ subclase:
 elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
+:::lang es
 ### Descripción física
 
 #### Rasgos distintivos
@@ -62,4 +46,4 @@ Tiene una personalidad muy extrovertida y le encanta la magia y los estudios, au
 Es una chica a la que le gusta ligar y flirtear pero le gusta dejar a la gente con la miel en los labios.
 
 #### Lazos familiares
-
+:::

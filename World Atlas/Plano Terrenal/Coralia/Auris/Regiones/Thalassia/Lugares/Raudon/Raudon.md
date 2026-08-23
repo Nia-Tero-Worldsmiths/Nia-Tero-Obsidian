@@ -11,14 +11,10 @@ gobernador: "[[Vailaya]]"
 perteneceA: "[[Auris]]"
 ---
 
->[!infobox]
-># **`=this.title`**
-> 
-> | Información    ||
-> | ---------------- | -------------- |
-> | Ubicado en        | `=this.ubicacion` |
-> | Gobernado por  | `=this.gobernador` |
-> | Pertenece a       | `=this.perteneceA` |
+```i18n-infobox
+```
 
 
+:::lang es
 Región montañosa adyacente a [[Yrvalass]]. Las grandes motañas heladas sufren un descenso estrepitoso de altitud que provoca el rápido deshielo y la formación de numerosos rápidos y cascadas, por lo que la mayoría de montañas de la región se han visto fuertemente erosionadas por el rápido cauce de los ríos, creando incluso cañones en las propias montañas.
+:::

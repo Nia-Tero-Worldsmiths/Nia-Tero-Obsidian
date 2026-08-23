@@ -1,39 +1,35 @@
 ---
 title: Saŝa Blanka-Tourmaline
 NoteType: persona
-imagen: Saŝa.webp
 publish: true
 tags:
   - matriarcadoPantano
 aliases:
   - Saŝa
   - Carnicera del Coliseo
-alineamiento: CG
+imagen: Saŝa.webp
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Ictio
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: "29"
 lugarNacimiento: "[[Capital del Mar]]"
+alineamiento: CG
 creencia: "[[Egos y Dagon]]"
 organizacion: "[[Matriarcado del Pantano]]"
 cargoOrg: Matriarca
+titulos:
+  - 
+clase:
+subclase:
+elan:
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Información |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
+```i18n-infobox
+```
 
 
+:::lang es
 Saŝa es la actual Matriarca del [[Gran Pantano]], una Ictio de enorme estatura que adora los combates a puño limpio.
 
 Amiga de la infancia de [[Natia Blanka-Tourmaline|Natia Blanka]], siempre había sido una joven violenta, tosca y adicta a la adrenalina de la lucha, aunque extremadamente cercana y amable con todo aquél que la conociera personalmente.
@@ -43,3 +39,4 @@ Uno de sus sueños siempre había sido el de formar una familia y, ambiciosa com
 A pesar de haberse tratado de una victoria desoladora que le ganó el temeroso apodo de "Carnicera del Coliseo", lo cierto es que se trató de un combate limpio y justo a ojos de los árbitros, y desde ese mismo día fue reconocida como Matriarca del Pantano. Este hecho, por supuesto, no supuso ninguna alegría a la joven Saŝa, quien desde entonces se culpa de lo que le ocurrió a los padres de su mejor amiga.
 
 El paso de los años, y la inestimable ayuda de [[Natia Blanka-Tourmaline|Natia]], quien ahora es su esposa, han permitido que Saŝa aprenda a aceptar lo que ocurrió aquel día, a sentirse digna de su cargo, e incluso a adueñarse con orgullo de su apodo, como una cicatriz intangible de su pasado.
+:::

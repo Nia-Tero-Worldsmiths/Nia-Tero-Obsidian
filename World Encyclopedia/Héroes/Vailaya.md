@@ -1,19 +1,21 @@
 ---
 title: Vailaya
 NoteType: persona
-imagen: Vailaya.jpg
 publish: false
 tags:
   - WIP
   - Elementalis
 aliases:
   -
-alineamiento: TN
+imagen: Vailaya.jpg
+estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
 especie: Undina
 genero: Mujer
+fechaNacimiento:   #"X, Era"
 edad: 857
 lugarNacimiento: 
  - Graalem general
+alineamiento: TN
 creencia: Alquimia
 organizacion: 
  - Elementalis
@@ -29,38 +31,22 @@ subclase: Desconocida
 elan: Desconocida
 ---
 
->[!infobox]
-># **`=this.title`**
-> `=embed(link(this.imagen))`
-> 
-> || Info. narrativa |
-> | -------------- | -------------- |
-> | Alineamiento  | `=this.alineamiento` |
-> | Especie          | `=this.especie` |
-> | Género           | `=this.genero` |
-> | Edad               | `=this.edad` años |
-> | Lugar de nacimiento | `=this.lugarNacimiento` |
-> | Creencia         | `=this.creencia` |
-> | Organización  | `=this.organizacion` |
-> | └>Cargo         | `=this.cargoOrg` |
-> | Títulos             | `=this.titulos` |
->
-> || Info. mecánica |
-> | ----------- | ----------- |
-> | Clase          | `=this.clase` |
-> |└>Subclase| `=this.subclase` |
-> |Patrón/Elan | `=this.elan` |
+```i18n-infobox
+```
 
 
+:::lang es
 ### Descripción física
 Mujer de ascedencia Maüi
 Edad aparente: 40 años
 
-#### Rasgos distintivos
+%%#### Visado de Boreas%%
 
 #### Habilidades especiales
 
-#### Vestimenta y accesorios
+%%#### Vestimenta y accesorios%%
+
+%%#### Equipamiento especializado%%
 
 
 
@@ -73,7 +59,7 @@ Tras su llegada al nuevo continente, siguió las indicaciones de [[Flammula]] ha
 A partir de este momento, Vailaya se hizo uno con su control del agua y se convirtió en un poderoso Genasi de agua, una undina.
 
 Tras su conversión, fue encargada con la [[Conquista de Thalassia]], por parte de [[Flammula]].
-Fue la primera [[Elementalis]] en terminar su tarea de conquista, y erigió la ciudad de [[Neridia]] en el núcleo elemental de la región, siguiendo las instrucciones de su general. Tras terminar con esta tarea, asistió a su pareja [[Boh'ron]] en la [[El ojo de la tormenta]] contra la resistencia de [[Selina]].
+Fue la primera [[Elementalis]] en terminar su tarea de conquista, y erigió la ciudad de [[Neridia]] en el núcleo elemental de la región, siguiendo las instrucciones de su general. Tras terminar con esta tarea, asistió a su pareja [[Boh'ron]] en la [[El ojo de la tormenta|Conquista de Velaris]] contra la resistencia de [[Selina]].
 
 Tras finalizar esta tarea, se dedicó al gobierno y restauración de la región de [[Thalassia]], a la vez que se encargaba de aumentar la recolección de energía elemental bajo las órdenes de [[Flammula]].
 
@@ -90,4 +76,4 @@ Gobernante de [[Thalassia]], general de las [[4 alas de Auris]].
 
 #### Lazos familiares
 Mujer de [[Boh'ron]]
-
+:::
