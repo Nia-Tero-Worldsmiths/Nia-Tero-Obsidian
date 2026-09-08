@@ -88,10 +88,10 @@ Tras cruzar la cordillera acabó en Belmonte, en la [[Tambler|Región de Tambler
 ### Social
 #### Lazos familiares
 - Aurora Laqua: Aurora es la madre de Aronne, y la actual gobernante de Laqua, en la [[Confederación de Sidania]]. Venerada y temida por su justo mando y su ferocidad en batalla. Su estilo de pelea es muy diestro, combinando la evasión y el engaño con una fuerte ofensiva y una altamente refinada magia de agua. Su mera presencia provoca la aparición de una densa bruma que dificulta enormemente la visión en su interior, además de otros efectos. Para evitar que eso afecte a su labor diaria, normalmente lleva unas pulseras rúnicas que le ayudan a inhibir el efecto de su aura y permite que otras personas más débiles se acerquen a ella.
-- Lucien Laqua: Hermano mayor de Aronne. Originalmente el principal candidato para heredar el trono de Laqua, actualmente no es un contendiente debido a la existencia de sus hermanas. Sigue preparandose como futuro heredero pero actualmente tiene baja prioridad en al línea sucesora. A nivel de aspecto es relativamente similara a Aronne, aunque con mayor presencia de linaje dracónido y una piel más oscura.
-- Maya Laqua: Hermana menor de Aronne, melliza de Irina
-- Irina Laqua: Hermana menor de Aronne, melliza de Maya
+- Lucien Laqua: Hermano mayor de Aronne. Originalmente el principal candidato para heredar el trono de Laqua, actualmente no es un contendiente debido a la existencia de sus hermanas. Sigue preparandose como futuro heredero pero actualmente tiene baja prioridad en al línea sucesora. A nivel de aspecto es relativamente similara a Aronne, aunque con mayor presencia de linaje dracónido y una piel más oscura. Tienen una relación algo tensa desde hace años debido a varios malentendidos, pero en el fondo se aprecian mutuamente.
+- Maya Laqua: Hermana menor de Aronne, melliza de Irina. Es la favorita de Aronne entre sus hermanas pequeñas, por lo que acaba consintiéndola siempre. Especializada en magia y apoyo desde la distancia.
+- Irina Laqua: Hermana menor de Aronne, melliza de Maya. Es algo más violenta que su hermana melliza y mucho más valiente. Siempre compite con Maya por intentar ganarse el favor de su hermana mayor, pero no parece estar ganando. Especializada en el combate cuerpo a cuerpo, y sorprendentemente diestra con armas pese a su edad.
 
 #### Lazos familiares
 Aronne tiene un hermano mayor, Lucien y un hermano y hermana menores que son mellizos.
-:::
+
