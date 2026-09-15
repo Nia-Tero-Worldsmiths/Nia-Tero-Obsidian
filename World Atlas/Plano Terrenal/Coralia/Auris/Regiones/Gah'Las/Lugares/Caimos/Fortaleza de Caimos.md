@@ -26,7 +26,7 @@ Este patio tiene a la altura de una segunda planta una pasarela que bordea toda 
 
 Además del patio, en el edificio podemos encontrar una gran puerta que conectar con el resto del edificio central.
 
-El resto del edificio central se trata principalmente de los barracones de los soldados, los aposentos de los comandantes, la sala de guerra y varias estancias más como comedores, cocinas y almacenes, aunque todo el mobiliario de madera está algo desgastado por el tiempo y el desuso.
+El resto del edificio central se trata principalmente de los barracones de los soldados, los aposentos de los comandantes, la sala de guerra y varias estancias más como comedores, cocinas y almacenes, aunque todo el mobiliario de madera está algo desgastado por el tiempo y el desuso. Además, se ha detectado la presencia de elementales de tierra de la región, que parecen haber escapado del plano de tierra y llegado aquí debido a los artefactos del subsuelo.
 
 Debajo de la Estatua del gran [[Khan]] se haya un pasadizo secreto que conecta la fortaleza superior con la sección inferior de la misma, lugar en el que se encuentran las instalaciones más importantes de toda la fortaleza.
 

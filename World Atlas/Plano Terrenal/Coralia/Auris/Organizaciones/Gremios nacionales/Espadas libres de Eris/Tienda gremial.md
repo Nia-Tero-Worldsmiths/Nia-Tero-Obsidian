@@ -34,6 +34,7 @@ Objetos de fuera de la tabla: 90% precio original
 	Identificación de objetos -> Común 10 PG, Mágico simple 15 PG
 	Almacenamiento de objetos -> 20 PG 5 huecos
 	Modificaciones estéticas del arma -> 5-10 PG
+	Arma de Dina -> 70-75PG
 	
 	
 
