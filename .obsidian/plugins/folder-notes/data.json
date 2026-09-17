@@ -9,7 +9,23 @@
   "autoCreateForAttachmentFolder": false,
   "autoCreateForFiles": false,
   "enableCollapsing": false,
-  "excludeFolders": [],
+  "excludeFolders": [
+    {
+      "detached": false,
+      "type": "folder",
+      "id": "5b3f9f58-b536-4e2a-a1b0-b1bfa8871cfb",
+      "path": "World Atlas/Plano Terrenal/Coralia/Auris/Organizaciones/Gremios nacionales/Draconis/Rango D/Fantasmas del bosque",
+      "subFolders": true,
+      "disableSync": true,
+      "disableAutoCreate": true,
+      "disableFolderNote": false,
+      "enableCollapsing": false,
+      "position": 0,
+      "excludeFromFolderOverview": false,
+      "string": "",
+      "hideInSettings": false
+    }
+  ],
   "whitelistFolders": [],
   "showDeleteConfirmation": true,
   "underlineFolder": true,

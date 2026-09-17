@@ -8,15 +8,15 @@ tags:
 aliases:
   - 
 imagen: Dina.png
-estado: Vivo/Muerto/Estasis/Desconocido  #Solo se pueden usar estos
+estado: Vivo/Muerto/Estasis/Desconocido
 especie: Anadi
 genero: Mujer
-fechaNacimiento:   #"X, Era"
+fechaNacimiento:
 edad: 32
 lugarNacimiento: "[[Sylphoria]]"
 alineamiento: TN/CG...
 creencia:
-organizacion: "[[World Atlas/Plano Terrenal/Coralia/Auris/Organizaciones/Gremios nacionales/Espadas libres de Eris/Parties/Rango B/Noche Blanca/Noche Blanca]]"
+organizacion: "[[Noche Blanca]]"
 cargoOrg:
   - Vicecapitana
 titulos:
