@@ -9,7 +9,7 @@ aliases:
   - 
 imagen: Ludmila.webp
 estado: Vivo
-especie: Vampira
+especie: Vampiro
 genero: Mujer
 fechaNacimiento:
 edad: 18

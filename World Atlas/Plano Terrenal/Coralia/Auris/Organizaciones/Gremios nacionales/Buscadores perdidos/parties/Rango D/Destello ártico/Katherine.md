@@ -9,8 +9,8 @@ aliases:
   - 
 imagen: Katherine.webp
 estado: Vivo
-especie: Humano
-genero: Hombre
+especie: Humano/Nefilim
+genero: Mujer
 fechaNacimiento:
 edad: 27
 lugarNacimiento: "[[Neridia]]"
