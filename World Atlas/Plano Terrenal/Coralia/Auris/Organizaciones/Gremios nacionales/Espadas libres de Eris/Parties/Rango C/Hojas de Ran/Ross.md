@@ -45,7 +45,7 @@ Vicecapitan
 
 %%#### Equipamiento especializado%%
 
-Padrino de [[Pom]]
+Padrino de [[World Encyclopedia/Parties/Corazas Pétreas/Pom]]
 
 
 ### Background

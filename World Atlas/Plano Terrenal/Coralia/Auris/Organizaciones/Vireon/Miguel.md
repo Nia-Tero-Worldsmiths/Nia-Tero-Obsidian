@@ -35,7 +35,7 @@ elan:
 
 :::lang es
 ### Descripción física
-Actualmente el cuerpo físico de Miguel, debido al desgaste, ha quedado reducido a una lasca de su armadura original, usada por [[Pom]] como escudo y compañero.
+Actualmente el cuerpo físico de Miguel, debido al desgaste, ha quedado reducido a una lasca de su armadura original, usada por [[World Encyclopedia/Parties/Corazas Pétreas/Pom]] como escudo y compañero.
 
 #### Habilidades especiales
 
@@ -53,7 +53,7 @@ Su derrota se produjo en batalla singular, un duelo a muerte entre el héroe y e
 
 Originalmente Miguel nunca habría cuestionado las órdenes de sus superiores, pero esta vez era diferente, quizá por la fuerza y la determinación que mostró [[Khan]], o quizá porque se vio reflejado en él y en su forma de actuar, decidió escuchar su propuesta, que no era sino un plan de la misma [[Flammula]], aunque esto tendría que esperar.
 
-Muchos años pasaron hasta que llegamos al presente, al momento en que "nació" [[Pom]] dentro de [[Graalem]], allí fue donde por fin Miguel podría cumplir su parte del trato, y cuidar de aquella curiosa niña hasta que llegase el momento.
+Muchos años pasaron hasta que llegamos al presente, al momento en que "nació" [[World Encyclopedia/Parties/Corazas Pétreas/Pom]] dentro de [[Graalem]], allí fue donde por fin Miguel podría cumplir su parte del trato, y cuidar de aquella curiosa niña hasta que llegase el momento.
 
 ### Social
 
@@ -62,7 +62,7 @@ Muchos años pasaron hasta que llegamos al presente, al momento en que "nació" 
 [[Khan]]
 
 #### Lazos familiares
-[[Pom]]
+[[World Encyclopedia/Parties/Corazas Pétreas/Pom]]
 
 #### Amistades
 [[Khan]]

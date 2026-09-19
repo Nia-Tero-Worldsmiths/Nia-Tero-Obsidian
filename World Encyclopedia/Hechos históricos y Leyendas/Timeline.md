@@ -6,7 +6,7 @@
 88 Termina la [[Conquista de Thalassia]](4 de Junio)
 105 comienza  [[El ojo de la tormenta|Conquista de Velaris]]
 106 Termina la [[El ojo de la tormenta|Conquista de Velaris]], la última de todas. Formación de países "independientes" (30 de Marzo)
-130 Creación de la confederación de [[Auris]](9 de Noviembre).
+130 Creación del imperio de [[Auris]](9 de Noviembre).
 
 680 Nace Kalis
 773 Kalis pasa a la corte de [[Boh'ron]]

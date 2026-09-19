@@ -35,9 +35,9 @@ Ganar uno de estos torneos otorga al gremio la capacidad de cambiar un emparejam
 
 ## Torneo de Auris
 En este torneo participarán solo 5 parties de cada nivel de cada gremio
-Fase inicial: Enfrentamiento aleatorios entre gremios. Quedarán solo las 2 parties con mejor resultado de cada gremio.
-Fase eliminación: Cada party se enfrentará a una del resto de gremios, la que pierda un mayor número de combates queda eliminada.
-Fase final: Rondas de combate hasta que solo quede una party por nivel.
+Fase Eliminación: Enfrentamiento aleatorios entre gremios. Quedarán solo las 2 parties con mejor resultado de cada gremio.
+Fase semifinal: Cada party se enfrentará a una del resto de gremios, las que pierdan serán eliminada.
+Fase final: Rondas de combate hasta que solo quede una party.
 El gremio ganador del torneo será el gremio que gane en más niveles y será coronado como el mejor gremio de Auris.
 
 # Celebración
@@ -59,3 +59,5 @@ Para las parties que ganen en su categoría, obtendrán una recompensa monetaria
 La recompensa por ganar el torneo de Auris es una gran cantidad de fondos para el gremio, el acceso ilimitado durante un año a la mazmorra y acceso a contratos especiales de [[Auris]], además de una petición de cada party a [[Flammula]]. 
 
 
+Las batallas serán de tipo conquistar el punto, empezarán en un mapa con coberturas de al menos 120 pies de largo y deberán luchar por hacerse con el control de las zonas
+Hay 3 zonas en el mapa, el que mantenga el control de al menos 2 zonas durante 3 rondas ganará el combate.
