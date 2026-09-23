@@ -4,6 +4,7 @@ NoteType: persona
 publish: false
 tags:
   - WIP
+  - Elementalis
 aliases:
   - 
 imagen: Diana (Rondfort).jpg

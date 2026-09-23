@@ -11,7 +11,7 @@ tags:
 aliases:
   - 
 imagen: castle-flag.svg
-personaAlCargo: "[[Pom]]"
+personaAlCargo: "[[World Encyclopedia/Parties/Corazas Pétreas/Pom]]"
 tipoOrg: Party gremial
 ---
 
