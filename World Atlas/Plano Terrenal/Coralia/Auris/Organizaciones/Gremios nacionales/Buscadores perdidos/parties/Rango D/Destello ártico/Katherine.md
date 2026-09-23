@@ -67,11 +67,11 @@ Tras esto pasó algo más de un año sin querer dar la cara en público, aterrad
 
 Durante este tiempo, nació en ella un deseo de fortalecerse; se dio cuenta de lo débil que era y lo frágil que era su estilo de vida así que decidió que no quería seguir viviendo así. Quería alejarse del ojo público, fortalecerse y aprender a desenvolverse fuera del entorno en el que se crio, así que comenzó a entrenar y prepararse para lo que pronto sería su nueva vida.
 
-Al enterarse en su familia, pese al desacuerdo de algunos, decidieron apoyarla en su nuevo viaje. Fue en este momento cuando se le confió a Caelum, una de las más preciadas reliquias de su familia y originaria de la época de las grandes conquistas. Solo le pusieron una condición, que no viajase sola. De esta manera entró en contacto con [[Leonor]], una aventurera solitaria que había ayudado anteriormente a la familia.
+Al enterarse en su familia, pese al desacuerdo de algunos, decidieron apoyarla en su nuevo viaje. Fue en este momento cuando se le confió a Caelum, una de las más preciadas reliquias de su familia y originaria de la época de las grandes conquistas. Solo le pusieron una condición, que no viajase sola. De esta manera entró en contacto con [[Leonor]], una aventurera solitaria que había ayudado anteriormente a la familia y con la que [[Katherine]] parecía llevarse especialmente bien.
 
-Al poco tiempo se unió a los [[Buscadores perdidos]] a petición de su compañera, [[Leonor]], lugar donde conocieron al resto de novatos que conformaría su grupo, [[Crow]] y [[Arthur]].
+Al poco tiempo se unió a los [[Buscadores perdidos]] a petición de su compañera, [[Leonor]], lugar donde conocieron al resto de novatos que conformaría su grupo, [[Crow]] y [[Arthur]] y crearon el grupo de [[Destello ártico]].
 
-Al poco tiempo, acudieron a una misión de rescate de un noble de la región de [[Neridia]], donde descubrió que su intento de asesinato no fue un caso aislado, por lo que ha decidido seguir creciendo como aventurera a la vez que investiga al grupo de asesinos que trató de acabar con su vida.
+Algo más tarde, acudieron a una misión de rescate de un noble de la región de [[Neridia]], donde descubrió que su intento de asesinato no fue un caso aislado, por lo que ha decidido seguir creciendo como aventurera a la vez que investiga al grupo de asesinos que trató de acabar con su vida.
 
 ### Social
 Tiene una personalidad bastante seria aunque un poco insegura.
