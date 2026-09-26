@@ -61,7 +61,7 @@ Tras recuperarse, el hombre le pidió que acompañase a su hija como aventurera,
 
 Pasaron muchos años juntas, hasta el punto de volverse prácticamente inseparables. Durante este tiempo terminaron de crear un grupo de aventureros, los libertadores.
 
-Una tragedia asoló al país, y fue este grupo el único que logró ponerle fin, aunque a un gran precio. Tras este episodio, el grupo decidió que sus días de aventura ya habían terminado, y decidieron tomar sus vidas anteriores. 
+Una tragedia(La noche de la luna carmesí) asoló al país, y fue este grupo el único que logró ponerle fin, aunque a un gran precio. Tras este episodio, el grupo decidió que sus días de aventura ya habían terminado, y decidieron tomar sus vidas anteriores. 
 
 Sin embargo Mai decidió, en compañía con Eris, fundar el gremio de las [[Espadas libres de Eris]], con el objetivo de crear un lugar al que otros jóvenes como ella pudieran llamar hogar, y diseñó una serie de normas y procedimientos para asegurar la seguridad de los aventureros para que pudieran vivir sus aventuras libremente de la forma más segura posible.
 

@@ -33,7 +33,7 @@ El gobierno de la ciudad se encuentra dividido entre los aspectos socioeconómic
 %%#### Núcleos de poder%%
 ### Geografía y economía
 Se encuentra situada al sur del valle de [[Gah'Las]]
-A nivel económico, la ciudad se sustenta principalmente por su actividad minera y su comercio, fruto de la gran demanda de [[World Encyclopedia/Ciencia y Tecnología/Luma/Galo]] en la capital, [[Luma]].
+A nivel económico, la ciudad se sustenta principalmente por su actividad minera y su comercio, fruto de la gran demanda de [[Galo]] en la capital, [[Luma]].
 Además de estos dos factores encontramos todo tipo de negocios básicos como herrerías, carpinterías, mercados, posadas y granjas.
 
 #### Puntos de interés

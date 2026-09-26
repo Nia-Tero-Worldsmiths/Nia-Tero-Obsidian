@@ -1,1 +1,1 @@
-#ubicacion [[Espiral Gaia]][[World Encyclopedia/Ciencia y Tecnología/Luma/Galo]]
+#ubicacion [[Espiral Gaia]][[Galo]]

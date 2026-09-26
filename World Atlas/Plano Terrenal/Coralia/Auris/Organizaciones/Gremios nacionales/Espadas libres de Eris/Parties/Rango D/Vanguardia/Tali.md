@@ -57,4 +57,8 @@ En su hogar hay que hacer con los familiares. Hay piscinas de divinación
 La misión de Tali consistirá en restaurar su reputación en su pueblo y acabar con la fuente de las visiones que provocaron esta situación.
 ### Misión
 La misión de Tali consistirá en restaurar su reputación en su pueblo y acabar con la fuente de las visiones que provocaron esta situación.
+
+Pom le cuenta lo del hijo de Tero, y que fue un sermón pero solo lo escuchó ella.
+No sabe de nadie llamada hija de las estrella
+Podría buscar otras tribus de oráculos
 :::
